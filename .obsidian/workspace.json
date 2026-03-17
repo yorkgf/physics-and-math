@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/矢量场.md",
+                "file": "电磁学/散度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矢量场"
+              "title": "散度"
             }
           }
         ]
@@ -198,11 +198,11 @@
   },
   "active": "c2f14424dc725d29",
   "lastOpenFiles": [
+    "电磁学/矢量场.md",
     "电磁学/梯度.md",
     "电磁学/旋度.md",
     "电磁学/标量场.md",
     "同步说明.md",
-    "电磁学/矢量场.md",
     "电磁学/标量场和矢量场.md",
     "电磁学/麦克斯韦方程组.md",
     "电磁学/散度.md",

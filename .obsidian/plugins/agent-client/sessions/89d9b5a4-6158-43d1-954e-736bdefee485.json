@@ -377,7 +377,29 @@
         }
       ],
       "timestamp": "2026-03-17T12:09:19.376Z"
+    },
+    {
+      "id": "1398c8c6-b2ee-4036-a032-dd15aa87a840",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "给每一个关键概念点和关键词也注上英文名称"
+        }
+      ],
+      "timestamp": "2026-03-17T12:24:24.047Z"
+    },
+    {
+      "id": "239948d4-3d9c-479d-83d5-ebe2b4971c3d",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "好的，我来逐个给每个关键概念笔记的标题旁边加上英文名称：\n\n先更新**标量场**：更新**矢量场**：更新**梯度**：更新**散度**：更新**旋度**：更新**磁矩**：更新**磁通量**：更新**磁矢势**：更新**磁偶极子磁场**：更新**高斯磁场定律**：更新**互易定理**：更新**麦克斯韦方程组**：更新**亥姆霍兹线圈法测量永磁铁的磁矩**：更新**标量场和矢量场**概述：现在提交并推送到GitHub：完成了！所有核心概念笔记的标题都已经加上英文名称了：\n\n| 中文概念 | 英文名称 |\n|---------|---------|\n| 标量场 | Scalar Field |\n| 矢量场 | Vector Field |\n| 梯度 | Gradient |\n| 散度 | Divergence |\n| 旋度 | Curl |\n| 磁矩 | Magnetic Moment |\n| 磁通量 | Magnetic Flux |\n| 磁矢势 | Magnetic Vector Potential |\n| 磁偶极子磁场 | Magnetic Dipole Field |\n| 高斯磁场定律 | Gauss's Law for Magnetism |\n| 互易定理 | Reciprocity Theorem |\n| 麦克斯韦方程组 | Maxwell's Equations |\n| 亥姆霍兹线圈法测量永磁铁的磁矩 | Measuring Magnetic Moment of Permanent Magnet with Helmholtz Coil |\n| 标量场和矢量场 | Scalar Field & Vector Field |\n\n已经提交并推送到 GitHub 了 `git@github.com:yorkgf/physics-and-math.git`，远程已经同步更新。"
+        }
+      ],
+      "timestamp": "2026-03-17T12:24:29.795Z"
     }
   ],
-  "savedAt": "2026-03-17T12:09:19.777Z"
+  "savedAt": "2026-03-17T12:26:36.948Z"
 }
