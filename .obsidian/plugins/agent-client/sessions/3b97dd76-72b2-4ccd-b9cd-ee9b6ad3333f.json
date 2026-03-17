@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sessionId": "3b97dd76-72b2-4ccd-b9cd-ee9b6ad3333f",
+  "agentId": "openclaw tui",
+  "messages": [
+    {
+      "id": "6d4593a3-89ac-40df-857b-80979676037a",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "你是什么模型"
+        }
+      ],
+      "timestamp": "2026-03-06T08:02:27.958Z"
+    },
+    {
+      "id": "5a5f8a70-659e-44aa-a64f-c40bbab1f21d",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "/whoami"
+        }
+      ],
+      "timestamp": "2026-03-06T08:03:04.267Z"
+    }
+  ],
+  "savedAt": "2026-03-06T08:03:04.383Z"
+}

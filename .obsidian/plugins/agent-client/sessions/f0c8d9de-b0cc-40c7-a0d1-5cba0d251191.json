@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sessionId": "f0c8d9de-b0cc-40c7-a0d1-5cba0d251191",
+  "agentId": "openclaw-tui",
+  "messages": [
+    {
+      "id": "e997b48b-ca50-41dc-b185-31c5bc073f74",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "你是什么模型",
+          "autoMentionContext": {
+            "noteName": "亥姆霍兹线圈法测量永磁铁的磁矩",
+            "notePath": "电磁学/亥姆霍兹线圈法测量永磁铁的磁矩.md"
+          }
+        }
+      ],
+      "timestamp": "2026-03-17T06:49:06.188Z"
+    },
+    {
+      "id": "bc3777e6-5fa1-4c7e-842b-f6f13177f4c2",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "ACP error (ACP_SESSION_INIT_FAILED): ACP metadata is missing for agent:main:acp:f0c8d9de-b0cc-40c7-a0d1-5cba0d251191. Recreate this ACP session with /acp spawn and rebind the thread.\nnext: If this session is stale, recreate it with `/acp spawn` and rebind the thread."
+        }
+      ],
+      "timestamp": "2026-03-17T06:49:06.215Z"
+    }
+  ],
+  "savedAt": "2026-03-17T06:49:06.232Z"
+}
