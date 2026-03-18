@@ -47,14 +47,15 @@ $$a(t) = \frac{dv}{dt} = \boxed{-A\omega^2 \cos(\omega t) = -\omega^2 x(t)}$$
 
 ---
 
-### Summary of key points at different times:
+### Summary of Values at Different Times
 
-```
-t:      0        T/4       T/2       3T/4        T
-x:     +A         0        -A         0        +A
-v:      0      -Aω        0       +Aω        0
-a:  -Aω²        0      +Aω²        0     -Aω²
-```
+| Time | Displacement $x$ | Velocity $v$ | Acceleration $a$ |
+|------|------------------|---------------|------------------|
+| $t = 0$ | $+A$ | $0$ | $-A\omega^2$ |
+| $t = T/4$ | $0$ | $-A\omega$ | $0$ |
+| $t = T/2$ | $-A$ | $0$ | $+A\omega^2$ |
+| $t = 3T/4$ | $0$ | $+A\omega$ | $0$ |
+| $t = T$ | $+A$ | $0$ | $-A\omega^2$ |
 
 ---
 
