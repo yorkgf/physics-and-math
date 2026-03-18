@@ -43,79 +43,17 @@ $$a(t) = \frac{dv}{dt} = \boxed{-A\omega^2 \cos(\omega t) = -\omega^2 x(t)}$$
 
 ### Characteristics when starting at $x = A$ ($t=0$):
 
-### Position $x(t)$:
-- Starts at maximum positive $+A$ when $t=0$
-- Crosses zero when $\omega t = \frac{\pi}{2}$ ($t = \frac{T}{4}$)
-- Reaches $-A$ when $\omega t = \pi$ ($t = \frac{T}{2}$
-- Returns to zero when $\omega t = \frac{3\pi}{2}$ ($t = \frac{3T}{4}$
-- Returns to $+A$ when $\omega t = 2\pi$ ($t = T$)
+<img src="Assets/shm-xva.svg" width="600" alt="Graphs of x(t), v(t), a(t) for simple harmonic motion">
 
-**Shape: **Cosine** curve that starts at maximum.
+---
 
-### Velocity $v(t)$:
-- Starts at $v=0$ when $t=0$ (because displacement is maximum)
-- Becomes maximum negative $-A\omega$ at $\omega t = \frac{\pi}{2}$
-- Returns to zero at $\omega t = \pi$
-- Becomes maximum positive $+A\omega$ at $\omega t = \frac{3\pi}{2}$
-- Returns to zero at $\omega t = 2\pi$
-
-Shape: **Negative Sine** curve (equivalent to a cosine shifted by -90°)
-
-**Key insight:** Velocity **leads** displacement by 90°.
-
-### Acceleration $a(t)$:
-- Starts at maximum negative $-A\omega^2$ when $t=0$ (because $x = +A$ and $a = -\omega^2 x$)
-- Returns to zero when $\omega t = \frac{\pi}{2}$
-- Becomes maximum positive $+A\omega^2$ when $\omega t = \pi$
-- Returns to zero when $\omega t = \frac{3\pi}{2}$
-- Returns to maximum negative when $\omega t = 2\pi$
-
-Shape: **Negative Cosine** curve - exactly opposite phase to displacement.
-
-**Key insight:** Acceleration is always opposite to displacement: $a = -\omega^2 x$.
-
-### Visual Summary
+### Summary of key points at different times:
 
 ```
 t:      0        T/4       T/2       3T/4        T
 x:     +A         0        -A         0        +A
 v:      0      -Aω        0       +Aω        0
 a:  -Aω²        0      +Aω²        0     -Aω²
-```
-
-**Graph shape:
-
-```
- x
-  A |   .
-    |   / \
-    | /   \
-  0 |-------|-------|-------
-    |       \ /
- -A |         .
-----------------------------------
-```
-
-```
- v
- +Aω|         .
-    |         \ /
-    |          |
-  0 |-------|-------|-------
-    |   / \
--Aω|   .
-----------------------------------
-```
-
-```
- a
- +Aω²|         .
-    |         \ /
-    |          |
-  0 |-------|-------|-------
-    |   / \
--Aω²|   .
-----------------------------------
 ```
 
 ---
@@ -129,7 +67,7 @@ $$E = K + U = \text{constant}$$
 **Kinetic Energy:**
 $$K = \frac{1}{2}mv^2 = \frac{1}{2}m(-A\omega\sin\omega t)^2 = \boxed{\frac{1}{2}kA^2 \sin^2\omega t}$$
 
-(Recall that $\omega^2 = \frac{k}{m}$ so $m\omega^2 = k$.
+(Recall that $\omega^2 = \frac{k}{m}$ so $m\omega^2 = k$.)
 
 **Potential Energy** (spring):
 $$U = \frac{1}{2}kx^2 = \boxed{\frac{1}{2}kA^2 \cos^2\omega t}$$
@@ -145,20 +83,7 @@ $$E = \frac{1}{2}kA^2 (\sin^2\omega t + \cos^2\omega t) = \boxed{\frac{1}{2}kA^2
 
 ### Energy vs Displacement Graph
 
-```
-        E
-  K  |        /\
-     |       /  \
-  U  |      /    \
-     |     /      \
-     |    /        \
-     0 -------------> x
-        -A    0    +A
-```
-
-- Kinetic energy is maximum at $x=0$
-- Potential energy is maximum at $x = \pm A$
-- Total energy is constant horizontal line at $E = \frac{1}{2}kA^2$
+<img src="Assets/shm-energy.svg" width="550" alt="Kinetic energy and potential energy vs displacement for simple harmonic motion">
 
 ---
 
@@ -170,19 +95,18 @@ $$E = \frac{1}{2}kA^2 (\sin^2\omega t + \cos^2\omega t) = \boxed{\frac{1}{2}kA^2
 4. **Phase differences:**
    - Velocity leads displacement by 90°
    - Acceleration is 180° out of phase with displacement
-5. **Energy conservation:** Total energy $E = \frac{1}{2}kA^2 = constant, exchanging between kinetic and potential
+5. **Energy conservation:** Total energy $E = \frac{1}{2}kA^2 = constant$, exchanging between kinetic and potential
 
 ---
 
 ## Worked Examples
 
-- [[Differential Equation for SHM → [[Differential Equation for SHM
+- [[Differential Equation for SHM]]
 
 ## Related Concepts
 - [[Differential Equation for SHM]]
 - [[Physical Pendulum]]
 - [[Resonance]]
-- [[Simple Pendulum]] (covered in AP Physics 1
 - [[Example 7 - Ball in Tunnel Through Planet]] → SHM from gravitational force
 
 ## Related Units
