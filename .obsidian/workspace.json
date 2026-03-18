@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Physics C/Examples/Example 1 - Sphere with Air Resistance.md",
+                "file": "电磁学/旋度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Example 1 - Sphere with Air Resistance"
+              "title": "旋度"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,51 +197,51 @@
   },
   "active": "c2f14424dc725d29",
   "lastOpenFiles": [
-    "AP Physics C/Examples/Example 19 - Ballistic Measurement with Spring.md",
-    "AP Physics C/Examples/Example 9 - Potential Energy and Turning Points.md",
+    "电磁学/拉梅系数.md",
+    "电磁学/旋度.md",
+    "电磁学/梯度.md",
+    "电磁学/散度.md",
     "AP Physics C/Examples/Example 7 - Ball in Tunnel Through Planet.md",
+    "AP Physics C/Examples/Example 6 - Sliding Rope.md",
+    "AP Physics C/Examples/Example 5 - Atwood Machine with Leaking Bucket.md",
+    "AP Physics C/Examples/Example 4 - Two-Block Inclined Plane.md",
     "AP Physics C/Examples/Example 2 - Box with Time-Varying Force.md",
-    "AP Physics C/Examples/Example 16 - Bullet Through Pivoted Stick.md",
-    "AP Physics C/Examples/Index.md",
-    "AP Physics C/Examples/Example 18 - Torsional Oscillation of Meter Stick.md",
-    "AP Physics C/Examples/Example 17 - Springs in Series and Parallel.md",
-    "AP Physics C/Examples/Example 14 - Block and Cylinder on Incline.md",
     "AP Physics C/Examples/Example 3 - Stone in Water.md",
     "AP Physics C/Examples/Example 1 - Sphere with Air Resistance.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Moment of Inertia.md",
-    "AP Physics C/Examples/Example 4 - Two-Block Inclined Plane.md",
-    "AP Physics C/Examples/Example 6 - Sliding Rope.md",
+    "电磁学/矢量场.md",
+    "AP Physics C/Simple Harmonic Motion.md",
+    "AP Physics C/Assets/shm-energy-time-mpl.svg",
+    "AP Physics C/Assets/plot-shm-energy-time.py",
+    "AP Physics C/Assets/shm-combined-mpl.svg",
+    "AP Physics C/Assets/plot-shm-combined.py",
+    "AP Physics C/Assets/shm-xva-mpl.svg",
+    "AP Physics C/Assets/shm-energy-mpl.svg",
+    "AP Physics C/Friction Forces.md",
     "AP Physics C/Unit 7 Oscillations/Resonance.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Form of Newton's Second Law.md",
+    "AP Physics C/Unit 7 Oscillations/Differential Equation for SHM.md",
+    "AP Physics C/Differential Equations in Mechanics.md",
+    "AP Physics C/Assets/plot-shm.py",
+    "AP Physics C/Atwood Machine.md",
+    "AP Physics C/Conservation of Energy.md",
+    "AP Physics C/Assets/shm-energy.svg",
+    "AP Physics C/Assets/shm-xva.svg",
+    "AP Physics C/Unit 2 Force and Translational Dynamics Index.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Conservation of Rotational Energy.md",
+    "AP Physics C/Examples/Example 19 - Ballistic Measurement with Spring.md",
+    "AP Physics C/Examples/Example 9 - Potential Energy and Turning Points.md",
+    "AP Physics C/Examples/Example 16 - Bullet Through Pivoted Stick.md",
+    "AP Physics C/Examples/Index.md",
     "AP Physics C/Examples/sed2iLUDr",
     "AP Physics C/Examples/sedpRYMTS",
     "AP Physics C/Examples/sedVKMurD",
     "AP Physics C/Examples/sed1BCYvS",
-    "AP Physics C/Unit 7 Oscillations/Differential Equation for SHM.md",
-    "Newton's Second Law.md",
-    "Gravitational Potential Energy.md",
     "AP Physics C/Assets/Figure19.jpeg",
     "AP Physics C/Assets/Question19.jpeg",
     "AP Physics C/Assets/Figure18.jpeg",
     "AP Physics C/Assets/Question18.jpeg",
-    "AP Physics C/Examples/Example 15 - Man Grabbing Sliding Beam.md",
-    "AP Physics C/Examples/Example 13 - Billiard Ball Sweet Spot.md",
-    "AP Physics C/Examples/Example 12 - Disk Pulled by String.md",
-    "AP Physics C/Examples/Example 11 - Lennard-Jones Potential.md",
-    "AP Physics C/Assets/Figure17.jpeg",
-    "AP Physics C/Assets/Question17.jpeg",
-    "AP Physics C/Assets/Figure16.jpeg",
-    "AP Physics C/Assets/Question16.jpeg",
-    "AP Physics C/Assets/Question15.jpeg",
-    "AP Physics C/Assets/Figure15.jpeg",
-    "AP Physics C/Examples/Example 10 - Spring-Launch into Semicircular Track.md",
-    "AP Physics C/Examples/Example 8 - Power from Position Function.md",
-    "AP Physics C/Differential Equations in Mechanics.md",
-    "AP Physics C/Examples/Example 5 - Atwood Machine with Leaking Bucket.md",
     "AP Physics C/Examples",
     "AP Physics C/Assets",
-    "AP Physics C/新建文件夹",
-    "AP Physics C/Unit 7 Oscillations",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics"
+    "AP Physics C/新建文件夹"
   ]
 }

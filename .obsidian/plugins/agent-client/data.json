@@ -95,6 +95,22 @@
   },
   "savedSessions": [
     {
+      "sessionId": "27a7ad3e-b7f6-4426-9282-8ee1f8a7ae14",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "/sessions",
+      "createdAt": "2026-03-18T09:09:27.176Z",
+      "updatedAt": "2026-03-18T09:09:27.176Z"
+    },
+    {
+      "sessionId": "619fadcc-0d0b-4ea9-80d6-2c37c2c6d7dd",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "直角坐标系的散度，梯度，旋度我好理解, 请给我严谨的数学推导和说明，为什么散度，梯度，旋度在柱坐标和...",
+      "createdAt": "2026-03-18T02:50:14.389Z",
+      "updatedAt": "2026-03-18T02:50:14.389Z"
+    },
+    {
       "sessionId": "0c34fac4-cfef-4459-8c12-202f8801cff0",
       "agentId": "openclaw-tui",
       "cwd": "/home/yorkgf/Documents/Obsidian Vault",
