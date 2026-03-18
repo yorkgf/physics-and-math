@@ -95,6 +95,46 @@
   },
   "savedSessions": [
     {
+      "sessionId": "0c34fac4-cfef-4459-8c12-202f8801cff0",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "你是什么模型",
+      "createdAt": "2026-03-18T00:33:45.226Z",
+      "updatedAt": "2026-03-18T00:33:45.226Z"
+    },
+    {
+      "sessionId": "f474b9da-e116-4ce5-bf2e-3e8c53939b83",
+      "agentId": "claude code cli",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "你是什么模型",
+      "createdAt": "2026-03-18T00:30:58.353Z",
+      "updatedAt": "2026-03-18T00:30:58.353Z"
+    },
+    {
+      "sessionId": "14bec796-f84e-4781-8b30-1424a1f8147f",
+      "agentId": "claude code cli",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "你是什么模型",
+      "createdAt": "2026-03-18T00:29:10.119Z",
+      "updatedAt": "2026-03-18T00:29:10.119Z"
+    },
+    {
+      "sessionId": "ses_301a8f4c3ffeDTjHsaafs7YKIk",
+      "agentId": "opencode",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "你是什么模型",
+      "createdAt": "2026-03-18T00:27:42.784Z",
+      "updatedAt": "2026-03-18T00:27:42.784Z"
+    },
+    {
+      "sessionId": "0dcfc673-2f06-43d6-9734-a6ab3d5f83ed",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "AP Physics C的知识图谱里缺了能量守恒和牛顿第二定理的转动形式，请补全",
+      "createdAt": "2026-03-17T23:48:12.200Z",
+      "updatedAt": "2026-03-17T23:48:12.200Z"
+    },
+    {
       "sessionId": "89d9b5a4-6158-43d1-954e-736bdefee485",
       "agentId": "openclaw-tui",
       "cwd": "/home/yorkgf/Documents/Obsidian Vault",

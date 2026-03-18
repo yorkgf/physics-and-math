@@ -421,7 +421,51 @@
         }
       ],
       "timestamp": "2026-03-17T12:32:17.889Z"
+    },
+    {
+      "id": "3b1e253c-13ac-41d4-ac6e-24f9e41d0606",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "拉普拉斯算子单独开一个知识点，链接倒其他的点上"
+        }
+      ],
+      "timestamp": "2026-03-17T12:34:22.220Z"
+    },
+    {
+      "id": "3a91365a-013a-459e-adb5-f4aec3d8097c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "好的，我新建**拉普拉斯算子**单独笔记，然后更新所有相关链接：现在更新梯度笔记，移除拉普拉斯内容，改为链接到新笔记：更新散度笔记，加上拉普拉斯链接：更新麦克斯韦方程组，加上拉普拉斯链接：现在提交并推送到 GitHub：完成了！已经把拉普拉斯算子单独分出笔记：\n\n1.  **新建了 [[拉普拉斯算子（Laplacian Operator）]]** 笔记：\n    - 给出了定义：$\\nabla^2 \\varphi = \\nabla \\cdot (\\nabla \\varphi)$（梯度的散度）\n    - 补充了三种坐标系（直角/柱/球）下的表达式\n    - 推广到矢量场，给出矢量拉普拉斯的恒等式\n    - 列出了常见方程：拉普拉斯方程、泊松方程、亥姆霍兹方程\n    - 说明了在电磁学中的应用\n\n2.  更新了所有相关链接：\n    - [[梯度]]：原来的拉普拉斯内容改为链接到新笔记\n    - [[散度]]：添加了拉普拉斯链接\n    - [[麦克斯韦方程组]]：添加了拉普拉斯链接\n    - 双向链接都已经建立\n\n所有修改已经推送到 GitHub `git@github.com:yorkgf/physics-and-math.git`，远程同步完成。"
+        }
+      ],
+      "timestamp": "2026-03-17T12:34:27.430Z"
+    },
+    {
+      "id": "4955dcfc-2cc0-4332-877f-d1b8df5624f8",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "git pull"
+        }
+      ],
+      "timestamp": "2026-03-17T23:43:34.663Z"
+    },
+    {
+      "id": "6e968f16-0370-45d0-af4d-7d645ab2e79c",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "text",
+          "text": "Pull complete. 19 files changed, 544 insertions, 1 deletion. New notes added for AP Physics C Units 2, 5, 6, and 7, plus some file reorganization."
+        }
+      ],
+      "timestamp": "2026-03-17T23:43:49.561Z"
     }
   ],
-  "savedAt": "2026-03-17T12:33:53.527Z"
+  "savedAt": "2026-03-17T23:43:50.138Z"
 }
