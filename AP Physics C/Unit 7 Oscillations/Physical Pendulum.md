@@ -40,6 +40,8 @@ $$T = 2\pi\sqrt{\frac{I}{mgd}} = 2\pi\sqrt{\frac{\frac{1}{3}mL^2}{mg(L/2)}} = 2\
 $$= 2\pi\sqrt{\frac{2 \times 1}{3 \times 9.8}} \approx 1.64 \text{ s}$$
 
 ## Related Concepts
+- [[Simple Harmonic Motion]]
 - [[Differential Equation for SHM]]
 - [[Moment of Inertia]]
+- [[Example 18 - Torsional Oscillation of Meter Stick]] - Similar oscillation period analysis with moment of inertia
 - [[Example 18 - Torsional Oscillation of Meter Stick]] - Similar oscillation period analysis with moment of inertia

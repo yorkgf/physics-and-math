@@ -2,6 +2,7 @@
 
 ## Key Concepts
 
+- [[Simple Harmonic Motion]] - Displacement, velocity, acceleration, and energy relationships
 - [[Differential Equation for SHM]] - Derivation from Newton's law, solution form
 - [[Physical Pendulum]] - Rigid body oscillation, application of moment of inertia
 - [[Resonance]] - Natural frequency, forced oscillations

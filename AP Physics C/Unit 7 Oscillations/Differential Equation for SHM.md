@@ -59,6 +59,7 @@ This leads to SHM with period $T = \sqrt{\frac{3\pi}{G\rho}}$, independent of th
 See: [[Example 7 - Ball in Tunnel Through Planet]]
 
 ## Related Concepts
+- [[Simple Harmonic Motion]] - Displacement, velocity, acceleration, and energy relationships
 - [[Resonance]]
 - [[Physical Pendulum]]
 - [[Example 7 - Ball in Tunnel Through Planet]]
