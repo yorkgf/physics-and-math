@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sessionId": "09aa45a5-d7ee-443a-b050-8290edb644e7",
+  "agentId": "claude code",
+  "messages": [
+    {
+      "id": "5f385c5b-891c-49f1-a6ab-30f413fb0979",
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "你是什么模型"
+        }
+      ],
+      "timestamp": "2026-03-06T06:31:18.142Z"
+    },
+    {
+      "id": "6bbfd416-b23b-4a15-9e05-a659dff243ce",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "agent_thought",
+          "text": "用户用中文问我\"你是什么模型\"，这是在问我是哪个AI模型。根据系统提示中的信息：\n\n\"You are powered by the model named Sonnet 4.5. The exact model ID is claude-sonnet-4-5-20250929-cc.\"\n\n我应该用中文回答用户的问题。"
+        },
+        {
+          "type": "text",
+          "text": "我是 Claude Sonnet 4.5，模型 ID 是 `claude-sonnet-4-5-20250929-cc`。\n\n我是 Anthropic 开发的 AI 助手，专门设计用于帮助用户完成软件工程任务，包括编写代码、调试、重构、解释代码等。我可以使用多种工具来读取、编辑文件，执行命令，搜索代码库等。\n\n有什么我可以帮你的吗?"
+        }
+      ],
+      "timestamp": "2026-03-06T06:31:23.299Z"
+    }
+  ],
+  "savedAt": "2026-03-06T06:31:28.172Z"
+}

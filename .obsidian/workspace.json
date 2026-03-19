@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "aec85b3f465815fb",
+    "id": "97546d9b6ed88a4f",
     "type": "split",
     "children": [
       {
-        "id": "3c9c43f3a7fd6ccc",
+        "id": "c7e92bdd62f97153",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f14424dc725d29",
+            "id": "afd467b95aa34cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电磁学/旋度.md",
+                "file": "电磁学/亥姆霍兹线圈法测量永磁铁的磁矩.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "旋度"
+              "title": "亥姆霍兹线圈法测量永磁铁的磁矩"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0597e86383ef65e2",
+    "id": "098859d703658728",
     "type": "split",
     "children": [
       {
-        "id": "c25c743376618af9",
+        "id": "f9d7bba2b6d12f92",
         "type": "tabs",
         "children": [
           {
-            "id": "ee47eb4d5186d9c8",
+            "id": "a5395038a101ee3e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "cbf9b8df83d56153",
+            "id": "58500fa142b5022f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "2a8cb476d3c6ff87",
+            "id": "df66dff2a8020359",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -81,15 +81,15 @@
     "width": 200
   },
   "right": {
-    "id": "842a3ded8b65a930",
+    "id": "07c31d828689efe5",
     "type": "split",
     "children": [
       {
-        "id": "38b5c53a2b3d3027",
+        "id": "4d5ef60f6b0b75c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c79da1becd1ec2c",
+            "id": "b0d5859a238c5634",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "反向链接"
             }
           },
           {
-            "id": "78f725613e117952",
+            "id": "044d5c0cc3c564de",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "出链"
             }
           },
           {
-            "id": "fc9b8ea4c468a6fb",
+            "id": "2f7fa17e1b876c46",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,11 +131,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "856e40f14e8eb4fe",
+            "id": "624578cabc77692e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,30 +149,49 @@
             }
           },
           {
-            "id": "afadf3d6f2c8399e",
+            "id": "12a233fa9dcaec0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "电磁学/亥姆霍兹线圈法测量永磁铁的磁矩.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "亥姆霍兹线圈法测量永磁铁的磁矩 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "5ef6492befb7a2d9",
+            "id": "0936955b92cdf87c",
             "type": "leaf",
             "state": {
               "type": "agent-client-chat-view",
               "state": {
-                "initialAgentId": "openclaw-tui"
+                "initialAgentId": "openclaw"
               },
               "icon": "bot-message-square",
               "title": "Agent client"
+            }
+          },
+          {
+            "id": "6afde7989a2b6e15",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "0dd3416f7593500d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -180,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 762.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,56 +211,57 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
+      "claudian:Open Claudian": false,
       "agent-client:Open agent client": false
     }
   },
-  "active": "c2f14424dc725d29",
+  "active": "0936955b92cdf87c",
   "lastOpenFiles": [
-    "电磁学/拉梅系数.md",
-    "电磁学/旋度.md",
-    "电磁学/梯度.md",
-    "电磁学/散度.md",
+    "AP Physics C/Unit 7 Oscillations/Resonance.md",
+    "AP Physics C/Unit 7 Oscillations/Physical Pendulum.md",
+    "AP Physics C/Unit 7 Oscillations/Differential Equation for SHM.md",
+    "AP Physics C/Unit 7 Oscillations",
+    "AP Physics C/Unit 7 Oscillations Index.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Satellite Orbital Motion.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Kinetic Energy.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Form of Newton's Second Law.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rolling Motion.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Conservation of Rotational Energy.md",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems",
+    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems Index.md",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Torque.md",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Moment of Inertia.md",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Conservation of Angular Momentum.md",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Angular Momentum.md",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics",
+    "AP Physics C/Unit 5 Torque and Rotational Dynamics Index.md",
+    "AP Physics C/Unit 2 Force and Translational Dynamics/Universal Gravitation.md",
+    "AP Physics C/Unit 2 Force and Translational Dynamics/Center of Mass.md",
+    "AP Physics C/Unit 2 Force and Translational Dynamics",
+    "AP Physics C/Unit 2 Force and Translational Dynamics Index.md",
+    "AP Physics C/Simple Harmonic Motion.md",
+    "AP Physics C/Friction Forces.md",
+    "AP Physics C/Examples/Index.md",
+    "AP Physics C/Examples/Example 9 - Potential Energy and Turning Points.md",
+    "AP Physics C/Examples/Example 8 - Power from Position Function.md",
     "AP Physics C/Examples/Example 7 - Ball in Tunnel Through Planet.md",
     "AP Physics C/Examples/Example 6 - Sliding Rope.md",
     "AP Physics C/Examples/Example 5 - Atwood Machine with Leaking Bucket.md",
-    "AP Physics C/Examples/Example 4 - Two-Block Inclined Plane.md",
-    "AP Physics C/Examples/Example 2 - Box with Time-Varying Force.md",
-    "AP Physics C/Examples/Example 3 - Stone in Water.md",
-    "AP Physics C/Examples/Example 1 - Sphere with Air Resistance.md",
-    "电磁学/矢量场.md",
-    "AP Physics C/Simple Harmonic Motion.md",
-    "AP Physics C/Assets/shm-energy-time-mpl.svg",
-    "AP Physics C/Assets/plot-shm-energy-time.py",
-    "AP Physics C/Assets/shm-combined-mpl.svg",
-    "AP Physics C/Assets/plot-shm-combined.py",
-    "AP Physics C/Assets/shm-xva-mpl.svg",
-    "AP Physics C/Assets/shm-energy-mpl.svg",
-    "AP Physics C/Friction Forces.md",
-    "AP Physics C/Unit 7 Oscillations/Resonance.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Form of Newton's Second Law.md",
-    "AP Physics C/Unit 7 Oscillations/Differential Equation for SHM.md",
-    "AP Physics C/Differential Equations in Mechanics.md",
-    "AP Physics C/Assets/plot-shm.py",
-    "AP Physics C/Atwood Machine.md",
-    "AP Physics C/Conservation of Energy.md",
-    "AP Physics C/Assets/shm-energy.svg",
-    "AP Physics C/Assets/shm-xva.svg",
-    "AP Physics C/Unit 2 Force and Translational Dynamics Index.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Conservation of Rotational Energy.md",
-    "AP Physics C/Examples/Example 19 - Ballistic Measurement with Spring.md",
-    "AP Physics C/Examples/Example 9 - Potential Energy and Turning Points.md",
-    "AP Physics C/Examples/Example 16 - Bullet Through Pivoted Stick.md",
-    "AP Physics C/Examples/Index.md",
-    "AP Physics C/Examples/sed2iLUDr",
-    "AP Physics C/Examples/sedpRYMTS",
-    "AP Physics C/Examples/sedVKMurD",
-    "AP Physics C/Examples/sed1BCYvS",
-    "AP Physics C/Assets/Figure19.jpeg",
-    "AP Physics C/Assets/Question19.jpeg",
-    "AP Physics C/Assets/Figure18.jpeg",
-    "AP Physics C/Assets/Question18.jpeg",
     "AP Physics C/Examples",
+    "AP Physics C/Assets/shm-xva.svg",
+    "AP Physics C/Assets/shm-xva-mpl.svg",
+    "AP Physics C/Assets/shm-energy.svg",
+    "AP Physics C/Assets/shm-energy-time-mpl.svg",
+    "AP Physics C/Assets/shm-energy-mpl.svg",
+    "AP Physics C/Assets/shm-combined-mpl.svg",
+    "AP Physics C/Assets/plot-shm.py",
+    "AP Physics C/Assets/plot-shm-energy-time.py",
+    "AP Physics C/Assets/plot-shm-combined.py",
+    "AP Physics C/Assets/Question9.jpeg",
+    "AP Physics C/Assets/Question8.jpeg",
+    "AP Physics C/Assets/Question7-2.jpeg",
+    "AP Physics C/Assets/Question7-1.jpeg",
     "AP Physics C/Assets",
-    "AP Physics C/新建文件夹"
+    "Unit 7 Oscillations"
   ]
 }
