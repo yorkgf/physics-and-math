@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "97546d9b6ed88a4f",
+    "id": "aec85b3f465815fb",
     "type": "split",
     "children": [
       {
-        "id": "c7e92bdd62f97153",
+        "id": "5b6e1287ee13ea96",
         "type": "tabs",
         "children": [
           {
-            "id": "afd467b95aa34cdb",
+            "id": "ce1d927750af0870",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "098859d703658728",
+    "id": "0597e86383ef65e2",
     "type": "split",
     "children": [
       {
-        "id": "f9d7bba2b6d12f92",
+        "id": "c25c743376618af9",
         "type": "tabs",
         "children": [
           {
-            "id": "a5395038a101ee3e",
+            "id": "ee47eb4d5186d9c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "58500fa142b5022f",
+            "id": "cbf9b8df83d56153",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "df66dff2a8020359",
+            "id": "2a8cb476d3c6ff87",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,15 +81,15 @@
     "width": 200
   },
   "right": {
-    "id": "07c31d828689efe5",
+    "id": "842a3ded8b65a930",
     "type": "split",
     "children": [
       {
-        "id": "4d5ef60f6b0b75c0",
+        "id": "38b5c53a2b3d3027",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d5859a238c5634",
+            "id": "8c79da1becd1ec2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "044d5c0cc3c564de",
+            "id": "78f725613e117952",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "2f7fa17e1b876c46",
+            "id": "fc9b8ea4c468a6fb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,11 +131,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "624578cabc77692e",
+            "id": "856e40f14e8eb4fe",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,43 +149,34 @@
             }
           },
           {
-            "id": "12a233fa9dcaec0e",
+            "id": "afadf3d6f2c8399e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "电磁学/亥姆霍兹线圈法测量永磁铁的磁矩.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "亥姆霍兹线圈法测量永磁铁的磁矩 的大纲"
             }
           },
           {
-            "id": "0936955b92cdf87c",
+            "id": "5ef6492befb7a2d9",
             "type": "leaf",
             "state": {
               "type": "agent-client-chat-view",
               "state": {
-                "initialAgentId": "openclaw"
+                "initialAgentId": "openclaw-tui"
               },
               "icon": "bot-message-square",
               "title": "Agent client"
             }
           },
           {
-            "id": "6afde7989a2b6e15",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
-            "id": "0dd3416f7593500d",
+            "id": "212139142a6e986b",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -199,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 762.5
+    "width": 695.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,57 +202,57 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian42-brat:BRAT": false,
-      "claudian:Open Claudian": false,
-      "agent-client:Open agent client": false
+      "agent-client:Open agent client": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0936955b92cdf87c",
+  "active": "5ef6492befb7a2d9",
   "lastOpenFiles": [
-    "AP Physics C/Unit 7 Oscillations/Resonance.md",
-    "AP Physics C/Unit 7 Oscillations/Physical Pendulum.md",
-    "AP Physics C/Unit 7 Oscillations/Differential Equation for SHM.md",
-    "AP Physics C/Unit 7 Oscillations",
-    "AP Physics C/Unit 7 Oscillations Index.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Satellite Orbital Motion.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Kinetic Energy.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rotational Form of Newton's Second Law.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Rolling Motion.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems/Conservation of Rotational Energy.md",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems",
-    "AP Physics C/Unit 6 Energy and Momentum of Rotating Systems Index.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Torque.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Moment of Inertia.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Conservation of Angular Momentum.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics/Angular Momentum.md",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics",
-    "AP Physics C/Unit 5 Torque and Rotational Dynamics Index.md",
-    "AP Physics C/Unit 2 Force and Translational Dynamics/Universal Gravitation.md",
-    "AP Physics C/Unit 2 Force and Translational Dynamics/Center of Mass.md",
-    "AP Physics C/Unit 2 Force and Translational Dynamics",
+    "电磁学/Q28.jpeg",
+    "电磁学/麦克斯韦方程组.md",
+    "电磁学/拉普拉斯算子.md",
+    "矢量分析/斯托克斯定理.md",
+    "矢量分析",
+    "电磁学/电磁学整理索引.md",
+    "电磁学/拉梅系数.md",
+    "电磁学/标量场和矢量场.md",
+    "电磁学/亥姆霍兹线圈法测量永磁铁的磁矩.md",
+    "电磁学/磁偶极子磁场.md",
+    "任务管理器/收件箱.md",
     "AP Physics C/Unit 2 Force and Translational Dynamics Index.md",
-    "AP Physics C/Simple Harmonic Motion.md",
-    "AP Physics C/Friction Forces.md",
-    "AP Physics C/Examples/Index.md",
-    "AP Physics C/Examples/Example 9 - Potential Energy and Turning Points.md",
-    "AP Physics C/Examples/Example 8 - Power from Position Function.md",
+    "Tasks-Dashboard.md",
+    "任务管理器/每周回顾.md",
+    "任务管理器/提醒设置.md",
+    "任务管理器/任务模板.md",
+    "任务管理器/任务总览.md",
+    "任务管理器/今日任务.md",
+    "任务管理器",
+    "未命名.base",
+    "电磁学/磁矢势.md",
+    "电磁学/矢量场.md",
+    "电磁学/高斯磁场定律.md",
+    "电磁学/梯度.md",
+    "电磁学/旋度.md",
+    "电磁学/散度.md",
     "AP Physics C/Examples/Example 7 - Ball in Tunnel Through Planet.md",
     "AP Physics C/Examples/Example 6 - Sliding Rope.md",
     "AP Physics C/Examples/Example 5 - Atwood Machine with Leaking Bucket.md",
-    "AP Physics C/Examples",
-    "AP Physics C/Assets/shm-xva.svg",
-    "AP Physics C/Assets/shm-xva-mpl.svg",
-    "AP Physics C/Assets/shm-energy.svg",
     "AP Physics C/Assets/shm-energy-time-mpl.svg",
-    "AP Physics C/Assets/shm-energy-mpl.svg",
-    "AP Physics C/Assets/shm-combined-mpl.svg",
-    "AP Physics C/Assets/plot-shm.py",
     "AP Physics C/Assets/plot-shm-energy-time.py",
+    "AP Physics C/Assets/shm-combined-mpl.svg",
     "AP Physics C/Assets/plot-shm-combined.py",
-    "AP Physics C/Assets/Question9.jpeg",
-    "AP Physics C/Assets/Question8.jpeg",
-    "AP Physics C/Assets/Question7-2.jpeg",
-    "AP Physics C/Assets/Question7-1.jpeg",
-    "AP Physics C/Assets",
-    "Unit 7 Oscillations"
+    "AP Physics C/Assets/shm-xva-mpl.svg",
+    "AP Physics C/Assets/shm-energy-mpl.svg",
+    "AP Physics C/Assets/plot-shm.py",
+    "AP Physics C/Assets/shm-energy.svg",
+    "AP Physics C/Assets/shm-xva.svg",
+    "AP Physics C/Examples/sed2iLUDr",
+    "AP Physics C/Examples/sedpRYMTS",
+    "AP Physics C/Examples/sedVKMurD",
+    "AP Physics C/Examples/sed1BCYvS",
+    "AP Physics C/Assets/Figure19.jpeg",
+    "AP Physics C/Assets/Question19.jpeg",
+    "AP Physics C/Assets/Figure18.jpeg",
+    "AP Physics C/Assets/Question18.jpeg"
   ]
 }

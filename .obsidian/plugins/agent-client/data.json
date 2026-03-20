@@ -95,6 +95,38 @@
   },
   "savedSessions": [
     {
+      "sessionId": "5d327df3-f684-487f-bb32-8ee706b0ceb3",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "拉普拉斯算子形式上看是对梯度求散度",
+      "createdAt": "2026-03-20T01:53:51.766Z",
+      "updatedAt": "2026-03-20T01:53:51.766Z"
+    },
+    {
+      "sessionId": "9531a564-d714-4141-b83a-eeecaa290311",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "我装了tasks，怎么建一个任务列表？",
+      "createdAt": "2026-03-19T09:31:43.288Z",
+      "updatedAt": "2026-03-19T09:31:43.288Z"
+    },
+    {
+      "sessionId": "3f31d8d9-1af0-4630-abc3-117444632d3d",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "我想在obsidian里加一个todolist 或者日程表之类的东西，给我一些推荐",
+      "createdAt": "2026-03-19T09:25:05.785Z",
+      "updatedAt": "2026-03-19T09:25:05.786Z"
+    },
+    {
+      "sessionId": "4a34914f-3c79-4ca7-88a9-1d5c7c68d4da",
+      "agentId": "openclaw-tui",
+      "cwd": "/home/yorkgf/Documents/Obsidian Vault",
+      "title": "矢量场旋度的散度恒为零这个推论是否有直观的物理解释？",
+      "createdAt": "2026-03-19T05:30:44.163Z",
+      "updatedAt": "2026-03-19T05:30:44.163Z"
+    },
+    {
       "sessionId": "27a7ad3e-b7f6-4426-9282-8ee1f8a7ae14",
       "agentId": "openclaw-tui",
       "cwd": "/home/yorkgf/Documents/Obsidian Vault",

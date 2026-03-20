@@ -1,4 +1,7 @@
 [
   "obsidian42-brat",
-  "agent-client"
+  "agent-client",
+  "tasks",
+  "obsidian-tasks-plugin",
+  "obsidian-reminder-plugin"
 ]
