@@ -1,0 +1,10 @@
+# Obsidian 配置（设备特定，不同步）
+.obsidian/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
