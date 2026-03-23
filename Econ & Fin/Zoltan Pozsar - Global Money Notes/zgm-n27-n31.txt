@@ -1,0 +1,4869 @@
+9 December 2019
+
+Figure 3: Large U.S. Banks Have No Excess Reserves Left to “Frack”
+$ billions, base = start of balance sheet taper = 0
+300
+
+1
+
+250
+1
+200
+150
+1
+100
+50
+
+0
+
+0
+0
+(50)
+(100)
+0
+(150)
+(200)
+
+0
+
+(250)
+-1
+(300)
+(350)
+-1
+(400)
+
+(450)
+
+-1
+15
+
+16
+
+17
+
+Reserves change, $ bn
+
+18
+
+Reverses change, $ bn
+
+USTs change, $ bn
+
+19
+Level 1 change, $ bn since taper started
+
+Source: Federal Reserve, Credit Suisse
+
+Figure 4: Up the Curve and Down the Drain
+percent
+2.50
+
+2.25
+
+2.00
+
+1.75
+
+1.75
+1.62
+1.55
+
+o/n RP
+
+IOR
+1.55
+1.54
+
+1.50
+
+o/n RRP
+EFFR
+TGCR
+
+1.25
+
+SOFR
+GC [BBG]
+OIS [$]
+
+1.00
+
+UST [$]
+GC [$, UST]
+0.75
+
+LIBOR [$]
+FXS [¥]
+FXS [€]
+
+0.50
+
+0.25
+
+0.00
+o/n
+
+1W
+
+1M
+
+3M
+
+Settlement
+
+Money Markets
+
+"T-1"
+
+Thursday, December 05, 2019
+
+6M
+
+1Y
+
+Source: the BLOOMBERG PROFESSIONAL™ service, Credit Suisse
+
+Global Money Notes #26
+
+10
+
+9 December 2019
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as
+"Contributors" and not by Credit Suisse's Research Department. The information contained in this document has been provided
+as general market commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial
+service. It is intended only to provide observations and views of the Investment Strategy Department, which may be different
+from, or inconsistent with, the observations and views of Credit Suisse Research Department analysts, other Credit Suisse
+departments, or the proprietary positions of Credit Suisse. Observations and views expressed herein may be changed by the
+Investment Strategy Department at any time without notice. Credit Suisse accepts no liability for losses arising from the use of
+this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a
+limited view of a particular market. It is not investment research, or a research recommendation for regulatory purposes, as it
+does not constitute substantive research or analysis. The information provided is not intended to provide a sufficient basis on
+which to make an investment decision and is not a personal recommendation or investment advice. While it has been obtained
+from or based upon sources believed by the trader or sales personnel to be reliable, each of the trader or sales personnel and
+Credit Suisse does not represent or warrant its accuracy or completeness and is not responsible for losses or damages arising
+from the use of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. This
+material constitutes an invitation to consider entering into a derivatives transaction under U.S. CFTC Regulations §§ 1.71 and
+23.605, where applicable, but is not a binding offer to buy/sell any financial instrument. The views of the author may differ from
+others at Credit Suisse Group (including Credit Suisse Research).
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU
+accepts responsibility for its contents. Clients should contact analysts and execute transactions through a Credit Suisse
+subsidiary or affiliate in their home jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any
+of the products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential
+Regulation Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK
+laws, which differ from Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are
+exempt from the requirement to hold an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the
+financial services provided to Australian wholesale clients (within the meaning of section 761G of the Corporations Act)
+(hereinafter referred to as “Financial Services”). This material is not for distribution to retail clients and is directed exclusively at
+Credit Suisse's professional clients and eligible counterparties as defined by the FCA, and wholesale clients as defined under
+section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and regulated by the Securities
+and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL does not hold
+an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of
+Credit Suisse Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws,
+which differ from Australian laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the
+Corporations Act in respect of providing Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the
+Securities and Exchange Commission under US laws, which differ from Australian laws. CSAM does not hold an AFSL and is
+exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial Services. Credit
+Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder in Australia (AFSL 237237). In
+Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act. CSEAL is not an
+authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit Suisse
+AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance
+of any products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2019
+Credit Suisse Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #26
+
+11
+
+3 March 2020
+Investment Solutions & Products
+Global
+Credit Suisse Economics
+
+Global Money Notes #27
+Covid-19 and Global Dollar Funding
+Today’s liquidity conditions are like the waters receding before a giant wave.
+
+CONTRIBUTOR
+
+The coronavirus outbreak and the shock that preventative measures introduced
+to manufacturing and services activity will lead to missed payments globally.
+Missed payments will force more and more firms to become deficit agents; as
+this cascades, banks and regional banking systems will become deficit agents.
+
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+Our main concern is about missed payments of U.S. dollars globally, as
+local central banks can deal with missed payments in local currency fairly easily.
+
+212 538 4648
+james.sweeney@credit-suisse.com
+
+James Sweeney
+
+Dollar funding is always the orphaned child of crises as the regions where the
+pressures flare up have no control over it and the Fed, uncomfortable with the
+reality of it being the de facto central bank of the world, takes time to step in…
+…not necessarily in terms of rate cuts, but in terms of adding liquidity.
+The safety net around the financial system has been enhanced since the GFC:
+FX reserves are plentiful, global banks have liquidity buffers and the standing
+FX swap lines are there to add liquidity. But FX reserves need to be monetized,
+the outbreak may reveal some design problems of Basel III, and FX swap lines
+are not for everyone. A lot can go wrong with the system’s immune system...
+In this issue of Global Money Notes, we present a framework to help macro
+traders think through how a crisis could spread through dollar funding markets,
+and what central banks can do to calm funding stresses: peripheral and core
+cross-currency bases are set to widen first, followed by Libor-OIS spreads…
+…to at least 60 bps by June, if the outbreak worsens.
+The biggest risk we see to the plumbing is the Fed cutting rates aggressively,
+without pledging an open-ended liquidity support through its balance sheet:
+due to the inversion, money funds have seen $600 billion of inflows last year,
+most of which went to fund dealers’ and hedge funds holdings of Treasuries.
+Aggressive rate cuts could send those funds back to the bond market,
+just when the funds are needed in the money market due to missed payments.
+According to ancient Andaman folklore, when you see the waters disappear,
+move inland and get to the highest point you can find, away from the shoreline.
+As banks hoard the highest form of liquidity – reserves – the periphery will
+come knocking for liquidity. Now’s not the time to end QE. It’s time to lean in…
+
+Important Information
+THIS IS NOT RESEARCH. PLEASE REFER TO THE IMPORTANT DISCLOSURES AND CONTACT YOUR CREDIT SUISSE
+REPRESENTATIVE FOR MORE DETAILS. This report represents the views of the Investment Strategy Department of Credit Suisse and
+has not been prepared in accordance with the legal requirements designed to promote the independence of investment research. It is not a
+product of the Credit Suisse Research Department and the view of the Investment Strategy Department may differ materially from the views
+of the Credit Suisse Research Department and other divisions at Credit Suisse, even if it references published research recommendations.
+Credit Suisse has a number of policies in place to promote the independence of Credit Suisse’s Research Departments from Credit Suisse’s
+Investment Strategy-and other departments and to manage conflicts of interest, including policies relating to dealing ahead of the
+dissemination of investment research. These policies do not apply to the views of Investment Strategists contained in this report.
+
+3 March 2020
+
+Our flagship publications – Global Cycle Notes and Global Money Notes – are related.
+Global Cycle Notes tracks the global industrial production (IP) cycle due to its strong
+correlations with a wide range of financial variables including equity markets, bond yields,
+monetary policy decisions and commodity prices. Global Money Notes tracks the events
+that influence global funding spreads as funding spreads can have a strong influence on
+the same set of financial variables. Normally, the global IP cycle and funding spreads
+dance to different tunes and their impacts on asset prices can offset or amplify each other.
+The coronavirus outbreak and the shock that preventative measures introduced to the
+global IP cycle and services activity mark a rare occasion when our two publications meet.
+The supply chain is a payment chain in reverse…
+…and so an abrupt halt in production can quickly lead to missed payments elsewhere.
+Consider the difference between “value added” and “output” as measures of activity.
+Value added reflects a firm’s output minus its inputs, or simply the sum of its profits and
+labor costs. Output reflects its total sales (revenues), and so are a measure of payments.
+So, output at the end of a supply chain is the sum of everyone’s sales. Figure 1 shows
+the ratio of output to value added in manufacturing and services for the U.S. and China:
+the ratios for manufacturing are much higher than they are for services; and for China this
+is more extreme than the United States. China represents about 30% of global value
+added in manufacturing, but its share of payments, along the global manufacturing supply
+chain, is much bigger. This implies that a sharp shock to Chinese manufacturing will have
+a disproportionate impact on payments in the global goods sector, so a sharp IP shock is
+therefore a potential risk for widespread financial distress and missed payments globally.
+The question is how much financial damage is done by the current IP shock and the fact
+that it coincides with a shock in services – a sector which is seldom volatile or cyclical.
+Missed payments in manufacturing are one thing.
+Missed payments in manufacturing and services at the same time are another.
+On the following pages, we lay out a framework to help macro traders think about the
+possible impact of the outbreak on funding markets. When sketching such frameworks, it
+is helpful to describe how bad things can get and how central banks can calm markets.
+Our focus is on global dollar funding markets, as we assume that local central banks can
+deal with local funding pressures deftly, which we already saw in the case of the PBoC.
+In the case of dollar funding, the buck always stops with the Fed. But before pressures
+reach the Fed, the FX swap, Eurodollar and repo markets will exhibit some signs of stress.
+Dollar funding is always the orphaned child of crises as the regions where the pressures
+flare up have no control over it, and the Fed, uncomfortable with the reality of it being the
+de facto central bank of the world, always takes its time to step in to ease the pressures
+until it’s absolutely necessary. The time between the initial flare-up of stresses and the
+Fed’s ultimate response is STIR traders’ window of opportunity to harvest funding market
+dislocations. This issue of Global Money Notes presents some indicators to time the onset
+of stresses and identifies potential weak links in funding markets in some corners of Asia.
+Part one describes our approach to thinking about funding pressures due to the outbreak,
+and why the initial impulse from the outbreak on funding is positive. Part two describes
+how missed payments will cause more firms to deplete their dollar deposits over time.
+Part three describes some cyclical and structural dampeners that help banks manage
+the drawdown of corporate deposits. Part four describes how interbank markets can be
+overwhelmed by deposit drawdowns and what central banks can do to alleviate pressures.
+Global Money Notes #27
+
+2
+
+3 March 2020
+
+Part I – The Elephant in the Dark
+Trying to figure out the funding market impact of the outbreak is difficult, as there are no
+real time macro data on things like trade finance, shipping finance, commodity finance,
+and it’s hard to say how fast firms are going from running positive to negative dollar deposits
+at banks as missed payments accumulate, and how fast these deposit flows are pushing
+individual banks and regional banking systems from dollar surpluses to dollar deficits.
+The last time we had to get a feel for the shape of potentially bad things to come was just
+ten years ago as a trader/analyst at the New York Fed and a strategist at Credit Suisse,
+respectively. One of us mapped the shadow banking system (see here) and the other
+wrote about the central role collateral played in the shadow banking system (see here).
+There was no map of the shadow banking system – we had to imagine it and map it.
+There were no data about collateral – we had to collect it anecdotally to write about it.
+This is another time to imagine…
+Our deep-dive to dissect the potential funding market impact of the outbreak had a
+difficult start. The issue wasn’t as much a lack of data, but rather conflicting color we’ve
+received from talking to various bank treasurers in Hong Kong, Singapore and Tokyo in
+recent weeks. Some banks saw rapid drawdowns of dollar balances by corporations and
+regional banks, while other banks saw positive dollar balances due to a fall in demand for
+trade finance, shipping finance and commodity finance. Initially that confused us,
+but upon further reflection, we found the conflicting color illuminating: every bank runs on
+double entry bookkeeping and it is natural that deficits at some banks show up as
+surpluses at other banks – the very role of interbank markets is to clear those imbalances.
+The very fact that anecdotes are divergent tells us that some corporations are becoming
+deficit agents – that is, entities that are losing dollar deposits and will soon borrow dollars.
+Conceptually, visualize a tilted J-curve when thinking about the funding impact of the
+outbreak over time. The initial funding impact is positive due to a dropoff in demand for
+funding related to the sourcing and movement of commodities and intermediate goods,
+but over time, missed payments due to a prolonged halt in manufacturing and services will
+start to dominate and the funding impact of the outbreak will flip from positive to negative.
+The initial positive funding impact comes from three sources:
+(1) Less demand for commodity finance, as commodities are not in demand and
+don’t need to be mined and moved around (less demand for oil, coal and copper).
+(2) Less demand for trade finance as factories remain shut across China and there is
+no demand for intermediate goods (see our latest Global Cycle Notes here).
+(3) Less demand for shipping finance as new commodities and intermediate goods
+are not being sourced and because final goods are not being shipped.
+Data on these financing activities are scarce, but a BIS report on trade finance from 2014
+provides some contours: Figure 2 shows that trade finance is much bigger than
+commodity finance or shipping finance and is heavily reliant on banks, particularly in Asia.
+When demand for trade and other financing falls, banks’ funding needs naturally fall too,
+and as some funding that banks already raised to pre-fund customers’ anticipated funding
+needs go unused, banks’ liquidity portfolios get a temporary boost as well, which amplifies
+the initial positive funding impact. But this positive funding impulse is only temporary,
+and we are probably nearing the end of the initial grace period for global dollar funding.
+Funding pressures will likely increase from here as missed payments accumulate and
+fixed costs drain dollar balances, forcing more firms to become deficit agents over time.
+Global Money Notes #27
+
+3
+
+3 March 2020
+
+Part II – Contagion through Deficit Agents
+Debt is agnostic to your circumstances – it must be serviced, otherwise you are bankrupt.
+Factory closures and an abrupt halt in the assembly and shipment of final goods and
+quarantined metropolises therefore matter for firms as debts must be serviced regardless,
+and if dollars don’t flow in from sales and payments, they have to be raised from banks.
+Because the shock from missed payments is biggest in high-value added supply chains,
+we use the tech supply chain as our main example for mapping out how missed payments
+can propagate and to frame our thinking about missed payments in some other industries.
+Thus, as we noted above, “the supply chain is a payment chain in reverse” and when
+output is not being shipped, the assembler/seller of final goods in China does not have
+inflows to pay the suppliers of intermediate goods, so firms in Japan, Korea and Taiwan
+are not having inflows either – every firm along the chain starts to become a deficit agent.
+Beyond the initial deficit entry – not getting paid for components already shipped – deficits
+will multiply over time due to fixed costs. Think about servicing assets – plants, offices,
+ships, other transportation fleets – and servicing the debt that’s financing these assets.
+We know from a series of papers from the BIS that dollar-denominated debts dominate
+corporate balance sheets globally (see Figure 3) – their servicing will drain dollar balances.
+Even though principal on these debts is due far out in the future, interest payments
+must be serviced at high frequency – every three to six months – and common sense
+would suggest that interest payments are normally financed from proceeds generated
+through operating activities: the orderly assembly, production and shipment of final goods.
+Prolonged periods without dollar inflows will make servicing even the interest portion of
+debts problematic, so local banks could soon be tapped to raise dollars to service them.
+As deficit entries accumulate across supply chains and across industries, deficit agents
+will multiply and spiral into a deeper deficit balance. These funding pressures will either
+lead or coincide with pressures on credit spreads – the two can even amplify each other.
+Japanese banks became big lenders in trade finance post-GFC (see here) and a large
+part of their dollar funding needs through the FX swap market is related to trade finance.
+Japanese banks’ role in trade finance runs on the assumption of “business as usual”
+where the main entities they typically finance are the assemblers of final goods,
+not necessarily the producers of intermediate goods. If Japanese banks’ funding the
+assemblers is what normally providers dollars to the producers of intermediate goods,
+if the assembly process comes to a halt and related demand for trade financing drops off,
+producers of intermediate goods have to get their dollars from somewhere else –
+from local banks, in local jurisdictions. That switch in funding sources has the potential to
+re-distribute pressures across cross-currency bases – less pressure on the $/¥ basis and
+more pressure on the Korean won basis for example – and cause earnings shocks too
+as other countries’ banking systems cannot raise dollars as cheaply as Japanese banks.
+That’s because the dollar funding leg of FX swap trades are the same for everyone,
+but the local funding leg of FX swap trades are the cheapest in Japan as that’s where
+interest rates are negative – indeed, this has been a major factor in the rapid growth
+of large Japanese banks’ market share in trade finance and shipping finance post-GFC.
+Value added shares further complicate the potential impact on cross-currency bases.
+High value added firms (chipmakers) are more at risk of negative payments shocks than
+low value added firms (assemblers). That’s because the assembler gets the big payment,
+but keeps only a small portion to pay manual laborers and passes the rest of it on to the
+Global Money Notes #27
+
+4
+
+3 March 2020
+
+chipmakers as a payment for intermediate goods. That means that the impact on funding
+pressures coming from missed payments along the manufacturing supply chain will mirror
+the value-added share of different jurisdictions along the funding chain. Figure 4 shows
+that Japan, Korea and Taiwan dominate the value added share of the tech supply chain
+that runs through China, which means that cross-currency bases are more at risk
+of widening on the back of missed payments in Japan, Korea or Taiwan than in China.
+Ironically, the stock of FX reserves is much greater in China than in Korea or Taiwan,
+so the risk of a payments shock is not at all proportionate to the stock of FX reserves
+in some jurisdictions. Further complications come from the composition of FX reserves,
+which is the least favorable in Taiwan as we’ll explain in detail in part four of our analysis.
+Lower value added manufacturing supply chains are impacted by the outbreak as well,
+which will potentially lead to potential stresses in other jurisdictions across the world.
+But the value created through these supply chains are small relative to tech supply chains
+(think T-shirts and rubber ducks), so the funding impact will be smaller and also less
+dollar centric, which means that local central banks should be able to handle the fallout.
+Once we understand the funding impact along the global manufacturing supply chain,
+it’s easy to run with the theme to look for parallels in the service industry,
+and in industries that combine manufacturing and services through high-value branding.
+Consider, for example, an Asian airline that stops having inflows due to reduced demand
+to fly to, from and across Asia. The initial positive impact on funding comes from the
+reduced demand for jet fuel – which is also mirrored in the reduced funding needs of
+commodity houses that would fund the sourcing and shipment of jet fuel for airlines –
+but the deficits accumulate over time from keeping pilots and cabin crews on payroll,
+paying the rent on parking spots and gates at hundreds of airports the world over, and
+servicing the debt that finances the fleet of aircrafts. The longer passengers don’t fly,
+the longer the planes are grounded, and the more the airline’s dollar deposits are depleted:
+the airline gradually becomes a deficit agent, like chipmakers above. Hotels are next…
+Similarly, think about the dropoff in the demand for luxury goods in China, and the need
+to keep artisans on payroll in Paris and Milan and financing the rent on a global portfolio
+of prime retail stores in London, New York, Zurich or Hong Kong or at empty airports.
+Value added along these chains isn’t high in the traditional sense, but because of branding:
+brands make the prices high, and high prices pay the rents. It’s very easy to see how
+luxury brands can become deficit agents as cities are quarantined and people spend less.
+These two service sector examples are admittedly extreme, but for framing purposes:
+they demonstrate well how the outbreak can impact a growing range of industries globally.
+We know that these impacts are already happening and are impacting more and more
+firms in both manufacturing and services – the barrage of negative earning guidance
+we read about every day suggest that more and more firms are going from running
+positive dollar balances to depleting dollar balances on their way to become deficit agents.
+As more and more companies report negative earnings guidance globally, STIR traders
+should be mindful of the trend that more corporations are becoming deficit agents and
+the growing risk that this represents for the current calm in global dollar funding markets.
+As corporations deplete their dollar balances, the banks they bank with are also being
+pushed into becoming deficit agents and as outflows accumulate at more banks,
+pressures will accumulate in interbank markets where the deficit banks go to get funded.
+But not yet…
+
+Global Money Notes #27
+
+5
+
+3 March 2020
+
+Part III – Immune Systems and Liquidity Buffers
+Firms burning through their dollar balances on their way to becoming deficit agents won’t
+show up as funding stresses in interbank markets right away due to some dampeners.
+In the case of the tech supply chain, cash-rich firms atop the value chain presumably
+serve as important dampeners as they extend intra-firm credit. Other dampeners include
+the Federal Reserve which is currently adding liquidity through bill purchases and repos,
+the equity market selloff, and last but not least banks’ HQLA portfolios, thanks to Basel III.
+That said, dampeners are just that – they are no panacea: cash-rich tech firms can help
+their suppliers for a limited time only; the Fed is planning to stop adding liquidity soon;
+the benefits from an equity market selloff are limited; and the outbreak has the potential
+to reveal some design weaknesses in the structure of Basel III. We’ll discuss each in turn.
+First, anecdotally, cash-rich firms atop tech supply chains are currently dampening the
+funding fallout from the coronavirus – as an example, think about flows from cash-rich
+tech firms’ bank accounts going to suppliers’ bank accounts in Japan, Korea or Taiwan,
+thereby slowing the burn of suppliers’ dollar balances and delaying their day of reckoning
+– the day when they flip-flop from surplus to deficit agents vis-à-vis their bank. But the
+cash balances of tech firms are limited, as most of their wealth is in bonds (see here), and
+if the outbreak worsens, tech firms will have to repo bonds to help their suppliers. Such
+forms of financing will cause contagion in funding markets (pun intended) – a theme that
+has many variants and which we’ll return to in more detail in part four of our analysis.
+Second, the Fed’s bill purchases and repo operations are adding liquidity for now –
+the best kind of liquidity at that, which are reserves. The bulk of these injections ended up
+with foreign banks’ New York branches (see Figure 5). These are on top of the temporary
+HQLA surplus from the dropoff in demand for trade, shipping and commodity financing
+and are an additional dampener that currently help some banks fund the outflow of
+corporate deposits and others recycle corresponding inflows through interbank markets.
+Third, the equity market selloff serves as a dampener too. Without going into too much
+technical detail here, the equity market selloff has a positive funding market impact
+through two channels: equity derivatives desks at banks need less unsecured funding to
+fund their equity inventories (see here) and, as investors go from equities to Treasuries,
+Treasury desks at primary dealers get to reduce their Treasury inventories and see a
+rotation in their HQLA portfolios from bonds to cash – the reverse of last year (see here).
+Fourth, and most important, we now have a global banking system where all major banks
+have to pre-fund 30-day outflows by running HQLA portfolios. Maybe the biggest reason
+why we have not seen funding stresses from missed payments due to the outbreak yet,
+are these portfolios. In that sense, this crisis is playing out differently from the GFC,
+where funding stresses showed up real time (“T+1”), as banks had no liquidity buffers
+to tap into as deposits slipped away from them. HQLA portfolios are powerful dampeners.
+That said, the LCR and HQLA portfolios are not panacea.
+Some jurisdictions already mandate currency matching HQLA portfolios with outflows, but
+some jurisdictions do not, and in those jurisdictions the outflow of dollar deposits can
+quickly show up in the FX swap market if HQLA is held mostly in local currency assets…
+…and that’s the least of potential problems.
+It is important to remember that the type of deposits that firms are exhausting currently
+are operating deposits. And that’s a potential problem for banks. Operating deposits are
+one of the best types of funding for banks under Basel III due to low outflow assumptions,
+and that presents a potential design weakness of Basel III under current circumstances:
+Global Money Notes #27
+
+6
+
+3 March 2020
+
+the 25% outflow assumption on these deposits means that losing them can inflict
+considerable damage on banks’ liquidity profile as a dollar of outflow in operating deposits
+means an outflow of four credits of HQLA and an abrupt drop in their LCR compliance!
+Barring regulatory forbearance – banks’ and supervisors’ equivalent of force majeure –
+these dynamics can quickly push banks to go to funding markets to fix their LCRs,
+which would stress unsecured funding markets and can push Libor-OIS spreads wider.
+With their thinking shaped by the experiences of the GFC, the architects of Basel III
+assumed that only financial, non-operating deposits are slippery. They did not consider a
+scenario in which a rapid drawdown of operating deposits can occur without offsetting
+inflows over prolonged periods. Of course, DSGE models will suggest that there is
+nothing to worry about, as corporations burning through their operating deposits is due to
+people not buying phones, not flying and not shopping for luxury goods, which means that
+retail deposits with even lower outflow assumptions than corporate deposits must be
+accumulating somewhere – retail surplus agents – so the impact should be LCR positive!
+Maybe, maybe not.
+In our experience, finance is anthropological (see here) and the diversity assumed away in
+DSGE models is always what comes back to bite you. It is perfectly possible that
+corporations bank with different sets of banks than the people that stopped spending;
+if so, the deficit banks will borrow from surplus banks in interbank markets at high prices.
+Firms depleting their dollar balances, pushing individual banks and local banking systems
+into deficits, and banks struggling to fund outflows is stage one of potential stresses;
+stage two is when firms start borrowing dollars from the same banks as their obligations
+to pay continue but their dollar balances are empty. There are two corporate lifelines:
+for big, public corporations the CP market, and for everyone else, credit lines from banks.
+Firms tapping the CP market at the same time as banks are fixing their LCRs isn’t good;
+neither is many firms tapping their credit lines from banks all at the same time –
+another potential scenario that can reveal another potential design weakness of Basel III.
+Potential outflows related to the drawdown of corporate credit lines form a part of the
+30-day outflows that banks have to pre-fund, but similar to the outflow assumption
+on operating deposits, the drawdown assumptions on corporate credit lines are very low –
+only 10%. Similar to the outflow of operating deposits, the drawdown of credit lines can
+inflict significant damage on LCRs which banks would have to fix in unsecured markets.
+Missed payments due to the outbreak is the type of event that could cause many
+corporations to draw on their credit lines at the same time – and so what supervisors
+provisioned for as an idiosyncratic shock (a random corporation drawing on a credit line)
+becomes systemic (a random virus that forces all lines to be called all at the same time).
+Corporations have not called their credit lines yet to “test” their banks if they’re there,
+but they soon could. This is a fast-moving risk STIR traders should be the most aware of.
+Even with regulatory forbearance on LCR compliance, the underlying funding mechanics
+of such a massive liquidity call could be overwhelming for the repo and FX swap markets,
+unless all HQLA portfolios are made up of reserves at the Fed, and we know they’re not.
+A flood of corporate drawdowns could force the entire banking system into becoming a
+deficit agent – the extreme example of the outbreak infecting the top of the hierarchy:
+from firms to individual banks, to country level banking systems, to financial centers and,
+as contagion spreads and turns the global banking system into a deficit system, to the Fed
+– the only entity that can serve as a surplus agent to match the needs of a deficit system.
+No, that’s not an overstatement. We saw something similar in September!
+Global Money Notes #27
+
+7
+
+3 March 2020
+
+Part IV – Breathing Machines and Central Banks
+Collateral is dead, long live reserves...
+…should be everyone’s key takeaway from the repo market dislocation in September.
+Mind you, that dislocation was caused by corporate tax payments and Treasury settlements,
+events that individual banks were prepared for, but the entire system apparently was not.
+The cascade of missed payments and the changes they could force in dollar flows globally
+is not something that individual banks can prepare for and so the system cannot either.
+Could missed payments quickly run up to $200-300 billion? That’s not unrealistic.
+Could funding markets in New York City be overwhelmed if forced to recycle an extra
+$200-300 billion? Easily. If reserves were insufficient to deal with routine tax payments
+and Treasury settlement in September, and if the Fed only added just over $150 billion of
+excess reserves since then (see Figure 6), a mass drawdown of corporate credit lines due
+to missed payments could push the U.S. banking system back into deficit in short order.
+Demand for reserves ain’t linear…
+…and banks’ estimates of their “lowest comfortable level of reserves” are circumstance
+dependent. The worse the outbreak gets, the floor to banks’ comfort levels will rise and
+so the effective amount of excess reserves added since September could fall rapidly as
+banks decide to hoard reserves as a “vaccine” instead of lending them opportunistically.
+Like our reference to the Spanish flu in our 2020 outlook (see here), Governor Quarles’
+recent speech about opening up the discount window to help large banks monetize their
+Treasuries under stress scenarios was eerily prescient. What are some of the dynamics
+that could start pushing rates around in the repo and FX swap markets before too long?
+There are at least three:
+(1) U.S. banks gradually starting to pull back from lending in the repo market and
+starting to monetize Treasuries to fund the drawdown of corporate credit lines.
+(2) Tech companies starting to monetize their bond portfolios to roll the lifeline they
+extended to their strategic suppliers in various corners of Southeast Asia.
+(3) Foreign central banks starting to tap into their FX reserves to help local banks,
+and the pressures these flows might cause to repo and FX swap markets.
+Each of these examples makes us think it unlikely that the Fed should or will be able to
+step back from adding liquidity after the tax season. Now is not the time to step back…
+…it’s time to lean in!
+First, U.S. banks are less liquid today than they were a year ago, because they have been
+absorbing collateral from the Fed as the Fed has been busy tapering its balance sheet –
+talk about bad timing. Figure 7 shows the rotation in large U.S. banks liquidity portfolios
+away from reserves and into collateral in recent quarters and this rotation will make the
+funding of corporate credit lines harder and the appeal of the Quarles proposal greater.
+Second, tech companies repoing their bonds to fund their suppliers are a similar story,
+but unlike banks, their port of call won’t be the discount window, but the repo market.
+Now, if the Fed is the marginal lender in the repo market now to the tune of $150 billion,
+a new marginal supplier of collateral will give the Fed no choice but to upsize its repo ops.
+Third, tech companies’ repo needs will be small potatoes relative to foreign central banks’:
+while tech companies need to backstop suppliers, foreign central banks may need to
+backstop individual banks and would have to raise considerable dollar liquidity to do that.
+Global Money Notes #27
+
+8
+
+3 March 2020
+
+We’ll consider the cases of China, Japan, Korea and Taiwan as potential deficit regions.
+In the case that banks in China are overwhelmed with a drawdown of dollar deposits, their
+natural port of call will be the PBoC for dollar liquidity. In turn, the PBoC’s port of call will
+be dealers first in Hong Kong and London and then the primary dealers in New York.
+The PBoC – like all major central banks – keeps a portion of the liquidity tranche of its FX
+reserves in FX swaps, where they lend U.S. dollars in exchange for euros and yen.
+But if they need to start lending dollars to local banks through bilateral arrangements,
+China effectively flip-flops from being a lender of dollars to being a borrower of dollars in
+the FX swap market, and dealers in Hong Kong and London now have to find the missing
+link to their previously matched $/¥ and €/$ FX swap books. As the PBoC goes from
+funding carry traders in the FX swap market to helping local banks bridge dollar deficits,
+it naturally transmits local imbalances globally and carry traders end up holding the bag…
+…the Fed’s dollar swap lines could be called by FX swap dealers in London.
+Once the PBoC exhausts its dollar liquidity in cash markets like the FX swap market,
+it will next tap its Treasury portfolio and will either repo or sell those Treasuries through
+dealers in New York to raise more dollars to lend to local banks. The one place the PBoC
+won’t go to raise dollars is the Fed’s dollar swap lines – because it has no line to the Fed!
+China’s dollar needs will therefore stress private balance sheets in London and New York,
+not public balance sheets, unless a swap line between the PBoC and the Fed is created.
+Remember that the breakdown of the payment chain in reverse hurts high value added
+intermediate goods producers much more – in jurisdictions like Japan, Taiwan and Korea.
+Here, the first observation we’d make is that none of these countries have as big a stock
+of FX reserves as China, so the drawdown on their FX reserves from missed payments
+will be disproportionate; that said, differences in the composition of FX reserves will help
+some countries weather funding stresses better than others. Consider the case of Japan.
+Japan’s Ministry of Finance is the single largest account holder at the New York Fed’s
+foreign RRP facility with $150 billion on deposit – see Japan’s reserves portfolio here.
+Thus, while the PBoC would start withdrawing liquidity from money markets the moment
+it starts to ease the dollar needs of domestic banks, the BoJ would add de novo liquidity
+as it pulls funds out of the foreign RRP facility and deposits them at local megabanks…
+…from Sagittarius-A* to the big bang, and if the big bang ain’t big enough, the BoJ has
+access to the dollar swap lines at the Fed. Let’s consider the case of South Korea next.
+Like the PBoC, the BoK does not have FX swap lines with the Fed and unlike the BoJ,
+it only has a small amount in the foreign RRP facility (see Figure 8), so the market impact
+of the BoK’s responses will likely be similar to the PBoC’s but with a much smaller splash.
+Taiwan appears to be a case unlike any other.
+As described in an impressive detective work by Brad Setser and Constructive Ambiguity,
+Taiwan’s reserves are lent in the FX swap market but not versus euros and yen,
+but against domestic currency which provide the hedges for Taiwanese life insurers’
+U.S. fixed income portfolios – this is how Taiwan’s central bank recycles Taiwan’s
+massive current account surpluses, which are routinely north of 10% of Taiwan’s GDP.
+Now consider that if Taiwan’s central bank is dependent on chipmakers’ sales to add to
+or just to roll life insurers’ U.S. dollar hedges, missed payments due to factory closures
+and chipmakers’ growing dollar deficits are a risk to Taiwanese life insurers’ steady bid for
+U.S. Treasuries, mortgages, callable bonds and credit and their ability to sell vol insurance!
+Global Money Notes #27
+
+9
+
+3 March 2020
+
+Conclusions – Asymptomatic ≠ Not Contagious
+Liquidity kills you quick…
+…but the countries at the eye of a potential storm learned that lesson during the Asian
+financial crisis, and the banks that form the backbone of the global financial system
+learned that lesson during the GFC. Safety nets have been enhanced and expanded,
+with the Fed’s dollar swap lines with the ECB, the SNB, the BoE, the BoC and the BoJ
+being the most important. These regions are therefore well insured for funding stresses,
+and Japan has a lot of liquidity on deposit at the Fed before it would tap the swap lines.
+We are more worried about other jurisdictions.
+In the coming weeks, there will likely be dozens of research notes in which DSGE-types
+will show that most emerging market countries have multiples of their import bills in FX
+reserves, arguing that you should not worry about liquidity problems. That is precisely our
+point: most FX reserves are invested in the FX swap market or are in U.S. Treasuries and
+MBS, not on deposit at the foreign RRP facility, and when foreign central banks begin to
+monetize their FX reserves, GC repo rates and the €/$ and $/¥ currency bases will feel it.
+Central banks are lenders of last resort, not lenders of first resort and the time it takes for
+them to go from one mode to another can take a long time and it can take a short time.
+In August 2007 it took a long time – subprime was “contained”.
+In September 2019 it took a day – with a 15 minute delay.
+That said, the Fed’s response time last September was sped up by the fact that the
+markets exhibiting stresses were the o/n repo and federal funds markets, which are the
+core of U.S. money markets. The stresses we are imagining here would first strike:
+(1) peripheral cross-currency bases (e.g., KRW/USD) as missed payments grow;
+(2) €/S and $/¥ bases as reserve managers stop lending in the FX swap market,
+to help banks and banking systems deal with dollar outflows in their jurisdictions;
+(3) U.S. dollar Libor-OIS spreads as banks start fixing their LCRs that are being
+damaged by outflows of operating deposits and corporate credit lines; and lastly,
+(4) o/n GC repo markets as FX reserve managers and large banks are scrambling to
+turn collateral into cash to fund banks’ and corporate customers’ liquidity needs.
+Stresses would strike in that specific order, which means that peripheral funding markets
+would show signs of stress first and core funding markets would show signs of stress last.
+That risks a slow balance sheet response from the Fed…
+…on top of the Fed’s plan to soon end liquidity injections via repos and bill purchases.
+Chair Powell’s opening shot to rate cuts could further complicate a complicated picture…
+given that the yield curve has been inverted for over a year, Treasury supply has been
+absorbed by primary dealers and hedge funds on the margin, funded in the repo market
+by money funds. Figure 9 shows that money funds have absorbed $600 billion of inflows
+over the past year and rate cuts could send those funds back to the bond market,
+precisely when the funds are needed in the money market. Our concluding point is this:
+If the outbreak worsens, funding market pressures can easily escalate. Rate cuts will help,
+but rate cuts, if they re-steepen the curve materially, can exacerbate funding pressures.
+Our recommendation for the Fed would be to combine rate cuts with open liquidity lines
+that include a pledge to use the swap lines, an uncapped repo facility and QE if necessary.
+Global Money Notes #27
+
+10
+
+3 March 2020
+
+Figure 1: A Recipe for Shocks from Missed Payments
+Ratio of output to value added
+5.5
+
+5.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0
+Global
+
+China
+Manufacturing
+
+US
+Services
+
+Source: World Input-Output Database, Credit Suisse
+
+Global Money Notes #27
+
+11
+
+3 March 2020
+
+Figure 2: Trends in Trade Finance
+$ billions
+
+Source: CGFS, IMF, national data
+
+Global Money Notes #27
+
+12
+
+3 March 2020
+
+Figure 3: U.S. Dollar Credit to Selected Non-Bank Borrowers
+$ billions
+
+Source: BIS
+
+Global Money Notes #27
+
+13
+
+3 March 2020
+
+Figure 4: The Chinese Tech Sector’s Manufacturing Supply Chain
+$ billions, as of 2014; value added (VA) = labor costs plus profits
+
+Source: World Input-Output Database, Credit Suisse
+
+Figure 5: Foreign Banks Absorbed the Bulk of Liquidity Injected by the Fed
+$ billions, vertical red line marks the start of taper and orange lines mark the end of taper, the start o/n repos and bill purchases, respectively
+1
+
+250
+200
+
+1
+150
+100
+1
+50
+0
+
+0
+(50)
+
+0
+(100)
+(150)
+0
+(200)
+0
+
+(250)
+(300)
+
+-1
+(350)
+(400)
+-1
+(450)
+-1
+
+(500)
+15
+
+16
+
+17
+Reserves change, $ bn
+
+18
+
+19
+
+Reverses change, $ bn
+
+USTs change, $ bn
+
+20
+
+Source: Federal Reserve, Credit Suisse
+
+Global Money Notes #27
+
+14
+
+3 March 2020
+
+Figure 6: This Does not Look Like “Foam on the Runway”
+$ billions, vertical red line marks the start of taper and orange lines mark the end of taper, the start o/n repos and bill purchases, respectively
+550
+
+9
+
+500
+7
+450
+5
+
+400
+350
+
+3
+300
+1
+
+250
+200
+
+-1
+
+150
+-3
+100
+50
+
+-5
+
+0
+-7
+(50)
+(100)
+
+-9
+15
+
+16
+
+17
+Total assets, $ bn
+
+18
+reserves, $ bn
+
+19
+
+20
+
+TGA, $ bn
+
+Source: Federal Reserve, Credit Suisse
+
+Figure 7: Thanks to Balance Sheet Taper, U.S. Banks are Much Less Liquid
+$ billions, vertical red line marks the start of taper and orange lines mark the end of taper, the start o/n repos and bill purchases, respectively
+0
+
+300
+250
+
+0
+200
+0
+
+150
+100
+
+0
+50
+0
+
+0
+(50)
+
+0
+(100)
+0
+
+(150)
+(200)
+
+0
+(250)
+0
+
+(300)
+(350)
+
+0
+(400)
+0
+
+(450)
+15
+
+16
+
+17
+Reserves change, $ bn
+
+18
+
+19
+
+Reverses change, $ bn
+
+USTs change, $ bn
+
+20
+
+Source: Federal Reserve, Credit Suisse
+
+Global Money Notes #27
+
+15
+
+3 March 2020
+
+Figure 8: Foreign Central Banks’ Claims on FRBNY’s Foreign Repo Pool
+$ billions, proxy (country data show FX reserves at “other central banks, BIS and IMF”)
+325
+300
+275
+250
+225
+200
+175
+150
+125
+100
+75
+50
+25
+0
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+Foreign central banks, o/n RRPs (foreign repo pool), $ bn
+
+Foreign central banks, o/n RRPs (foreign repo pool), $ bn [EOP]
+
+Japan's claims on FRBNY's foreign RRP facility, $ bn [EOP]
+
+China's claims on FRBNY's foreign RRP facility, $ bn [EOP]
+
+Korea's claims on FRBNY's foreign RRP facility, $ bn [EOP]
+
+Hong Kong's claims on FRBNY's foreign RRP facility, $ bn [EOP]
+
+20
+
+Source: IMF, Federal Reserve, Credit Suisse
+
+Figure 9: What if the Tide Washes Out if the Fed Cuts Rates Aggressively?
+$ trillions, vertical dashed line marks the start of the curve inversion relative to three-months FX hedging costs
+4.0
+
+5
+
+3.6
+
+4
+
+3.2
+
+3
+
+2.8
+
+2
+
+2.4
+
+1
+
+2.0
+
+0
+
+1.6
+
+-1
+
+1.2
+
+-2
+
+0.8
+
+-3
+
+0.4
+
+-4
+
+-5
+
+0.0
+07
+
+08
+
+09
+
+10
+
+11
+
+Total money funds [taxable, 2a-7], $ tn
+
+12
+
+13
+
+Total prime, $ tn
+
+14
+
+15
+
+16
+
+Total Treasury, agency and repo, $ tn
+
+17
+
+18
+
+19
+
+20
+
+Total Treasury and repo, $ tn
+
+Source: ICI, Credit Suisse
+
+Global Money Notes #27
+
+16
+
+3 March 2020
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as "Contributors"
+and not by Credit Suisse's Research Department. The information contained in this document has been provided as general market
+commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial service. It is intended only to
+provide observations and views of the Investment Strategy Department, which may be different from, or inconsistent with, the observations
+and views of Credit Suisse Research Department analysts, other Credit Suisse departments, or the proprietary positions of Credit Suisse.
+Observations and views expressed herein may be changed by the Investment Strategy Department at any time without notice. Credit Suisse
+accepts no liability for losses arising from the use of this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a limited view of a
+particular market. It is not investment research, or a research recommendation for regulatory purposes, as it does not constitute substantive
+research or analysis. The information provided is not intended to provide a sufficient basis on which to make an investment decision and is not
+a personal recommendation or investment advice. While it has been obtained from or based upon sources believed by the trader or sales
+personnel to be reliable, each of the trader or sales personnel and Credit Suisse does not represent or warrant its accuracy or completeness
+and is not responsible for losses or damages arising from the use of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. This material constitutes
+an invitation to consider entering into a derivatives transaction under U.S. CFTC Regulations §§ 1.71 and 23.605, where applicable, but is not
+a binding offer to buy/sell any financial instrument. The views of the author may differ from others at Credit Suisse Group (including Credit
+Suisse Research).
+Credit Suisse is acting solely as an arm’s length contractual counterparty and not as a financial adviser (or in any other advisory capacity
+including tax, legal, accounting or otherwise) or in a fiduciary capacity. Any information provided does not constitute advice or a
+recommendation to enter into or conclude any transaction. Before entering into any transaction, you should ensure that you fully understand
+the potential risks and rewards and independently determine that it is appropriate for you given your objectives, experience, financial and
+operational resources, and other relevant circumstances. You should consult with such advisers (including, without limitation, tax advisers, legal
+advisers and accountants) as you deem necessary.
+No part of this material may be reproduced, retransmitted disclosed or distributed in any manner without the prior written permission of Credit
+Suisse.
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU accepts responsibility
+for its contents. Clients should contact analysts and execute transactions through a Credit Suisse subsidiary or affiliate in their home
+jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any of the
+products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK laws, which differ from
+Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are exempt from the requirement to hold
+an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the financial services provided to Australian wholesale
+clients (within the meaning of section 761G of the Corporations Act) (hereinafter referred to as “Financial Services”). This material is not for
+distribution to retail clients and is directed exclusively at Credit Suisse's professional clients and eligible counterparties as defined by the FCA,
+and wholesale clients as defined under section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and
+regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL
+does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of Credit Suisse
+Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws, which differ from Australian
+laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing
+Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the Securities and Exchange Commission under US laws,
+which differ from Australian laws. CSAM does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations
+Act in respect of providing Financial Services. Credit Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder
+in Australia (AFSL 237237). In Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act.
+CSEAL is not an authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit
+Suisse AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance of any
+products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2020 Credit Suisse
+Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #27
+
+17
+
+17 March 2020
+Investment Solutions & Products
+Global
+Credit Suisse Economics
+
+Global Money Notes #28
+Lombard Street and Pandemics
+The Fed’s liquidity injections appear not to be working.
+
+CONTRIBUTOR
+
+All segments of funding markets – secured, unsecured and FX swaps –
+continue to show growing signs of stress. The Fed may have to do more still.
+
+Zoltan Pozsar
+
+In the U.S., we watched, but didn’t feel the funding impact of large banks in
+other countries being asked to help their economies. Now that U.S. banks are
+asked to do the same, dollar funding markets are starting to feel the impact.
+
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+As U.S. banks increase their lending to the real economy as corporations draw
+on credit lines and banks lend more to households and firms, lending will
+consume more balance sheet and risk capital, and that will leave less room for
+market making and arbitrage, which under current circumstances are “luxury”.
+The breakdown of o/n repo markets yesterday tell us that balance sheet is
+now getting scarce to conduct even the most basic type of market making.
+As banks are pulling back from market making, the Fed and other central banks
+need to assume the role of dealer of last resort...
+The Fed needs to become a buyer of CDs and CP, but not through the CPFF.
+The Fed needs to offer dollars on a daily frequency through the swap lines,
+and other central banks need to lend dollars on to both banks and non-banks.
+The Fed needs to broaden access to the swap lines to other jurisdictions as
+dollar funding needs are large in Scandinavia, Southeast Asia, Australia and
+South America, not just in the G-7. The dollar funding needs of both banks
+and non-banks is what’s at risk and the assets that are being funded are
+U.S. assets – Treasuries, MBS and credit – so the Fed has a vested interest.
+A hallmark theme of the post-QE global financial order has been the secular
+growth of FX hedged fixed income and credit portfolios at non-bank institutions
+like life insurers and asset managers from negative interest rate jurisdictions –
+the new shadow banking system, epitomized by money market funding
+(FX swaps) of capital market lending (Treasuries and the full credit spectrum).
+Carry makes the world go round and as banks do more for the economy
+central banks will have to backstop the shadow banking system – yet again…
+
+Important Information
+THIS IS NOT RESEARCH. PLEASE REFER TO THE IMPORTANT DISCLOSURES AND CONTACT YOUR CREDIT SUISSE
+REPRESENTATIVE FOR MORE DETAILS. This report represents the views of the Investment Strategy Department of Credit Suisse and
+has not been prepared in accordance with the legal requirements designed to promote the independence of investment research. It is not a
+product of the Credit Suisse Research Department and the view of the Investment Strategy Department may differ materially from the views
+of the Credit Suisse Research Department and other divisions at Credit Suisse, even if it references published research recommendations.
+Credit Suisse has a number of policies in place to promote the independence of Credit Suisse’s Research Departments from Credit Suisse’s
+Investment Strategy-and other departments and to manage conflicts of interest, including policies relating to dealing ahead of the
+dissemination of investment research. These policies do not apply to the views of Investment Strategists contained in this report.
+
+17 March 2020
+
+The Fed’s liquidity response may not trickle down to every corner of the financial system.
+The liquidity response doesn’t address the functioning of unsecured funding markets, and
+the effectiveness of the FX swap lines may be limited by its operational details and reach.
+It feels like the Fed needs to do more still.
+We are concerned about four areas: liquidity in the CD and CP markets; the frequency
+with which the Fed plans to do swap line operations and the FX points where it’s active;
+and the funding needs of institutions and regions that aren’t embraced by the swap lines.
+First, the initial shock to the CD and CP markets came from the equity market collapse
+and the flows it triggered whereby cash started to flood back from securities lenders’
+cash collateral reinvestment accounts to short sellers’ accounts. Given that seclenders
+invest cash in the CD and CP markets and short sellers invest mostly in Treasury bills,
+these flows turned seclenders into net sellers of CD and CP, precisely when issuance
+from corporations and banks is picking up. Outflows from prime money funds have been
+small to date, but given ongoing stresses in funding markets and heightened risk aversion,
+prime funds could see more outflows this week as investors take refuge in the safety
+of government money funds. Such a rotation would further hurt demand for CD and CP
+this week and will continue to pressure funding spreads including U.S. dollar Libor-OIS.
+It isn’t reasonable to expect real money accounts – reserve managers and bond funds –
+to substitute demand from seclenders and prime money funds as reserve managers are
+raising dollar liquidity themselves to help banks in their jurisdictions and bond funds have
+better yielding opportunities to harvest elsewhere if they are not struggling with outflows.
+We do not think that the right solution here is re-activating the CPFF. The legal aspects
+of onboarding issuers takes time and liquidity can kill you quick. Our recommendation
+would be for the Fed to come to an agreement with the U.S. Treasury whereby the latter
+provides a “first-loss buffer” on any financial or non-financial CP the New York Fed buys
+in the primary or secondary market. The first loss buffer would ensure that the Treasury
+takes the credit risk and the Fed only takes the liquidity risk such that the Fed feels
+“secured to its satisfaction” – which is what the Fed cares about most in a crisis situation.
+The money to fund such a first loss buffer is already in the system – it’s sitting in the
+Treasury General Account. Putting up $50 billion of the $400 billion sitting idly at the Fed
+would provide sufficient comfort for the Fed and near immediate support for the market –
+the Bank of Japan and the Bank of Canada already buy CP in their domestic jurisdictions.
+This template could then be extended to corporate bond purchases by adding more buffer
+and as President Dudley would say “going out the curve and down the credit spectrum”.
+Second, the swap lines are now active but it feels like the operational aspects of it need
+to be fine-tuned. Currently dollars are being offered weekly, but the FX swap market
+trades like they should be offered daily, and not only at weekly and three three-month
+maturities but at ultra-short tenors as well, similar to how the Fed lends in the repo market.
+Third, the swap lines are open only for banks and that is a fault line in the system.
+The swap lines were originally designed to help the funding needs of banks during 2008;
+they work by the Fed lending dollars to other central banks which then lend it to banks.
+But since the financial crisis, non-banks eclipsed banks as the biggest borrowers in the
+FX swap market: a hallmark theme of the post-QE global financial order has been the
+secular growth of FX hedged fixed income and credit portfolios at non-bank institutions
+like life insurers and asset managers – the new shadow banking system epitomized
+by money market funding (FX swaps) of capital market lending (Treasuries and credit).
+
+Global Money Notes #28
+
+2
+
+17 March 2020
+
+Unless these non-bank entities get access to dollar auctions – from local central banks –
+FX swap spreads may remain wide if banks won’t serve as matched-book intermediaries.
+There is a growing risk that such intermediation will fracture as the assets that FX swaps
+fund include not only Treasuries but credit and CLOs too. Credit quality is fast deteriorating
+across various sectors and that makes it riskier for dealers to fund some life insurers
+through FX swaps, just like it became riskier to fund some insurers during the 2008 crisis.
+Over the past five years balance sheet and the availability of reserves were the main
+drivers of spreads in the FX swap market. It’s time to think about credit risk creeping in
+to funding markets through the asset side of some portfolios funded through FX swaps.
+Fourth, the geographic reach of the swap lines is too narrow.
+The Fed has swap lines only with the BoC, the BoE, the BoJ, the ECB and the SNB,
+and that’s because the 2008 crisis hit banks mostly in these particular jurisdictions.
+But the breadth of the current crisis is wider as every country is struggling to get dollars.
+The dollar needs of Sweden, Norway, Denmark, Hong Kong, Singapore, South Korea,
+Taiwan, Australia and Brazil and Mexico seem particularly striking for a variety of reasons.
+Scandinavia countries, like Japan have large dollar needs due to institutional investors’
+hedging needs and only Norway is endowed with large FX reserves to tap into. Mexico is
+dealing with a terms of trade shock due to the collapse of oil prices. Southeast Asian
+countries that serve as banking centers need U.S. dollars to clear dollar payments and
+countries like South Korea and Taiwan have life insurers with meaningful hedging needs.
+The Fed’s dollar swap lines need to go global, the hierarchy needs to flatten.
+The message for central banks that emerges from this brief note is this:
+backstop not only the banks at the core of the financial system, but also markets and
+non-banks. The market backstops should include the CD and CP market where we need
+a buyer of last resort as the structural buyers of paper are losing cash fast; the backstop
+of the FX swap market should include daily operations at more points along the FX curve.
+Like primary dealers offer round the clock liquidity across timezones, dealers of last resort
+– the central banks of the swap network – should offer dollar liquidity round the clock too.
+Finally, like primary dealers, who trade with anyone with an ISDA, dealers of last resort
+should too: the Fed by broadening access to other central banks and other central banks
+by broadening access to dollar auctions to non-banks like life insurers and asset managers.
+Demand on bank balance sheets will increase from here to provide credit locally for the
+real economy – that will consume balance sheet and risk capital and will naturally leave
+less room for market making and arbitrage, which under current circumstances are luxury.
+While it’s too much to ask central banks to lend to the real economy, it’s not too much to
+ask them to become more active in making markets as banks free up balance sheet for
+lending more to the real economy. The breakdown of o/n repo markets today tell us
+that balance sheet is now scarce to conduct even the most basic type of market making.
+Charts showing Target2 balances became known as the visual representation of the ECB
+clearing payment imbalances between northern Europe and southern Europe through the
+balance sheet of local central banks within the eurozone. Now it’s time for the Fed to
+do the same globally with other central banks and for those central banks to lend broadly
+– after all what is at stake here is the funding of U.S. assets: Treasuries, MBS and credit.
+In the U.S., we watched, but did not feel the funding impact of banks in other countries
+being asked to help their economies. Now that U.S. banks are asked to help the
+economy, dollar funding markets are starting to feel the impact. When the U.S. sneezes…
+Global Money Notes #28
+
+3
+
+17 March 2020
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as "Contributors"
+and not by Credit Suisse's Research Department. The information contained in this document has been provided as general market
+commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial service. It is intended only to
+provide observations and views of the Investment Strategy Department, which may be different from, or inconsistent with, the observations
+and views of Credit Suisse Research Department analysts, other Credit Suisse departments, or the proprietary positions of Credit Suisse.
+Observations and views expressed herein may be changed by the Investment Strategy Department at any time without notice. Credit Suisse
+accepts no liability for losses arising from the use of this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a limited view of a
+particular market. It is not investment research, or a research recommendation for regulatory purposes, as it does not constitute substantive
+research or analysis. The information provided is not intended to provide a sufficient basis on which to make an investment decision and is not
+a personal recommendation or investment advice. While it has been obtained from or based upon sources believed by the trader or sales
+personnel to be reliable, each of the trader or sales personnel and Credit Suisse does not represent or warrant its accuracy or completeness
+and is not responsible for losses or damages arising from the use of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. This material constitutes
+an invitation to consider entering into a derivatives transaction under U.S. CFTC Regulations §§ 1.71 and 23.605, where applicable, but is not
+a binding offer to buy/sell any financial instrument. The views of the author may differ from others at Credit Suisse Group (including Credit
+Suisse Research).
+Credit Suisse is acting solely as an arm’s length contractual counterparty and not as a financial adviser (or in any other advisory capacity
+including tax, legal, accounting or otherwise) or in a fiduciary capacity. Any information provided does not constitute advice or a
+recommendation to enter into or conclude any transaction. Before entering into any transaction, you should ensure that you fully understand
+the potential risks and rewards and independently determine that it is appropriate for you given your objectives, experience, financial and
+operational resources, and other relevant circumstances. You should consult with such advisers (including, without limitation, tax advisers, legal
+advisers and accountants) as you deem necessary.
+No part of this material may be reproduced, retransmitted disclosed or distributed in any manner without the prior written permission of Credit
+Suisse.
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU accepts responsibility
+for its contents. Clients should contact analysts and execute transactions through a Credit Suisse subsidiary or affiliate in their home
+jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any of the
+products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK laws, which differ from
+Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are exempt from the requirement to hold
+an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the financial services provided to Australian wholesale
+clients (within the meaning of section 761G of the Corporations Act) (hereinafter referred to as “Financial Services”). This material is not for
+distribution to retail clients and is directed exclusively at Credit Suisse's professional clients and eligible counterparties as defined by the FCA,
+and wholesale clients as defined under section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and
+regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL
+does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of Credit Suisse
+Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws, which differ from Australian
+laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing
+Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the Securities and Exchange Commission under US laws,
+which differ from Australian laws. CSAM does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations
+Act in respect of providing Financial Services. Credit Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder
+in Australia (AFSL 237237). In Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act.
+CSEAL is not an authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit
+Suisse AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance of any
+products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2020 Credit Suisse
+Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #28
+
+4
+
+14 April 2020
+Investment Solutions & Products
+Global
+Credit Suisse Economics
+
+Global Money Notes #29
+U.S. Dollar Libor and War Finance
+The Fed’s liquidity injections are working.
+
+CONTRIBUTOR
+
+Global dollar funding conditions have eased, and U.S. dollar Libor-OIS spreads
+started to tighten. We don’t think that lower prices on the CPFF or the MMLF
+are necessary for Libor-OIS to tighten more – other factors can tighten it further.
+
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+First, positive Libor-Libor bases are prompting banks to shift their funding from
+the U.S. unsecured funding market to euro and sterling unsecured markets –
+as banks arbitrage positive bases, pressure on U.S. unsecured rates subside.
+Second, the U.S. dollar swap lines, Section 402 of the Crapo Act and the
+temporary exemption of Treasury securities and potentially repos from the SLR
+will continue to improve the flow of dollars to non-banks through FX swaps –
+this will lower FX swap implied funding costs and compress Libor-OIS further.
+Third, the FIMA repo facility is the only live liquidity facility that’s not being used,
+and one can make the argument that the Fed is currently mispricing the facility:
+a lower price for FIMA repos could free up more balance sheet for FX swaps…
+…with further declines on FX swap implied funding costs and Libor-OIS.
+Fourth, positive Libor-Libor bases are also prompting some central banks to
+deploy their U.S. dollar FX reserves in A1/P1 rated unsecured bank debt, as
+these offer significantly better yields than FX swaps; the case for central banks
+to buy more unsecured bank debt is compelling, and more central bank buying
+could provide a backstop bid for the U.S. dollar commercial paper/CD markets.
+Based on these developments, our target for three-month Libor-OIS is 75 bps
+by the end of April, and 25 bps by the end of May. Our target for May is based
+on three assumptions: the temporary exclusion of Treasury repos from the SLR;
+the Fed lowering the price on the FIMA repo facility to the price of o/n repos;
+and the Fed capping Treasury bill yields at OIS rates through bill yield control.
+The machinery of war finance is in full swing…
+…and liquidity injections over the past month have stabilized funding markets
+and are compressing Libor-OIS spreads from the top down. Messing things up
+from the bottom up – with bill supply – would be a mistake and also confusing.
+The target range and the price of the liquidity facilities are the Fed’s sanctum:
+as a matter of principle, the Fed shouldn’t let bill supply breach the sanctum...
+Important Information
+THIS IS NOT RESEARCH. PLEASE REFER TO THE IMPORTANT DISCLOSURES AND CONTACT YOUR CREDIT
+SUISSE REPRESENTATIVE FOR MORE DETAILS. This report represents the views of the Investment Strategy Department
+of Credit Suisse and has not been prepared in accordance with the legal requirements designed to promote the independence
+of investment research. It is not a product of the Credit Suisse Research Department and the view of the Investment Strategy
+Department may differ materially from the views of the Credit Suisse Research Department and other divisions at Credit
+Suisse, even if it references published research recommendations. Credit Suisse has a number of policies in place to promote
+the independence of Credit Suisse’s Research Departments from Credit Suisse’s Investment Strategy-and other departments
+and to manage conflicts of interest, including policies relating to dealing ahead of the dissemination of investment research.
+These policies do not apply to the views of Investment Strategists contained in this report.
+
+14 April 2020
+
+Part I – Machiavelli, Bagehot and the CPFF
+Had the Fed wanted to lower the prices of the Commercial Paper Funding Facility (CPFF)
+and the Money Market Mutual Fund Liquidity Facility (MMLF), it would have done so by now.
+The CPFF’s price at OIS+110 bps for A1/P1 issuers and OIS+200 for A2/P2 issuers is
+high relative to other programs, most of which are priced at 25 bps flat or OIS+25 bps.
+The main reason for the pricing gap is that the low-priced facilities – the discount window,
+the PDCF, the U.S. dollar swap lines and the FIMA repo facility – are all secured, but the
+CPFF and the MMLF are unsecured, and the Fed is using their price to mitigate the
+credit risk of buying unsecured bank debt. But there is an easy way to fix this problem: all
+the Fed would have to do is ask for a bigger first loss buffer from the U.S. Treasury, and
+lower the price on the facilities in exchange – to say OIS+25 bps for A1/P1 issuers.
+The fact that the Fed has not done this in recent weeks is telling…
+…given all the other things the Fed has done, which include launching three new facilities
+to backstop the credit market, and temporarily exempting reserves and Treasuries from the
+leverage ratio (SLR). Why does the price of the CPFF remain far above other facilities’?
+There are at least two possible answers.
+First, maybe the Fed is sending us a Machiavellian message on benchmark rate reform:
+Libor is going away and SOFR is the future, and if one-sided borrowers like the Treasury
+or corporate treasurers were reluctant to issue SOFR-linked debt as they were put off by
+periodic spikes in repo rates in the past, they should reconsider. The Fed has shown a
+strong willingness and ability to police the SOFR rate through a low-priced repo facility,
+but it backstopped unsecured markets – which drive Libor – at much wider spreads.
+Borrowers now have a choice: in times of stress borrow at a low SOFR rate plus a spread
+or at a high Libor rate plus a spread. SOFR may come out of this crisis with stronger legs.
+Second, the answer may have less to do with Machiavelli and more to do with Bagehot:
+“central banks should lend freely to solvent firms against good collateral at a penalty rate”.
+Central banks do their core activities – open market operations and emergency lending –
+on a collateralized basis: the discount window lends to banks at 25 bps against collateral;
+the PDCF – the discount window for primary dealers – also lends at 25 bps collateralized;
+the repo facility lends to primary dealers at the IOR rate against U.S. Treasury collateral;
+the FIMA repo facility lends to central banks at IOR+25 bps also versus Treasuries; and
+the dollar swap lines lend to central banks at OIS+25 bps versus local currency collateral.1
+No one can say that the Fed has not done enough to backstop the core of the system:
+core assets like Treasuries are backstopped; core institutions like banks and dealers
+are backstopped; and core funding markets like repos and FX swaps are backstopped too.2
+Money is hierarchical…
+…and during crises, rules are flexible at the core and rigid at the periphery. In this crisis,
+the penalty rate part of Bagehot’s rule was replaced with “friendly” rates for the core –
+with Covid-19 there is no moral hazard in lending to the core of the system at low rates.
+
+1
+
+Liquidity absorbing facilities like the o/n reverse repo (RRP) facility or the foreign RRP facility are also collateralized, but
+in the case of these facilities it is the Fed that provides collateral. Central bank operations are always collateralized.
+
+2
+
+Implicit in this web of backstops is that the dollar needs of emerging market (EM) economies are backstopped too, to
+the extent that EM central banks have a sufficient amount of U.S. Treasuries to repo privately or through FIMA repo.
+
+Global Money Notes #29
+
+2
+
+14 April 2020
+
+But ignoring the need for collateral when lending to the periphery is anathema for the Fed,
+and given the unsecured nature of the CP market, it’s understandable why the price of the
+CPFF and MMLF facilities are 100 bps higher than the price of collateralized facilities.3
+Once again, there is a way to get around the Fed’s discomfort around lending unsecured,
+which is the U.S. Treasury increasing the first loss buffer backing the CPFF and MMLF.
+We doubt that U.S. Treasury would say no to such a request and if the Fed hasn’t asked
+the Treasury for a bigger first loss buffer, that may suggest that the Fed is intent on either
+delivering the Machiavellian message above or drawing a stark contrast between the
+terms of lending secured versus unsecured, and lending to the core versus the periphery.
+It appears that according to the Fed’s mental map, prime funds are peripheral institutions,
+commercial paper is a peripheral funding market and Libor is a vestige of the past, and
+government funds are core institutions, repos and FX swaps are core funding markets
+and SOFR is the future. Instead of arguing for lower rates on the CPFF and the MMLF,
+maybe the market should reflect and listen to what the Fed is trying to say with its pricing.
+Let’s assume that the pricing of the CPFF and MMLF will not change from current levels:
+could U.S. dollar Libor-OIS spreads still tighten materially from their peak and if yes, how?
+The answer is yes: Libor-OIS started to tighten already without a lower price on the CPFF
+(see Figure 1), and further significant tightening is likely by the end of April. How?
+In previous issues of Global Money Notes we compared money markets to a cake…
+…sponge, cream, sponge, cream.
+Cakes have a bottom layer and a top layer and stuff in-between. In dollar funding markets
+the bottom layers are the fed funds/OIS curve and the general collateral (GC) repo curve
+and the top layer is made up of FX swap implied curves from the main funding currencies.
+Unsecured rates – and hence U.S. dollar Libor – typically trade in-between (see Figure 2):
+it is unusual for Libor to go through the top layer and to stay there for a sustained period,
+which is to say that if the Fed can lower the top layer with the U.S. dollar swap lines,
+Libor will fall back into range irrespective of whether the price of the CPFF is lower or not.
+That’s because commercial paper and Libor trading above FX swap implied yields mean
+that Libor-Libor cross-currency bases are trading positive. In turn that means that it’s
+cheaper for Libor panel banks to raise funding in yen, euros, sterling, and Swiss francs
+and swap it to U.S. dollars, than to issue U.S. dollar commercial paper onshore in the U.S.
+Banks headquartered in these currency zones can bid up local currency funding and bid
+for dollars in the FX swap market until Libor-Libor bases go into negative territory again.
+In fact, we started to see these funding arbitrage trades gather momentum last week as
+Libor-OIS spreads traded considerably wider for the euro and sterling, and corresponding
+OIS-OIS cross-currency bases started to go more negative once again (see Figures 3-6).
+Banks headquartered in these currency zones have around 40 bps more to squeeze
+from their local funding markets and corresponding OIS-OIS bases, respectively, before
+the arbitrage disappears. This is how U.S. dollar Libor-OIS spreads can fall to 75 bps by
+the end of April, which would put U.S. dollar Libor 40 bps below the price of the CPFF –
+so healing in the commercial paper market is possible without a lower price on the CPFF.
+
+3
+
+The MMLF is the secondary market cousin of the CPFF. The MMLF provides prime money funds with a liquidity put to
+the Fed at a price of the discount window rate plus 100 bps, or 125 bps. This discount rate is a floor under CP rates.
+Prime funds would not buy CP at lower yields. If they did, they couldn’t cover the cost of raising liquidity from the Fed.
+
+Global Money Notes #29
+
+3
+
+14 April 2020
+
+Part II – Balance Sheet Relief and OIS-OIS Bases
+Further tightening in U.S. dollar Libor-OIS spreads is possible during the course of May,
+if FX swap implied yields fall and OIS-OIS cross-currency bases go less negative from here.
+This is where the interaction between some of the Fed’s new liquidity facilities and
+recent regulatory changes becomes important: the U.S. dollar swap lines, Section 402
+of the Crapo Act, the temporary exclusion of Treasuries and repos from the leverage ratio,
+and changes to the pricing of the FIMA repo facility can all increase the flow of dollars
+through FX swaps to non-banks and drive OIS-OIS cross-currency bases less negative.
+The U.S. dollar swap lines are currently lending close to $400 billion (see Figure 7) –
+this means that foreign banks consume that much less dealer balance sheet and
+corresponding risk capital to get the dollars they need. They now get those dollars from
+central banks, and dealers have more balance sheet to lend to non-banks via FX swaps.
+Section 402 of the Economic Growth, Regulatory Relief and Consumer Protection Act
+(otherwise known as the Crapo Act) of 2018 went into effect last week, on April 1, 2020,
+and like the swap lines, it also increases the flow of dollars to non-banks via FX swaps.
+Section 402 exempts central bank deposits from the calculation of the SLR for custodians,
+namely for The Bank of New York Mellon Corporation, Northern Trust Corporation, and
+State Street Corporation. Importantly, under the exemptions granted by Section 402,
+central bank deposits refer not only to deposits at the Fed, but also to deposits at any
+central bank of a member country of the OECD. This means that Section 402 increases
+custodian banks’ ability to swap the U.S. dollar liquidity injected by the Fed through QE
+for deposits at the BoJ, the ECB, the SNB, the BoE and the BoC and other central banks.
+Section 402 thus boosts the flow of U.S. dollars in the FX swap market:
+as QE stuffs the custodians with reserves, they will lend more to non-banks via FX swaps;
+the limit to these flows will be custodians banks’ Tier 1 leverage ratios, but the banks’
+voluntary suspension of stock buybacks for the duration of the crisis will delay that limit, so
+“limitless FX swap books” at custodian banks is a game changer we should be aware of.
+Next, the temporary exclusion of reserves and U.S. Treasury securities from the SLR is a
+highly “unusual” rule change. First, it’s been issued by the Board of Governors of the Fed,
+not including the Fed’s supervisory peers from the FDIC and the OCC as it’s customary.
+Second, given that the Board has sole jurisdiction over bank holding companies only
+– it shares jurisdiction over banks with the FDIC and the OCC – the exemption applies
+to U.S bank holding companies and U.S. intermediate holding companies of foreign banks
+and the key operating subsidiaries of such holding companies, which are primary dealers.
+Third, given that the operating entities the exemption applies to are primary dealers,
+exempting reserves from the SLR is meaningless since primary dealers don’t have any –
+only banks have reserve accounts at the Fed. So where do these contradictions leave us?
+In our reading, the net impact of this rule will be that primary dealers will be able to run
+“limitless Treasury inventories”, which, if need be, will be financed via repos by the Fed.
+In that sense, the Board of Governors of the Fed is “drafting” the dealer community
+to take part in the war effort – by financing the war on Covid-19. Paraphrasing Churchill:
+“we give you the balance sheet, and you’ll finish the job”.
+One detail of the exemption that’s still not clear is whether repos backed by Treasuries
+will also be exempt from the SLR. Given that the exemption applies to primary dealers,
+and that repo is the bread-and-butter activity of dealers, our working assumption is that
+repos will be exempt too by mid-May, by the time rule change’s comment period is over.
+Global Money Notes #29
+
+4
+
+14 April 2020
+
+If our assumption is right and repos are exempt from the SLR, primary dealers can run
+“limitless repo books”, similar to how they can now run limitless Treasury inventories,
+with one caveat: repos have risk weights and Treasuries do not, so Tier 1 leverage ratios
+can limit the size of repo books. But here too, buyback suspensions will delay that limit.
+Limitless repos in turn mean even more lending of dollars to non-banks via FX swaps:
+if balance sheet for repos is freely available, any hedge fund or asset manager
+can repo more Treasuries for dollars to lend more to non-banks in the FX swap market.
+To pull three balance sheet relief themes together: as central banks lend more to banks
+through the swap lines, custodian banks lend more in the FX swap market thanks to
+Section 402, and dealers finance more Treasuries for hedge funds and asset managers
+thanks to the relaxation of the SLR, the flow of dollars in the FX swap market improves –
+FX swap implied yields can fall further and OIS-OIS bases can go less negative from here.
+The FIMA repo facility has the potential to provide further balance sheet relief.
+The facility allows central banks to repo Treasuries with the Fed, and if central banks
+shift their repo needs from the dealers to the Fed, dealers will have more balance sheet to
+offer to hedge funds and asset managers to lend even more to non-banks via FX swaps.
+The Fed seems to think of the facility as a swap line for central banks without a swap line:
+whereas some central banks can use their own currency to borrow U.S. dollars through
+the swap lines, some central banks cannot – the FIMA facility is for these central banks.
+Because the Fed sees the facility is a quasi-swap line, it is pricing it at IOR+25 bps, in line
+with the price of the swap lines.4 But at IOR+25 bps, or 35 bps, it is priced relatively high
+compared to private repo rates, which explains why foreign central banks are not using it.
+The FIMA repo facility is the only live facility of the Fed that’s not being used.
+That could suggest that the Fed should not think of the FIMA facility as a quasi-swap line,
+because there is a big difference between one pledging foreign currency for U.S. dollars
+and one pledging Treasuries for U.S. dollars: one is called an FX swap; the other a repo.
+Were the Fed to lower the price on the FIMA repo facility from IOR+25 bps, or 35 bps,
+to the price of the repo facility for primary dealers, which offers liquidity at IOR, or 10 bps,
+the usage of the facility would increase as foreign central banks shift their repo needs
+from private dealers to the Fed. That would free up more balance sheet for FX swaps,
+and lead to further declines in FX swap implied yields and less negative OIS-OIS bases.
+In our view, the liquidity facility that’s overdue for a price change is the FIMA repo facility,
+and not the CPFF: a lower rate on FIMA repos can push U.S. dollar Libor lower indirectly.
+The liquidity the Fed is pumping into the system, combined with balance sheet relief
+coming from both regulatory changes and the liquidity facilities means that the drivers of
+dollar funding stresses under Basel III – liquidity shortages and balance sheet constrains –
+are about to disappear from our radars for the foreseeable future. In turn, if these drivers
+were what kept FX swap implied yields high and OIS-OIS cross currency bases negative,
+their absence can push FX swap implied yields lower and OIS-OIS bases less negative.
+OIS-OIS bases can go as high as -25 bps, in line with the price of the Fed’s swap lines,
+and that can tighten U.S. dollar Libor-OIS further to around 25 bps by the end of May.
+
+4
+
+The Fed’s U.S. dollar swap lines are priced at OIS+25 bps. Because the dollar swap lines offer term U.S. dollars,
+they are priced off of OIS. But the FIMA repo facility offers only overnight U.S. dollars and so it is priced off of IOR.
+
+Global Money Notes #29
+
+5
+
+14 April 2020
+
+Part III – FX Reserve Managers and U.S. Dollar Libor-OIS
+Clearly, there is a lot of moving parts in funding markets and as everything falls into place,
+FX swap implied yields will grind lower and OIS-OIS cross-currency bases less negative,
+and these dynamics will bring down commercial paper yields and tighten Libor-OIS,
+so the Fed is right not to lower the price on the CPFF yet. We’ll see how things play out
+given the existing lending and regulatory responses. The signs so far are encouraging…
+Other than less negative OIS-OIS bases, FX reserve managers could also help Libor-OIS
+by providing a much needed backstop bid for the commercial paper and deposit markets.
+The problem with the U.S. commercial paper market currently is that the usual buyers
+– corporate treasurers, prime money funds, offshore money funds and securities lenders –
+are not buying. Corporate treasurers usually have excess cash but now they do not;
+prime and offshore money market funds had big outflows and are unwilling to term out;
+and securities lenders won’t have cash inflows and won’t term out until risk is definitely on.
+U.S. dollar Libor-OIS spreads reflect problems with buyers, not problems with banks.
+During past episodes of money market dislocations, medium-term bond funds stepped in
+with a backstop bid for commercial paper and that backstop bid was what started to drive
+Libor-OIS spreads in. But this time around, medium term bond funds are absent as they
+chase better yields in the IG market, where paper trades 200 bps over three-month Libor.
+With the usual backstop bid for commercial paper absent, and the CPFF priced too wide,
+foreign central banks have a potential role to play as buyers of U.S. commercial paper:
+foreign central banks with access to the dollar swap lines are not in a position where they
+have to liquidate their U.S. dollar reserves, and if they don’t, they leave money on the table.
+First, if they lend their dollars in the FX swap market, they are leaving money on the table
+because commercial paper – as implied by U.S. dollar Libor – offers better yields than
+lending dollars versus euros, sterling and yen for example (see Figures 4, 6, and 8).
+Second, if they lend dollars in the Treasury market, they are leaving money on the table too
+because commercial paper offers yields that are at least 100 bps better than Treasuries.
+Switching from FX swaps and Treasuries to commercial paper should not be a big deal:
+while FX swaps are secured and commercial paper is unsecured, the global banks (GSIBs)
+that are the biggest issuers of commercial paper do not pose a credit risk given that they
+are on liquidity support in every jurisdiction they operate in. Furthermore, most the
+commercial paper issued by banks funds portfolios of high-quality liquid assets (HQLA)
+like reserves and Treasuries, so really, commercial paper is basically HQLA in a “gift-wrap”.
+The relative value case for commercial paper and certificates of deposit are compelling,
+and if central banks backstop the commercial paper market below the price of the CPFF,
+then U.S. dollar Libor-OIS spreads could drop to as low as 50 bps by the end of April,
+independent of the FX swap market dynamics that we have discussed on the prior pages.
+And then there is the obvious…
+…general risk on, the equity market rally, inflows into prime funds and securities lenders
+which will all help the bid for commercial paper and certificates of deposit, and of course
+the Fed may listen to the consensus and lower the price on the CPFF and the MMLF.
+These things can all improve Libor-OIS spreads, but their timing is uncertain.
+Our aim with this analysis was to show how absent any improvement in the obvious drivers
+of front-end dynamics, there is a lot of war finance in motion already that will ease
+unsecured funding pressures from the top down: by compressing FX swap implied yields
+and potentially by bringing central banks in as marginal buyers of unsecured bank debt.
+Global Money Notes #29
+
+6
+
+14 April 2020
+
+Conclusion
+Our analysis showed how the machinery of war finance can ease unsecured funding
+pressures from the top down: by compressing FX swap implied yields and OIS-OIS bases.
+But bill supply can complicate this picture from the bottom up.
+Bill supply last week pushed Treasury bill yields from below OIS to 20 bps above OIS, and
+further supply without yield curve control could push bill yields higher, which would risk
+undoing the improvement that the Fed’s liquidity and regulatory measures helped engineer:
+higher bill yields could pull funds away from the FX swap market as foreign central banks
+put their dollars into bills, not FX swaps, and as bill-OIS spreads grind more positive,
+they will push FX swap implied yields higher, OIS-OIS cross-currency bases more negative
+and that will limit how much more U.S. dollar Libor-OIS spreads can tighten from here.
+For all the talk about the war on an invisible enemy and war finance, we haven’t heard
+from the Debt Management Office of the Treasury and the Fed about the need for the
+monetary financing of the CARES Act and further stimulus measures. The exemption of
+Treasuries from the leverage ratio frees up demand for supply (“limitless inventories”),
+but the near-term supply of bills is too much and can push bills yields higher from here,
+risking a reversal to the improved funding conditions the Fed worked so hard to achieve.
+The Fed has done a lot…
+…and yield curve control where they peg three month Treasury bill yields at OIS rates
+and is the only thing the Fed has not done yet, but soon will have to. The target range
+for overnight rates and the OIS curve – the bottom layer of the money market cake –
+are the Fed’s monetary sanctum. Everything the Fed does is priced based on variables
+within that sanctum: the top of the band, IOR, IOR plus a spread and OIS plus a spread.
+The fiscal authority should not breach the Fed’s sanctum in money markets and
+the monetary authority shouldn’t tolerate a breach – especially in the current environment.
+The monetary authority should cap the bill curve at OIS rates so that money market rates
+do not get pushed around by bill supply and do not offset the impact of liquidity injections.
+
+Global Money Notes #29
+
+7
+
+14 April 2020
+
+Figure 1: U.S. Dollar Libor-OIS
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 2: U.S. Dollar Libor Usually Doesn’t Trade above FX Swap Implied Rates
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #29
+
+8
+
+14 April 2020
+
+Figure 3: EURIBOR-OIS
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 4: FX Swap Implied Cost of Dollar Funding from €
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #29
+
+9
+
+14 April 2020
+
+Figure 5: Sterling Libor-OIS
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 6: FX Swap Implied Cost of Dollar Funding from £
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #29
+
+10
+
+14 April 2020
+
+Figure 7: Swap Lines for Banks means more FX Swaps for Non-Banks
+$ billions
+425
+
+9
+
+400
+
+7
+
+375
+350
+
+5
+
+325
+
+300
+3
+
+275
+250
+
+1
+225
+200
+-1
+175
+150
+
+-3
+
+125
+100
+
+-5
+
+75
+50
+
+-7
+
+25
+0
+
+-9
+15
+
+16
+
+17
+
+18
+
+19
+
+$ swap lines with maturities of 15 days or less
+
+$ swap lines with maturities of 16-90 days
+
+$ swap lines with central banks, $ bn (weekly average)
+
+$ swap lines with central banks, $ bn (Wednesday snapshots)
+
+20
+
+Source: Federal Reserve
+
+Figure 8: FX Swap Implied Cost of Dollar Funding from ¥
+percent
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #29
+
+11
+
+14 April 2020
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as "Contributors"
+and not by Credit Suisse's Research Department. The information contained in this document has been provided as general market
+commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial advice or service. It is intended
+only to provide observations and views of the Investment Strategy Department, which may be different from, or inconsistent with, the
+observations and views of Credit Suisse Research Department analysts, other Credit Suisse departments, or the proprietary positions of Credit
+Suisse. Observations and views expressed herein may be changed by the Investment Strategy Department at any time without notice. Credit
+Suisse accepts no liability for losses arising from the use or reliance on of this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a limited view of a
+particular market. It is not investment research, or a research recommendation for regulatory purposes, as it does not constitute substantive
+research or analysis. The information provided is not intended to provide a sufficient basis on which to make an investment decision and is not
+a personal recommendation or investment advice. While it has been obtained from or based upon sources believed by the trader or sales
+personnel to be reliable, each of the trader or sales personnel and Credit Suisse does not represent or warrant its accuracy or completeness
+and is not responsible for losses or damages arising from the use or reliance on of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. Where distribution of this
+material is subject to the rules of the U.S. Commodity Futures Trading Commission (“CFTC”), [generally] it is a “solicitation” of derivatives
+business only as that term is used within CFTC Rule 1.71 and 23.605 promulgated under the U.S. Commodity Exchange Act (the “CFTC
+Rules”) where applicable, but is not a binding offer to buy/sell any financial instrument. The views of the author may differ from others at
+Credit Suisse Group (including Credit Suisse Research).
+Credit Suisse is acting solely as an arm’s length contractual counterparty and not as a financial adviser (or in any other advisory capacity
+including tax, legal, accounting or otherwise) or in a fiduciary capacity. Any information provided does not constitute advice or a
+recommendation to enter into or conclude any transaction. Before entering into any transaction, you should ensure that you fully understand
+the potential risks and rewards and independently determine that it is appropriate for you given your objectives, experience, financial and
+operational resources, and other relevant circumstances. You should consult with such advisers (including, without limitation, tax advisers, legal
+advisers and accountants) as you deem necessary.
+No part of this material may be reproduced, retransmitted disclosed or distributed in any manner without the prior written permission of Credit
+Suisse.
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU accepts responsibility
+for its contents. Clients should contact analysts and execute transactions through a Credit Suisse subsidiary or affiliate in their home
+jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any of the
+products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK laws, which differ from
+Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are exempt from the requirement to hold
+an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the financial services provided to Australian wholesale
+clients (within the meaning of section 761G of the Corporations Act) (hereinafter referred to as “Financial Services”). This material is not for
+distribution to retail clients and is directed exclusively at Credit Suisse's professional clients and eligible counterparties as defined by the FCA,
+and wholesale clients as defined under section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and
+regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL
+does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of Credit Suisse
+Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws, which differ from Australian
+laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing
+Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the Securities and Exchange Commission under US laws,
+which differ from Australian laws. CSAM does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations
+Act in respect of providing Financial Services. Credit Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder
+in Australia (AFSL 237237). In Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act.
+CSEAL is not an authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit
+Suisse AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance of any
+products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2020 Credit Suisse
+Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #29
+
+12
+
+14 May 2020
+Investment Solutions & Products
+Global
+Credit Suisse Economics
+
+Global Money Notes #30
+Singularity
+In astrophysics, singularity refers to infinite density at the center of a black hole,
+and the earliest state of the universe – before the Big Bang. In money markets,
+we define singularity as an “infinite” tightness of spreads at the zero bound.
+Singularity is nigh, and its gravitational pull can drive the U.S. dollar Libor-OIS
+spread tighter from its current level, to the 10-20 bps range by the end of June.
+
+CONTRIBUTOR
+
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+The dollar swap lines, together with strong inflows to prime money funds
+continue to pull unsecured funding rates and hence U.S. dollar Libor lower, and
+we don’t share the market’s concerns over the coming supply of Treasury bills
+and we don’t think that bill supply will push U.S. dollar Libor-OIS spreads wider.
+While $1.25 trillion of Treasury bills over the next two months sounds like a lot,
+it’s actually not that much relative to the scale of the Fed’s liquidity injections,
+and the availability of a standing repo facility and dollar swap lines at low rates.
+We see three pools of liquidity that will easily absorb $1.25 trillion in bill supply:
+First, QE will add $300 billion of reserves, and the Treasury bringing down its
+cash balances by $400 billion will add that many reserves by the end of June.
+Both will increase inflows to government money funds which will recycle inflows
+into bills directly, or indirectly by funding dealers and hedge funds through repos.
+Second, the exemption of reserves and U.S. Treasuries from the leverage ratio
+and corresponding adjustments to the calculation of G-SIB scores will free up
+$200 billion of balance sheet for dealers to run larger Treasury bill inventories.
+If there won’t be sufficient funding for this from money funds in the repo market,
+the Fed will be glad to provide funding through the repo facility at just 10 bps.
+Third, if bill yields were to go as high as 25 bps, there is a deep pool of dollars
+in the global FX swap market that would trade out of German and French bills
+and buy U.S. bills instead – let’s assume at least $200 billion on the margin.
+If these outflows stress the FX swap market, the Fed’s dollar swap lines will
+soothe it at OIS+25 bps… and just like that, we absorbed $1.1 trillion of bills.
+The rest can be bought by the Fed, if necessary.
+Governor Quarles’ recent letter to Senator Crapo suggests the Fed wants to make
+carrying reserves less punitive for banks. Negative rates would do the opposite;
+yesterday, Chair Powell left the question of negative interest rates at that...
+Important Information
+THIS IS NOT RESEARCH. PLEASE REFER TO THE IMPORTANT DISCLOSURES AND CONTACT YOUR CREDIT SUISSE
+REPRESENTATIVE FOR MORE DETAILS. This report represents the views of the Investment Strategy Department of Credit Suisse and
+has not been prepared in accordance with the legal requirements designed to promote the independence of investment research. It is not a
+product of the Credit Suisse Research Department and the view of the Investment Strategy Department may differ materially from the views
+of the Credit Suisse Research Department and other divisions at Credit Suisse, even if it references published research recommendations.
+Credit Suisse has a number of policies in place to promote the independence of Credit Suisse’s Research Departments from Credit Suisse’s
+Investment Strategy-and other departments and to manage conflicts of interest, including policies relating to dealing ahead of the
+dissemination of investment research. These policies do not apply to the views of Investment Strategists contained in this report.
+
+14 May 2020
+
+This issue of Global Money Notes has four parts.
+Part one reviews the main factors that drove U.S. dollar Libor-OIS wider and then tighter.
+Part two estimates the upper bound for U.S. dollar Libor-OIS at the zero lower bound.
+Part three looks at the inner workings of war finance and explains why the financial system
+will be able to absorb $1.25 trillion of Treasury bills fairly easily. Finally, part four concludes.
+
+Part I – A Morbidity Review of U.S. Dollar Libor-OIS
+Prime money funds suffered outflows of $150 billion during the last two weeks of March,
+and reversed about a half of those outflows since the middle of April (see Figures 1 and 2).
+Over these two months, foreign banks toggled between three private funding channels:
+First, during the last two weeks of March, they relied on U.S. primary dealers to issue
+short-term U.S. dollar unsecured debt (CD/CP), while prime funds struggled with outflows.
+Second, during the first half of April, they raised local currency and swapped it for dollars,
+enabled by the rapid normalization of the FX swap market thanks to the dollar swap lines.
+Third, from mid-April, they started to issue CD/CP in volume to prime money market funds
+once again, using rapidly falling FX swap implied funding rates to lock in low CD/CP rates.
+These three funding phases correspond to the rapid widening, the inflection point and
+the equally rapid tightening of the U.S. dollar Libor-OIS spread during the past two months.
+During the first phase, during the last two weeks of March, the three-month U.S. dollar
+Libor-OIS spread widened by 120 bps, and dealers’ CD/CP inventories rose by $20 billion.
+Foreign banks without a dealer arm in the U.S. rely on U.S.-headquartered dealers to
+underwrite and distribute their short-term debt, and as prime funds stopped buying,
+dealers went from “underwrite and distribute” to “underwrite and hold” – for a spread:
+dealers were underwriting CD/CP at rates as high as 2.5% the last two weeks of March,
+while the Primary Dealer Credit Facility (PDCF) – the discount window for primary dealers –
+became operational on March 17th, offering primary dealers secured funding at 25 bps.
+Figure 3 shows primary dealers’ holdings of CD/CP alongside their usage of the PDCF:
+dealers were basically buying CD/CP from foreign banks at 2.5% and funded at 25 bps.
+During the second phase, during the first half of April, Libor-OIS peaked and began to fall.
+Libor-OIS peaked on April 1st, and this peak happened around the same time when
+FX swap implied yields at the three-month point started to show material improvement:
+while the Fed switched to daily U.S. dollar swap operations on March 20th with an
+expanded list of central banks, the Japanese fiscal year-end kept the FX swap market
+stressed for all major currencies through the end of March, as lenders of U.S. dollars
+shifted their lending to earn higher FX swap implied yields in yen and lent less elsewhere.
+But by the first week of April, the Japanese year-end turn was over, and Figure 4 shows
+that the Fed’s lending of U.S. dollars through the swap lines reached some critical mass –
+these developments pulled FX swap implied yields for most major currencies lower.
+In turn, lower FX swap implied yields opened a new funding channel for foreign banks
+– raising local currency funding and swapping it for U.S. dollars – which helped them
+diversify their funding away from dealers’ exorbitant rates starting the first week of April.
+During this phase, Libor-Libor cross-currency bases went sharply positive for the euro,
+the Swiss franc, sterling and yen, which started to put pressure on EURIBOR-OIS and
+Libor-OIS spreads (see Figures 5 and 6) – effectively, as the Fed flooded the world with
+dollars through the swap lines, it exported unsecured funding pressures as a byproduct.
+These flows were the key reason behind our conviction that U.S. dollar Libor-OIS spreads
+were about to rapidly normalize during April as discussed in our previous issue (see here).
+Global Money Notes #30
+
+2
+
+14 May 2020
+
+During phase three, which began mid-April, just when we published our previous issue,
+Libor-OIS went into a freefall: during the last two weeks of April Libor-OIS fell 62 bps.
+The freefall had two drivers: the dynamics from the second phase gathering momentum
+– as expected – and big inflows to prime money market funds – which came unexpected.
+Falling FX swap implied costs of dollar funding – a combination of small increases in local
+EURIBOR-OIS and Libor-OIS spreads and big declines in FX swap implied yields –
+combined with big inflows to prime money market funds quickly changed the dynamics in
+U.S. unsecured funding markets. Inflows to prime funds during the last two weeks of April
+brought marginal liquidity back to the U.S. dollar CD/CP markets, and foreign banks used
+falling FX swap implied costs of dollar funding as leverage to extract low rates from
+prime money market funds – foreign banks went from being price takers in late March,
+to being price makers by mid-April. Over the course of one month, the CD/CP market
+went from trading around 2.5% in late March to trading around 50 bps by the end of April.
+Figures 7, 8 and 10 show how the constellation of U.S. dollar funding/lending rates
+changed as we transitioned from the first to the second phase, and where we are today.
+Figure 7 shows the global dollar funding market in a state of disarray on March 31st –
+the day that marks the end of phase one, and the apex of U.S. dollar Libor at 145 bps.
+The figure shows the full range of borrowing/investment options involving U.S. dollars:
+the blue, brown and orange square-shaped markers show onshore and FX swap-based
+OIS, generic government bill and Libor yields; the lone green marker shows where
+foreign banks issued short-term unsecured debt in the onshore U.S. dollar CD/CP market;
+and, the red dashed lines show the maximum level for each FX swap-based category.
+We show these yields at the three-month point for all the major countries/currencies
+where the list of U.S. dollar Libor panel banks are headquartered, plus the Australian dollar.
+The Fed’s cuts brought onshore OIS and Treasury bill yields to zero, but U.S. dollar Libor
+was still in the stratosphere, and foreign banks raised short-term U.S. dollar funding from
+U.S. primary dealers at Libor-like levels on average, and some high as 2.5% (see above).
+Looking at FX-swap implied yields, lending U.S. dollars and reinvesting foreign currency
+in central bank deposits or government bills – depending on one’s place in the hierarchy –
+yielded significantly more than leaving cash at the Fed or buying U.S. Treasury bills;
+this yield pickup was close to 150 bps for the yen and at least 50 bps for other currencies.
+FX swap-implied yields in bank funding markets were also high, and in some countries,
+for example in Canada and Japan, they were even higher than U.S. dollar Libor fixings.
+For European financial centers – London, Frankfurt, Paris, and Zurich – FX swap-implied
+funding costs were lower than U.S. dollar Libor fixings, but this was a risk off environment
+and most institutional lenders of U.S. dollars in the FX swap market were only willing to
+reinvest local currency collateral in deposits at central banks or generic government bills…
+…but not unsecured bank debt. As such, foreign banks could not get around funding at
+exorbitant rates with U.S. primary dealers and at U.S. dollar Libor-like levels on average –
+foreign banks were still price takers of U.S. dollar funding in unsecured funding markets.
+Figure 8 shows the state of dollar funding markets on April 14th – the end of phase two.
+Compared to the second half of March, the first half of April was a “risk on” environment
+– by mid-April, the S&P500 was up by over 20% from its trough reached in mid-March.
+FX swap implied yields in bank funding markets fell considerably and with “risk on”,
+foreign banks could now tap unsecured funding markets in euros, sterling and yen locally
+and then swap local currency funding for U.S. dollars at rates that were at least 25 bps
+and at most 50 bps lower than rates that prevailed in U.S. unsecured funding markets.
+Global Money Notes #30
+
+3
+
+14 May 2020
+
+Canada was the only exception, where the lack of an o/n RRP-like facility to absorb the
+excess liquidity added by the Bank of Canada and the collapse in oil prices drove the
+U.S. dollar/Canadian dollar cross-currency basis more negative at the tomorrow-next and
+three-month points, respectively, which kept U.S. dollar funding costs high in Toronto. 1
+FX swap implied yields involving central bank deposits and generic government bills
+also fell considerably for the major currencies, as the flood of U.S. dollars flowing through
+the swap lines worked their way through the system. FX swap implied yields for the
+Japanese yen remained relatively high, however, as most of the demand for U.S. dollars
+through FX swaps in Japan – and the world in fact – comes from Japanese life insurers
+that do not have access to the Fed’s U.S. dollar swap lines through the Bank of Japan.
+According to the Bank of Japan, life insurers’ U.S. dollar needs in the FX swap market
+exceed $1 trillion, which outweighs the need of banks by a factor of four (see Figure 9).
+In contrast, in other jurisdictions, banks’ U.S. dollar needs in the FX swap market
+are much bigger than those of life insurers, pension funds or asset managers combined,
+so bank’s access to the Fed’s U.S. dollar swap lines through local central banks helped
+bring down FX swap implied yields for other currencies more than for the Japanese yen.
+Figure 10 shows the state of dollar funding markets today – that is, phase three-to-date.
+The main theme of phase three is the return of liquidity to the U.S. CD/CP market
+and foreign banks using the ongoing fall in FX swap implied costs of U.S. dollar funding
+to extract low rates on CD/CP issued to prime money market funds. The top and bottom
+green dashed lines show the highest and lowest rates at which foreign banks have issued
+CD/CP in recent days (based on our conversation with brokers and foreign banks), and
+the middle green dashed line shows where CD/CP has traded on average in recent days.
+CD/CP now trades near the FX swap implied cost for U.S. dollar funding from euros and
+Swiss francs, and some of the extreme low CD/CP prints have come from foreign banks
+– predominantly Scandinavian banks – that typically issue only when they can swap the
+U.S. dollars they raised unsecured back to euros or other currencies at a positive spread.
+Unsecured spreads are thus low – they’re back to “normal”. Where will they go from here?
+Provided that the inflows to prime funds continue, low yields on U.S. Treasury bills will
+continue to drag CD/CP rates lower, as at the zero bound the “laws of physics” change…
+…anything with a substantially non-zero yield has strong demand for it. Strong demand
+from prime funds for CD/CP also coincides with a decline in the structural supply of CD/CP
+– think of the fact that foreign banks have raised $450 billion through the swap lines, and
+some of that funding naturally reduces the amount of CD/CP foreign banks need to issue.
+Strong inflows into prime funds driving demand for U.S. dollar CD/CP, combined with the
+decline in the structural supply of U.S. dollar CD/CP as foreign banks use the swap lines
+points to a perfect storm where U.S. dollar Libor-OIS spreads can compress further still…
+…but to what level? 25 bps as implied by the June FRA-OIS contract or tighter still?
+To answer that question, we need to have a view on the upper bound of non-U.S. banks’
+Libor submissions, which is a function of their FX swap-implied cost of U.S. dollar funding.
+1
+
+Growing demand for U.S. dollars in Canada is understandable in the context of collapsing oil prices. In contrast,
+the link between excess Canadian dollar liquidity and strong demand for t/n U.S. dollars is a bit harder to understand:
+demand for t/n U.S. dollars was strong not because Canadian pension funds and other non-bank institutional investors
+needed U.S. dollar funding per se, but rather, because they didn’t have a place to put excess Canadian dollar liquidity
+at home. As a solution, they lent more and more Canadian dollars and borrowed U.S. dollars in the FX swap market,
+and reinvested these U.S. dollars in a much deeper U.S. Treasury bill and repo market than what Canada has to offer.
+
+Global Money Notes #30
+
+4
+
+14 May 2020
+
+Part II – Cakes and Pancakes
+Money markets are like a cake…
+…most of the time, but they can be like pancakes too when we’re at the zero bound and
+we are using the tools of war finance. For as long as inflows to prime money funds
+remain strong, we don’t see a reason why CD/CP rates and hence U.S. dollar Libor
+could not fall more from here on the back of strong demand/reduced supply (see above),
+and why June FRA-OIS could not “pancake” further from here to as low as 10-20 bps.
+That’s the case if Libor panel banks base their submissions on rates in the CD/CP market.
+U.S. banks certainly will, and because most of the liquidity that has been and will be added
+by the Fed has flown and will flow to U.S. banks, their U.S. dollar Libor submissions
+will be relatively low and falling and so will most likely fall out of the U.S. dollar Libor panel.
+But what about foreign banks that may base their submissions on FX swap implied costs of
+U.S. dollar funding? Because FX swap implied costs typically trade above CD/CP rates,
+they determine the upper bound for U.S. dollar Libor submissions and Libor-OIS spreads.
+In the remainder of this section, we’ll try to “forecast” the path of FX swap implied costs
+of U.S. dollar funding and hence the upper bound of the Libor submission of the group of
+U.K., eurozone, Swiss, and Japanese banks that make up the U.S. dollar Libor panel.
+The FX swap implied cost of dollar funding is a simple concept, with three components:
+local currency OIS, the local currency Libor-OIS spreads and FX swap implied yields.
+The path of the last two of these three components is different for each major currency.
+Starting with the local currency component, Libor-OIS spreads for the sterling and euro
+can fall 20 bps and 15 bps from here, respectively, as pressures on local funding markets
+subside now that the U.S. dollar CD/CP market is open again (see Figures 11 and 12).
+Assuming no change in FX swap implied yields, these declines in sterling Libor-OIS and
+EURIBOR-OIS spreads can bring down U.K. and Eurozone banks’ FX swap implied costs
+of U.S. dollar funding – and hence the upper bound of their U.S dollar Libor submissions –
+to about 30 bps at the three-month point. In fact, some U.K. banks are issuing CD/CP
+in the U.S. around 30 bps at the three-month point, and are swapping dollars back to
+sterling to fund in sterling – these flows are helping to normalize both U.S. dollar and
+sterling Libor-OIS spreads, as low dollar CD/CP prints are pulling U.S. dollar Libor lower
+and raising sterling via FX swaps is pulling sterling CD/CP prints and sterling Libor lower.
+What about the path of the FX swap component: is there a room for declines here too?
+We don’t think so.
+Consider that for the euro, sterling and the Swiss franc, ultra front-end – that is, tomnext,
+spotnext and one-week – FX swap implied yields (OIS) trade about one to 10 bps over
+the U.S. dollar OIS rate, and three-month implied yields trade about 10 and 15 bps over
+the U.S. dollar OIS rate. These yields are at or below the rate of the dollar swap lines
+(see Figure 13), and suggest that market makers in the FX swap market make a meager
+spread of 5 to 10 bps sourcing U.S. dollars at the tomnext, spotnext and one week points
+and lending them at the tree-month point. That’s not a lot of “bang” for a market maker’s
+balance sheet, and so further compression of OIS-OIS cross-currency bases are unlikely
+for these currencies as market makers need a minimum spread to keep making markets.
+This also means that further declines in the FX swap implied costs of U.S. dollar funding
+from the sterling and the euro will come solely from declines in local Libor-OIS spreads,
+not FX swaps, and if that happens, the upper bound of U.K. and European banks’
+U.S. dollar Libor submissions will likely drift down to around 30 bps by the end of June.
+Global Money Notes #30
+
+5
+
+14 May 2020
+
+The Japanese yen is a different story.
+The FX swap implied cost of U.S. dollar funding from yen is high relative to other currencies
+due to the FX swap component – the Libor-OIS spread for the Japanese yen is small –
+and the FX swap component is expensive due to non-banks’ U.S. dollar needs (see above).
+Figure 14 shows that FX swap implied yields (OIS) from yen trade well above those from
+the euro, sterling and the Swiss franc, and the FX swap implied yield curve for the yen
+is much steeper than for other currencies, offering market makers much better spreads.
+That means that for the Japanese yen, any decline in FX swap implied funding levels will
+have to come from declines in FX swap implied yields. Three things could bring that about:
+(1) the BoJ giving access to U.S. dollar auction to non-banks, which we don’t expect;
+(2) the Fed lowering the price of FIMA repo facility as discussed previously (see here);
+(3) the SLR exemption for reserves and Treasuries getting extended to other assets.
+Each of these developments would increase the flow of dollars in the $/¥ segment of the
+FX swap market: the first by offering dollars cheaper to non-banks than the market;
+the second by freeing up balance sheet for primary dealers to lend more via FX swaps;
+the third by excluding repos, repo-style transactions, foreign central bank deposits and
+foreign sovereign bonds – each an important cog in the global facilitation of FX swaps –
+from the calculation of the SLR and thereby freeing up more balance sheet for FX swaps.
+The third bit is no fairy tale…
+…the Fed is already working on it. When the Fed issued the temporary exemption of
+reserves and U.S. Treasuries from the calculation of the SLR on April 1st, it also asked
+whether the final rule change – due out on May 15th – should also exclude other assets:
+“Question 2: What additional assets or exposure types should the Board consider to
+exclude temporarily from the SLR in order to achieve the interim final rule’s objectives?
+For example, should the Board exclude deposits at certain foreign central banks and
+foreign sovereign debt instruments […]? Should the Board exclude any specific repo-style
+transactions that would support banking organizations’ role as financial intermediaries [...]?”
+Why, yes! These are easy questions for a dealer to answer…
+…and if granted, these changes will improve the flow of U.S. dollars versus the yen,
+and bring down the outlier – the FX swap implied cost of U.S. dollar funding from yen.
+If that happens, all FX swap implied costs of dollar funding would trade around 30 bps,
+reinforcing our view that the upper bound for U.S. dollar Libor-OIS should be 30 bps.
+But don’t sweat it if these exemptions do not happen, as for calibrating the upper bound
+for Libor submissions, Japanese banks’ high FX swap implied rates will fall out anyway…
+That means that 30 bps on June FRA-OIS is an absolute upper bound, and if inflows to
+prime money funds continue, June FRA-OIS can trade even tighter – to as low as 15 bps.
+But what of bill supply?
+The U.S. Treasury is about to issue about $1.25 trillion of bills by the end of June and
+that will surely pressure bill yields and hence Libor-OIS wider, and ruin the pancake party…
+Maybe, maybe not.
+As we’ve noted in our previous issue, in the extreme, the Fed has the option of buying bills
+or to cap bill yields at OIS or thereabouts. At a “macro” funding level, it would not make
+any sense for the Fed to launch all these new liquidity facilities to bring rates down to zero,
+and then watch passively as bill supply pushes rates away from zero. The Fed shouldn’t,
+and we think won’t let that happen. It will buy bills if it has to. But they may not have to,
+as there are other avenues that can help absorb the flood of bills over the next two months.
+Global Money Notes #30
+
+6
+
+14 May 2020
+
+Part III – Inside War Finance
+As far as core funding markets like U.S. Treasury repos and FX swaps are concerned,
+the Fed is demonstrably intent on providing backstops at extremely generous rates. The
+price of the U.S. dollar swap lines at OIS+25 bps is perhaps the best example of that, as
+it suggests that the Fed doesn’t want the cost offshore dollar funding above OIS+25 bps.
+Given that the offshore dollar funding market – the FX swap market – is the “outer rim” of
+funding markets, if the outer rim is backstopped at OIS+25 bps, all other funding markets
+should trade below that rate too: repos for sure and if prime money fund inflows continue,
+unsecured funding markets too. Furthermore, the Fed’s willingness to backstop banks’
+and dealers’ term funding rates at 25 bps flat through the discount window and the PDCF
+suggests that the Fed doesn’t want to see the cost of onshore funding north of 25 bps.
+But then if onshore and offshore U.S. dollar funding markets, and U.S. and foreign banks
+and dealers are backstopped at 25 bps flat and OIS+25 bps, respectively, why exactly
+does the market worry about the funding needs of the U.S. Department of the Treasury?
+Given the above construct, we’d be surprised to see U.S. Treasury bill yields above
+banks’ backstop funding rate, which means that bill yields can go a maximum of 10 bps
+higher from here before the Fed decides to cap them at OIS or OIS + some small spread.
+But outright bill purchases by the Fed may not even be necessary…
+Consider the following four pockets of liquidity that could each take a chunk of bill supply:
+demand from government money funds and some decline in Treasury’s cash balances;
+demand from central banks; demand from dealers; and demand from asset managers.
+First, the Fed is still buying $35 billion of U.S. Treasuries a week, which will add around
+$300 billion of reserves by the end of June. Like the bulk of liquidity injections to date,
+most of these funds will end up with government money market funds (see Figure 15),
+which will recycle them into bills or repos. Thus, it’s either government funds that will buy
+$400 billion in bills directly or dealers and relative value hedge funds that fund via repos.
+Furthermore, consider that according to the U.S. Treasury’s latest borrowing estimates
+(see here), the target for U.S. Treasury’s cash balances at the Fed is $800 billion for
+the end of June, which is about $400 billion lower than its current level of $1.2 trillion
+(see Figure 16). That’s another $400 billon of reserves in the system in addition to the
+$300 billion from QE, and another $400 billion of inflows for government money funds.
+Second, foreign central banks still park $300 billion at the Fed’s foreign repo pool,
+earning the o/n RRP rate, that is, zero rate of interest. While this pool of money has been
+remarkably sticky, some of it could move into the bill market to earn some positive interest
+– let’s assume $100 billion (maybe the Fed could apply a little bit of incentive here,
+by imposing counterparty caps or negative rates on the foreign repo pool, for example).
+Third, primary dealers were just given more balance sheet through the exemption of
+reserves and U.S. Treasuries from the calculation of the SLR. This rule change can easily
+provide $200 billion of balance sheet for running bigger U.S. Treasury inventories, and
+if funding for these inventories runs out from money funds, the Fed can offer it through
+the o/n repo facility at 10 bps. Given that dealers barely make 10 bps of carry on their
+FX swap books, they’ll be content with buying bills at 20 bps and funding them at 10 bps.
+Fourth, asset managers that lend in the FX swap market could start buying more U.S. bills
+if their yield exceeds the FX swap implied yield of holding German, French and U.K bills
+(see Figure 17). If that will stress the FX swap market, the swap lines will soothe it at
+OIS+25 bps. Let’s assume $100 billion of bill demand from this source and voilà,
+the financial system absorbed $1.25 trillion of bills without a penny purchased by the Fed.
+That’s war finance…
+Global Money Notes #30
+
+7
+
+14 May 2020
+
+Conclusions
+In astrophysics, the concept of singularity refers to infinite density at the center of a
+black hole, and the earliest state of the universe – before the Big Bang. In money markets,
+we define singularity as an “infinite” density of funding spreads at the zero lower bound.
+Singularity is nigh, and its gravitational pull can drive U.S. dollar Libor-OIS spreads tighter,
+to 10-20 bps by mid-June. U.S. Treasury bill supply won’t stand in the way, in our view.
+$1.25 trillion in bill supply over the next two months sounds like a lot, but it’s actually not
+relative to the size of the Fed’s liquidity injections and the availability of liquidity facilities…
+QE keeps adding reserves to the system at a pre-scheduled, $35 billion a week pace;
+the U.S. Department of Treasury running a lower cash balance will add reserves too; and
+foreign central banks “selling” the foreign repo pool and buying bills can add reserves too.
+If these additional reserves aren’t sufficient to absorb bill supply, the Fed can add more:
+the o/n repo facility is there to fund dealers’ U.S. Treasury inventories on the margin, and
+the swap lines are there to lend U.S. dollars to the world at OIS+25 if asset managers
+decide to buy U.S. bills and lend less in the FX swap market and hold fewer foreign bills.
+It’s war finance…
+…and the Fed appears committed to ensure that collateral supply (U.S. Treasury issuance)
+does not outpace the supply of reserves by a crushing margin: ongoing QE ensures that;
+standing liquidity facilities ensure that; and changes to the edifice of Basel III ensure that.
+But there is more…
+Governor Quarles’ letter to Senator Crapo on April 22nd, where he encourages Congress to:
+“consider modifying [the Collins Amendment] of the Dodd-Frank Act to allow regulators to
+ease banks’ Tier 1 leverage requirements as banks respond to increased credit demands”
+also suggests that the Fed is laser focused on ensuring that there is enough balance sheet
+and reserves to meet the U.S. government’s and everyone else’s growing credit needs.
+There is all that to absorb the coming wave of U.S. Treasury bill supply before the
+“nuclear” option – outright purchases of bills and capping bill yields – becomes necessary.
+But what’s the big deal about bill purchases?
+U.S. Treasury bills are the easiest asset for the Fed to buy – it’s the Fed’s natural habitat
+(and for money-fundamentalists, it should be the Fed’s only habitat). If bills are in excess,
+and this excess were to push global dollar funding rates up and away from the zero bound,
+the Fed will simply buy the excess. If the Fed is backstopping the credit market,
+why wouldn’t it backstop its natural habitat? So don’t sweat the tsunami of Treasury bills:
+U.S. dollar Libor-OIS spreads will continue to tighten through June and will stay low beyond.
+Prepare for singularity…
+
+Global Money Notes #30
+
+8
+
+14 May 2020
+
+Figure 1: Prime Money Fund Inflows
+$ billions, inflows to prime money market funds since April 1st, 2020
+70
+
+60
+60
+
+50
+
+42
+40
+
+30
+
+20
+
+18
+
+10
+
+0
+Total
+
+Institutional
+
+Retail
+
+Prime money funds
+Wednesday, May 06, 2020
+
+Source: ICI, Credit Suisse
+
+Figure 2: Prime Money Fund Outflows
+$ billions, prime money funds’ peak outflows during March [bars]; peak outflows minus inflows since April 1st, 2020 [“+” markers]
+0
+
+(20)
+(29)
+
+(40)
+(55)
+
+(46)
+
+(60)
+
+(80)
+
+(84)
+
+(100)
+
+(97)
+
+(120)
+
+(140)
+(144)
+(160)
+Total
+
+Institutional
+
+Retail
+
+Prime money funds
+Wednesday, May 06, 2020
+
+Source: ICI, Credit Suisse
+
+Global Money Notes #30
+
+9
+
+14 May 2020
+
+Figure 3: Primary Dealers’ Inventories of CD/CP and the PDCF
+$ billions
+37.5
+
+9
+
+35.0
+7
+32.5
+30.0
+5
+27.5
+25.0
+
+3
+
+22.5
+1
+20.0
+17.5
+-1
+15.0
+12.5
+
+-3
+
+10.0
+-5
+7.5
+5.0
+-7
+2.5
+0.0
+
+-9
+15
+
+16
+PDCF, $ bn (weekly average)
+
+17
+
+18
+
+PDCF, $ bn (Wednesday snapshots)
+
+19
+
+20
+
+Primary dealers CP/CD inventories, $ bn
+
+Source: Federal Reserve, Credit Suisse
+
+Figure 4: The U.S. Dollar Swap Lines
+$ billions
+9
+
+475
+450
+425
+
+7
+
+400
+375
+
+5
+
+350
+325
+
+3
+
+300
+275
+1
+250
+225
+-1
+200
+175
+-3
+
+150
+125
+
+-5
+
+100
+75
+
+-7
+
+50
+25
+0
+
+-9
+15
+
+16
+
+17
+
+U.S. dollar swap lines, $ bn
+
+18
+BoJ, ECB, BoE, SNB, BoC, $ bn
+
+19
+
+20
+
+others, $ bn
+
+Source: Federal Reserve, Credit Suisse
+
+Global Money Notes #30
+
+10
+
+14 May 2020
+
+Figure 5: Less Stress in the FX Swap Market…
+percent, three-month Libor-Libor cross-currency bases
+1.3
+
+1
+
+1.0
+
+1
+
+0.8
+1
+0.5
+0
+0.3
+0
+
+0.0
+
+(0.3)
+
+0
+
+(0.5)
+
+0
+
+(0.8)
+0
+(1.0)
+-1
+(1.3)
+-1
+
+(1.5)
+
+(1.8)
+January 1, 2020
+
+-1
+February 1, 2020
+
+March 1, 2020
+
+April 1, 2020
+
+BOR-BOR XCCY [3M, $/¥]
+
+BOR-BOR XCCY [3M, £/$]
+
+BOR-BOR XCCY [3M, $/CHF]
+
+BOR-BOR XCCY [3M, €/$]
+
+BOR-BOR XCCY [3M, $/CAD]
+
+BOR-BOR XCCY [3M, AUD/$]
+
+May 1, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 6: …More Stress in Local Currency Funding Markets
+percent, three-month Libor-OIS bases
+1.6
+
+1
+
+1.4
+
+1
+
+1.2
+
+1
+
+1.0
+
+0
+
+0.8
+
+0
+
+0.6
+
+0
+
+0.4
+
+0
+
+0.2
+
+0
+
+0.0
+
+-1
+
+(0.2)
+
+-1
+
+(0.4)
+January 1, 2020
+
+-1
+February 1, 2020
+
+March 1, 2020
+
+April 1, 2020
+
+Libor-OIS [3M, $]
+
+Libor-OIS [3M, ¥]
+
+Libor-OIS [3M, £]
+
+Libor-OIS [3M, CHF]
+
+BBSW-OIS [3M]
+
+EURIBOR-OIS [3M]
+
+CDOR-OIS [3M]
+
+BBSW-OIS [3M]
+
+May 1, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+11
+
+14 May 2020
+
+Figure 7: The View from the Eye of the Storm (Phase 1)
+percent, three-month; blue, brown, orange and green markers refer to U.S. dollar OIS, bill, Libor and CD/CP yields, respectively
+1.70
+1.58
+
+1.60
+1.50
+
+1.46
+
+1.45
+
+1.40
+1.30
+
+1.45
+1.28
+
+1.36
+
+1.19
+1.20
+1.10
+
+1.04
+
+1.02
+
+0.96
+
+1.00
+0.89
+
+0.98
+
+0.90
+0.92
+0.76
+
+0.80
+0.70
+0.70
+
+0.67
+
+0.60
+0.50
+
+0.59
+
+0.58
+
+0.56
+
+0.45
+
+0.40
+0.30
+0.20
+
+0.23
+
+0.10
+
+0.06
+
+0.00
+
+0.07
+-
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+(USD)
+
+(JPY)
+
+(EUR)
+
+(GBP)
+
+(CHF)
+
+(CAD)
+
+(AUD)
+
+Tuesday, March 31, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 8: The Storm Subsiding (Phase 2)
+percent, three-month; blue, brown, orange and green markers refer to U.S. dollar OIS, bill, Libor and CD/CP yields, respectively
+1.40
+1.30
+1.20
+
+1.26
+
+1.26
+
+1.18
+
+1.10
+
+1.03
+
+1.00
+
+0.94
+0.91
+1.00
+
+0.90
+0.82
+0.80
+0.71
+0.67
+
+0.70
+
+0.72
+
+0.60
+0.50
+0.55
+
+0.48
+
+0.50
+
+0.49
+
+0.43
+
+0.42
+
+0.35
+
+0.27
+
+0.40
+0.32
+0.30
+0.20
+
+0.25
+
+0.14
+
+0.10
+0.08
+0.00
+-
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+(USD)
+
+(JPY)
+
+(EUR)
+
+(GBP)
+
+(CHF)
+
+(CAD)
+
+(AUD)
+
+Tuesday, April 14, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+12
+
+14 May 2020
+
+Figure 9: The Non-Bank vs. Bank Bid for U.S. Dollars in Japan
+$ trillions
+
+Source: Bank of Japan
+
+Figure 10: The Storm is Over (Phase 3)
+percent, three-month; blue, brown, orange and green markers refer to U.S. dollar OIS, bill, Libor and CD/CP yields, respectively
+0.75
+0.69
+
+0.70
+0.65
+0.60
+0.54
+
+0.55
+
+0.54
+0.50
+
+0.50
+0.50
+0.45
+
+0.43
+0.41
+
+0.41
+0.40
+0.35
+
+0.38
+
+0.30
+
+0.33
+
+0.32
+0.28
+
+0.25
+
+0.26
+
+0.26
+
+0.23
+0.27
+
+0.28
+
+0.27
+0.26
+
+0.25
+0.23
+
+0.20
+
+0.16
+0.18
+
+0.15
+0.10
+0.10
+0.05
+0.05
+0.00
+-
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+FXS
+
+(USD)
+
+(JPY)
+
+(EUR)
+
+(GBP)
+
+(CHF)
+
+(CAD)
+
+(AUD)
+
+Friday, May 08, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+13
+
+14 May 2020
+
+Figure 11: The Libor-OIS Spread for Sterling
+percent, three-month
+0.65
+
+9
+
+0.60
+7
+0.55
+0.50
+5
+0.45
+0.40
+
+3
+
+0.35
+1
+
+0.31
+
+0.30
+0.25
+
+-1
+0.20
+0.15
+
+-3
+
+0.10
+-5
+0.05
+0.00
+-7
+(0.05)
+(0.10)
+
+-9
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+LOIS [3M, £, SONIA]
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 12: The “Libor-OIS” Spread for the Euro
+percent, three-month
+0.32
+
+9
+
+0.30
+7
+
+0.28
+0.26
+
+5
+0.24
+0.23
+
+0.22
+
+3
+
+0.20
+0.18
+
+1
+
+0.16
+-1
+
+0.14
+0.12
+
+-3
+
+0.10
+0.08
+
+-5
+0.06
+0.04
+
+-7
+
+0.02
+0.00
+
+-9
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+EURIBOR-OIS [3M, €, EONIA]
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+14
+
+14 May 2020
+
+Figure 13: FX Swap Implied Yield Curves
+percent, local currency collateral reinvested at OIS
+0.40
+
+0.35
+
+0.30
+
+0.25
+
+0.20
+
+0.15
+
+0.10
+
+0.05
+
+0.00
+T/N
+
+1W
+
+1M
+
+3M
+
+6M
+
+12M
+
+Friday, May 08, 2020
+OIS [USD]
+
+Swap lines
+
+FXS [EUR, OIS]
+
+FXS [CHF, OIS]
+
+FXS [GBP, OIS]
+
+FXS [CAD, OIS]
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 14: The “Mount Fuji” of FX Swaps
+percent, local currency collateral reinvested at OIS
+0.70
+0.65
+0.60
+0.55
+0.50
+0.45
+0.40
+0.35
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+T/N
+
+1W
+
+1M
+
+3M
+
+6M
+
+12M
+
+Friday, May 08, 2020
+OIS [USD]
+
+Swap lines
+
+FXS [JPY, OIS]
+
+FXS [EUR, OIS]
+
+FXS [CHF, OIS]
+
+FXS [GBP, OIS]
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+15
+
+14 May 2020
+
+Figure 15: Government Money Fund Inflows
+$ trillions, inflows to government money funds since March 11th, 2020
+1.2
+
+1.07
+
+1.1
+
+1.0
+0.91
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.16
+
+0.1
+
+0.0
+Total
+
+Institutional
+
+Retail
+
+Government money funds
+Wednesday, May 06, 2020
+
+Source: ICI, Credit Suisse
+
+Figure 16: U.S. Treasury’s Cash Balances
+$ trillions
+1.25
+
+9
+
+1.20
+1.15
+7
+
+1.10
+1.05
+1.00
+
+5
+
+0.95
+0.90
+0.85
+
+3
+
+0.80
+0.75
+0.70
+
+1
+
+0.65
+0.60
+-1
+
+0.55
+0.50
+0.45
+
+-3
+
+0.40
+0.35
+0.30
+
+-5
+
+0.25
+0.20
+0.15
+
+-7
+
+0.10
+0.05
+0.00
+
+-9
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+TGA, $ trillion
+
+Source: U.S. Treasury, Credit Suisse
+
+Global Money Notes #30
+
+16
+
+14 May 2020
+
+Figure 17: U.S. Treasury Bill Yields and “Synthetic” U.S. Treasury Bill Yields
+percent, three-month, synthetic U.S. Treasury bills refers to U.S. dollars lent via FX swaps and local currency collateral reinvested in local government bills
+3.5
+
+1
+
+3.3
+1
+3.0
+2.8
+
+1
+
+2.5
+0
+
+2.3
+2.0
+
+0
+1.8
+1.5
+
+0
+
+1.3
+0
+1.0
+0.8
+
+0
+
+0.5
+-1
+
+0.3
+0.0
+
+-1
+(0.3)
+(0.5)
+January 1, 2020
+
+-1
+February 1, 2020
+
+March 1, 2020
+
+April 1, 2020
+
+U.S. Treasury bills [3M]
+
+FXS [3M, ¥, GGB]
+
+FXS [3M, £, GGB]
+
+FXS [3M, CHF, GGB]
+
+FXS [3M, AUD, GGB]
+
+FXS [3M, €, GGB]
+
+FXS [3M, CAD, GGB]
+
+FXS [3M, AUD, GGB]
+
+May 1, 2020
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #30
+
+17
+
+14 May 2020
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as "Contributors"
+and not by Credit Suisse's Research Department. The information contained in this document has been provided as general market
+commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial advice or service. It is intended
+only to provide observations and views of the Investment Strategy Department, which may be different from, or inconsistent with, the
+observations and views of Credit Suisse Research Department analysts, other Credit Suisse departments, or the proprietary positions of Credit
+Suisse. Observations and views expressed herein may be changed by the Investment Strategy Department at any time without notice. Credit
+Suisse accepts no liability for losses arising from the use or reliance on of this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a limited view of a
+particular market. It is not investment research, or a research recommendation for regulatory purposes, as it does not constitute substantive
+research or analysis. The information provided is not intended to provide a sufficient basis on which to make an investment decision and is not
+a personal recommendation or investment advice. While it has been obtained from or based upon sources believed by the trader or sales
+personnel to be reliable, each of the trader or sales personnel and Credit Suisse does not represent or warrant its accuracy or completeness
+and is not responsible for losses or damages arising from the use or reliance on of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. Where distribution of this
+material is subject to the rules of the U.S. Commodity Futures Trading Commission (“CFTC”), [generally] it is a “solicitation” of derivatives
+business only as that term is used within CFTC Rule 1.71 and 23.605 promulgated under the U.S. Commodity Exchange Act (the “CFTC
+Rules”) where applicable, but is not a binding offer to buy/sell any financial instrument. The views of the author may differ from others at
+Credit Suisse Group (including Credit Suisse Research).
+Credit Suisse is acting solely as an arm’s length contractual counterparty and not as a financial adviser (or in any other advisory capacity
+including tax, legal, accounting or otherwise) or in a fiduciary capacity. Any information provided does not constitute advice or a
+recommendation to enter into or conclude any transaction. Before entering into any transaction, you should ensure that you fully understand
+the potential risks and rewards and independently determine that it is appropriate for you given your objectives, experience, financial and
+operational resources, and other relevant circumstances. You should consult with such advisers (including, without limitation, tax advisers, legal
+advisers and accountants) as you deem necessary.
+No part of this material may be reproduced, retransmitted disclosed or distributed in any manner without the prior written permission of Credit
+Suisse.
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU accepts responsibility
+for its contents. Clients should contact analysts and execute transactions through a Credit Suisse subsidiary or affiliate in their home
+jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any of the
+products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK laws, which differ from
+Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are exempt from the requirement to hold
+an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the financial services provided to Australian wholesale
+clients (within the meaning of section 761G of the Corporations Act) (hereinafter referred to as “Financial Services”). This material is not for
+distribution to retail clients and is directed exclusively at Credit Suisse's professional clients and eligible counterparties as defined by the FCA,
+and wholesale clients as defined under section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and
+regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL
+does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of Credit Suisse
+Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws, which differ from Australian
+laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing
+Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the Securities and Exchange Commission under US laws,
+which differ from Australian laws. CSAM does not hold an AFSL and is exempt from the requirement to hold an AFSL under the Corporations
+Act in respect of providing Financial Services. Credit Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder
+in Australia (AFSL 237237). In Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act.
+CSEAL is not an authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit
+Suisse AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance of any
+products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2020 Credit Suisse
+Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #30
+
+18
+
+THIS IS NOT RESEARCH. PLEASE REFER TO THE IMPORTANT INFORMATION FOR IMPORTANT DISCLOSURES
+AND CONTACT YOUR CREDIT SUISSE REPRESENTATIVE FOR MORE INFORMATION.
+
+11 June 2020
+Investment Solutions & Products
+Global
+Credit Suisse Economics
+
+Global Money Notes #31
+U.S. Dollar Libor and Swap Line Rollovers
+The market’s concerns over the upcoming swap line maturities are overdone:
+in our view, the maturities this month will pass without any major market impact.
+The current state of dollar funding markets reminds us of a bathtub full of toys,
+with the faucet still running and the drain at the bottom open: there is some
+drama developing at the bottom, as a whirlpool coming out of nowhere starts to
+suck some little toys in – balances in the Treasury general account (TGA) reach
+a record $1.5 trillion and the o/n fed funds rate ticks up a massive basis point.
+
+CONTRIBUTOR
+
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+The water level in the tub – the total amount of reserves in the banking system –
+begins to fall. But then the use of the o/n repo facility suddenly begins to rise –
+the faucet is being turned up on demand, and that’s a good thing. In this context,
+we don’t understand why the market is worried about the use of the repo facility:
+you got the standing facility you were asking for, so just use it and don’t worry;
+and you got something even cooler – a standing dollar swap line at a low rate.
+With these facilities, bill supply, rising TGA balances and swap line rollovers
+don’t matter: if the water level drops, the faucet will be turned up – on demand.
+Regarding swap line rollovers we’d make two observations.
+First, if the foreign banks that took dollars through the swap lines in late March
+still need those dollars, they will likely roll them with the Fed as the swap lines
+are still cheaper than the FX swap market at the three-month point. The fact
+that the CD market trades cheaper than the swap lines doesn’t mean too much,
+as chunky funding needs typically get done via FX swaps, not in the CD market.
+Second, if the foreign banks that took dollars through the swap lines in late March
+no longer need those dollars, their payback will mean less lending of dollars
+by banks in the ultra-short segments of the FX swap market, where dealers
+borrow to provide FX hedges to institutional investors in Japan and Europe. But
+if that will happen, dealers will simply shift their funding from banks to the Fed.
+What goes up, must come down, and with the Fed’s standing liquidity facilities,
+what drains from the tub, will surely flow back in – at a fixed price, on demand.
+Because the dollars taken via the swap lines are “broadcast” by central banks
+through cross-currency repos, the swap lines make foreign sovereign bonds
+and U.S. dollars fungible. BTPs are the biggest beneficiaries of this fungibility.
+Important Information
+This report represents the views of the Investment Strategy Department of Credit Suisse and has not been prepared in
+accordance with the legal requirements designed to promote the independence of investment research. It is not a product of
+the Credit Suisse Research Department and the view of the Investment Strategy Department may differ materially from the
+views of the Credit Suisse Research Department and other divisions at Credit Suisse, even if it references published research
+recommendations. Credit Suisse has a number of policies in place to promote the independence of Credit Suisse’s Research
+Departments from Credit Suisse’s Investment Strategy and other departments and to manage conflicts of interest, including
+policies relating to dealing ahead of the dissemination of investment research. These policies do not apply to the views of
+Investment Strategists contained in this report.
+
+11 June 2020
+
+Starting this week, some of the three-month U.S. dollar loans that foreign banks borrowed
+from the Fed’s dollar swap lines during the last two weeks of March will begin to mature.
+By the end of June, over $350 billion of these loans will have matured. FX swaps with the
+BoJ and the ECB account for the bulk of these maturities at $175 billion and $140 billion,
+respectively, and smaller central banks account for the remainder (see Figures 1 and 2).
+The market is concerned about the following:
+given that it’s now “cheaper” to tap the unsecured funding market and the FX swap market
+than to tap the Fed’s swap lines, will U.S. dollar Libor-OIS and FRA-OIS spreads widen
+as banks shift their funding from the Fed back to the market, and if yes, by how much?
+Before getting into the details, we’d make two high level observations.
+First, no one really knows whether the dollars that were borrowed via the swap lines
+during the last two weeks of March reflected precautionary demand by foreign banks
+– precautionary referring to a “deer in the headlights” moment for many bank treasurers.
+Recall the market environment back then (see here): prime money market funds have lost
+$150 billion in assets in the span of two weeks; unsecured funding markets were shut;
+and to fund their outflows, prime funds were asking banks to buy back their own funding.
+In such an environment, banks’ precautionary demand for dollars is presumably soaring,
+and the bulk of the $350 billion borrowed via the swap lines the last two weeks of March
+most likely reflects that. But conditions in funding markets have normalized since then,
+which means that the reserves borrowed through the swap lines then are less needed now.
+So the use of the swap lines may fall when the first wave of loans start to mature,
+potentially by as much as $350 billion – the full amount of maturities – by the end of June.
+A decline that big is not unrealistic, given the recent experience with other Fed facilities:
+for example, the combined use of the repo facility, the discount window, the PDCF and
+the MMLF declined from their recent peak by close to $300 billion, as banks’ and dealers’
+need to borrow temporary reserves fell as the Fed added permanent reserves through QE.
+Second, whether foreign banks’ demand for dollars was mostly precautionary or not,
+once the Fed’s swap lines were drawn, reserves were added to the financial system.
+Banks didn’t just let those reserves sit at the Fed, but have been diligently deploying them
+in the ultra-short segment of the FX swap market – at the tom-next and one-week points.
+The borrowers on the flipside of these trades were primary dealers that used this funding to
+lend at longer-dated points in the FX swap market – typically at the three-month point –
+to meet the hedging needs of insurers and pension funds in Japan and northern Europe.
+Thus, from our perspective, the real question isn’t how banks will refinance their maturing
+swap line loans as they may not, but how dealers will refinance their FX swap books
+as banks lend less at the ultra-short end as they pay back their swap line loans to the Fed.
+Our concern is the same as the market’s…
+…what will swap line maturities do to term funding? But we don’t see a big direct impact
+from banks swapping public term funding for private term funding, nor an indirect impact
+from changes at the ultra-front end of the FX swap market rippling out to term segments.
+We explore the difference between the two perspectives in three steps: first, we explain
+the “plumbing” of tapping the swap lines; second, we gauge the price of tapping the lines
+and then review how market prices drove the quantities borrowed through the swap lines;
+finally, we conclude that BTPs are the big winner of the current regime of “war finance”
+and the o/n repo facility will ensure that swap line maturities won’t cause funding stresses.
+Plumbing. Prices. Quantities. Let’s begin…
+Global Money Notes #31
+
+2
+
+11 June 2020
+
+Part I – Plumbing
+Relative to the plumbing behind plain-vanilla FX swap transactions, the plumbing behind
+tapping the Fed’s swap lines are complex. The steps involved in FX swap transactions are:
+sell U.S. dollars for foreign currency spot today, take your foreign currency and reinvest it
+in a central bank deposit, repo or bills for say three months, and sell the future value of
+your foreign currency investment at today’s three-month forward exchange rate, also today.
+From a bank’s balance sheet perspective, the FX swap transaction is just an asset swap
+where the bank simply swaps a deposit at the Fed for a deposit at a foreign central bank.
+While the central bank deposit swap does not change the bank’s balance sheet size,
+there is a 40 bps notional balance sheet add-on on the FX forward leg of the transaction
+(technically it’s called “PFE” or potential future exposure). However, this notional add-on is
+so very small that we can consider the balance sheet impact of FX forwards de minimis.1
+Once the trade is done, no margining is involved over the life of the FX swap.
+Tapping the Fed’s dollar swap lines through a foreign central bank is a bit more complex,
+and involves up to four steps (“up to” because not every bank has to take all four steps):2
+(1) Raise foreign currency funding (in an amount equal to the dollars you need)
+(2) Raise foreign currency collateral (with the cash you just raised above)
+(3) Fund the haircut (the “ticket” to tap dollar auctions at your local central bank)
+(4) Raise dollars at OIS + 25 bps
+Using foreign currency bonds to get dollars means that banks tap the swap lines through
+cross-currency repos, not through FX swaps, as assumed by many. More precisely,
+the FX swap is between the Fed and foreign central banks, but foreign central banks
+“broadcast” the dollars they get from the Fed to local banks through cross-currency repos.
+Unlike plain-vanilla FX swaps, there is also a margining aspect to cross-currency repos.
+For example, if the spot FX value of the foreign currency collateral that’s backing the
+dollar loans falls by 10% due to a spot FX move, a bank would have to post 10% more
+collateral to the central bank so that it’s not in technical default on its cross-currency repo.
+The costs involved in sourcing this additional collateral would have to be included in the
+all-in cost of tapping the swap lines, but because this component is unknown today
+– it depends of future FX moves – banks ignore it when gauging the cost of tapping the lines.
+Let’s now get into some specifics.
+Paraphrasing Tolstoy, “every bank liquidity portfolio is liquid, but liquidity is a spectrum and
+every bank taps the swap lines in its own way”. We noted a few paragraphs above that
+tapping the swap lines can involve up to for steps, but depending on each foreign bank’s
+own “social” circumstance, tapping the swap lines can involve fewer steps. In some cases,
+tapping the swap lines involves only one step. In turn, the number of steps a bank has to
+take to tap the swap lines is important because it determines the cost of the swap lines.
+We next turn to a review of the factors that determine how many steps a foreign bank has to
+take to tap the swap lines and then review the balance sheet impact of taking these steps.
+
+1
+2
+
+The 40 bps add-on means that on a $100 million FX forward trade, a bank would book a $400,000 notional add-on.
+We will explain overleaf the factors that determine the number of steps that a bank has to take to tap the swap lines.
+
+Global Money Notes #31
+
+3
+
+11 June 2020
+
+Tolstoy and Liquidity
+"No Excess"
+-
+
+"Excess Cash"
+Cash¥
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+"Market Rate"
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+JGB
+
+JGB
+
+JGB
+
+JGB
+
+Source: Credit Suisse
+
+The exhibit above shows six positions that a bank – let’s assume a Japanese bank –
+can start from when trying to raise U.S. dollars. Going from left to right, the positions are:
+(1) “No Excess”: this case refers to a bank that doesn’t have reserves at the BoJ
+in excess of its intraday liquidity needs or Japanese government bonds (JGBs)
+in excess of its LCR needs, so it will have to go through the first three steps to
+tap the swap lines, i.e. raise yen cash, raise JGBs and fund the haircut. Because
+megabanks are more than compliant on their intraday liquidity needs and LCRs,
+this example likely represents the situation of regional and Shinkin banks in Japan.
+(2) “Excess Cash”: this is a bank that has lots of excess yen reserves at the BoJ
+but no JGBs, so the only step it will have to take to raise the target dollar amount
+is raise enough JGBs to cover the target amount and the haircut to tap the BoJ.
+Here we would invoke James Sweeney and Manmohan Singh’s notion that
+collateral is king, as sometimes you can only do things with collateral, not cash –
+in this case, you need JGBs to tap the lines, not reserves (see here and here).3
+(3) “Excess Collateral”: this is a bank that has both excess yen reserves and JGBs,
+so it will have to raise only a bit of collateral to cover the haircut to tap the BoJ.
+(4) “Preserve”: this is a bank whose treasurer prefers not to touch the structure of the
+bank’s liquidity portfolio – it doesn’t want to spend reserves or encumber JGBs –
+so it will borrow the JGBs for a small fee in the unsecured collateral market
+where regional banks lend to megabanks (there is no government involvement).
+Like in the previous two cases, the bank will take only two steps to tap swap lines:
+borrow JGBs to cover the target dollar amount and the haircut to tap the BoJ –
+but in contrast to the previous two cases, the bank’s reserve balances at the BoJ
+and the encumbrance of its JGB portfolio didn’t change. HQLA was preserved.
+(5) “No Frills”: this is a bank that’s extremely flush with JGBs and is not subject to
+the LCR or other metrics – and so it is more flexible with its liquidity portfolio –
+and the only thing it will have to do to tap the swap lines via the BoJ is to pledge
+the JGBs it already has. There won’t be additional costs like above in tapping
+the swap lines – only the Fed’s “advertised” rate of OIS+25 bps, clean and simple.
+(6) “Market Rate”: this is a cash rich bank with lots of excess yen reserves at the BoJ
+that considers swapping its excess yen for dollars in the private FX swap market.
+The exhibit overleaf expands on the above exhibit and plots the actual steps involved in
+tapping the swap lines in the first five cases and the market in the sixth. These steps are:
+
+3
+
+To which we would answer that for a bank, collateral is superior to reserves only in circumstances where you need
+to tap central banks (central banks lend only collateralized), but in normal circumstances, reserves beat collateral,
+because when the FX swap market is functioning well, you need reserves at a central bank or, if you are a non-bank,
+positive balances in a bank deposit to do swaps, not collateral. Our point is that reserves and collateral are both key,
+but their relative importance shifts around depending on circumstances and depending on one’s place in the hierarchy.
+
+Global Money Notes #31
+
+4
+
+11 June 2020
+
+The Steps Involved in Tapping the Swap Lines
+"No Excess"
+-
+
+"Excess Cash"
+Cash¥
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+"Market Rate"
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+JGB
+
+JGB
+
+JGB
+
+JGB
+
+[OFF]
+
+"SB"
+
+[JGB$T]
+
+RRJGB
+
+Borrow¥, $T
+
+[JGBHC]
+
+RRJGB
+
+Borrow¥, HC
+
+[USDT]
+
+Cash$
+
+RPJGB
+
+-
+
+[OFF]
+[JGB$T]
+[JGBHC]
+
+Cash$
+
+RPJGB
+
+Cash$
+
+RPJGB
+
+Cash$
+
+RPJGB
+
+Cash$
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+Cash¥
+
+[JGB$T]
+
+RRJGB
+
+JGB
+
+JGB
+
+JGB
+
+[JGBHC]
+
+RRJGB
+
+RRJGB
+
+RPJGB
+
+Buy¥, FW
+
+Sell $, FW
+
+[USDT]
+
+Cash¥
+JGB
+
+[JGB$T]
+
+Sell ¥, spot
+
+[JGBHC]
+
+Cash$
+
+Source: Credit Suisse
+
+(1) “No Excess”: raise yen cash in unsecured markets in an amount equal to the
+U.S. dollars you need (Borrow¥, $T in grey color), and then raise collateral by
+lending the yen cash in the GC repo market (RRJGB in cream color); repeat the
+same steps to fund the haircut needed to tap the swap lines through the BoJ
+(JGBHC in white color); take all the collateral you raised above (RRJGB in cream color),
+and pledge them to the BoJ (RPJGB in blue color) to tap the swap lines for dollars
+(Cash$ in white color) to cover your target dollar amount (USDT in white as well).
+(2) “Excess Cash”: unlike the previous example, which involved all four steps,
+this example involves only three steps. The bank already has the yen so it doesn’t
+need to raise yen cash, only the collateral to cover the target dollar amount and
+the haircut to tap the dollar swap lines through the BoJ (RRJGB in cream color and
+JGB$T and JGBHC on the left-hand sidebar, respectively). The bank then takes all
+the collateral it raised in the above two steps and pledges it at the BoJ like before.
+(3) “Excess Collateral”: unlike the prior example, which involved three steps,
+this example involves only two steps. Raise JGB collateral to fund the haircut to
+tap the swap lines through the BoJ (RRJGB in cream color), and pledge that
+collateral and some pre-existing collateral to the BoJ to get the target dollars
+(JGBHC and JGB$T on the left-hand sidebar and Cash$ and USDT, respectively).
+(4) “Preserve”: like in the previous example, this example too involves only two steps.
+Borrow the JGBs from a regional bank for a fee in a “repo-style” transaction
+in an amount that covers the target dollars one needs and the haircut needed to
+access the swap lines through the BoJ (“SB” in pink color), and next pledge
+the borrowed collateral at the BoJ to get the target amount of dollars you need.
+(5) “No Frills”: unlike any of the previous examples, there is only one step here –
+take some excess JGBs and pledge it at the BoJ and get the dollars you need.
+(6) “Market”: unlike any of the previous examples, this example does not involve
+tapping the swap lines. It’s a market-based FX swap transaction involving the
+spot purchase and simultaneous forward sale of U.S. dollars as discussed above.
+These examples show that the first option is the most balance sheet intensive for banks,
+adding three new balance sheet layers and the others add only one balance sheet layer.4
+4
+
+The low-balance sheet intensity of cases two to five can change as yen reserves are spent and JGBs are encumbered.
+
+Global Money Notes #31
+
+5
+
+11 June 2020
+
+Part II – Prices and Quantities
+Let’s next populate our balance sheets with prices.
+The exhibits below and overleaf show the all-in cost of tapping the Fed’s dollar swap lines
+through the BoJ and the ECB, respectively, for each of the five cases discussed above,
+alongside the sixth case which was tapping the FX swap market through a vanilla FX swap.
+We used the following assumptions to populate the balance sheets:
+(1) For both the BoJ and the ECB we assume that banks raise unsecured funding at
+the three-month OIS rate and raise collateral through three-month GC repos.
+(2) For the BoJ we assume an average haircut on JGBs of 2% (see here).
+(3) For the ECB we assume that the European government bonds that most banks
+pledge as collateral are OATs, and assume an average haircut of 3% (see here).
+(4) For the BoJ we assume that banks pay 25 bps to borrow JGBs uncollateralized,
+and for the ECB we assume that banks pay 40 bps to get OATs uncollateralized.
+We think these assumptions are realistic, but if the reader would like to make adjustments
+on the margin, the orange cells in the bottom right-hand corner provide the needed inputs:
+a backward looking average of o/n GC repo rates to switch term repo rates for o/n rates,
+if the reader wants to assume daily posting of collateral to central banks instead of term;
+and a CD spread over OIS to switch from raising cash at OIS flat to OIS plus a CD spread.5
+None of these adjustment factors are big enough to change the conclusions emerging…
+Plugging live market prices into our balance sheets show that in the case of Japan,
+collateral rich banks sitting on piles of JGBs are in the best position to tap the swap lines,
+paying only 32 bps for three-month dollars (the third and fifth balance sheets from the left).
+The next cheapest option is the second one at 35 bps, and the third cheapest option is
+the very first one – the case of a bank with no excess HQLA in its treasury – at 38 bps;
+the most expensive way of tapping the swap lines is by borrowing JGBs for a fee at 58 bps.
+Tapping the Swap Lines through the BoJ
+Wednesday, June 10, 2020
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+[OFF]
+
+"Preserve"
+
+"No Frills"
+
+"Market Rate"
+
+0.25
+
+[JGB$T]
+
+(0.12)
+
+(0.07)
+
+[JGBHC]
+
+(0.12)
+
+(0.07)
+
+[USDT]
+
+Cash$
+
+0.32
+
+-
+
+[OFF]
+[JGB$T]
+[JGBHC]
+
+Cash$
+
+0.32
+
+(0.10)
+
+Cash$
+
+0.32
+
+Cash$
+
+0.32
+
+Cash$
+
+(0.10)
+
+Cash¥
+
+Cash¥
+
+JGB
+
+JGB
+
+[JGB$T]
+
+(0.12)
+
+JGB
+
+[JGBHC]
+
+(0.12)
+
+(0.12)
+
+0.32
+
+[USDT]
+(0.10)
+JGB
+
+[JGB$T]
+
+(0.59)
+
+[JGBHC]
+
+Cash$
+[COST]
+
+0.38
+
+0.35
+
+0.32
+
+0.58
+
+0.32
+
+[BoJHC]
+
+0.02
+
+0.02
+
+0.02
+
+0.02
+
+0.02
+
+[BoJHC]
+
+[FedSW]
+
+0.25
+
+0.25
+
+0.25
+
+0.25
+
+0.25
+
+[FedSW]
+
+BoJ: https://www.boj.or.jp/en/mopo/measures/mkt_ope/operule02.htm/
+Fed: https://apps.newyorkfed.org/markets/autorates/fxswap
+
+0.49
+
+GC¥, o/n :
+
+(0.09)
+
+CD-OIS¥, 3M :
+
+0.06
+
+[COST]
+
+Source: Credit Suisse
+
+5
+
+CD stands for certificate of deposit.
+
+Global Money Notes #31
+
+6
+
+11 June 2020
+
+Tapping the Swap Lines through the ECB
+Wednesday, June 10, 2020
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+[OFF]
+
+"Preserve"
+
+"No Frills"
+
+"Market Rate"
+
+0.42
+
+[EGB$T]
+
+(0.50)
+
+(0.47)
+
+[EGBHC]
+
+(0.50)
+
+(0.47)
+
+[USDT]
+
+Cash$
+
+0.32
+
+-
+
+[OFF]
+[EGB$T]
+[EGBHC]
+
+Cash$
+
+0.32
+
+(0.50)
+
+Cash$
+
+0.32
+
+Cash$
+
+0.32
+
+Cash$
+
+(0.50)
+
+Cash€
+
+Cash€
+
+EGB
+
+EGB
+
+[EGB$T]
+
+(0.50)
+
+EGB
+
+[EGBHC]
+
+(0.50)
+
+(0.50)
+
+0.32
+
+[USDT]
+(0.50)
+EGB
+
+[EGB$T]
+
+(0.81)
+
+[EGBHC]
+
+Cash$
+[COST]
+
+0.35
+
+0.32
+
+0.32
+
+0.76
+
+0.32
+
+[ECBHC]
+
+0.03
+
+0.03
+
+0.03
+
+0.03
+
+0.03
+
+[ECBHC]
+
+[FedSW]
+
+0.25
+
+0.25
+
+0.25
+
+0.25
+
+0.25
+
+[FedSW]
+
+ECB: https://www.ecb.europa.eu/press/pr/date/2010/html/sp090728_1annex.en.pdf
+Fed: https://apps.newyorkfed.org/markets/autorates/fxswap
+
+0.31
+
+GC€, o/n :
+
+(0.39)
+
+CD-OIS€, 3M :
+
+0.11
+
+[COST]
+
+Source: Credit Suisse
+
+In the case of the eurozone, the cheapest options are those of collateral rich banks
+at 32 bps and 32 bps, respectively – in this case, French banks with lots of excess OATs.
+The next cheapest option is the first one at 35 bps, and the most expensive option
+involves tapping the swap lines by borrowing OATs unsecured for a fee at a steep 76 bps.
+Unlike the all-in cost of tapping the swap lines through the BoJ, the all-in cost of tapping
+the swap lines through the ECB varies based on the type of sovereign bonds that banks
+pledge as collateral. Because repo rates are higher on peripheral sovereign bonds than
+core sovereign bonds, banks have an incentive to source BTPs over OATs and bunds
+to tap the swap lines. This applies in the case of uncollateralized collateral borrows as well,
+where BTPs can be borrowed for a fee of 30 bps for three months versus 40 bps on OATs.
+Let’s next take a look at the price of the swap lines relative to the market over time, and
+how these relative prices drove the quantity of dollars borrowed via the BoJ and the ECB.
+Figures 3 and 4 show the amount of dollar liquidity swaps between the Fed and the BoJ
+and the all-in cost of tapping the BoJ for three-month dollars for each scenario discussed.
+Notice the path of the quantity of dollars that Japanese banks borrowed through the BoJ:
+a sharp jump during the last two weeks of March, followed by a modest use during April,
+and no marginal use since May. The amount of dollar liquidity swaps aligns perfectly with
+the decline of the cost of dollars in the FX swap market – the use of the swap lines
+flatlined precisely when the market price of three-month dollars fell below the cost of the
+swap lines with borrowed collateral and when the unsecured CD market reopened in May.
+Figures 5 and 6 show the same for the ECB. But in contrast to the case of the BoJ, the
+uptake of the swap lines here is different: a heavy use during the last two weeks of March,
+and then a sudden flatlining. Here too, the use of the swap lines flatlined precisely when
+the market price of dollars fell below the cost of tapping the lines with borrowed collateral.
+These figures show that unless all banks tap the swap lines with borrowed collateral,
+the swap lines are still the cheapest game in town for raising three-month dollars on scale:
+in Japan, most ways of tapping the dollar swap lines are cheaper than the cost of raising
+three-month dollars in the FX swap market, and are only 5-7 bps more expensive relative
+to prices in the unsecured CD market. In the eurozone, the situation is exactly the same.
+The situation is different at the one-week point, however. Figures 7 and 8 show that the
+cost of raising one-week dollars through the swap lines is higher than the market price.
+But judging from this week’s auction results, some foreign banks prefer to pay an extra
+15 bps to roll their dollar funding with the Fed to avoid the risk of paying up in the market.
+Global Money Notes #31
+
+7
+
+11 June 2020
+
+Conclusions
+Three conclusions emerge from our analysis.
+First, in case that foreign banks do need the dollars they borrowed from the swap lines,
+the market’s concerns about the coming wave of swap line loan maturities are overdone.
+The dollar swap lines are still cheaper than the market and provide unlimited dollars at a
+“fixed” price. Tapping the swap lines does not carry the risk of not getting “done” at the
+prices posted on the screen. No one really knows the marginal liquidity of bank portfolios
+under Covid-19, and so refinancing chunky swap line rollovers in the market may run the
+risk of moving the FX swap market too much – where the small advantage of tapping the
+market becomes a big disadvantage. This is the type of tactical thinking that would explain
+why Japanese banks took one-week dollars from the Fed this week above market prices.
+Thus, if foreign banks still need most of the dollars they borrowed through the swap lines
+during the dark days of late March, they will most likely roll their swap lines with the Fed –
+the market impact of this will be minimal both in the ultra-short and three-month segments.
+Second, in case that foreign banks don’t need the dollars borrowed from the swap lines,
+the market’s concerns about the coming wave of swap line maturities are overdone too.
+Here, the relevant dynamic is that as foreign banks pay off their maturing swap line loans,
+they will lend less at the ultra-short tom-next and one week points in the FX swap market,
+and the loss of that funding will upset the recent stability of rates at the ultra-short end,
+which will then ripple out on the FX swap curve and push three-month and longer-dated
+FX swap implied funding rates, unsecured CD rates and ultimately U.S. dollar Libor higher.
+But with all due respect, who cares if we lose foreign banks as large, marginal lenders of
+borrowed reserves when we have a quasi-standing repo facility where dealers can take
+borrowed reserves from the Fed at 10 bps. We would simply go from dealers taking
+borrowed reserves from foreign banks through short-dated FX swaps, to dealers taking
+borrowed reserves from the Fed directly. It would actually cost dealers less to fund their
+FX swap books with the o/n repo facility as the Fed offers reserves at IOR flat, whereas
+foreign banks lend their reserves via short-dated FX swap trades at IOR + a small spread.
+Thus, if foreign banks no longer need the U.S. dollars they took from the swap lines and
+stop lending in the FX swap market, the Fed will be there to step in with the repo facility.
+Third, the swap lines, combined with the fact that foreign central banks broadcast dollars
+through cross-currency repos makes foreign sovereign bonds and U.S. dollars fungible!
+BTPs beat any other type of collateral banks can pledge at the ECB and at central banks
+that accept collateral beyond local sovereign bonds – for example the BoE and the SNB –
+as they yield better than any other sovereign collateral sitting on a bank’s balance sheet,
+and their price is “protected” by the ECB. That, and the fungibility of BTPs with dollars
+should ensure strong demand for BTPs from bank portfolios for the foreseeable future
+(note that neither BTPs nor bonos were hit during last week’s global bond market selloff).
+So stay calm, wash your hands and carry on...
+It’s singularity.
+It’s war finance.
+It’s a pancake party…
+…where chunks of hazelnuts become hazelnut cream in an instant with standing facilities:
+we maintain our view that U.S. dollar Libor-OIS will trade in the 10-20 bps range by July.
+Let the swap line maturities begin.
+Global Money Notes #31
+
+8
+
+11 June 2020
+
+Figure 1: The Use of the Fed’s Dollar Swap Lines (1)
+$ billions
+475
+
+9
+
+450
+425
+
+7
+
+400
+375
+
+5
+
+350
+325
+
+3
+
+300
+275
+1
+250
+225
+-1
+200
+175
+-3
+
+150
+125
+
+-5
+
+100
+75
+
+-7
+
+50
+25
+0
+
+-9
+
+15
+
+16
+
+17
+
+U.S. dollar swap lines, $ bn
+
+18
+
+19
+
+BoJ, ECB, BoE, SNB, BoC, $ bn
+
+20
+others, $ bn
+
+Source: FRBNY, Credit Suisse
+
+Figure 2: The Use of the Fed’s Dollar Swap Lines (2)
+$ billions
+425
+
+9
+
+400
+7
+
+375
+350
+
+5
+
+325
+300
+
+3
+
+275
+250
+
+1
+
+225
+200
+-1
+175
+150
+
+-3
+
+125
+100
+
+-5
+
+75
+50
+
+-7
+
+25
+0
+
+-9
+15
+
+16
+
+17
+
+18
+
+19
+
+BoJ, ECB, BoE, SNB, BoC, $ bn
+
+Bank of Japan, $ bn
+
+European Central Bank, $ bn
+
+Bank of England, $ bn
+
+Swiss National Bank, $ bn
+
+Bank of Canada, $ bn
+
+20
+
+Source: FRBNY, Credit Suisse
+
+Global Money Notes #31
+
+9
+
+11 June 2020
+
+Figure 3: U.S. Dollar Liquidity Swaps Outstanding with the BoJ
+$ billions
+250
+
+0
+
+225
+
+0
+
+200
+
+0
+
+175
+
+0
+
+150
+
+0
+
+125
+
+0
+
+100
+
+0
+
+75
+
+0
+
+50
+
+0
+
+25
+
+0
+
+0
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+J
+
+U.S. dollar liquidity swaps outstanding with the BoJ, $ bn
+
+Source: FRBNY, Credit Suisse
+
+Figure 4: The Cost of Tapping the Swap Lines through the BoJ
+percent, three-month
+3.50
+3.25
+
+0
+
+3.00
+2.75
+
+2.50
+0
+2.25
+2.00
+0
+
+1.75
+1.50
+1.25
+
+0
+
+1.00
+
+0.75
+0
+0.50
+0.25
+0.00
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+FXS [¥, OIS]
+
+Libor [$]
+
+CD/CP [$]
+
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+J
+
+Source: the BLOOMBERG PROFESSIONAL™ service, Credit Suisse
+
+Global Money Notes #31
+
+10
+
+11 June 2020
+
+Figure 5: U.S. Dollar Liquidity Swaps Outstanding with the ECB
+$ billions
+160
+
+0
+
+0
+140
+0
+120
+0
+100
+0
+
+80
+
+0
+
+0
+60
+0
+40
+0
+20
+0
+
+0
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+J
+
+U.S. dollar liquidity swaps outstanding with the ECB, $ bn
+
+Source: FRBNY, Credit Suisse
+
+Figure 6: The Cost of Tapping the Swap Lines through the ECB
+percent, three-month, using OATs as collateral
+3.25
+3.00
+
+0
+
+2.75
+2.50
+2.25
+
+0
+
+2.00
+
+1.75
+
+0
+
+1.50
+1.25
+0
+1.00
+0.75
+0
+
+0.50
+0.25
+0.00
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+FXS [€, OIS]
+
+Libor [$]
+
+YCD [$]
+
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+J
+
+Source: the BLOOMBERG PROFESSIONAL™ service, Credit Suisse
+
+Global Money Notes #31
+
+11
+
+11 June 2020
+
+Figure 7: The Cost of Tapping the Swap Lines through the BoJ
+percent, one-week
+3.50
+3.25
+
+0
+
+3.00
+2.75
+
+2.50
+0
+2.25
+2.00
+0
+
+1.75
+1.50
+1.25
+
+0
+
+1.00
+
+0.75
+0
+0.50
+0.25
+0.00
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+FXS [¥, OIS]
+
+Libor [$]
+
+CD/CP [$]
+
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+J
+
+Source: the BLOOMBERG PROFESSIONAL™ service, Credit Suisse
+
+Figure 8: The Cost of Tapping the Swap Lines through the ECB
+percent, one-week, using OATs as collateral
+3.50
+3.25
+
+0
+
+3.00
+2.75
+
+2.50
+0
+2.25
+2.00
+0
+
+1.75
+1.50
+1.25
+
+0
+
+1.00
+
+0.75
+0
+0.50
+0.25
+0.00
+
+0
+J
+
+F
+
+M
+
+A
+
+M
+
+FXS [€, OIS]
+
+Libor [$]
+
+YCD [$]
+
+"No Excess"
+
+"Excess Cash"
+
+"Excess Collateral"
+
+"Preserve"
+
+"No Frills"
+
+J
+
+Source: the BLOOMBERG PROFESSIONAL™ service, Credit Suisse
+
+Global Money Notes #31
+
+12
+
+11 June 2020
+
+Global Money Notes #31
+
+13
+
+11 June 2020
+
+Additional Important Information
+This material has been prepared by the Investment Strategy Department personnel of Credit Suisse identified in this material as
+"Contributors" and not by Credit Suisse's Research Department. The information contained in this document has been provided
+as general market commentary only and does not constitute any form of personal advice, legal, tax or other regulated financial
+service. It is intended only to provide observations and views of the Investment Strategy Department, which may be different
+from, or inconsistent with, the observations and views of Credit Suisse Research Department analysts, other Credit Suisse
+departments, or the proprietary positions of Credit Suisse. Observations and views expressed herein may be changed by the
+Investment Strategy Department at any time without notice. Credit Suisse accepts no liability for losses arising from the use of
+this material.
+This material does not purport to contain all of the information that an interested party may desire and, in fact, provides only a
+limited view of a particular market. It is not investment research, or a research recommendation for regulatory purposes, as it
+does not constitute substantive research or analysis. The information provided is not intended to provide a sufficient basis on
+which to make an investment decision and is not a personal recommendation or investment advice. While it has been obtained
+from or based upon sources believed by the trader or sales personnel to be reliable, each of the trader or sales personnel and
+Credit Suisse does not represent or warrant its accuracy or completeness and is not responsible for losses or damages arising
+from the use of this material.
+This communication is marketing material and/or trader commentary. It is not a product of the research department. This
+material constitutes an invitation to consider entering into a derivatives transaction under U.S. CFTC Regulations §§ 1.71 and
+23.605, where applicable, but is not a binding offer to buy/sell any financial instrument. The views of the author may differ from
+others at Credit Suisse Group (including Credit Suisse Research).
+This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU
+accepts responsibility for its contents. Clients should contact analysts and execute transactions through a Credit Suisse
+subsidiary or affiliate in their home jurisdiction unless governing law permits otherwise.
+This material is provided for informational purposes and does not constitute an invitation or offer to subscribe for or purchase any
+of the products or services mentioned.
+Credit Suisse Securities (Europe) Limited ("CSSEL") and Credit Suisse International ("CSI") are authorised by the Prudential
+Regulation Authority and regulated by the Financial Conduct Authority ("FCA") and the Prudential Regulation Authority under UK
+laws, which differ from Australian Laws. CSSEL and CSI do not hold an Australian Financial Services Licence ("AFSL") and are
+exempt from the requirement to hold an AFSL under the Corporations Act (Cth) 2001 ("Corporations Act") in respect of the
+financial services provided to Australian wholesale clients (within the meaning of section 761G of the Corporations Act)
+(hereinafter referred to as “Financial Services”). This material is not for distribution to retail clients and is directed exclusively at
+Credit Suisse's professional clients and eligible counterparties as defined by the FCA, and wholesale clients as defined under
+section 761G of the Corporations Act. Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and regulated by the Securities
+and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL does not hold
+an AFSL and is exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial
+Services. Investment banking services in the United States are provided by Credit Suisse Securities (USA) LLC, an affiliate of
+Credit Suisse Group. CSSU is regulated by the United States Securities and Exchange Commission under United States laws,
+which differ from Australian laws. CSSU does not hold an AFSL and is exempt from the requirement to hold an AFSL under the
+Corporations Act in respect of providing Financial Services. Credit Suisse Asset Management LLC (CSAM) is authorised by the
+Securities and Exchange Commission under US laws, which differ from Australian laws. CSAM does not hold an AFSL and is
+exempt from the requirement to hold an AFSL under the Corporations Act in respect of providing Financial Services. Credit
+Suisse Equities (Australia) Limited (ABN 35 068 232 708) ("CSEAL") is an AFSL holder in Australia (AFSL 237237). In
+Australia, this material may only be distributed to Wholesale investors as defined in the Corporations Act. CSEAL is not an
+authorised deposit taking institution and products described herein do not represent deposits or other liabilities of Credit Suisse
+AG, Sydney Branch. Credit Suisse AG, Sydney Branch does not guarantee any particular rate of return on, or the performance
+of any products described.
+This report may not be reproduced either in whole or in part, without the written permission of Credit Suisse. Copyright © 2019
+Credit Suisse Group AG and/or its affiliates. All rights reserved.
+
+Global Money Notes #31
+
+14
+
+

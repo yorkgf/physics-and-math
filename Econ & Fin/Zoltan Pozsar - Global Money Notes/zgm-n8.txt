@@ -1,0 +1,5865 @@
+3 August 2016
+
+Figure 1: Battening Down the Hatches
+Institutional-class prime funds, $ billion
+900
+
+800
+
+700
+
+600
+
+500
+
+400
+
+300
+
+556
+425
+
+200
+
+100
+
+0
+AuM
+
+Current 7-day liquidity
+
+by instrument
+
+Target 7-day liquidity
+
+Non-Negotiable Time Deposit
+
+Certificate of Deposit
+
+Financial Company Commercial Paper
+
+U.S. Treasury Repurchase Agreement
+
+U.S. Government Agency Repurchase Agreement
+
+Other Repurchase Agreement
+
+U.S. Treasury Debt
+
+U.S. Government Agency Debt
+
+Other
+
+Source: Crane Data, Credit Suisse
+
+Figure 2: The Last Hurrah
+Holdings of institutional-class prime funds, $ billion
+350
+
+350
+
+300
+
+300
+
+250
+
+250
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+Jul-16
+
+0
+Aug-16
+
+Sep-16
+
+Oct-16
+
+Nov-16
+
+Dec-16
+
+CDs and CP - all banks ex US banks
+
+Jan-17
+
+Feb-17
+
+Mar-17
+
+Apr-17
+
+May-17
+
+Jun-17
+
+CDs and CP - Libor panel banks ex US banks
+
+Source: Crane Data, Credit Suisse
+
+Global Money Notes #7
+
+4
+
+3 August 2016
+
+Figure 3: Foreign Bank Branches in New York
+as of March 31st, 2016, $ billion
+2,000
+
+1,800
+297
+1,600
+
+585
+Interoffice funding (from HQ)
+Deposits (operating)
+
+1,400
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+1,200
+
+Money market funding (unsecured - CP and term debt)
+
+176
+76
+
+Money market funding (secured)
+714
+
+Other
+Derivative payables
+
+1,000
+
+HQLA (reserves)
+290
+
+HQLA (reverse repos)
+
+800
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+
+600
+
+259
+
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+
+400
+
+Derivative receivables
+336
+
+200
+
+0
+Assets
+
+Liabilities
+
+All foreign banks that regularly depend on prime institutional money funds for funding ("sample banks")
+
+Source: FFIEC 002, Credit Suisse
+
+The question we are trying to answer is what will happen to the balance sheet of these
+branches when a sizeable chunk of the $714 billion in unsecured funding goes away due
+to prime fund reform (again, see Figure 3). Unsecured funding funds one of four activities.
+First, unsecured funding can fund IOER arbitrage trades. Similar to the way foreign banks
+borrow from the FHLBs in the o/n fed funds market in order to fund reserves at the Fed
+earning IOER, foreign banks borrow from prime funds in the o/n Caribbean eurodollar
+market to fund reserves at the Fed earning IOER (in essence, the cost of these arbitrage
+trades is what is captured by the Fed’s new overnight bank funding rate). The volume of
+such o/n eurodollar transactions is about $250 billion on any given business day, but the
+quarter-end balance sheet snapshot on display in Figure 3 only includes $100 billion of
+such trades. This is because on quarter-ends, foreign banks trim arbitrage by $150 billion
+(see Figure 4). As such, foreign banks could lose $100 billion in funding from the $714
+billion pod highlighted in Figure 3 without any major consequence for their balance sheet
+or the market. As money leaves prime funds for government funds, prime funds won’t roll
+overnight loans to banks, banks give up the reserves that were funded overnight and the
+Fed swaps these reserves into o/n RRPs for government money funds – unless of course
+these flows are absorbed by the Treasury boosting its cash balances or FRBNY luring
+more foreign central banks into the foreign repo pool, boosting the effective bill supply.
+Second, unsecured funding can also fund HQLA portfolios. Unlike arbitrage trades, where
+banks decide to put on trades that inflate their balance sheet, the amount of HQLA a bank
+needs to hold to be compliant with the liquidity coverage ratio is determined by the liquidity
+needs of a bank’s customers. These liquidity needs determine a bank’s liability profile
+which in turn determines a bank’s HQLA needs. By definition, assembling an HQLA
+portfolio that complies with a bank’s customer-driven liability profile can only be funded on
+tenors longer than 30 days. This is because funding shorter than 30 days would increase a
+bank’s HQLA needs further. In fact, any trade that involves funding reserves at the Fed (or
+other forms of HQLA) with funds shorter than 30 days is surely motivated by arbitrage (see
+previous example) and not genuine HQLA needs. But arbitrage is possible only if one has
+“excess” balance sheet, which is a luxury available to only a handful of foreign banks.
+Foreign bank branches’ genuine HQLA needs – and the associated volume of funding – is
+Global Money Notes #7
+
+5
+
+3 August 2016
+
+Figure 4: Arbitrage On, Arbitrage Off
+$ trillion
+3.0
+
+3.0
+
+2.5
+
+2.5
+
+2.0
+
+2.0
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+0.5
+
+0.5
+
+0.0
+
+0.0
+12
+
+13
+
+14
+
+15
+
+16
+
+Balance sheet shrinkage on quarter-end dates
+
+o/n RRP takeup on quarter-end dates
+
+New York branches of foreign banks, total assets, $ billions
+
+New York branches of foreign banks, reserves, $ billions
+
+Source: Federal Reserve, Credit Suisse
+
+about $600 billion. About one half of this comes from prime funds (see Figure 2 above),
+which in turn means that foreign banks would have to replace that much in term unsecured
+funding in order to maintain their LCR as prime fund reform washes through the system.
+Third, unsecured funding can also fund loan books in New York. Here, the options are
+fairly limited. Loans are illiquid and hence cannot be sold and so a bank either pays up for
+funding and sees its net interest margin erode on fixed rate loans (painful), or it pays up for
+funding without a sweat and passes it on to customers via floating rate loans (painless).
+Fourth, unsecured funding can also fund dollar loans to headquarters, which typically
+represent the dollar funding leg of dollars loaned through FX swaps. Loans to
+headquarters can also fund customer loans that finance the global flow of commodities
+and tradable goods. As dollar funding from prime money funds gradually fades away, the
+options are either to (1) reduce the volume of dollars loaned through FX swaps or shrink
+one’s commodity and trade finance books (in essence reducing one’s balance sheet) or
+(2) keep on bidding for unsecured funding from prime money funds at higher and higher
+rates and pass higher rates on to those on the other side of FX swaps and to customers.
+Either way, it is clear that the impact of prime fund reform will continue to be felt in offshore
+dollar funding markets and remain visible in the JPY and EUR cross-currency bases.
+It is important to appreciate that, until now, all four of the above activities (assets) have
+been funded in the “no man’s land” that’s between the 30-day point of the LCR and the
+1-year point of the NSFR. The most active funding points in this no man’s land were three
+and six months and the single largest buyer base of unsecured paper of those tenors were
+prime funds. And it is precisely this part of the market that prime money fund reform is
+about to obliterate by decimating the buyer base of, and hence demand for, these tenors.
+Structurally, foreign banks have two choices to make between now and October 17th – the
+first one involves “digging your heels in” and the second one involves term debt markets.
+Global Money Notes #7
+
+6
+
+3 August 2016
+
+First, keep hanging around in “no man’s land” and issue unsecured paper at ever shorter
+tenors (but not shorter than one month) and ever higher rates. The view here is that
+sharply higher funding costs are a temporary phenomenon, and that it is better to pay a
+steep price for short-term funding for a few months than to lock in expensive long-term
+term funding for several years. This choice is based on an optimistic view of the postreform prospects of prime funds: that much less money will leave than what prime funds
+are currently provisioned for and that it is worth paying a steep price for a few months
+because after October 17, at least some of the money that is currently on the sidelines will
+be back in “no man’s land” for term trades. But, until then, the cost of term dollar funding
+raised onshore from prime funds will be high – driving three-month Libor higher and higher
+– and will approach the cost of term dollar funding raised offshore via FX swaps.
+Second, turn the page and leave “no man’s land” behind and issue term debt. Term debt
+issuance will have to be ramped up to get compliant with the NSFR and TLAC anyway.
+This stance is based on a pessimistic view of the post-reform prospects of prime funds
+and, unlike the previous choice, won’t have much of an impact on U.S. dollar Libor fixings.
+Judging from the recent issuance record of foreign banks, Canadian banks appear to be
+going down the path of term debt, and Japanese and French banks are showing a high
+tolerance for pain, by borrowing for three months at 90 bps – versus Libor at 75 bps. While
+much higher than the current three-month Libor fixing, these levels are still cheaper than
+the all-in costs of using either JPY or EUR to raise dollar funding via FX swaps at 120 bps.
+Bottom line, what we need to do from here is to separate the arbitrageurs from the “rest,”
+and figure out what the rest’s structural balance sheet features suggest about their ability
+to shrink balance sheet, reprice certain assets or tap alternative sources of funding and
+what these mean for various cross-currency bases, the Libor curve and various repo rates.
+With that, let the great onion peeling begin…
+
+Part 3 – Les Arbitrageurs
+You can spot an arbitrageur by the share of one’s balance sheet devoted to high-volume,
+low margin activities, like borrowing fed funds and eurodollars overnight to fund reserves
+at the Fed earning IOER. The bulk of such arbitrage trades are generated by a small
+coterie of Australian, Canadian, German, Dutch, Finnish, Swedish and Norwegian banks.
+Their branches run a $250 billion balance sheet in the aggregate (for a country by country
+breakdown of this aggregate, see Figures 5 - 8). Reserves clearly dominate the asset side
+(taking up anywhere between 100% and 50% of arbitrageurs’ balance sheets) and unsecured
+funding – mostly o/n deposits – from prime funds dominates the liability side. As noted above,
+the quarter-end snapshot of March 31st showing $103 billion in o/n deposits outstanding is an
+understatement, as on days other than quarter-end, arbitrage volumes are greater by as much
+as $150 billion. Ditto fed funds (FF) borrowed – the quarter-end snapshots provided by call
+reports suggest that arbitrageurs borrow only about $10 billion, when in fact we know that daily
+average volumes in the FF market are around $65 billion.
+The implications of prime fund reform are the least painful for these banks. This is
+because their balance sheet is mostly about o/n arbitrage trades, which can be turned off
+and on with ease. Furthermore, they have no significant HQLA needs to fund; they have
+no loan books to fund; and they have no U.S. dollar needs at headquarters to worry about.
+For these banks, money fund reform will be as simple as shrinking their balance sheet.
+On the flipside, the reduced availability of o/n eurodollar funds for arbitrage will also mean
+much reduced volumes behind the Fed’s new overnight bank funding rate (OBFR). Prime
+fund conversions to date have already reduced these volumes by close to $80 billion, and
+volumes could shrink by another $100 billion as prime outflows accelerate (see Figure 9).
+In other words, the depth of the o/n eurodollar market relative to that of the fed funds
+Global Money Notes #7
+
+7
+
+3 August 2016
+
+Figure 5: Australian Arbitrageurs
+as of March 31st, 2016, $ billion
+80
+
+0
+70
+
+Interoffice funding (from HQ)
+
+60
+
+31
+
+32
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+50
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+
+40
+
+Derivative payables
+
+6
+
+HQLA (reserves)
+2
+
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+30
+
+Money market lending (to HQ)
+19
+
+35
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+20
+
+Loans (traditional lending)
+Derivative receivables
+10
+
+6
+0
+Assets
+
+Liabilities
+Australian Arbitrageurs
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 6: Eurozone Arbitrageurs
+as of March 31st, 2016, $ billion
+120
+
+100
+16
+Interoffice funding (from HQ)
+Deposits (operating)
+80
+
+Money market funding (unsecured - fed funds purchased)
+
+45
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+60
+
+HQLA (reserves)
+46
+17
+
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+
+40
+
+Money market lending (fed funds sold)
+
+6
+
+Money market lending (interbank deposits)
+
+4
+
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+20
+
+24
+
+3
+0
+Assets
+
+Liabilities
+Eurozone Arbitrageurs
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+8
+
+3 August 2016
+
+Figure 7: Norwegian Arbitrageurs
+as of March 31st, 2016, $ billion
+16
+
+14
+
+5
+Interoffice funding (from HQ)
+
+12
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+10
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+14
+
+8
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+6
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+7
+
+4
+
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+2
+0
+
+0
+0
+
+0
+Assets
+
+Liabilities
+Norwegian Arbitrageurs
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 8: Swedish Arbitrageurs
+as of March 31st, 2016, $ billion
+100
+
+90
+
+13
+
+80
+
+Interoffice funding (from HQ)
+Deposits (operating)
+
+70
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+60
+
+Money market funding (secured)
+Other
+50
+
+Derivative payables
+
+75
+
+HQLA (reserves)
+HQLA (reverse repos)
+40
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+
+30
+
+48
+
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+
+20
+
+10
+
+Derivative receivables
+0
+2
+7
+6
+0
+Liabilities
+
+0
+Assets
+Swedish Arbitrageurs
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+9
+
+3 August 2016
+
+Figure 9: The Incredible Shrinking o/n Eurodollar Market
+$ billion
+300
+
+300
+
+250
+
+250
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+15
+
+16
+o/n FF
+
+o/n ED
+
+Source: FFIEC 002, Credit Suisse
+
+market is set to shrink and with it the allure of the OBFR as an alternative reference rate
+(see here for why we think the o/n GCF repo rate is a superior alternative to the OBFR).
+
+Part 4 – Japanese Banks
+Japanese banks in New York have close to a $600 billion balance sheet in the aggregate
+(see Figure 10). On the asset side, there are no traces of arbitrage. The dominant form of
+assets are customer loans in New York (around $300 billion), dollars lent to headquarters in
+Tokyo (around $150 billion), and HQLA (around $130 billion). On the liability side, unsecured
+funding accounts for 2/3rd of funds raised. Secured funding accounts for the rest.
+But this aggregate picture hides two distinct funding strategies.
+Appreciating each is essential in anticipating how Japanese bank branches will influence
+how money markets will trade between now and the October 17th reform deadline.
+Figure 11 shows the balance sheet of the Norinchukin Bank’s New York branch, which is
+unique by any standard. At $120 billion, it is the second largest foreign bank branch in New
+York (after Deutsche Bank) and it relies almost exclusively on secured funding in the GCF
+repo market. Norinchukin, like many other Japanese investors that try to avoid depressed
+rates in Japan, invests in U.S. dollar assets. But unlike other Japanese investors, who fund
+their U.S. dollar assets in the FX swap market, Norinchukin funds its U.S. dollar assets
+(mostly U.S. Treasuries) through its New York branch in the GCF repo market.
+How come Norinchukin can pledge so much in Treasuries without affecting its LCR? Well,
+as an agricultural cooperative, Norinchukin is not subject to Basel III and so it can utilize its
+U.S. Treasury portfolio to a maximum extent to raise dollar funding cheaply in New York.
+
+Global Money Notes #7
+
+10
+
+3 August 2016
+
+Norinchukin also taps the unsecured market to the tune of about $26 billion and if this
+source of unsecured funding slips away due to prime fund reform, Norinchukin will have
+that much more funding to do in the repo market, pulling o/n GCF and tri-party repo rates
+
+Figure 10: Japanese Banks
+as of March 31st, 2016, $ billion
+600
+
+27
+
+500
+
+115
+
+Interoffice funding (from HQ)
+
+1
+10
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+
+400
+243
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+155
+
+Money market funding (secured)
+Other
+Derivative payables
+
+300
+
+HQLA (reserves)
+HQLA (reverse repos)
+63
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+
+200
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+177
+
+100
+
+Derivative receivables
+
+0
+Assets
+
+Liabilities
+Sample banks with a home base in Japan
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 11: Norinchukin Bank New York Branch
+as of March 31st, 2016, $ billion
+160
+
+140
+0
+11
+120
+
+0
+
+26
+
+Interoffice funding (from HQ)
+Deposits (operating)
+
+0
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+100
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+80
+
+HQLA (reserves)
+HQLA (reverse repos)
+118
+
+HQLA (bonds - U.S. Treasuries)
+
+60
+108
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+40
+
+Loans (traditional lending)
+Derivative receivables
+20
+
+0
+Assets
+
+Liabilities
+Norinchukin Bank NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+higher and wider. This is because the intermediation of flows away from unsecured to
+secured markets will flow through primary dealers' balance sheets, and primary dealers –
+
+Global Money Notes #7
+
+11
+
+3 August 2016
+
+who since July 1st are now all subject to daily average balance sheet reporting – will
+charge for a greater use of their much scarcer balance sheets through wider repo spreads.
+Figure 12 shows the balance sheet of Mizuho Bank’s New York branch. This branch has
+more of a real economy “feel” to it than Norinchukin’s: about half of its $120 billion in
+
+Figure 12: Mizuho Bank New York Branch
+as of March 31st, 2016, $ billion
+140
+0
+120
+
+100
+
+24
+
+Interoffice funding (from HQ)
+
+1
+4
+
+44
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+80
+
+Money market funding (unsecured - CP and term debt)
+
+36
+
+Money market funding (secured)
+9
+
+Other
+Derivative payables
+HQLA (reserves)
+HQLA (reverse repos)
+
+60
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+40
+
+63
+
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+20
+
+0
+Assets
+
+Liabilities
+Mizuho Bank NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 13: Other Japanese Banks
+as of March 31st, 2016, $ billion
+350
+
+300
+27
+Interoffice funding (from HQ)
+
+80
+
+Deposits (operating)
+
+250
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+0
+7
+2
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+
+200
+
+Other
+Derivative payables
+173
+
+HQLA (reserves)
+HQLA (reverse repos)
+
+150
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+
+100
+
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+50
+
+53
+
+6
+0
+Assets
+
+Liabilities
+
+Japanese sample banks excluding Norinchukin Bank NY Branch and Mizuho Bank NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+assets are customer loans, about $40 billion are dollar loans to headquarters in Tokyo,
+and the rest (about $30 billion) are HQLA. On the liability side, half of the funding comes
+Global Money Notes #7
+
+12
+
+3 August 2016
+
+from the unsecured market and the other half from the secured (repo) markets. Similar to
+Norinchukin, Mizuho taps the GCF repo market as well and not the tri-party repo market
+(we know this because cross-referencing Mizuho’s call report with Crane’s data on money
+fund holdings, Mizuho’s New York branch does not appear to be doing any repos with
+money funds; Mizuho’s dealer subsidiary does, but we are not talking about dealers here).
+If unsecured funding becomes less and less available and more and more expensive,
+Mizuho will likely respond by raising fewer dollars for Tokyo (a reduction of the supply of
+offshore dollars in the Tokyo money market) as it aims to prioritize funding for its illiquid
+loan book in New York. In turn, Tokyo will likely respond by trying to find an alternative
+source of dollar funding via FX swaps, which would push the cross-currency basis more
+negative still. Ultimately, the cost of onshore and offshore dollar funding would converge.
+Figure 13 shows the universe of Japanese sample banks, excluding the New York
+branches of Norinchukin and Mizuho. The dominant names in this $300 billion lot are the
+New York branches of Sumitomo Mitsui Banking Corp. and the Bank of Tokyo Mitsubishi.
+What we see is a picture that is drastically different from the prior two cases.
+Illiquid loans dominate on the asset side and unsecured funding from prime money funds
+on the liability side. And, unlike the previous two banks, which ship dollars back to
+headquarters, these banks are already tapping headquarters for dollar funding. As
+unsecured funding from prime funds becomes less available and more expensive, they will
+have to pay higher rates to take down a large share of a shrinking CP and CD market
+(the path they have chosen to date), step up their term debt issuance (no sign to date), or
+tap the FX swap market through headquarters (no sign yet, as it is costlier than the first).
+The sheer size of the New York branches of Sumitumo and the Bank of Tokyo-Mitsubishi
+is important to highlight in this regard as they are the single largest issuers of unsecured
+paper to prime money funds. In recent weeks, they have been issuing three-month paper
+at 90 bps, which while much higher than the comparable Libor fixing at 75 bps, is way
+cheaper than the all-in cost of raising three-month dollar funding via FX swaps at 125 bps.
+In this sense, Sumitomo Mitsui and the Bank of Tokyo-Mitsubishi appear to be the
+marginal price setters of the term premium in unsecured money markets at present.
+There is plenty of room for them to pay up for CDs and CP before they become indifferent
+between raising dollars onshore in New York (by issuing unsecured paper to prime funds)
+or offshore in Tokyo (by swapping yen for dollars via FX swaps). With the term premium
+being credit blind and country neutral, these two banks’ quest for term funding is driving
+the term premium wider for every other issuer and pushing three-month Libor higher by
+the day – three-month Libor could hit 90 bps by the end of August, in our view.
+
+Part 5 – Eurozone Banks
+Eurozone banks in New York (excluding the Landesbanks) have close to a $500 billion
+balance sheet in the aggregate (see Figure 14) – a bit smaller than the Japanese banks.
+The eurozone aggregate also masks various funding strategies – four in particular.
+First, French “dealer banks” – the New York branches of Credit Agricole, Natixis and
+Societe Generale – harbor broker-dealer operations, which other foreign banks typically
+run out of a broker-dealer subsidiary, not a branch (see Figure 15). This is clear from their
+sizeable matched repo books (about $100 billion in the aggregate), which dominate their
+combined balance sheets. The rest of their balance sheet consists of credit ($70 billion)
+and HQLA ($50 billion) on the asset side, and unsecured funding on the liability side.
+Like with Japanese banks, prime funds are the largest source of unsecured funding for
+French dealer banks and, if that funding source goes, the FX swap market is the backup
+alternative (French dealers banks already have a net funding need from headquarters).
+Global Money Notes #7
+
+13
+
+3 August 2016
+
+Second, unlike the braches of its dealer compatriots, the balance sheet of BNP Paribas’
+New York branch has a distinct real economy feel to it (see Figure 16). Just over half of its
+balance sheet is made up of credit (loans, corporate bonds, ABS, etc.) on the asset side,
+with the rest in HQLA. On the liability side, we can see only unsecured sources of funding,
+most of which – like in all prior examples – come from prime money funds. At present,
+
+Figure 14: Eurozone Banks
+as of March 31st, 2016, $ billion
+500
+
+450
+89
+
+100
+
+400
+Interoffice funding (from HQ)
+Deposits (operating)
+
+350
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+113
+
+Money market funding (unsecured - CP and term debt)
+
+300
+
+Money market funding (secured)
+98
+250
+
+34
+
+Other
+Derivative payables
+HQLA (reserves)
+
+28
+
+HQLA (reverse repos)
+
+200
+
+HQLA (bonds - U.S. Treasuries)
+62
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+
+150
+
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+100
+
+107
+
+Loans (traditional lending)
+Derivative receivables
+
+50
+
+0
+Assets
+
+Liabilities
+Eurozone sample banks excluding the Landesbanks
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 15: French “Dealer” Banks
+as of March 31st, 2016, $ billion
+250
+
+21
+
+31
+200
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+54
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+150
+
+Money market funding (secured)
+
+106
+
+Other
+27
+
+Derivative payables
+HQLA (reserves)
+HQLA (reverse repos)
+
+100
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+
+15
+
+Money market lending (interbank deposits)
+
+5
+98
+
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+
+50
+
+Derivative receivables
+
+0
+Assets
+
+Liabilities
+French "dealer" banks
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+14
+
+3 August 2016
+
+BNP does not appear to be tapping headquarters for funding, but were that to change, it
+could join the dealer banks in crowding into the FX swap market and bid for dollar funding.
+Third, Deutsche Bank’s New York branch, like BNP Paribas’, also has a real economy feel
+to it, with close to one half of its balance sheet funding loans and other forms of credit, and
+the rest of its assets is HQLA. However, unlike BNP, Deutsche Bank sources the bulk of
+its funding from Frankfurt and barely relies on prime funds anymore (see Figure 17).
+
+Figure 16: BNP Paribas New York Branch
+as of March 31st, 2016, $ billion
+70
+
+1
+
+60
+
+Interoffice funding (from HQ)
+50
+
+Deposits (operating)
+
+21
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+40
+
+Money market funding (secured)
+
+0
+
+Other
+
+6
+
+Derivative payables
+16
+
+0
+
+HQLA (reserves)
+HQLA (reverse repos)
+
+30
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+
+20
+
+Capital market lending (corporate bonds, ABS, etc.)
+19
+
+Loans (traditional lending)
+Derivative receivables
+
+10
+0
+
+0
+Assets
+
+Liabilities
+BNP Paribas NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 17: Deutsche Bank New York Branch
+as of March 31st, 2016, $ billion
+160
+
+140
+30
+
+Interoffice funding (from HQ)
+
+120
+7
+
+Deposits (operating)
+78
+
+13
+100
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+0
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+80
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+60
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+11
+
+40
+
+Capital market lending (corporate bonds, ABS, etc.)
+
+3
+
+Loans (traditional lending)
+
+8
+
+Derivative receivables
+
+20
+
+0
+Assets
+
+Liabilities
+Deutsche Bank AG NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+15
+
+3 August 2016
+
+The balance sheet of Deutsche Bank’s New York branch provides a good example of what
+the balance sheets of the New York branches of the Bank of Tokyo-Mitsubishi, Sumitomo,
+Credit Agricole, Natixis, Societe Generale and BNP Paribas may look like once funding
+from prime funds goes away or becomes as expensive as the all-in costs of offshore dollar
+funding via FX swaps. They will all be calling headquarters for funding and in turn
+headquarters will be tapping the FX swap market for dollars – potentially to the tune of
+$100 billion each involving the swap of euros and yen for U.S. dollars. In both cases, the
+impact of such flows would be quite considerable for the relevant cross currency bases. In
+fact, according to the Bank of Japan’s latest Financial System Report (see here), the
+current size of the JPYUSD swap market is around $300 billion. One can only imagine the
+“wonders” that an extra $100 billion in bids for U.S. dollars could do to the JPY basis.
+
+Figure 18: Other Eurozone Banks
+as of March 31st, 2016, $ billion
+35
+0
+
+30
+
+6
+
+0
+
+Interoffice funding (from HQ)
+Deposits (operating)
+
+25
+
+Money market funding (unsecured - fed funds purchased)
+17
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+
+20
+
+Other
+Derivative payables
+HQLA (reserves)
+15
+
+HQLA (reverse repos)
+
+23
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+
+10
+
+Capital market lending (corporate bonds, ABS, etc.)
+13
+
+Loans (traditional lending)
+Derivative receivables
+
+5
+
+0
+
+0
+Assets
+
+Liabilities
+
+Eurozone sample banks excluding the French banks and Deutsche Bank
+
+Source: FFIEC 002, Credit Suisse
+
+Fourth, the remainder of eurozone banks – KBC, DZ Bank and Fortis – are unique in that
+all their New York branches do is borrow dollars from prime funds and send dollars back to
+headquarters where they fund legacy dollar assets that are hard to fund in repo markets
+(see Figure 18). If these branches encounter problems rolling their funding with prime
+funds, their role would shrink and headquarters would take over the funding of legacy
+assets by tapping the FX swap market – exacerbating the dynamics described above.
+
+Part 6 – Canadian Banks
+Canadian sample banks have a $300 billion dollar balance sheet in the aggregate. On the
+liability side, unsecured funding dominates at $155 billion (see Figure 19). But from this
+aggregate, we need to exclude two names which distort the picture. These names are the
+New York branch of the Bank of Nova Scotia and the Chicago branch of Bank of Montreal.
+Figure 20 shows that the Bank of Nova Scotia’s reliance on unsecured funding from prime
+money funds is miniscule and so its balance sheet should not be included in an analysis of
+Canadian banks’ exposure to prime fund reforms. Furthermore, the Bank of Nova Scotia is
+running a primary dealer operation out of its New York branch – this can be seen from its
+large and comparable size of its repo and reverse repo positions – and so it is more akin
+to French “dealer banks” than the typical New York branch of a foreign bank.
+Global Money Notes #7
+
+16
+
+3 August 2016
+
+Figure 21 shows that BMO’s Chicago branch is also in the matched-book repo business,
+but unlike the Bank of Nova Scotia, it also raises over $40 billion in unsecured funding
+from money funds. One interesting feature of its balance sheet is that about $10 billion of
+the $40 billion in unsecured dollar funding raised is “northbound” – it flows back to
+headquarters in Montreal, where it is presumably funding Canadian dollar (CAD) assets.
+
+Figure 19: Canadian Banks
+as of March 31st, 2016, $ billion
+350
+
+300
+47
+Interoffice funding (from HQ)
+
+81
+
+Deposits (operating)
+
+250
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+200
+
+Money market funding (secured)
+
+52
+
+Other
+155
+
+17
+
+Derivative payables
+HQLA (reserves)
+HQLA (reverse repos)
+
+150
+
+HQLA (bonds - U.S. Treasuries)
+48
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+
+100
+10
+
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+58
+
+50
+
+0
+Assets
+
+Liabilities
+
+Sample banks with a home base in Canada ex National Bank of Canada
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 20: Bank of Nova Scotia New York Branch
+as of March 31st, 2016, $ billion
+100
+
+90
+
+80
+
+26
+
+28
+Interoffice funding (from HQ)
+Deposits (operating)
+
+70
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+60
+
+0
+6
+
+50
+
+31
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+HQLA (reserves)
+HQLA (reverse repos)
+
+40
+
+HQLA (bonds - U.S. Treasuries)
+34
+
+30
+
+4
+0
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+
+20
+
+Derivative receivables
+
+10
+
+0
+Assets
+
+Liabilities
+Bank of Nova Scotia NY Agency
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+17
+
+3 August 2016
+
+Figure 21: Bank of Montreal Chicago Branch
+as of March 31st, 2016, $ billion
+80
+
+70
+
+14
+Interoffice funding (from HQ)
+
+60
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+50
+
+Money market funding (unsecured - CP and term debt)
+43
+
+20
+
+Money market funding (secured)
+Other
+Derivative payables
+
+40
+
+HQLA (reserves)
+HQLA (reverse repos)
+
+2
+
+HQLA (bonds - U.S. Treasuries)
+
+30
+
+Money market lending (to HQ)
+
+9
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+20
+
+Loans (traditional lending)
+24
+
+Derivative receivables
+
+10
+
+0
+Assets
+
+Liabilities
+Bank of Montreal Chicago Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 22: Canadian Banks ex Bank of Nova Scotia and BMO
+as of March 31st, 2016, $ billion
+160
+
+140
+20
+120
+
+Interoffice funding (from HQ)
+
+40
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+100
+
+Money market funding (unsecured - o/n TDs and CDs)
+
+1
+
+Money market funding (unsecured - CP and term debt)
+
+10
+
+Money market funding (secured)
+Other
+Derivative payables
+
+80
+
+HQLA (reserves)
+39
+
+HQLA (reverse repos)
+111
+
+60
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+40
+
+Loans (traditional lending)
+Derivative receivables
+20
+
+4
+0
+0
+Assets
+
+Liabilities
+
+Canadian sample banks excluding Bank of Nova Scotia NY Agency and Bank of Montreal Chicago Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+18
+
+3 August 2016
+
+Figure 23: Royal Bank of Canada New York Branch
+as of March 31st, 2016, $ billion
+60
+
+50
+10
+17
+0
+40
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+9
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+
+0
+
+Other
+Derivative payables
+
+30
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+20
+
+34
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+10
+
+2
+0
+
+0
+Assets
+
+Liabilities
+ROYAL BK CAN THRE WRLD FNCL BR
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 24: Other Canadian Banks
+as of March 31st, 2016, $ billion
+90
+0
+80
+
+70
+
+30
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+
+60
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+1
+1
+
+Money market funding (secured)
+
+50
+
+Other
+77
+
+Derivative payables
+HQLA (reserves)
+
+40
+
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+39
+
+Money market lending (to HQ)
+
+30
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+20
+
+Loans (traditional lending)
+Derivative receivables
+
+10
+2
+0
+0
+Assets
+
+Liabilities
+
+Canadian sample banks excluding Bank of Nova Scotia NY Agency, BMO Chicago Branch and RBC NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 22 shows Canadian sample banks excluding the New York and Chicago branches
+of the Bank of Nova Scotia and BMO. This is a different image from where we started.
+Unlike all Canadian bank branches combined, this subset of Canadian bank branches rely
+nearly exclusively on unsecured funding from prime funds. $40 billion of this funding is
+northbound (going back to Canada), where – similar to BMO – it is funding CAD assets.
+
+Global Money Notes #7
+
+19
+
+3 August 2016
+
+Figure 23 shows the balance sheet of RBC’s New York branch, which is another outlier. Its
+balance sheet has a real economy scent to it – its main assets are loans and the rest of its
+balance sheet is HQLA (reserves and Treasuries). On the funding side, unsecured funding
+dominates and it also taps headquarters of U.S. dollars funding. RBC’s options are fairly
+limited if it is unable to roll unsecured funding with prime funds. Its loan book would be
+difficult to shrink and so the alternatives are to issue term debt or to ask headquarters to
+swap CAD for USD via the FX swap market and downstream it to the New York branch.
+Figure 24 shows the previous subset of Canadian sample banks excluding the New York
+branch of RBC. What we see is a simple balance sheet structure which relies exclusively
+on unsecured funding, the bulk of which is northbound, flowing back to headquarters.
+The dominant names in this group are the New York branches of Toronto-Dominion Bank
+and CIBC. Together with the Chicago branch of BMO, these banks are responsible for the
+northbound flow of about $50 billion of U.S. dollars to Canada where these dollars are
+used to fund CAD assets. What types of assets is difficult to say, but a likely candidate are
+currency forwards whereby the long-only investors in Canada hedge their long U.S. dollar
+exposures back to CAD. It appears that the banks providing these hedges – TD, BMO and
+CIBC – get CAD by swapping USD with the Bank of Nova Scotia and RBC, which take
+these dollars, downstream them to their New York branch, and deposit them at the Fed.
+It appears to be a distinctly Canadian game of cul-de-sac where TD, BMO and CIBC are
+all exposed to basis risk as their cost of unsecured funding goes up as prime money fund
+reform runs its course; the long-only community in Canada is exposed to rising hedging
+costs; and finally RBC and the Bank of Nova Scotia are set to benefit as lenders of CAD.
+
+Conclusions - A Month-Long Quarter-End…
+Three conclusions stand out from our analysis.
+First, contrary to wide-held expectations, the impact of money fund reform on repo rates is
+shaping up to be relatively minor. Foreign bank branches that arbitrage a lot and are set to
+shrink their balance sheet as money flows from prime to government funds do not own a lot
+of Treasuries and so will have little to sell when their unsecured funding disappears. On the
+other hand, foreign banks that do not arbitrage will have to maintain their LCR and so won’t
+be in a position to either sell or repo the Treasuries in their HQLA portfolio. The exception to
+this rule is Norinchukin’s New York branch (not subject to Basel III), which as of March 31st,
+2016, had $20 billion in unsecured funding from prime money funds and could potentially
+direct up to that much in funding needs into the term GCF repo market. Were this to happen,
+the spread between GCF and tri-party repo rates would widen as primary dealers step in to
+intermediate between Norinchukin and government money funds the flows that heretofore
+happened between Norinchukin and prime money funds directly.
+Second, the cost of three-month unsecured funding raised onshore in New York from
+prime funds will converge to the cost of three-month funding raised offshore via FX swaps.
+The all-in cost of swapping euros or yen for dollars is around 120 bps, which makes
+unsecured funding at 95 bps look cheap by comparison. This gives us confidence that
+unsecured rates have upside from here which three-month Libor will gradually capture.
+Third, the all-in cost of dollars raised through the dollar swap lines are already cheaper
+than the all-in cost of dollars raised through FX swaps. Although the ECB and the BoJ now
+both have a pre-announced schedule (see here and here) of one-week dollar operations,
+central banks actively discourage banks from actually tapping the Fed’s dollar swap lines.
+Both schedules of weekly operations run through the end of October and so fully cover the
+period when term unsecured funding markets may temporarily “close” due to prime money
+fund reform. In that sense, these operations are meant to put foam on the runway in order
+to ensure that banks will have access to funding that does not hurt their liquidity ratios.
+
+Global Money Notes #7
+
+20
+
+3 August 2016
+
+As we approach October 17th, there will be a point where banks will only be able to fund
+with prime money funds at tenors shorter than 30 days. 30-day funding from prime money
+funds has a 100% outflow assumption meaning that every penny of such funding must be
+invested in HQLA. In turn, transitioning from a world where term funding is available
+beyond 30 days (0% HQLA need) to one where it is not (100% HQLA need) would be a
+shock to foreign bank balance sheets. Central bank funding has a 0% outflow assumption
+even at tenors shorter than 30 days and so could solve banks’ funding needs with ease.
+This is to say that the purpose of pre-announced dollar swap operations is not to make life
+cheap (for those with massive dollar funding needs), but to make sure life goes on… – that
+bills get paid and that the regulatory parameters set by Basel III are not breached.
+As long as markets are continuous and trades get done, the Fed, the BoJ and the ECB
+encourage and expect banks to tap private markets, whatever the cost of funds. In other
+words, the swap lines are not meant to police the euro or yen cross-currency basis – yet.
+Rather, for now, the purpose of these swap operations appears to be to help banks sail
+through the storm of money fund reform without a dent in their 30-day liquidity buffers.
+Dealer of last resort will be another day…
+
+Global Money Notes #7
+
+21
+
+3 August 2016
+
+Appendix
+Figure 25: Swiss Banks
+as of March 31st, 2016, $ billion
+120
+
+100
+
+Interoffice funding (from HQ)
+34
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+
+80
+
+Money market funding (unsecured - o/n TDs and CDs)
+
+57
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+60
+26
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+0
+
+Money market lending (to HQ)
+
+40
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+32
+
+Loans (traditional lending)
+37
+
+20
+
+Derivative receivables
+
+0
+0
+Assets
+
+Liabilities
+Sample banks with a home base in Switzerland
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 26: Credit Suisse New York Branch
+as of March 31st, 2016, $ billion
+70
+
+0
+60
+
+Interoffice funding (from HQ)
+50
+
+26
+
+25
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+
+40
+0
+
+Other
+Derivative payables
+HQLA (reserves)
+HQLA (reverse repos)
+
+30
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+
+32
+
+Money market lending (interbank deposits)
+
+20
+
+37
+
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+10
+
+0
+Liabilities
+
+0
+Assets
+Credit Suisse NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+22
+
+3 August 2016
+
+Figure 27: UBS AG New York Branch
+as of March 31st, 2016, $ billion
+45
+
+40
+
+35
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+
+30
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+25
+
+Money market funding (secured)
+Other
+
+32
+
+34
+
+Derivative payables
+HQLA (reserves)
+
+20
+
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+
+15
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+10
+
+Loans (traditional lending)
+0
+
+Derivative receivables
+
+5
+
+1
+0
+
+0
+Assets
+
+Liabilities
+UBS AG NY Branch
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 28: Singaporean Banks
+as of March 31st, 2016, $ billion
+16
+
+14
+1
+Interoffice funding (from HQ)
+
+12
+
+Deposits (operating)
+
+5
+
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+10
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+0
+
+Other
+Derivative payables
+
+8
+
+HQLA (reserves)
+8
+6
+
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+5
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+4
+
+Loans (traditional lending)
+Derivative receivables
+2
+3
+
+0
+Liabilities
+
+0
+Assets
+Sample banks with a home base in Singapore
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+23
+
+3 August 2016
+
+Figure 29: Chinese Banks
+as of March 31st, 2016, $ billion
+120
+
+100
+
+19
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+
+80
+
+Money market funding (unsecured - o/n TDs and CDs)
+49
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+60
+
+HQLA (reserves)
+HQLA (reverse repos)
+
+0
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+
+40
+51
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+Derivative receivables
+
+20
+
+10
+0
+
+0
+Assets
+
+Liabilities
+Sample banks with a home base in China
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 30: British Banks
+as of March 31st, 2016, $ billion
+100
+
+90
+
+80
+Interoffice funding (from HQ)
+70
+
+34
+
+34
+
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+
+60
+
+Money market funding (secured)
+Other
+
+1
+50
+
+Derivative payables
+
+6
+0
+
+HQLA (reserves)
+HQLA (reverse repos)
+
+40
+
+HQLA (bonds - U.S. Treasuries)
+Money market lending (to HQ)
+33
+
+30
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+
+20
+
+Derivative receivables
+7
+
+10
+
+6
+0
+Assets
+
+Liabilities
+Sample banks with a home base in the UK
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+24
+
+3 August 2016
+
+Figure 31: Standard Chartered Bank New York Branch
+as of March 31st, 2016, $ billion
+60
+
+50
+6
+Interoffice funding (from HQ)
+Deposits (operating)
+40
+
+Money market funding (unsecured - fed funds purchased)
+
+20
+
+Money market funding (unsecured - o/n TDs and CDs)
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+
+30
+
+Derivative payables
+
+1
+27
+
+6
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+0
+
+Money market lending (to HQ)
+20
+
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+Loans (traditional lending)
+7
+
+10
+
+Derivative receivables
+
+6
+0
+Assets
+
+Liabilities
+STANDARD CHARTERED BK NY BR
+
+Source: FFIEC 002, Credit Suisse
+
+Figure 32: Barclays Bank New York Branch
+as of March 31st, 2016, $ billion
+40
+
+35
+
+30
+
+14
+
+Interoffice funding (from HQ)
+Deposits (operating)
+Money market funding (unsecured - fed funds purchased)
+Money market funding (unsecured - o/n TDs and CDs)
+
+25
+28
+
+0
+
+Money market funding (unsecured - CP and term debt)
+Money market funding (secured)
+Other
+Derivative payables
+
+20
+
+HQLA (reserves)
+HQLA (reverse repos)
+HQLA (bonds - U.S. Treasuries)
+
+15
+
+Money market lending (to HQ)
+Money market lending (fed funds sold)
+Money market lending (interbank deposits)
+Capital market lending (corporate bonds, ABS, etc.)
+
+10
+
+Loans (traditional lending)
+Derivative receivables
+5
+5
+0
+0
+Assets
+
+Liabilities
+BARCLAYS BK PLC SEVENTH AVE BR
+
+Source: FFIEC 002, Credit Suisse
+
+Global Money Notes #7
+
+25
+
+GLOBAL FIXED INCOME AND ECONOMIC RESEARCH
+Ric Deverell
+Global Head of Fixed Income and Economic Research
++1 212 538 8964
+ric.deverell@credit-suisse.com
+
+GLOBAL ECONOMICS AND STRATEGY
+James Sweeney, Chief Economist
+Co-Head of Global Economics and Strategy
++1 212 538 4648
+james.sweeney@credit-suisse.com
+
+Neville Hill
+Co-Head of Global Economics and Strategy
++44 20 7888 1334
+neville.hill@credit-suisse.com
+
+GLOBAL STRATEGY AND ECONOMICS
+Axel Lang
++1 212 538 4530
+axel.lang@credit-suisse.com
+
+Jeremy Schwartz
++1 212 538 6419
+jeremy.schwartz@credit-suisse.com
+
+Sarah Smith
++1 212 325-1022
+sarah.smith@credit-suisse.com
+
+Xiao Cui
++1 212 538 2511
+xiao.cui@credit-suisse.com
+
+Zoltan Pozsar
++1 212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+Wenzhe Zhao
++1 212 325 1798
+wenzhe.zhao@credit-suisse.com
+
+US ECONOMICS
+James Sweeney
+Head of US Economics
++1 212 538 4648
+james.sweeney@credit-suisse.com
+
+LATIN AMERICA (LATAM) ECONOMICS
+Alonso Cervera
+Head of Latam Economics
++52 55 5283 3845
+alonso.cervera@credit-suisse.com
+Mexico, Chile
+
+Casey Reckman
++1 212 325 5570
+casey.reckman@credit-suisse.com
+Argentina, Venezuela
+
+Daniel Chodos
++1 212 325 7708
+daniel.chodos@credit-suisse.com
+Latam Strategy
+
+Juan Lorenzo Maldonado
+Alberto J. Rojas
++1 212 325 4245
++52 55 5283 8975
+juanlorenzo.maldonado@credit-suisse.com alberto.rojas@credit-suisse.com
+Colombia, Ecuador, Peru
+
+Iana Ferrao
++55 11 3701 6345
+iana.ferrao@credit-suisse.com
+
+Leonardo Fonseca
++55 11 3701 6348
+leonardo.fonseca@credit-suisse.com
+
+Paulo Coutinho
++55 11 3701-6353
+paulo.coutinho@credit-suisse.com
+
+Lucas Vilela
++55 11 3701-6352
+lucas.vilela @credit-suisse.com
+
+Sonali Punhani
++44 20 7883 4297
+sonali.punhani@credit-suisse.com
+
+Peter Foley
++44 20 7883 4349
+peter.foley@credit-suisse.com
+
+Anais Boussie
++44 20 7883 9639
+anais.boussie@credit-suisse.com
+
+BRAZIL ECONOMICS
+Nilson Teixeira
+Head of Brazil Economics
++55 11 3701 6288
+nilson.teixeira@credit-suisse.com
+
+EUROPEAN ECONOMICS
+Neville Hill
+Head of European Economics
++44 20 7888 1334
+neville.hill@credit-suisse.com
+
+Giovanni Zanni
++44 20 7888 6827
+giovanni.zanni@credit-suisse.com
+
+EASTERN EUROPE, MIDDLE EAST AND AFRICA (EEMEA) ECONOMICS
+Berna Bayazitoglu
+Head of EEMEA Economics
++44 20 7883 3431
+berna.bayazitoglu@credit-suisse.com
+Turkey
+
+Nimrod Mevorach
++44 20 7888 1257
+nimrod.mevorach@credit-suisse.com
+EEMEA Strategy, Israel
+
+JAPAN ECONOMICS
+
+NON-JAPAN ASIA (NJA) ECONOMICS
+
+Hiromichi Shirakawa
+Head of Japan Economics
++81 3 4550 7117
+hiromichi.shirakawa@credit-suisse.com
+
+Dr. Santitarn Sathirathai
++65 6212 5675
+santitarn.sathirathai@credit-suisse.com
+Regional, India, Indonesia, Thailand
+
+Christiaan Tuntono
++852 2101 7409
+christiaan.tuntono@credit-suisse.com
+Hong Kong, Korea, Taiwan
+
+Takashi Shiono
++81 3 4550 7189
+takashi.shiono@credit-suisse.com
+
+Deepali Bhargava
++65 6212 5699
+deepali.bhargava@credit-suisse.com
+India, Vietnam
+
+Michael Wan
++65 6212 3418
+michael.wan@credit-suisse.com
+Singapore, Malaysia, Philippines
+
+Alexey Pogorelov
++44 20 7883 0396
+alexey.pogorelov@credit-suisse.com
+Russia, Ukraine, Kazakhstan
+
+Carlos Teixeira
++27 11 012 8054
+carlos.teixeira@credit-suisse.com
+South Africa, Sub-Saharan Africa
+
+Weishen Deng
++852 2101 7162
+weishen.deng@credit-suisse.com
+China
+
+Disclosure Appendix
+Analyst Certification
+
+Zoltan Pozsar and Sarah Smith each certify, with respect to the companies or securities that the individual analyzes, that (1) the views expressed in
+this report accurately reflect his or her personal views about all of the subject companies and securities and (2) no part of his or her compensation
+was, is or will be directly or indirectly related to the specific recommendations or views expressed in this report.
+
+Important Disclosures
+
+Credit Suisse's policy is only to publish investment research that is impartial, independent, clear, fair and not misleading. For more detail, please
+refer to Credit Suisse's Policies for Managing Conflicts of Interest in connection with Investment Research: http://www.csfb.com/research-andanalytics/disclaimer/managing_conflicts_disclaimer.html .
+Credit Suisse's policy is to publish research reports as it deems appropriate, based on developments with the subject issuer, the sector or the market
+that may have a material impact on the research views or opinions stated herein.
+The analyst(s) involved in the preparation of this research report received compensation that is based upon various factors, including Credit Suisse's
+total revenues, a portion of which are generated by Credit Suisse's Investment Banking and Fixed Income Divisions.
+Credit Suisse may trade as principal in the securities or derivatives of the issuers that are the subject of this report.
+At any point in time, Credit Suisse is likely to have significant holdings in the securities mentioned in this report.
+As at the date of this report, Credit Suisse acts as a market maker or liquidity provider in the debt securities of the subject issuer(s) mentioned in this
+report.
+For important disclosure information on securities recommended in this report, please visit the website at https://rave.creditsuisse.com/disclosures/view/fixedincome or call +1-212-538-7625.
+For the history of trade ideas suggested by the Fixed Income Research department over the previous 12 months, please view the document at
+https://plus.credit-suisse.com/r/aaCzfz . Credit Suisse clients with access to the Locus website may refer to http://www.credit-suisse.com/locus . For
+the history of trade ideas suggested by Emerging Markets Strategy Research, please see the latest Emerging Markets Fixed Income Views report on
+Credit Suisse PLUS .
+For the history of recommendations provided by Technical Analysis, please visit the website at https://plus.creditsuisse.com/ECP_S/app/container.html#loc=/MENU_FI_ECON_TECHNICAL_ANALYSIS .
+Credit Suisse does not provide any tax advice. Any statement herein regarding any US federal tax is not intended or written to be used, and cannot
+be used, by any taxpayer for the purposes of avoiding any penalties.
+For a history of recommendations for the financial instrument(s) featured in this report, disseminated within the past 12 months, please refer to
+https://rave.credit-suisse.com/disclosures/view/reportfi?i=241851&v=5pau8kc5mq2r56qnksx5tur4g .
+This research report is authored by:
+Credit Suisse Securities (USA) LLC .............................................................................................................................Zoltan Pozsar ; Sarah Smith
+
+This report is produced by subsidiaries and affiliates of Credit Suisse operating under its Global Markets Division. For more information on our structure, please use the following link: https://www.credit-suisse.com/who-we-are
+This report may contain material that is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality, state, country or other jurisdiction where such
+distribution, publication, availability or use would be contrary to law or regulation or which would subject Credit Suisse or its affiliates ("CS") to any registration or licensing requirement within such jurisdiction. All material
+presented in this report, unless specifically indicated otherwise, is under copyright to CS. None of the material, nor its content, nor any copy of it, may be altered in any way, transmitted to, copied or distributed to any other
+party, without the prior express written permission of CS. All trademarks, service marks and logos used in this report are trademarks or service marks or registered trademarks or service marks of CS or its affiliates.The
+information, tools and material presented in this report are provided to you for information purposes only and are not to be used or considered as an offer or the solicitation of an offer to sell or to buy or subscribe for securities
+or other financial instruments. CS may not have taken any steps to ensure that the securities referred to in this report are suitable for any particular investor. CS will not treat recipients of this report as its customers by virtue of
+their receiving this report. The investments and services contained or referred to in this report may not be suitable for you and it is recommended that you consult an independent investment advisor if you are in doubt about
+such investments or investment services. Nothing in this report constitutes investment, legal, accounting or tax advice, or a representation that any investment or strategy is suitable or appropriate to your individual
+circumstances, or otherwise constitutes a personal recommendation to you. CS does not advise on the tax consequences of investments and you are advised to contact an independent tax adviser. Please note in particular
+that the bases and levels of taxation may change. Information and opinions presented in this report have been obtained or derived from sources believed by CS to be reliable, but CS makes no representation as to their
+accuracy or completeness. CS accepts no liability for loss arising from the use of the material presented in this report, except that this exclusion of liability does not apply to the extent that such liability arises under specific
+statutes or regulations applicable to CS. This report is not to be relied upon in substitution for the exercise of independent judgment. CS may have issued, and may in the future issue, other communications that are
+inconsistent with, and reach different conclusions from, the information presented in this report. Those communications reflect the different assumptions, views and analytical methods of the analysts who prepared them and
+CS is under no obligation to ensure that such other communications are brought to the attention of any recipient of this report. Some investments referred to in this report will be offered solely by a single entity and in the case
+of some investments solely by CS, or an associate of CS or CS may be the only market maker in such investments. Past performance should not be taken as an indication or guarantee of future performance, and no
+representation or warranty, express or implied, is made regarding future performance. Information, opinions and estimates contained in this report reflect a judgment at its original date of publication by CS and are subject to
+change without notice. The price, value of and income from any of the securities or financial instruments mentioned in this report can fall as well as rise. The value of securities and financial instruments is subject to exchange
+rate fluctuation that may have a positive or adverse effect on the price or income of such securities or financial instruments. Investors in securities such as ADR's, the values of which are influenced by currency volatility,
+effectively assume this risk. Structured securities are complex instruments, typically involve a high degree of risk and are intended for sale only to sophisticated investors who are capable of understanding and assuming the
+risks involved. The market value of any structured security may be affected by changes in economic, financial and political factors (including, but not limited to, spot and forward interest and exchange rates), time to maturity,
+market conditions and volatility, and the credit quality of any issuer or reference issuer. Any investor interested in purchasing a structured product should conduct their own investigation and analysis of the product and consult
+with their own professional advisers as to the risks involved in making such a purchase. Some investments discussed in this report may have a high level of volatility. High volatility investments may experience sudden and
+large falls in their value causing losses when that investment is realised. Those losses may equal your original investment. Indeed, in the case of some investments the potential losses may exceed the amount of initial
+investment and, in such circumstances, you may be required to pay more money to support those losses. Income yields from investments may fluctuate and, in consequence, initial capital paid to make the investment may
+be used as part of that income yield. Some investments may not be readily realisable and it may be difficult to sell or realise those investments, similarly it may prove difficult for you to obtain reliable information about the
+value, or risks, to which such an investment is exposed. This report may provide the addresses of, or contain hyperlinks to, websites. Except to the extent to which the report refers to website material of CS, CS has not
+reviewed any such site and takes no responsibility for the content contained therein. Such address or hyperlink (including addresses or hyperlinks to CS's own website material) is provided solely for your convenience and
+information and the content of any such website does not in any way form part of this document. Accessing such website or following such link through this report or CS's website shall be at your own risk.
+This report is issued and distributed in European Union (except Switzerland): by Credit Suisse Securities (Europe) Limited, One Cabot Square, London E14 4QJ, England, which is authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Germany: Credit Suisse Securities (Europe) Limited Niederlassung Frankfurt am Main regulated by the Bundesanstalt fuer
+Finanzdienstleistungsaufsicht ("BaFin"). United States and Canada: Credit Suisse Securities (USA) LLC; Switzerland: Credit Suisse AG; Brazil: Banco de Investimentos Credit Suisse (Brasil) S.A or its affiliates; Mexico:
+Banco Credit Suisse (México), S.A. (transactions related to the securities mentioned in this report will only be effected in compliance with applicable regulation); Japan: by Credit Suisse Securities (Japan) Limited, Financial
+Instruments Firm, Director-General of Kanto Local Finance Bureau ( Kinsho) No. 66, a member of Japan Securities Dealers Association, The Financial Futures Association of Japan, Japan Investment Advisers Association,
+Type II Financial Instruments Firms Association; Hong Kong: Credit Suisse (Hong Kong) Limited; Australia: Credit Suisse Equities (Australia) Limited; Thailand: Credit Suisse Securities (Thailand) Limited, regulated by the
+Office of the Securities and Exchange Commission, Thailand, having registered address at 990 Abdulrahim Place, 27th Floor, Unit 2701, Rama IV Road, Silom, Bangrak, Bangkok10500, Thailand, Tel. +66 2614 6000;
+Malaysia: Credit Suisse Securities (Malaysia) Sdn Bhd, Credit Suisse AG, Singapore Branch; India: Credit Suisse Securities (India) Private Limited (CIN no.U67120MH1996PTC104392) regulated by the Securities and
+Exchange Board of India as Research Analyst (registration no. INH 000001030) and as Stock Broker (registration no. INB230970637; INF230970637; INB010970631; INF010970631), having registered address at 9th Floor,
+Ceejay House, Dr.A.B. Road, Worli, Mumbai - 18, India, T- +91-22 6777 3777; South Korea: Credit Suisse Securities (Europe) Limited, Seoul Branch; Taiwan: Credit Suisse AG Taipei Securities Branch; Indonesia: PT
+Credit Suisse Securities Indonesia; Philippines: Credit Suisse Securities (Philippines ) Inc., and elsewhere in the world by the relevant authorised affiliate of the above.
+Additional Regional Disclaimers
+Hong Kong: Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL does
+not hold an Australian financial services licence (AFSL) and is exempt from the requirement to hold an AFSL under the Corporations Act 2001 (the Act) under Class Order 03/1103 published by the ASIC in respect of financial
+services provided to Australian wholesale clients (within the meaning of section 761G of the Act). Research on Taiwanese securities produced by Credit Suisse AG, Taipei Securities Branch has been prepared by a
+registered Senior Business Person.
+Malaysia: Research provided to residents of Malaysia is authorised by the Head of Research for Credit Suisse Securities (Malaysia) Sdn Bhd, to whom they should direct any queries on +603 2723 2020.
+Singapore: This report has been prepared and issued for distribution in Singapore to institutional investors, accredited investors and expert investors (each as defined under the Financial Advisers Regulations) only, and is
+also distributed by Credit Suisse AG, Singapore branch to overseas investors (as defined under the Financial Advisers Regulations). By virtue of your status as an institutional investor, accredited investor, expert investor or
+overseas investor, Credit Suisse AG, Singapore branch is exempted from complying with certain compliance requirements under the Financial Advisers Act, Chapter 110 of Singapore (the "FAA"), the Financial Advisers
+Regulations and the relevant Notices and Guidelines issued thereunder, in respect of any financial advisory service which Credit Suisse AG, Singapore branch may provide to you.
+UAE: This information is being distributed by Credit Suisse AG (DIFC Branch), duly licensed and regulated by the Dubai Financial Services Authority (“DFSA”). Related financial services or products are only made available
+to Professional Clients or Market Counterparties, as defined by the DFSA, and are not intended for any other persons. Credit Suisse AG (DIFC Branch) is located on Level 9 East, The Gate Building, DIFC, Dubai, United
+Arab Emirates.
+EU: This report has been produced by subsidiaries and affiliates of Credit Suisse operating under its Global Markets Division
+This research may not conform to Canadian disclosure requirements.
+In jurisdictions where CS is not already registered or licensed to trade in securities, transactions will only be effected in accordance with applicable securities legislation, which will vary from jurisdiction to jurisdiction and may
+require that the trade be made in accordance with applicable exemptions from registration or licensing requirements. Non-US customers wishing to effect a transaction should contact a CS entity in their local jurisdiction
+unless governing law permits otherwise. US customers wishing to effect a transaction should do so only by contacting a representative at Credit Suisse Securities (USA) LLC in the US.
+Please note that this research was originally prepared and issued by CS for distribution to their market professional and institutional investor customers. Recipients who are not market professional or institutional investor
+customers of CS should seek the advice of their independent financial advisor prior to taking any investment decision based on this report or for any necessary explanation of its contents. This research may relate to
+investments or services of a person outside of the UK or to other matters which are not authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation
+Authority or in respect of which the protections of the Prudential Regulation Authority and Financial Conduct Authority for private customers and/or the UK compensation scheme may not be available, and further details as to
+where this may be the case are available upon request in respect of this report.
+CS may provide various services to US municipal entities or obligated persons ("municipalities"), including suggesting individual transactions or trades and entering into such transactions. Any services CS provides to
+municipalities are not viewed as "advice" within the meaning of Section 975 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. CS is providing any such services and related information solely on an arm's
+length basis and not as an advisor or fiduciary to the municipality. In connection with the provision of the any such services, there is no agreement, direct or indirect, between any municipality (including the
+officials,management, employees or agents thereof) and CS for CS to provide advice to the municipality. Municipalities should consult with their financial, accounting and legal advisors regarding any such services provided
+by CS. In addition, CS is not acting for direct or indirect compensation to solicit the municipality on behalf of an unaffiliated broker, dealer, municipal securities dealer, municipal advisor, or investment adviser for the purpose of
+obtaining or retaining an engagement by the municipality for or in connection with Municipal Financial Products, the issuance of municipal securities, or of an investment adviser to provide investment advisory services to or on
+behalf of the municipality. If this report is being distributed by a financial institution other than Credit Suisse AG, or its affiliates, that financial institution is solely responsible for distribution. Clients of that institution should contact
+that institution to effect a transaction in the securities mentioned in this report or require further information. This report does not constitute investment advice by Credit Suisse to the clients of the distributing financial institution,
+and neither Credit Suisse AG, its affiliates, and their respective officers, directors and employees accept any liability whatsoever for any direct or consequential loss arising from their use of this report or its content. Principal is
+not guaranteed. Commission is the commission rate or the amount agreed with a customer when setting up an account or at any time after that.
+Copyright © 2016 CREDIT SUISSE AG and/or its affiliates. All rights reserved.
+
+Investment principal on bonds can be eroded depending on sale price or market price. In addition, there are bonds on which investment principal can
+be eroded due to changes in redemption amounts. Care is required when investing in such instruments.
+
+When you purchase non-listed Japanese fixed income securities (Japanese government bonds, Japanese municipal bonds, Japanese government guaranteed bonds, Japanese corporate bonds) from CS as a seller, you
+will be requested to pay the purchase price only.
+
+18 November 2016
+Global
+Fixed Income Research
+Global Strategy
+
+Global Money Notes #8
+Research Analysts
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+From Exorbitant Privilege to Existential Trilemma
+We have yet to see what President Trump means for the Fed’s independence
+and monetary policy going forward, but for now our expectation remains that
+the FOMC will remain willing and free to normalize short-term interest rates.
+With that assumption in mind, this issue of Global Money Notes explains why
+an FOMC determined to normalize interest rates has no choice but to become
+a Dealer of Last Resort in the FX swap market and provide quantitative
+Eurodollar easing (“QEE”) for the rest of the world through its dollar swap lines.
+The U.S.’s exorbitant privilege – its ability to borrow in its own currency
+anywhere in the world thanks to a vast and deep Eurodollar market – is waning.
+The first throw of sand at the gears of the global Eurodollar market was the
+adoption of Basel III which imposed liquidity requirements on a system born
+out of banks’ desire to avoid reserve requirements in the first place (see here).
+The second was money fund reform.
+Prime funds’ loss of over $1 trillion in assets under management amounts to
+the clamping of a major global funding “artery” whose role was to bridge the
+Eurodollar market’s marginal dollar needs. These needs are now bridged
+through a smaller and increasingly tight “vein” that’s the balance sheet of
+American banks under Basel III. The result is a Eurodollar market that’s
+structurally more expensive and less liquid and dominant than it used to be.
+Basel III and money fund reform are turning the exorbitant privilege into an
+existential trilemma that’s usually a problem for EM central banks with pegs to
+the dollar, rather than the Fed at the center of the dollar-based financial order.
+According to the Fed’s newfound trilemma, it is impossible to have constraints
+on bank balance sheets (restraining capital mobility in global money markets),
+a par exchange rate between onshore dollars and Eurodollars, and a
+domestically oriented monetary policy mandate. Something will have to give.
+It’s either the cross-currency basis, the foreign exchange value of the dollar or
+the hiking cycle. It’s either the Fed’s regulatory and monetary objectives, or
+control over the Fed’s balance sheet size. It’s either quantities or prices…
+Cross-currency bases will have to go more negative before the Fed steps in,
+and -150 bps on the three-month dollar-yen basis is not an unlikely target.
+In a way, QEE is the missing piece in a mosaic where the ECB and the BoJ
+continue on with QE at an aggressive pace, and investors in their jurisdictions
+are filling their duration gaps with higher-yielding U.S. dollar assets on a
+hedged basis. But the private provision of FX swaps to hedge these flows can’t
+possibly keep pace with the public creation of euros and yen on massive scale.
+Elephant-size €QE and QQE can only be countered by elephant size QEE:
+the Fed needs to lend banks a hand and provide dollar hedges more cheaply.
+It’s either Lender of Last Resort or Dealer of Last Resort.
+Take your pick…
+
+DISCLOSURE APPENDIX AT THE BACK OF THIS REPORT CONTAINS IMPORTANT DISCLOSURES, LEGAL ENTITY
+DISCLOSURE AND ANALYST CERTIFICATIONS.
+
+18 November 2016
+
+Part 1 – Clamping an Artery
+Going into the October 14 prime money fund reform deadline, institutional-class prime
+funds prepared for the worst and hoped for the best – they provisioned for about 70% of
+assets under management (AuM) leaving and expected that only 50% will leave. But
+outflows turned out to be far worse than expected – just under 90% of AuM – and so
+expectations that any margin of safety built into pre-cautionary liquidity buffers will quickly
+flow back to the CD and CP markets and compress rates post-deadline didn’t materialize.
+Judging from price action and high-frequency data on foreign banks’ CD and CP issuance
+since May, the bulk of unsecured funding lost to prime money fund reform was replaced
+mostly through the FX swap market, and to a lesser extent through the term debt market.
+With that shift, large American banks and asset managers (corporate bond funds)
+replaced prime money market funds as the marginal lenders of dollars to foreign banks,
+and by extension, the outer rim of the U.S. money market (the offshore FX swap market)
+and capital markets replaced the inner core (the onshore CD and CP market in New York).
+Figure 1 shows the price impact of this shift in the FX swap market, and Figure 2 shows
+where we believe foreign banks’ marginal funding curve currently trades: in our view,
+the orange curves are a more accurate reflection of foreign banks’ marginal funding curve
+for dollars longer than 30-days than the blue U.S. dollar Libor curve. We plotted the
+orange lines by taking the average of three-month FX-swap implied costs of dollar funding
+for key currencies and the yields of major foreign banks’ one- and two-year fixed rate debt.
+Going forward, we expect these markets to be a deeper source of marginal (“just-in-time”)
+funding than the term CD and CP market. While at $1 trillion the term CD and CP market
+remains large, its nature has changed. Pre-reform, prime funds represented a $1 trillion pool
+of “omnipresent” liquidity that was sliced and diced according to foreign banks’ needs:
+investors in prime funds rolled their o/n balances everyday which foreign banks could tap in
+custom terms and size any day – the way a marginal funding market is supposed to trade.
+But this omnipresent pool of liquidity is now gone.
+What’s left is investors with a periodic as opposed to constant presence in the market.
+With that shift the term CD and CP market became more similar to the real estate market
+(where trades happen if a buyer wants exactly what a seller has at exactly the same time)
+than a marginal funding market where pools of liquidity are ready for any trade at any time.
+The key question from here is how much money will come back to prime money funds.
+If the answer is a lot, then rates could come down as prime funds pour money back into
+the term CD and CP market. The recent climb in rates will go down in history as cyclical.
+If the answer is not much, then funding rates will stay elevated indefinitely. We’ve reached
+the “new normal” and the recent climb in rates will go down in history as structural.
+Which one will it be?
+It looks like the latter, for four reasons: regulatory constraints on generating yield,
+preference for safety over yield, economies of scale, and the “gravitational” pull of Basel III.
+First, the SEC’s new liquidity rules will limit prime funds’ ability to generate yield to lure
+money back from government funds. The new rules effectively turn half the portfolio of
+prime funds into a government fund, which will limit yield spreads over government funds
+to about a half of their historical average.1 Whatever spread prime funds will have over
+government funds, it won’t be enough to compensate investors for the risk of liquidity gates.
+
+1 The SEC’s new rules require prime money funds to hold at least 30% of their AuM in liquid assets such as U.S. Treasuries. But
+
+since reaching the 30% minimum would require the imposition of liquidity gates and fees, prime money funds are implementing
+the new rules with a considerable margin of safety, running their liquidity buffers at close to 50% of their AuM on average.
+
+Global Money Notes #8
+
+2
+
+18 November 2016
+
+Figure 1: Funding at the “Outer Rim”
+FX swap-implied costs of three-month U.S. dollar funding, %
+1.80
+
+Prime fund outflows start...
+
+1.80
+
+1.60
+
+1.40
+
+1.60
+
+1.40
+
+1.20
+
+1.20
+
+1.00
+
+1.00
+
+0.80
+
+0.80
+
+0.60
+
+0.60
+
+0.40
+Jan-16
+
+0.40
+Apr-16
+
+Jul-16
+
+Oct-16
+
+Implied funding cost JPY
+
+Iimplied funding cost GBP
+
+Implied funding cost EUR
+
+Implied funding cost CAD
+
+Implied funding cost CHF
+
+Pre-reform average (Q1)
+
+Pre-reform average (Q1)
+
+Pre-reform average (Q1)
+
+Pre-reform average (Q1)
+
+Pre-reform average (Q1)
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Figure 2: Which is the True Marginal Bank Funding Curve?
+%, as of October 28, 2016 unless otherwise noted
+2.00
+
+2.00
+
+1.75
+
+1.75
+
+1.50
+
+1.50
+
+1.25
+
+1.25
+
+1.00
+
+1.00
+
+0.75
+
+0.75
+
+0.50
+
+0.50
+
+0.25
+
+0.25
+
+0.00
+
+0.00
+o/n
+U.S. dollar Libor
+
+1-week
+
+1-month
+
+3-month FX swap rate (average)
+
+3-month
+
+6-month
+
+2-year term bank debt (fixed rate)
+
+1-year
+2-year one month ago
+
+2-year
+3-month one month ago
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #8
+
+3
+
+18 November 2016
+
+Second, reforms will also limit treasurers’ demand for yield and hence prime money funds.
+When regulatory reforms are turning prime funds from a liquidity vehicle to a credit vehicle,
+effectively cutting the system’s menu of options for safe, par on demand vehicles from
+three (demand deposits, government funds and prime funds) to two (demand deposits and
+government funds), the natural response of investors is to gravitate toward safety (that is
+government funds), not yield (that is, prime funds). This, combined with prime funds’
+constraints to generate yield going forward, will severely limit flows back into prime funds.
+Third, if there is neither yield pickup, nor reach for yield, the future of what is left of
+institutional-class prime funds looks rather bleak. Institutional prime funds lost $800 billion
+in AuM since 2015, leaving only $100 billion in assets to look after (see Figure 3). Whether
+such a small asset-base can support overheads that were scaled to manage trillions, not
+billions is yet to be seen. Economies of scale matter and are make or break.
+Fourth, the future of retail prime funds also looks bleak due to the gravitational pull of Basel
+III. Retail prime funds lost $250 billion in AuM since 2015, with only $250 billion left. Retail
+deposits are "gold" for large American banks as they require no HQLA and count as NSFR
+at face value. In an era when banks like Goldman Sachs are paying over 100 bps for
+checking accounts, funds will continue to migrate out of prime funds paying only 25 bps.
+If we are right that prime funds will shrink further from here, the steepening of the Libor
+curve, the widening of Libor-OIS spreads and the increase in offshore dollar funding costs
+we have witnessed to date are all structural, not cyclical. At best we are looking at funding
+markets to stabilize at current levels, and at worst we are looking for the curve to steepen,
+spreads to widen and cross-currency bases to sink much deeper into negative territory as
+prime money market funds fail to attract cash back and continue to bleed assets over time.
+The end-state of the system is one where foreign banks raise their marginal dollars mostly
+in the FX swap market (from American banks) or the capital market (from asset managers).
+The end-state is dominated by American banks because post-reform, they are the only
+ones left with access to cheap retail dollars onshore to lend offshore via FX swaps – all
+foreign banks that used to lend via FX swaps raised dollars wholesale from prime funds
+(for a review of the impact of money fund reform on the FX swap market see Appendix 1).
+As large American banks grow to dominate the FX swap market, they will inevitably
+become the marginal price setters in the system. Going forward, the key questions from a
+pricing perspective will be how American banks’ growing FX swap books will push up
+against their balance sheet constraints: (1) how much balance sheet they will have to
+onboard these trades from an SLR perspective; (2) what will these trades do to their LCR;
+(3) what will the looming requirement to currency-match HQLA portfolios mean for their
+appetite to do these trades; and (4) will the Volcker Rule let them run speculative books?
+None of these constraints mean anything good for the marginal cost of Eurodollar funding
+going forward, which means that what’s referred to as a “global dollar shortage” is bound
+to get worse in the future. But in light of the points raised above, none of this is about a
+shortage of dollars per se, but rather a shortage of balance sheet to intermediate dollars
+(please, let’s forget the whole “shortage versus scarcity” debate and call a spade a spade).
+Effectively, what we have here is a case where money fund reform amounts to the
+clamping of a major global funding “artery” and a redirection of flows through a smaller and
+increasingly tight "vein" that is the balance sheet of American global banks under Basel III.
+For a sense of scale, consider that over $1 trillion has left prime funds. Now consider the
+image of American banks absorbing these flows through hamstrung balance sheets…
+…what you see is an elephant inside a snake (see Figure 4), and a global dollar funding
+market structurally more expensive and less liquid and dominant than it used to be.
+
+Global Money Notes #8
+
+4
+
+18 November 2016
+
+Figure 3: Tectonic Shifts
+$ billions
+800
+
+800
+
+600
+
+600
+
+400
+
+400
+
+200
+
+200
+
+0
+
+0
+
+-200
+
+-200
+
+-400
+
+-400
+
+-600
+
+-600
+
+-800
+
+-800
+14
+
+15
+Outflows from institutional prime funds
+
+16
+Inflows into institutional government funds
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Part 2 – QEE and the Fed as Dealer of Last Resort
+What does all this mean for the Fed?
+Quite a lot, which makes the fact that no Fed official devoted a speech to the topic of
+prime money fund reform and its local and global repercussions puzzling to say the least.
+First, the local repercussions.
+Prime money fund reform just made the ARRC’s quest for an alternative reference rate
+more difficult and will increase the allure of a repo rate as an alternative (see here).
+Outflows from prime funds to date have reduced the volume of o/n Eurodollar trades from
+$250 billion to $90 billion today (see Figure 5).2 By the time the dust of reform will settle,
+the OBFR will have lost most of its volume advantage over the fed funds rate, in our view.
+Next, the global repercussions.
+The message that emerged from the previous section is that the era of cheap marginal
+flows into the Eurodollar market are over. Tapping the CD and CP markets via prime funds
+is a thing of the past and the future likely belongs to American global banks that are set to
+become the dominant price-setters of the marginal dollars the rest of the world needs. The
+key to figuring out where cross currency bases will settle is to figure out the interaction
+between American banks’ growing FX swap books and their balance sheet constraints.
+The more dollars American banks will intermediate through the FX swap market, the less
+balance sheet they will have left over for everything else, and the higher the price of the
+marginal FX trade will have to be. Standard logics of arbitrage do not hold under Basel III:
+with balance sheets no longer unlimited, the more you arb the higher the marginal price.3
+
+Global Money Notes #8
+
+2
+
+This is because institutional-class prime money funds were the single biggest lenders of o/n Eurodollars in the Caribbean-based
+segment of the Eurodollar market as measured by the Federal Reserve’s new overnight bank funding rate (OBFR).
+
+3
+
+Banks arbitrage differences between onshore and offshore funding rates by borrowing onshore in the CD and CP market from
+prime money funds and lending the proceeds in the FX swap market. Such arbitrage trades inflate banks’ balance sheets.
+5
+
+18 November 2016
+
+Either way we look at it, cross-currency bases are bound to get more negative, with no
+private mechanism in place to check three-month points from sinking as low as -150 bps.
+The limit to this will be the extent to which the rest of the world will be able to cope with
+higher dollar funding costs and how these will feed back to the Fed’s reaction function.
+There are at least three feedback channels.
+First, an ongoing increase in the FX swap-implied cost of dollar funding and increasingly
+negative cross-currency bases mean tighter financial conditions for the rest of the world. In
+turn, tighter financial conditions point to slower, not faster global growth as foreign banks
+pass on higher costs to their customers or worse: de-lever their books. These dynamics
+are disinflationary on the margin and don’t help interest rate normalization back in the U.S.
+Second, increasingly negative cross-currency bases mean rising hedging costs for foreign
+investors on their U.S. dollar assets, which force them out the duration curve and down the
+credit spectrum. In turn, this tends to ease financial conditions, raise financial stability risks,
+and also blunt the traditional channels of monetary policy transmission back in the U.S.
+Chairman Greenspan’s conundrum is back and spreading to mortgage and credit curves.
+Third, everything described above goes hand-in-hand with a further strengthening of the
+dollar (see Figure 6) – this is because increasing hedging costs are prompting foreign
+investors to reduce their hedge ratios or take on naked exposures, both of which tend to
+drive the appreciation of the dollar. If the Fed leaves the intermediation of all of the rest of
+the world’s marginal dollar needs to American banks' constrained balance sheets, offshore
+financial conditions may tighten and the dollar may strengthen to the point where they are
+no longer consistent with the path the Fed envisioned for the funds rate (see Shin, 2016):
+rounds of RMB devaluation would follow which also won’t help interest rate normalization.
+
+Figure 5: It’s Back to the Drawing Board for the ARRC…
+$ billions
+300
+
+300
+
+250
+
+250
+227
+
+200
+
+200
+
+200
+
+150
+
+150
+131
+
+113
+
+112
+100
+
+100
+
+70
+50
+44
+
+50
+
+46
+
+0
+
+50
+
+0
+
+15
+
+16
+o/n FF volume (reported)
+
+o/n FF volume (ex month ends)
+
+o/n ED volume (reported)
+
+o/n ED volume (ex month ends)
+
+Source: Credit Suisse, the BLOOMBERG PROFESSIONAL™ service
+
+Global Money Notes #8
+
+6
+
+18 November 2016
+
+Figure 6: The Cross-Currency Basis and the U.S. Dollar
+January 2nd, 2007 = 100 (LHS), basis points (RHS)
+
+Source: BIS
+
+It seems like balance sheet constraints are in conflict with monetary policy objectives…
+Balance sheet constraints are driving prices in a way where financial conditions abroad
+are tighter than financial conditions in the U.S. Where borrowing a Eurodollar is more
+expensive than borrowing an onshore dollar. The feedback of this on the U.S. dollar and
+financial stability risks are making interest rate hikes less possible and also less effective.
+What to do?
+In this environment, the only bank that could counter the tendency of cross-currency bases
+to sink deeper and deeper into negative territory is none other than the New York Fed.
+It could do so by scrapping its philosophy that it should primarily serve the system as a
+Lender of Last Resort – providing a liquidity backstop when no one wants to lend – and
+become a Dealer of Last Resort – providing a backstop to prices when dealers hit their
+balance sheet constraints and have no room left to make markets at reasonable spreads.
+The tool to use is the Fed's dollar swap lines but the aim would no longer be to backstop
+funding markets, but to police the range within which various cross currency bases trade.
+Just as the reasons why various cross currency bases spiked during 2008 and 2011
+(credit and sovereign risks) were different from the reasons why they have been widening
+since 2014 (Basel III and money fund reform), the mindset with which the dollar swap lines
+should be deployed today should also be different – not to provide a liquidity backstop
+because prime funds won’t lend to banks, but to provide a balance sheet backstop
+because private market makers are pushing up against their balance sheet constraints,
+and are giving quotes that are strengthening the dollar and forcing the Fed to stay on hold.
+Of course, if the Fed were to switch from treating the swap lines as a funding backstop to
+a pricing backstop, its attitude toward being tapped would have to be relaxed. In English,
+this means that long held notions of stigma would have to be expunged from the market’s
+conscience and everyone would have to adopt a mindset where if banks’ quotes are more
+expensive than the quotes of the Fed, everyone would default to trading with the Fed with
+no further thought, period – much like the ECB’s repo facilities are routinely tapped.
+Will this really happen?
+It’s not unlikely. We know from the July FOMC minutes that the Fed is actively looking into
+"approaches to reducing perceived stigma associated with borrowing at the discount
+window" and is conscious that "the dollar is the principal reserve currency and that
+monetary transmission in the U.S. occurs through globally connected funding markets".
+
+Global Money Notes #8
+
+7
+
+18 November 2016
+
+The Fed’s ongoing review of its Long-Run Monetary Policy Implementation Framework
+(to be published in January) may conclude the Fed should become a Dealer of Last Resort
+and be willing to make markets once spreads hit certain levels (the “outside” spread). Not
+doing so would have unwanted feedbacks on the dollar, the RMB’s peg to the dollar, and
+the Fed’s ability to raise rates. Were the Fed to turn into a Dealer of Last Resort, it would
+give up control over its balance sheet and so should charge more for the dollar swap lines.
+Recognize that the theme we’ve been emphasizing about the U.S. money market (see here)
+– that the sovereign has effectively crowded out private banks in money markets onshore4
+– is also inevitable in money markets offshore. The Eurodollar market is a private system
+and the historically tight relationship between onshore and offshore funding curves implied
+a “par exchange rate” between onshore dollars and Eurodollars – OIS, Libor and FX swap
+curves were all on top of each other. The widening spreads between Libor and OIS, and
+Libor and FX swap-implied dollar funding rates (that is, the cross-currency basis) reflect a
+structural breakdown of the par exchange rate between onshore dollars and Eurodollars –
+just as the crisis of 2008 marked a similar breakdown. But 2008 was a panic. It was
+temporary. Today is structural. It feels more persistent than temporary. It is driven by
+balance sheet constraints due to Basel III which limit American banks’ ability to serve as
+private dealers of dollars from onshore to offshore. It also means that a dollar abroad is
+more expensive than a dollar at home, which will continue to push the spot value of the
+dollar higher and higher unless the Fed decides to give up control over its balance sheet
+and ease the shortage of offshore dollars by becoming a public dealer of Eurodollars.
+Regulatory reforms turned the exorbitant privilege into an existential trilemma typically
+associated with emerging market economies with fixed exchange rates to the U.S. dollar.
+According to the impossible trinity of yore it is only possible to have two of three goals:
+free capital mobility, a fixed FX rate and monetary policy oriented toward domestic goals.
+The Fed now faces the impossible trinity in a new form: it’s impossible to have constraints
+on bank balance sheets (restraining free capital mobility in global money markets), a par
+exchange rate between onshore and offshore dollars across the term structure, and a
+monetary policy oriented toward domestic goals. Either way, something will have to give:
+(1) Reforms – the domain of Governor Tarullo – are limiting balance sheet quantities
+and driving a wedge between the price of onshore and offshore dollars as evident
+in more negative cross-currency bases. This contributes to the dollar’s strength.
+(2) Monetary policy independence – the domain of Chair Yellen – is under threat, as
+a stronger dollar increases the chance of further RMB devaluation by the PBoC.
+The deflationary risks inherent in RMB devaluation limit the Fed’s ability to hike.
+(3) Quantitative Eurodollar easing (“QEE”) for the rest of the world is the solution,
+which is President Dudley’s domain. If the increasing cost of Eurodollars is what’s
+driving the appreciation of the dollar, and the appreciation of the dollar is what
+stands in the way of the Fed’s hiking cycle, it appears that the right thing to do is
+to break the impasse and give the rest of the world what it needs through the
+swap lines so as to relieve the pressure on the dollar so that the FOMC can hike.
+It’s either quantities or prices…
+Monetary policy divergence is not a new phenomenon – we’ve seen it in the past. But in
+the past, unconstrained balance sheets ensured that cross currency bases were minimal
+(or in other words, deviations from covered interest parity weren’t large or persistent).
+
+4
+
+Global Money Notes #8
+
+Look no further than the demise of prime funds and rise of government-only funds, the increased volume of bills issued by the
+U.S. Treasury, the increased volume of floaters issued by by the FHLBs and the increased size of the Fed’s foreign repo pool
+and o/n RRP facility as counterparts to less short-term funding raised by banks and primary dealers’ diminished repo books.
+8
+
+18 November 2016
+
+Under the old regime, the focus was on prices and tight spreads – or in the present
+context a “par exchange rate” between onshore and offshore dollar funding curves.
+Quantities (balance sheet) were endless, and the volume of matched money market books
+that accumulated through global banks’ money dealing activities – borrowing in onshore
+segments of the money market in order to lend offshore – were massive indeed. No longer.
+Basel III restricting quantities and money fund reform clamping a main funding artery is
+turning the Fed’s world on its head. Quantity constraints will have to be relaxed if the Fed
+wants to have monetary independence and parity between onshore and offshore dollars.
+Barring the scrapping of Basel III or the blanket exemption of reserves from the SLR,
+quantitative Eurodollar easing (“QEE”) for the world – the fixed-price, full-allotment
+broadcast of Eurodollars globally through the dollar swap lines – is the solution we need.
+In a way, QEE is the missing piece in a mosaic where the ECB and BoJ continue with QE
+and investors in their jurisdictions are looking to fill their duration gaps with higher-yielding
+dollar assets on a hedged basis. But the private provision of FX swaps to hedge these
+flows cannot possibly keep pace with the public creation of euros and yen on mass scale.
+
+Conclusions
+Elephant-size €QEs and QQEs can only be countered by elephant-size QEEs by the Fed:
+the Fed needs to lend banks a hand and provide Eurodollars more cheaply to the world…
+It’s either regulatory and monetary objectives or the Fed’s balance sheet size.
+It’s either the cross-currency basis, the dollar or the next hike.
+It’s either Lender of Last Resort or Dealer of Last Resort.
+Take your pick…
+
+Global Money Notes #8
+
+9
+
+18 November 2016
+
+Appendix 1 – Pricing at the Outer Rim
+Figure A-1 lists the four steps involved in foreign banks’ and investors’ use of FX swaps.
+It also demonstrates the example of a firm borrowing euros to arbitrage funding costs.
+All three cases are examples of market participants borrowing dollars via FX swaps.
+Figure A-2 aims to explain how two of these borrowers (banks and real money accounts)
+link up with the suppliers of dollars via FX swaps, using the dollar-yen basis as an example.
+On the demand side we have real money accounts such as insurance companies and
+pension funds with a need to hedge dollar investments (motivated by search for yield), and
+banks with a need to fund dollar loans (search for lending opportunities outside of Japan).
+On the supply side, we have prime money funds that lend dollars onshore (in New York to
+the New York branches of Japanese banks which then “forward” those dollars to Tokyo)
+and institutional cash pools that lend dollars offshore (from New York or anywhere in the
+world to Tokyo). Institutional cash pools include FX reserve managers like the RBA (see
+page 44 of their latest annual report for a sense of their size in the FX swap market),
+multilateral accounts like the IMF or the World Bank, asset managers and hedge funds.
+Structurally, these four groups of players line up such that Japanese real money accounts
+only have access to the FX swap market for dollars, but not the cheaper CD and CP
+market where money funds lend. Japanese banks have access to both sources, but they
+historically opted for the latter as CD and CP funding is typically cheaper than FX swaps.
+On the lending side, regulations allowed prime funds to lend only in CD and CP markets
+but not the FX swap market, and institutional cash pools were free to lend wherever. Free
+to be, they historically opted for FX swaps as swaps paid better than CD and CP. Not
+doing so would have been like not picking up €500 bills from the pavement day after day.
+Those who could borrow dollars only through FX swaps (real money accounts) and those
+who chose to lend dollars only through FX swaps (institutional cash pools) “met” through
+the matched books of market makers – global banks active in the FX swap market.
+No market is ever balanced, however, and market makers’ job is to smooth temporary
+imbalances in order flows through their speculative books. Demand for dollars in Tokyo
+has been persistently stronger than the supply of dollars from cash pools, and global
+banks bridged this structural dollar shortage by tapping markets onshore to lend offshore.
+It is here – in the speculative books – where the price of the marginal FX swap trade is set.
+Figure A-3 builds on Figure A-2 by adding the typical tenors that each participant trades in.
+Japanese real money accounts borrow at the three-month point of the FX swap market (to
+hedge quarterly coupon flows), and banks borrow in the three-month CD and CP market
+from prime funds to minimize their HQLA funding costs while staying LCR compliant.
+Institutional cash pools typically lend at the richest point of the FX forward curve, which,
+given the hedging needs of real money accounts and banks, is the tree-month point.
+Correspondingly, market makers’ books are dominated by matching three-month swaps.
+Imbalances in order flows also involve mostly three-month FX swaps. Global banks fund
+these speculative long positions with funding that is structurally cheaper to raise. For nonAmerican global banks these come from prime funds at tenors shorter than 30-days.
+But for American global banks these funds are essentially for “free” – they have endless
+amounts of retail deposits at their disposal, and if they need to raise funds elsewhere, the
+FHLBs are there to offer one-week or one-month money at 55 and 60 bps, respectively.
+Given these structural funding relationships, Figure A-4 demonstrates what the demise of
+prime money funds means for the balance of pricing power in the system going forward.
+First, it means that Japanese banks (and banks from other jurisdictions as well) will lose
+access to cheap onshore dollars via CD and CP and will replace them with FX swaps.
+Global Money Notes #8
+
+10
+
+18 November 2016
+
+Second, just as Japanese banks will be shifting toward FX swaps for funding, the size of
+non-American speculative books in the market will be shrinking. This is because the cheap
+source of CD and CP funding from prime funds to non-American global banks that are
+active arbitrageurs of the difference between offshore and onshore rates will be gone.
+Enter the American bank, which, as noted above, has a funding advantage over everyone
+else and hence is uniquely positioned to dominate the FX swap market going forward.
+As large American banks grow to dominate the FX swap market, they will inevitably
+become the marginal price setters in in the system. The key questions from a pricing
+perspective will be how an increased volume of speculative FX swaps positions will
+interact with American banks’ regulatory constraints – how much balance sheet will they
+have to onboard these trades from an SLR perspective; what will these trades do to their
+LCR; what will the looming requirement to currency-match HQLA portfolios mean for their
+overall appetite to do these trades; will the Volcker Rule let them run speculative books?
+Figure out these questions and you will find the ‘keys to the kingdom’. And remember this:
+under Basel III, the more dollars American banks intermediate via FX swaps, the less
+balance sheet they will have left over for everything else, and the higher the price of the
+marginal FX trade will have to be. Standard logics of arbitrage do not hold under Basel III:
+with balance sheets no longer unlimited, the more you arb the higher the marginal price.5
+Either way we look at it, cross-currency bases are bound to get more negative, with no
+private mechanism in place to check three-month points from sinking as low as -150 bps.
+The limit to this will be the extent to which the rest of the world will be able to cope with
+higher dollar funding costs and how these costs will feed back to the Fed’s reaction function
+In this environment, the only bank that can counter the tendency of cross-currency bases
+to sink deeper and deeper into negative territory is none other than FRBNY (see above).
+Other than money fund reform in the U.S., there are at least three risks on the horizon
+which point to a further increase in American banks’ dominance in the FX swap market.
+First, money fund reform in the EU. Investors should know that about half of money funds
+in the EU are U.S. dollar-denominated. If the EU reforms follow the spirit of U.S. reforms,
+we can expect a further steepening of the U.S. dollar Libor curve, a further migration of
+funding from Eurodollar CD and CP markets to FX swaps, a further reduction in funding for
+non-American global banks for arbitrage, and more on the plate of American global banks.
+If institutional-class prime outflows were the first wave to push the Libor curve steeper and
+cross-currency bases more negative, and retail-class prime fund outflows are the second,
+then EU money fund reform will be the third. We should forget about Libor normalization…
+Second, shortages of JGB bills are making it increasingly difficult for hedge funds and
+asset managers to find assets to invest yen collateral when lending dollars via FX swaps.
+This will naturally impede the volume of FX swaps intermediated through matched books,
+and will pressure large American banks to increase their speculative books further. This
+will exacerbate balance sheet pressures and push cross-currency bases more negative
+(note that unlike hedge funds and asset managers, large American banks can deposit yen
+at the BoJ via their Tokyo branches and so aren’t limited by the shortage of JGB bills).
+Third, the reform of the U.S. corporate tax code and the potential re-patriation of hundreds
+of billions of cash currently parked abroad. These offshore cash balances form an integral
+part of the funding base of Eurodollar loan books across the globe. Were these cash
+balances to flow back into the U.S., then even more of the funding of Eurodollar assets
+would have to come from large American banks through FX swaps. The impact of this on
+cross-currency bases would make money fund reform look like baby stuff (see Figure A-5).
+
+5
+
+Global Money Notes #8
+
+Banks arbitrage differences between onshore and offshore funding rates by borrowing onshore in the CD and CP market from
+prime money funds and lending the proceeds in the FX swap market. Such arbitrage trades inflate banks’ balance sheets.
+11
+
+18 November 2016
+
+Figure A-1: FX Swap Uses
+
+[1] Fund in ¥.
+Time: t (spot)
+
+[2] Exchange ¥ for $ spot (buy $).
+[2] (currency risk)
+
+Japanese Bank
+
+Real Money
+
+Corporations
+
+(dollar funding)
+
+(dollar hedges)
+
+(bargain hunting)
+
+¥
+
+¥
+
+¥
+
+¥
+
+€
+
+€
+
+(cash)
+
+(deposit)
+
+(cash)
+
+(alpha)
+
+(cash)
+
+(bond)
+
+Japanese Bank
+
+Real Money
+
+Corporations
+
+(dollar funding)
+
+(dollar hedges)
+
+(bargain hunting)
+
+¥
+
+¥
+
+¥
+
+¥
+
+€
+
+€
+
+(cash)
+
+(deposit)
+
+(cash)
+
+(alpha)
+
+(cash)
+
+(bond)
+
+$
+
+$
+
+$
+
+(cash)
+
+(cash)
+
+(cash)
+
+Fund in €. [1]
+Time: t (spot)
+
+Exchange € for $ spot (buy $). [2]
+(currency risk) [2]
+
+Time: t (spot)
+
+Time: t (spot)
+
+[3] Spend $ on U.S. dollar assets.
+[3] (currency, duration and credit risk)
+
+Japanese Bank
+
+Real Money
+
+Corporations
+
+(dollar funding)
+
+(dollar hedges)
+
+(bargain hunting)
+
+¥
+
+¥
+
+¥
+
+¥
+
+€
+
+€
+
+(cash)
+
+(deposit)
+
+(cash)
+
+(alpha)
+
+(cash)
+
+(bond)
+
+$
+
+$
+
+$
+
+(loan)
+
+(bond)
+
+(spend)
+
+Spend $ on dividends paid or w hatever [3]
+(currency risk) [3]
+
+Real Money
+
+Corporations
+
+(dollar funding)
+
+(dollar hedges)
+
+(bargain hunting)
+
+¥
+
+¥
+
+¥
+
+¥
+
+€
+
+€
+
+(cash)
+
+(deposit)
+
+(cash)
+
+(alpha)
+
+(cash)
+
+(bond)
+
+$
+
+$
+
+$
+
+(loan)
+
+(bond)
+
+(spend)
+
+¥
+
+$
+
+¥
+
+$
+
+€
+
+$
+
+(buy FW)
+
+(sell FW)
+
+(buy FW)
+
+(sell FW)
+
+(buy FW)
+
+(sell FW)
+
+FW
+
+[4] forw ard for ¥ at today's forw ard FX rate.
+
+FW
+
+[4] Hedge by selling $ from quarterly interest flow s
+
+Japanese Bank
+
+spot
+
+Time: t (spot)
+
+spot
+
+Time: t (spot)
+
+Hedge by selling $ from cash inflow s from sales [4]
+forw ard for € at today's forw ard FX rate. [4]
+
+[4] (duration and credit risk, no more FX risk)
+
+Time: t + 90 days (FW)
+
+FW
+
+Time: t (spot)
+
+spot
+
+[5] Net Cash Flow s:
+
+Japanese Bank
+
+Real Money
+
+Corporations
+
+(dollar funding)
+
+(dollar hedges)
+
+(bargain hunting)
+
+$
+
+¥
+
+$
+
+¥
+
+$
+
+€
+
+(loan)
+
+(deposit)
+
+(bond)
+
+(alpha)
+
+(revenues)
+
+(bond)
+
+¥
+
+$
+
+¥
+
+$
+
+€
+
+$
+
+(buy FW)
+
+(sell FW)
+
+(buy FW)
+
+(sell FW)
+
+(buy FW)
+
+(sell FW)
+
+↓
+Use ¥ to pay back original ¥ deposit if it is not rolled over.
+
+↓
+Use ¥ to pay a return in ¥ to Japanese pensioners.
+
+spot
+
+Time: t + 90 days (FW)
+
+Time: t (spot)
+
+FW
+
+Time: t + 90 days (FW)
+
+Time: t + 90 days (FW)
+
+↓
+Use € to service debt denominated in €.
+
+Source: Credit Suisse
+
+Global Money Notes #8
+
+12
+
+18 November 2016
+
+Figure A-2: FX Swap Links
+Real Money
+
+Cash Pools
+
+FXS
+
+←cash pool to real money ←
+
+FXS
+
+(indirectly via FX swap market makers)
+
+Market Makers
+matched book →
+
+FXS
+
+FXS
+
+speculative book →
+
+FXS
+
+CD
+
+Banks
+
+Prime Funds
+
+CD
+
+CD
+← prime fund to bank ←
+(directly)
+
+Source: Credit Suisse
+
+Figure A-3: FX Swap Terms
+Real Money
+
+Cash Pools
+
+FXS
+(3-mo.)
+
+FXS
+←cash pool to real money ←
+
+(3-mo.)
+
+(indirectly via FX swap market makers)
+
+Market Makers
+matched book →
+speculative book →
+
+FXS
+
+FXS
+
+(3-mo.)
+
+(3-mo.)
+
+FXS
+
+CD
+
+(3-mo.)
+
+(1-mo.)
+
+Banks
+
+Prime Funds
+
+CD
+
+CD
+
+(3-mo.)
+
+← prime fund to bank ←
+(directly)
+Source: Credit Suisse
+
+Global Money Notes #8
+
+13
+
+18 November 2016
+
+Figure A-4: FX Swaps without Prime Money Funds
+Real Money
+
+Cash Pools
+
+FXS
+(3-mo.)
+
+FXS
+←cash pool to real money ←
+
+(3-mo.)
+
+(indirectly via FX swap market makers)
+
+Market Makers
+matched book →
+spec. book →
+
+FXS
+
+FXS
+
+(3-mo.)
+
+(3-mo.)
+
+FXS
+
+Deposits
+
+(3-mo.)
+
+(retail)
+
+Banks
+FXS
+
+Basel III/Volcker constraints.
+
+(3-mo.)
+
+Source: Credit Suisse
+
+Figure A-5: Another Trillion, Another Percentage Point…
+Three-month FX-swap implied cost of dollar funding for yen-based borrowers, %
+
+Source: Bank of Japan
+
+Global Money Notes #8
+
+14
+
+18 November 2016
+
+References:
+Pozsar, Zoltan, “The Rise and Fall of the Shadow Banking System,”
+Moody’s Economy.com (July, 2008)
+Wilmot, Jonathan, Sweeney, James, Klein, Matthias and Lantz, Carl, “Long Shadows,”
+Credit Suisse (May, 2009)
+Pozsar, Zoltan, Adrian, Tobias, Ashcraft Adam and Boesky, Hayley, “Shadow Banking,”
+FRBNY (July, 2010)
+Pozsar, Zoltan
+“Institutional Cash Pools and the Triffin Dilemma of the US Banking System,”
+IMF (August, 2011)
+Sweeney, James and Wilmot, Jonathan, “When Collateral Is King,”
+Credit Suisse (March, 2012)
+Mehrling, Perry, Pozsar, Zoltan, Sweeney, James and Neilson, Dan
+“Bagehot Was a Shadow Banker,”
+INET (November, 2013)
+Sweeney, James, “Liquidity Required: Reshaping the Financial System,”
+Credit Suisse (November, 2013)
+Pozsar, Zoltan, “Shadow Banking: The Money View,”
+US Treasury (July, 2014)
+Pozsar, Zoltan, “How the Financial System Works,”
+US Treasury (July, 2014)
+Pozsar, Zoltan, “A Macro View of Shadow Banking,”
+INET Working Paper (January, 2015)
+Di Iasio, Giovanni, and Pozsar, Zoltan,
+“A Model of Shadow Banking: Crises, Central Banks and Regulation,”
+Banca d’Italia (May, 2015)
+Pozsar, Zoltan and Sweeney, James,
+“Global Money Notes #1: The Money Market Under Government Control,”
+Credit Suisse (May, 2015)
+Pozsar, Zoltan and Sweeney, James, “Global Money Notes #2: A Turbulent Exit,”
+Credit Suisse (August, 2015)
+Pozsar, Zoltan and Sweeney, James, “Global Money Notes #3: Flying Blind,”
+Credit Suisse (December, 2015)
+Pozsar, Zoltan, “Global Money Notes #4: A Tool of Their Own – The Foreign RRP Facility,”
+Credit Suisse (February, 2016)
+Pozsar, Zoltan, “Global Money Notes #5: What Excess Reserves,”
+Credit Suisse (April, 2016)
+Pozsar, Zoltan, “Global Money Notes #6: QE, Basel III and the Fed’s New Target Rate,”
+Credit Suisse (June, 2016)
+Pozsar, Zoltan “Global Money Notes #7: Japanese Banks, LIBOR and the FX Swap Lines,”
+Credit Suisse (August, 2016)
+
+Global Money Notes #8
+
+15
+
+GLOBAL FIXED INCOME AND ECONOMIC RESEARCH
+James Sweeney, Managing Director
+Head of Fixed Income and Economic Research
++1 212 538 4648
+james.sweeney@credit-suisse.com
+
+Dr. Neal Soss, Managing Director
+Vice Chairman, Fixed Income Research
+1 212 325 3335
+neal.soss@credit-suisse.com
+
+US / GLOBAL ECONOMICS AND STRATEGY
+James Sweeney
+Chief Economist
++1 212 538 4648
+james.sweeney@credit-suisse.com
+
+Xiao Cui
++1 212 538 2511
+xiao.cui@credit-suisse.com
+
+Sarah Smith
++1 212 325-1022
+sarah.smith@credit-suisse.com
+
+Wenzhe Zhao
++1 212 325 1798
+wenzhe.zhao@credit-suisse.com
+
+Praveen Korapaty
+Head of Interest Rate Strategy
+212 325 3427
+praveen.korapaty@credit-suisse.com
+
+Jonathan Cohn
+212 325 4923
+jonathan.cohn@credit-suisse.com
+
+Jamie Nicholson-Leener
+Head of Latin America Credit
++1 212 538 6769
+jamie.nicholson@credit-suisse.com
+
+Luis Serrano
++1 212 325 3147
+luis.serrano@credit-suisse.com
+
+Axel Lang
++1 212 538 4530
+axel.lang@credit-suisse.com
+
+Zoltan Pozsar
++1 212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+Jeremy Schwartz
++1 212 538 6419
+jeremy.schwartz@credit-suisse.com
+
+William Marshall
+212 325 5584
+william.marshall@credit-suisse.com
+
+EUROPEAN ECONOMICS AND STRATEGY
+Neville Hill
+Head of European Economics & Strategy
++44 20 7888 1334
+neville.hill@credit-suisse.com
+David Sneddon
+Head of Technical Analysis
+44 20 7888 7173
+david.sneddon@credit-suisse.com
+William Porter
+Head of European Credit
++44 20 7888 1207
+william.porter@credit-suisse.com
+
+Anais Boussie
++44 20 7883 9639
+anais.boussie@credit-suisse.com
+
+Peter Foley
++44 20 7883 4349
+peter.foley@credit-suisse.com
+
+Christopher Hine
+212 538 5727
+christopher.hine@credit-suisse.com
+
+James Lim
+65 6212 3612
+lifeng.lim@credit-suisse.com
+
+Sonali Punhani
++44 20 7883 4297
+sonali.punhani@credit-suisse.com
+
+Veronika Roharova
+Giovanni Zanni
++44 20 7888 2403
++44 20 7888 6827
+veronika.roharova@credit-suisse.com giovanni.zanni@credit-suisse.com
+
+Chiraag Somaia
++44 20 7888 2776
+chiraag.somaia@credit-suisse.com
+
+GLOBAL FX / EM ECONOMICS AND STRATEGY
+Shahab Jalinoos
+Head of Global FX Strategy
+212 325 5412
+shahab.jalinoos@credit-suisse.com
+Kasper Bartholdy
+Head of Global EM Strategy
++44 20 7883 4907
+kasper.bartholdy@credit-suisse.com
+Berna Bayazitoglu
+Head of EEMEA Economics
++44 20 7883 3431
+berna.bayazitoglu@credit-suisse.com
+Alonso Cervera
+Head of Latin America Economics
++52 55 5283 3845
+alonso.cervera@credit-suisse.com
+Nilson Teixeira
+Head of Brazil Economics
++55 11 3701 6288
+nilson.teixeira@credit-suisse.com
+
+Honglin Jiang
+44 20 7888 1501
+honglin.jiang@credit-suisse.com
+
+Trang Thuy Le
++852 2101 7426
+trangthuy.le@credit-suisse.com
+
+Alvise Marino
+212 325 5911
+alvise.marino@credit-suisse.com
+
+Bhaveer Shah
+44 20 7883 1449
+bhaveer.shah@credit-suisse.com
+
+Ashish Agrawal
++65 6212 3405
+ashish.agrawal@credit-suisse.com
+
+Daniel Chodos
++1 212 325 7708
+daniel.chodos@credit-suisse.com
+
+Nimrod Mevorach
++44 20 7888 1257
+nimrod.mevorach@credit-suisse.com
+
+Martin Yu
++65 6212 3448
+martin.yu@credit-suisse.com
+
+Alexey Pogorelov
++44 20 7883 0396
+alexey.pogorelov@credit-suisse.com
+
+Carlos Teixeira
++27 11 012 8054
+carlos.teixeira@credit-suisse.com
+
+Juan Lorenzo Maldonado
++1 212 325 4245
+juanlorenzo.maldonado@credit-suisse.com
+
+Casey Reckman
++1 212 325 5570
+casey.reckman@credit-suisse.com
+
+Alberto Rojas
++52 55 5283 8975
+alberto.rojas@credit-suisse.com
+
+Paulo Coutinho
++55 11 3701-6353
+paulo.coutinho@credit-suisse.com
+
+Iana Ferrao
++55 11 3701 6345
+iana.ferrao@credit-suisse.com
+
+Leonardo Fonseca
++55 11 3701 6348
+leonardo.fonseca@credit-suisse.com
+
+Lucas Vilela
++55 11 3701-6352
+lucas.vilela @credit-suisse.com
+
+ASIA PACIFIC DIVISION
+Ray Farris, Managing Director
+Head of Fixed Income Research and Economics, Asia Pacific Division
++65 6212 3412
+ray.farris@credit-suisse.com
+
+EMERGING ASIA ECONOMICS
+Dr. Santitarn Sathirathai
+Head of Emerging Asia Economics
++65 6212 5675
+santitarn.sathirathai@credit-suisse.com
+
+Vincent Chan
+Head of China Macro
++852 2101 6568
+vincent.chan@credit-suisse.com
+
+JAPAN ECONOMICS
+Hiromichi Shirakawa
+Head of Japan Economics
++81 3 4550 7117
+hiromichi.shirakawa@credit-suisse.com
+
+Takashi Shiono
++81 3 4550 7189
+takashi.shiono@credit-suisse.com
+
+Deepali Bhargava
++65 6212 5699
+deepali.bhargava@credit-suisse.com
+
+Weishen Deng
++852 2101 7162
+weishen.deng@credit-suisse.com
+
+Christiaan Tuntono
+Michael Wan
++852 2101 7409
++65 6212 3418
+christiaan.tuntono@credit-suisse.com michael.wan@credit-suisse.com
+
+Disclosure Appendix
+Analyst Certification
+I, Zoltan Pozsar, certify that (1) the views expressed in this report accurately reflect my personal views about all of the subject companies and
+securities and (2) no part of my compensation was, is or will be directly or indirectly related to the specific recommendations or views expressed in
+this report.
+Important Disclosures
+Credit Suisse's policy is only to publish investment research that is impartial, independent, clear, fair and not misleading. For more detail, please
+refer to Credit Suisse's Policies for Managing Conflicts of Interest in connection with Investment Research: http://www.csfb.com/research-andanalytics/disclaimer/managing_conflicts_disclaimer.html .
+Credit Suisse's policy is to publish research reports as it deems appropriate, based on developments with the subject issuer, the sector or the market
+that may have a material impact on the research views or opinions stated herein.
+The analyst(s) involved in the preparation of this research report received compensation that is based upon various factors, including Credit Suisse's
+total revenues, a portion of which are generated by Credit Suisse's Investment Banking and Fixed Income Divisions.
+Credit Suisse may trade as principal in the securities or derivatives of the issuers that are the subject of this report.
+At any point in time, Credit Suisse is likely to have significant holdings in the securities mentioned in this report.
+As at the date of this report, Credit Suisse acts as a market maker or liquidity provider in the debt securities of the subject issuer(s) mentioned in this
+report.
+For important disclosure information on securities recommended in this report, please visit the website at https://rave.creditsuisse.com/disclosures/view/fixedincome or call +1-212-538-7625.
+For the history of trade ideas suggested by the Fixed Income Research department over the previous 12 months, please view the document at
+https://plus.credit-suisse.com/r/aaCzfz . Credit Suisse clients with access to the Locus website may refer to http://www.credit-suisse.com/locus . For
+the history of trade ideas suggested by Emerging Markets Strategy Research, please see the latest Emerging Markets Fixed Income Views report on
+Credit Suisse PLUS .
+For the history of recommendations provided by Technical Analysis, please visit the website at https://plus.creditsuisse.com/ECP_S/app/container.html#loc=/MENU_FI_ECON_TECHNICAL_ANALYSIS .
+Credit Suisse does not provide any tax advice. Any statement herein regarding any US federal tax is not intended or written to be used, and cannot
+be used, by any taxpayer for the purposes of avoiding any penalties.
+For a history of recommendations for the financial instrument(s) featured in this report, disseminated within the past 12 months, please refer to
+https://rave.credit-suisse.com/disclosures/view/reportfi?i=260130&v=-70lfnz8bw789bc7s5ap8hw441 .
+This research report is authored by:
+Credit Suisse Securities (USA) LLC .................................................................................................................................................... Zoltan Pozsar
+
+This report is produced by subsidiaries and affiliates of Credit Suisse operating under its Global Markets Division. For more information on our structure, please use the following link: https://www.credit-suisse.com/who-we-are
+This report may contain material that is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of or located in any locality, state, country or other jurisdiction where such
+distribution, publication, availability or use would be contrary to law or regulation or which would subject Credit Suisse or its affiliates ("CS") to any registration or licensing requirement within such jurisdiction. All material
+presented in this report, unless specifically indicated otherwise, is under copyright to CS. None of the material, nor its content, nor any copy of it, may be altered in any way, transmitted to, copied or distributed to any other
+party, without the prior express written permission of CS. All trademarks, service marks and logos used in this report are trademarks or service marks or registered trademarks or service marks of CS or its affiliates.The
+information, tools and material presented in this report are provided to you for information purposes only and are not to be used or considered as an offer or the solicitation of an offer to sell or to buy or subscribe for securities
+or other financial instruments. CS may not have taken any steps to ensure that the securities referred to in this report are suitable for any particular investor. CS will not treat recipients of this report as its customers by virtue of
+their receiving this report. The investments and services contained or referred to in this report may not be suitable for you and it is recommended that you consult an independent investment advisor if you are in doubt about
+such investments or investment services. Nothing in this report constitutes investment, legal, accounting or tax advice, or a representation that any investment or strategy is suitable or appropriate to your individual
+circumstances, or otherwise constitutes a personal recommendation to you. CS does not advise on the tax consequences of investments and you are advised to contact an independent tax adviser. Please note in particular
+that the bases and levels of taxation may change. Information and opinions presented in this report have been obtained or derived from sources believed by CS to be reliable, but CS makes no representation as to their
+accuracy or completeness. CS accepts no liability for loss arising from the use of the material presented in this report, except that this exclusion of liability does not apply to the extent that such liability arises under specific
+statutes or regulations applicable to CS. This report is not to be relied upon in substitution for the exercise of independent judgment. CS may have issued, and may in the future issue, other communications that are
+inconsistent with, and reach different conclusions from, the information presented in this report. Those communications reflect the different assumptions, views and analytical methods of the analysts who prepared them and
+CS is under no obligation to ensure that such other communications are brought to the attention of any recipient of this report. Some investments referred to in this report will be offered solely by a single entity and in the case
+of some investments solely by CS, or an associate of CS or CS may be the only market maker in such investments. Past performance should not be taken as an indication or guarantee of future performance, and no
+representation or warranty, express or implied, is made regarding future performance. Information, opinions and estimates contained in this report reflect a judgment at its original date of publication by CS and are subject to
+change without notice. The price, value of and income from any of the securities or financial instruments mentioned in this report can fall as well as rise. The value of securities and financial instruments is subject to exchange
+rate fluctuation that may have a positive or adverse effect on the price or income of such securities or financial instruments. Investors in securities such as ADR's, the values of which are influenced by currency volatility,
+effectively assume this risk. Structured securities are complex instruments, typically involve a high degree of risk and are intended for sale only to sophisticated investors who are capable of understanding and assuming the
+risks involved. The market value of any structured security may be affected by changes in economic, financial and political factors (including, but not limited to, spot and forward interest and exchange rates), time to maturity,
+market conditions and volatility, and the credit quality of any issuer or reference issuer. Any investor interested in purchasing a structured product should conduct their own investigation and analysis of the product and consult
+with their own professional advisers as to the risks involved in making such a purchase. Some investments discussed in this report may have a high level of volatility. High volatility investments may experience sudden and
+large falls in their value causing losses when that investment is realised. Those losses may equal your original investment. Indeed, in the case of some investments the potential losses may exceed the amount of initial
+investment and, in such circumstances, you may be required to pay more money to support those losses. Income yields from investments may fluctuate and, in consequence, initial capital paid to make the investment may
+be used as part of that income yield. Some investments may not be readily realisable and it may be difficult to sell or realise those investments, similarly it may prove difficult for you to obtain reliable information about the
+value, or risks, to which such an investment is exposed. This report may provide the addresses of, or contain hyperlinks to, websites. Except to the extent to which the report refers to website material of CS, CS has not
+reviewed any such site and takes no responsibility for the content contained therein. Such address or hyperlink (including addresses or hyperlinks to CS's own website material) is provided solely for your convenience and
+information and the content of any such website does not in any way form part of this document. Accessing such website or following such link through this report or CS's website shall be at your own risk.
+This report is issued and distributed in European Union (except Switzerland): by Credit Suisse Securities (Europe) Limited, One Cabot Square, London E14 4QJ, England, which is authorised by the Prudential Regulation
+Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. Germany: Credit Suisse Securities (Europe) Limited Niederlassung Frankfurt am Main regulated by the Bundesanstalt fuer
+Finanzdienstleistungsaufsicht ("BaFin"). United States and Canada: Credit Suisse Securities (USA) LLC; Switzerland: Credit Suisse AG; Brazil: Banco de Investimentos Credit Suisse (Brasil) S.A or its affiliates; Mexico:
+Banco Credit Suisse (México), S.A. (transactions related to the securities mentioned in this report will only be effected in compliance with applicable regulation); Japan: by Credit Suisse Securities (Japan) Limited, Financial
+Instruments Firm, Director-General of Kanto Local Finance Bureau ( Kinsho) No. 66, a member of Japan Securities Dealers Association, The Financial Futures Association of Japan, Japan Investment Advisers Association,
+Type II Financial Instruments Firms Association; Hong Kong: Credit Suisse (Hong Kong) Limited; Australia: Credit Suisse Equities (Australia) Limited; Thailand: Credit Suisse Securities (Thailand) Limited, regulated by the
+Office of the Securities and Exchange Commission, Thailand, having registered address at 990 Abdulrahim Place, 27th Floor, Unit 2701, Rama IV Road, Silom, Bangrak, Bangkok10500, Thailand, Tel. +66 2614 6000;
+Malaysia: Credit Suisse Securities (Malaysia) Sdn Bhd, Credit Suisse AG, Singapore Branch; India: Credit Suisse Securities (India) Private Limited (CIN no.U67120MH1996PTC104392) regulated by the Securities and
+Exchange Board of India as Research Analyst (registration no. INH 000001030) and as Stock Broker (registration no. INB230970637; INF230970637; INB010970631; INF010970631), having registered address at 9th Floor,
+Ceejay House, Dr.A.B. Road, Worli, Mumbai - 18, India, T- +91-22 6777 3777; South Korea: Credit Suisse Securities (Europe) Limited, Seoul Branch; Taiwan: Credit Suisse AG Taipei Securities Branch; Indonesia: PT
+Credit Suisse Securities Indonesia; Philippines: Credit Suisse Securities (Philippines ) Inc., and elsewhere in the world by the relevant authorised affiliate of the above.
+Additional Regional Disclaimers
+Hong Kong: Credit Suisse (Hong Kong) Limited ("CSHK") is licensed and regulated by the Securities and Futures Commission of Hong Kong under the laws of Hong Kong, which differ from Australian laws. CSHKL does
+not hold an Australian financial services licence (AFSL) and is exempt from the requirement to hold an AFSL under the Corporations Act 2001 (the Act) under Class Order 03/1103 published by the ASIC in respect of financial
+services provided to Australian wholesale clients (within the meaning of section 761G of the Act). Research on Taiwanese securities produced by Credit Suisse AG, Taipei Securities Branch has been prepared by a
+registered Senior Business Person.
+Malaysia: Research provided to residents of Malaysia is authorised by the Head of Research for Credit Suisse Securities (Malaysia) Sdn Bhd, to whom they should direct any queries on +603 2723 2020.
+Singapore: This report has been prepared and issued for distribution in Singapore to institutional investors, accredited investors and expert investors (each as defined under the Financial Advisers Regulations) only, and is
+also distributed by Credit Suisse AG, Singapore branch to overseas investors (as defined under the Financial Advisers Regulations). By virtue of your status as an institutional investor, accredited investor, expert investor or
+overseas investor, Credit Suisse AG, Singapore branch is exempted from complying with certain compliance requirements under the Financial Advisers Act, Chapter 110 of Singapore (the "FAA"), the Financial Advisers
+Regulations and the relevant Notices and Guidelines issued thereunder, in respect of any financial advisory service which Credit Suisse AG, Singapore branch may provide to you.
+UAE: This information is being distributed by Credit Suisse AG (DIFC Branch), duly licensed and regulated by the Dubai Financial Services Authority (“DFSA”). Related financial services or products are only made available
+to Professional Clients or Market Counterparties, as defined by the DFSA, and are not intended for any other persons. Credit Suisse AG (DIFC Branch) is located on Level 9 East, The Gate Building, DIFC, Dubai, United
+Arab Emirates.
+EU: This report has been produced by subsidiaries and affiliates of Credit Suisse operating under its Global Markets Division
+This research may not conform to Canadian disclosure requirements.
+In jurisdictions where CS is not already registered or licensed to trade in securities, transactions will only be effected in accordance with applicable securities legislation, which will vary from jurisdiction to jurisdiction and may
+require that the trade be made in accordance with applicable exemptions from registration or licensing requirements. Non-US customers wishing to effect a transaction should contact a CS entity in their local jurisdiction
+unless governing law permits otherwise. US customers wishing to effect a transaction should do so only by contacting a representative at Credit Suisse Securities (USA) LLC in the US.
+Please note that this research was originally prepared and issued by CS for distribution to their market professional and institutional investor customers. Recipients who are not market professional or institutional investor
+customers of CS should seek the advice of their independent financial advisor prior to taking any investment decision based on this report or for any necessary explanation of its contents. This research may relate to
+investments or services of a person outside of the UK or to other matters which are not authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation
+Authority or in respect of which the protections of the Prudential Regulation Authority and Financial Conduct Authority for private customers and/or the UK compensation scheme may not be available, and further details as to
+where this may be the case are available upon request in respect of this report.
+CS may provide various services to US municipal entities or obligated persons ("municipalities"), including suggesting individual transactions or trades and entering into such transactions. Any services CS provides to
+municipalities are not viewed as "advice" within the meaning of Section 975 of the Dodd-Frank Wall Street Reform and Consumer Protection Act. CS is providing any such services and related information solely on an arm's
+length basis and not as an advisor or fiduciary to the municipality. In connection with the provision of the any such services, there is no agreement, direct or indirect, between any municipality (including the
+officials,management, employees or agents thereof) and CS for CS to provide advice to the municipality. Municipalities should consult with their financial, accounting and legal advisors regarding any such services provided
+by CS. In addition, CS is not acting for direct or indirect compensation to solicit the municipality on behalf of an unaffiliated broker, dealer, municipal securities dealer, municipal advisor, or investment adviser for the purpose of
+obtaining or retaining an engagement by the municipality for or in connection with Municipal Financial Products, the issuance of municipal securities, or of an investment adviser to provide investment advisory services to or on
+behalf of the municipality. If this report is being distributed by a financial institution other than Credit Suisse AG, or its affiliates, that financial institution is solely responsible for distribution. Clients of that institution should contact
+that institution to effect a transaction in the securities mentioned in this report or require further information. This report does not constitute investment advice by Credit Suisse to the clients of the distributing financial institution,
+and neither Credit Suisse AG, its affiliates, and their respective officers, directors and employees accept any liability whatsoever for any direct or consequential loss arising from their use of this report or its content. Principal is
+not guaranteed. Commission is the commission rate or the amount agreed with a customer when setting up an account or at any time after that.
+Copyright © 2016 CREDIT SUISSE AG and/or its affiliates. All rights reserved.
+
+Investment principal on bonds can be eroded depending on sale price or market price. In addition, there are bonds on which investment principal can
+be eroded due to changes in redemption amounts. Care is required when investing in such instruments.
+
+When you purchase non-listed Japanese fixed income securities (Japanese government bonds, Japanese municipal bonds, Japanese government guaranteed bonds, Japanese corporate bonds) from CS as a seller, you
+will be requested to pay the purchase price only.
+
+11 April 2017
+Global
+Fixed Income Research
+Global Strategy
+
+Global Money Notes #9
+Research Analysts
+Zoltan Pozsar
+212 538 3779
+zoltan.pozsar@credit-suisse.com
+
+Excess Reserves and Global Dollar Funding
+According to market lore, the recent collapse in the $/¥ cross-currency basis
+was driven by a grand bargain brokered by the Bank of Japan between
+pension funds and megabanks. According to the bargain, pension funds
+agreed to swap their U.S. Treasuries for the JGBs of megabanks, and the
+megabanks used the Treasuries to tap repo markets in New York which have
+become cheap to fund in post-money fund reform. Megabanks lent the cheap
+dollars back to the pension funds via FX swaps, and helped them avoid having
+to deal with U.S. money center banks positioned to extract a pound of flesh.
+There was no grand bargain.
+Anecdotally, the price of the collateral swap to start this chain of trades is
+about 45 bps which would make the lending of dollars uneconomical compared
+to other alternatives. Furthermore, there was no meaningful increase in either
+tri-party or bilateral repo volumes since November, when the deal was struck.
+According to another lore, the collapse of the $/¥ basis was driven by the
+anticipated easing of Basel III in the U.S., which will free up balance sheets for
+arbitrage. That makes sense, but these changes are not imminent and will take
+time to implement. Three-month bases should not be influenced by them.
+In this issue of Global Money Notes we explain how extraordinary measures
+taken by the U.S. Treasury to avoid the debt ceiling have flooded the system
+with $400 billion in reserves which drove the recent collapse of the $/¥ basis.
+These measures are temporary. Once reversed, the basis will widen again.
+The broader lessons from our analysis is that the Fed only has limited room to
+shrink its balance sheet. The difference between key cross-currency bases
+trading at -100 or -25 bps is an extra $400 billion of reserves in the system.
+Whether reserves are drained by Treasury boosting its cash balances, or by a
+runoff of the SOMA portfolio is the same thing. They both mean fewer reserves.
+With every $100 billion of reserves drained, the $/¥ basis increases by 10 bps.
+With every $100 billion of reserves drained, the world gets a 10 bps hike. And
+it’s not just the Fed’s decisions. Treasury needs to coordinate with the Fed
+regarding the impact of its cash management practices on financial conditions.
+The Mistake of 1937 has often been cited as a cautionary tale to highlight the
+risks involved in premature rate hikes. Those comparisons never made sense.
+The Mistake of 1937 revolved not around prices, but quantities.
+The Fed raised reserve requirements which caused a recession. The parallel
+with today is a Fed hell-bent on shrinking its balance sheet. Without a
+meaningful dilution of Basel III, it won’t be able to. Or if it does so nonetheless,
+another mistake may be upon us. Don’t let the DSGE people hijack the Fed’s
+balance sheet. Shrinking it is a matter of taste, not a matter of necessity.
+Big is beautiful. Big is necessary. Learn to live with it…
+
+DISCLOSURE APPENDIX AT THE BACK OF THIS REPORT CONTAINS IMPORTANT DISCLOSURES, LEGAL ENTITY
+DISCLOSURE AND ANALYST CERTIFICATIONS.
+
+11 April 2017
+
+Part 1 – Feast and Famine
+The Basel III compliant global banking system passed it’s first liquidity stress test with
+flying colors.
+During the weeks before the SEC’s money fund reform deadline, twice as much money left
+prime money funds than during the weeks following Lehman Brothers’ bankruptcy in 2008.
+While the outflows in 2008 caused panic and required the Federal Reserve to step in as
+dealer of last resort in the global dollar funding market, the financial system made hardly a
+peep this time around despite significantly greater outflows. We should not be surprised,
+as one key requirement of Basel III is that globally active banks hold a liquidity war chest
+of at least 30-days worth of net cash outflows in high-quality liquid assets (HQLA). In other
+words, global banks should be able to withstand a 30-day freeze in funding markets and
+“bleed” liquidity for 30-days before they pick up the phone to call the discount window.
+Foreign banks, who were most dependent on prime money funds for funding, held most of
+their HQLA in the form of reserves at the Federal Reserve Bank of New York (FRBNY).
+During the outflows they simply ran down their reserve balances. On the flipside, the Fed,
+instead of being forced to step in to make markets and inflate its balance sheet on the spot
+to ease the pain from the loss of funding, stood ready with its enlarged balance sheet to
+ensure the seamless redistribution of liquidity across the system: from prime funds to
+government funds, and from foreign bank branches to U.S. banks and primary dealers.
+We can identify two distinct flows related to money fund reform (see Figure 1).
+First, the outflow of $800 billion of client funds from institutional-class prime money funds
+(henceforth prime funds). The money that left appears unlikely to ever come back. For the
+portfolio managers (PMs) that run prime funds and for undiversified asset managers that
+depend heavily on fees from prime funds for revenues an era of “famine” has begun –
+assets under management by prime funds have collapsed back to levels last seen in 1993.
+Second, the inflow of $800 billion of client funds into institutional-class government-only
+money funds (henceforth government funds). The money that flowed in appears to have
+settled in its new habitat. For the PMs that run government funds and for asset managers
+that collect revenues from fees from government funds an era of “feast” has begun –
+assets under management by government funds are now at an all-time record $2.2 trillion.
+Going one level deeper, we can track these money flows on a sector by sector and
+instrument by instrument basis since April, 2016, when the outflows started (see Figure 2).
+Unsecured funding markets got hit the most, where prime funds are lending $600 billion
+less than a year ago. Foreign banks suffered $450 billion of this loss and U.S. banks only
+$40 billion (see Figure 3).1 Primary dealers lost $100 billion in secured (repo) funding.2
+The Federal Home Loan Bank system (FHLBs) and U.S. Treasury lost $35 billion each.
+Funding to municipalities and supranationals accounts for the rest of the $800 billion loss.
+On the flipside, the $800 billion that was absorbed by government funds was re-deployed
+more or less equally between the FHLB system, the repo market and the U.S. Treasury.
+The FHLB system absorbed about $250 billion of inflows. After accounting for the roughly
+$35 billion of agency discount notes sold by prime funds, money fund reform netted a
+significant, just over $200 billion in additional funding for the FHLB system. The FHLBs
+passed most of this new funding on to U.S. money center banks through advances.
+The U.S. Treasury also absorbed about $250 billion of inflows. After accounting for the
+$35 billion of U.S. Treasury bills sold by prime funds, money fund reform delivered just
+
+Global Money Notes #9
+
+1
+
+In calculating the amount of on-balance sheet funding lost by banks we include time deposits, certificates of deposits (CD) and
+financial commercial paper (CP). We exclude asset-backed commercial paper (ABCP) which is an off-balance sheet form of
+funding. The rest of the funding loss ($110 billion) fell on ABCP issuers and non-financial corporate issuers of commercial paper.
+
+2
+
+Of this $100 billion, $70 billion was backed by government collateral and $30 billion was backed by non-government collateral.
+
+2
+
+11 April 2017
+
+Figure 1: Feast and Famine
+$ billion
+1,000
+
+1,000
+
+800
+
+800
+
+600
+
+600
+
+400
+
+400
+
+200
+
+200
+
+0
+
+0
+
+-200
+
+-200
+
+-400
+
+-400
+
+-600
+
+-600
+
+-800
+
+-800
+
+-1,000
+
+-1,000
+14
+
+15
+
+16
+
+Outflows from prime funds
+
+17
+
+Inflows into government funds
+
+Source: ICI, Credit Suisse
+
+Figure 2: Swaps of IOUs
+$ billion
+1,000
+
+800
+255
+600
+89
+400
+
+268
+
+200
+245
+0
+
+-200
+-591
+-400
+
+-600
+
+-35
+-99
+-36
+
+-800
+
+-1,000
+Inflows into government-only money funds since April, 2016
+
+Outflows from prime money funds since April, 2016
+Feb-17
+
+[1] Unsecured (all)
+
+[2] FHLBs
+
+[3] Secured (private)
+
+[4] Secured (FRBNY)
+
+[5] U.S. Treasury
+
+Other
+
+Source: ICI, Credit Suisse
+
+Global Money Notes #9
+
+3
+
+11 April 2017
+
+Figure 3: Prime Fund Assets
+$ billion
+1,400
+
+1,200
+
+1,200
+
+1,000
+
+800
+
+668
+600
+
+400
+
+397
+
+214
+
+200
+146
+
+46
+0
+Jan-16
+
+Feb-16
+
+Total
+
+Mar-16
+
+Apr-16
+
+May-16
+
+Unsecured (all)
+
+Jun-16
+
+Jul-16
+
+Aug-16
+
+Sep-16
+
+Oct-16
+
+Unsecured (foreign banks, o/n TD, CD, financial CP)
+
+Nov-16
+
+Dec-16
+
+Secured
+
+Jan-17
+
+Feb-17
+
+Sovereign
+
+Source: ICI, Credit Suisse
+
+over $200 billion in net new demand for bills from government funds. Roughly one fifth of
+this demand was accommodated by the corporate treasury department of Microsoft Corp.,
+which sold $40 billion of bills and replaced them with longer-dated notes (see Figure 4).3
+The repo market absorbed the remaining $350 billion of inflows. FRBNY’s o/n RRP facility
+absorbed about $100 billion, all of which represents net new demand as prime funds were
+never big investors in o/n RRPs. Primary dealers absorbed most of the remaining $250
+billion of inflows.4 After accounting for the $70 billion of government repos that prime funds
+traded out of as outflows mounted, money fund reform delivered just under $200 billion in
+net new demand for government repos and hence financing for rates trading in general.
+Putting the pieces together, of the $500 billion in unsecured bank funding that was lost due
+to money fund reform, $400 billion was intermediated back into the global funding market,
+but through a different set of intermediaries than before – U.S. money center banks (via
+the FHLBs) and primary dealers, as opposed to the New York branches of foreign banks.
+The individual “circumstances” of the new set of balance sheets that dominate the
+marginal price setting process in money markets are important to appreciate, because in a
+post-Basel III financial order, capital requirements, reporting rules, funding options and
+money market lending preferences baked into various balance sheets have an outsized
+impact on how money markets trade. And these “circumstances” are different for large
+U.S. banks and primary dealers than they are for the New York branches of foreign banks.
+
+3 Microsoft is different from all other cash-rich corporations in that its cash balances are invested near-exclusively in U.S. Treasury
+
+securities as opposed to corporate bonds.
+4 “Most” and not “all” because some of the increase in government funds’ repo lending went to foreign bank branches, not primary
+
+dealers. Furthermore, a small share went to the buyside directly (notably Prudential, Annaly and Harvard’s endowment).
+Global Money Notes #9
+
+4
+
+11 April 2017
+
+Figure 4: Windows and Treasuries
+Microsoft’s portfolio of U.S. Treasury securities, $ billion
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+02
+
+03
+
+04
+
+05
+
+06
+
+07
+
+08
+
+Due in one year or less
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+Due after one year through five years
+
+Source: Microsoft Corporation, Credit Suisse
+
+In the following sections, we explore each of these differences in detail. Figure 5 (overleaf)
+is the centerpiece of our analysis and anchors our discussion for the remainder of this
+issue of Global Money Notes. It is a detailed map of the chains of money market trades
+that prime funds used to fund, and the chains of trades that replaced them post-reform.
+Of all funding markets, these changes affected prices in the FX swap market the most. We
+will pay special attention to this market and how its dynamics are affected by
+developments in other funding markets and the quantity of reserves in the financial system.
+
+Part 2 – Prime Funds to Foreign Banks
+Chain 1 shows how cash taken in o/n by prime funds is lent out either o/n or term.
+Overnight funds are typically lent to foreign bank branches through the Eurodollar market
+(via o/n time deposits), which foreign banks park at the Fed to earn interest on reserves
+(IOER; see Chain 1A). U.S. banks typically do not participate in these arbitrage trades
+because they are subject to daily average balance sheet reporting and so need at least a
+60 bps spread to consider expanding their balance sheet on any given day. 5 Currently,
+IOER arbitrage trades net about 9 bps. In contrast, foreign banks report balance sheet
+only on month-ends, and so have a lower threshold to expand balance sheet intra-quarter.
+Term funds up to three-months are typically lent to foreign banks as well (mostly via CDs),
+which foreign banks use to arbitrage rates in the FX swap market (see Chain 1B). The
+ultimate borrower of dollars in such transactions is typically a foreign real money account
+from Japan or Europe without access to other funding markets. The very moment the real
+
+5 We arrive at 60 bps by using the following parameters: a 10% return on equity target and a 6% leverage ratio.
+
+Global Money Notes #9
+
+5
+
+11 April 2017
+
+Figure 5: Mapping the Global Dollar Funding Market
+
+[1]
+
+[2]
+
+arbitrage
+
+arbitrage
+
+CD3M
+
+TDo/n
+
+Discos o/n
+
+Discos 3M
+
+Discos o/n
+
+…
+
+GCFo/n
+
+TRPo/n
+
+$1 NAV o/n
+
+$1 NAV o/n
+
+Cash Pools
+
+$1 NAV o/n
+
+Cash Pools
+
+$1 NAV o/n
+
+Cash Pools
+
+$1 NAV o/n
+
+Cash Pools
+
+$1 NAV o/n
+
+"Alpha" Cash Pools
+
+FXS3M
+
+BRP3M
+
+T-Bills
+Japanese investors
+
+FXS3M
+
+BRP3M
+
+reserves drain
+
+RRPo/n
+
+Government Funds
+
+TRPo/n
+
+Government Funds
+
+…
+
+leveraged investors
+
+non-primary dealers
+
+FXS3M
+
+BRP3M
+
+$1 NAV o/n
+
+CD6M
+
+Discos 3M
+
+HQLA
+
+FFo/n
+
+Government Funds
+
+advances 3M
+
+Discos 6M
+
+FHLBs
+
+…
+
+FFo/n
+
+Discos 6M
+
+GCFo/n
+Japanese investors
+
+$1 NAV o/n
+
+Prime Funds
+TDo/n
+
+Banks
+
+CD3M
+
+FRBNY
+
+FXS3M
+
+Reserves o/n
+
+1A
+
+Reserves o/n
+
+1B
+
+Reserves o/n
+
+arbitrage
+
+CD6M
+
+Reserves o/n
+
+advances 3M
+
+advances 6M
+
+Deposit o/n
+
+FXS3M
+
+BRP3M
+
+HQLA
+
+arbitrage
+
+Reserves o/n
+
+1C
+
+FXS3M
+
+Reserves o/n
+
+Banks
+
+Reserves o/n
+
+FRBNY
+
+Reserves o/n
+
+2A
+
+advances 6M
+
+2B
+
+Reserves o/n
+
+Reserves o/n
+
+Deposit o/n
+
+Primary Dealers
+
+Reserves o/n
+
+Deposit o/n
+
+Collateral Providers
+
+3A
+Reserves o/n
+
+T-Bills
+FXS3M
+
+TDo/n
+
+Cash Pools
+
+FXS3M
+
+non-operating balances of financial investors (100% HQLA requirement)
+
+Japanese investors
+
+reserves drain
+
+Reserves o/n
+
+TGAo/n
+
+TDo/n
+
+Primary Dealers
+
+3B
+
+FRBNY
+
+TGAo/n
+
+RRPo/n
+
+Reserves o/n
+
+FRBNY
+5A
+
+Reserves o/n
+
+Reserves o/n
+
+Banks
+
+U.S. Treasury
+
+3C
+
+FRBNY
+
+2C
+
+…
+
+[3]
+
+[4]
+
+[5]
+
+5B
+
+Reserves o/n
+
+FRBNY
+
+5C
+
+6A
+
+Funding black holes; trades that drain reserves.
+
+6
+
+Global Money Notes #9
+
+[6]
+
+Funding options available to U.S. banks only.
+
+Source: Credit Suisse
+
+11 April 2017
+
+money account receives the dollars via FX swaps, those will be in a deposit in its name at
+a clearing bank (J.P. Morgan Chase Bank, NA or The Bank of New York Mellon), and the
+clearing bank will keep every penny of that deposit in reserves at the Fed (not shown). 6
+Whether the real money account spends its deposit on U.S. Treasuries, MBS or credit is
+beyond the scope of this analysis, but when the dollars are spent, reserve balances will
+continue to travel from the clearing bank of the foreign real money account to the clearing
+bank of the entity that sold it some financial asset. This other clearing bank will be FRBNY
+in case the real money account purchased U.S. Treasuries directly from the U.S. Treasury
+at auction, or J.P. Morgan or BoNY if the securities were purchased from other market
+participants. Like in the previous example, U.S. banks typically do not participate in these
+arbitrage trades due to their daily balance sheet constraints. If they do participate, it is
+typically when cross-currency bases get wide enough (60 bps) to justify expanding their
+balance sheet.7 These opportunities typically arise around quarter-ends or during periods
+when foreign banks are unable to raise dollars from prime funds cheaply and on scale.
+Term funds beyond three-months are lent to both foreign and U.S. banks, which banks
+use to fund HQLA portfolios. A large portion of these portfolios are held in reserves at the
+Fed (see Chain 1C). For reserves held at the Fed to count as HQLA, they must be funded
+on terms longer than 30 days. Anything shorter and reserves are parts of arbitrage trades.
+Money market fund reform hit the funding of arbitrage trades the most (see Figure 6). The
+New York branches of foreign banks lost access to $200 billion in o/n Eurodollar funding
+and issue that much less in o/n time deposits to fund IOER arbitrage trades. One and
+three-month funding (mostly CDs) declined by $100 billion and $150 billion, respectively.
+Finally, the availability of funding at longer tenors (typically six-months) declined by about
+$60 billion. A breakdown between how much of these losses hit foreign versus U.S. banks
+is not available, but anecdotally the loss of o/n to three-month funding hit mostly foreign
+banks, and the loss of longer-dated funding hit mostly U.S. banks ($40 out of $60 billion).
+Getting a clear sense of the amount of funding lost at each point along the benchmark
+unsecured funding curve (the U.S. dollar Libor curve) is important because it gives us a
+sense of the current depth of funding markets – that is the ability of changes in volumes to
+affect rates. Consider that the big moves we have seen in the three and six-month Libor
+fixings during the run up to the money fund reform deadline were on the back of losing a
+“mere” $150 and $60 billion of funding at each funding point, respectively. These are
+important pieces of information to keep in mind for analyses that will try to estimate the
+potential impact of U.S. corporate tax reform and the associated repatriation of corporate
+cash balances on U.S. dollar Libor fixings and global dollar funding markets in general.
+We next look at the nationality of the New York bank branches that bore the brunt of the
+loss of unsecured funding between April, 2016 and February, 2017 (see Figure 7).
+Scandinavian branches got hit the most, losing over $100 billion in funding, most of which
+they used to fund o/n IOER arbitrage trades, and the rest to lend in the FX swap market.
+Appendix A1 shows the individual balance sheets of Swedish and Norwegian arbitrageurs
+where the declines are clearly visible. But the balance sheet data come with two caveats.
+First, they are quarter-end snapshots as of June 30, 2016 and December 31, 2016,
+whereas the changes in funding volumes quoted above are on an intra-quarter basis.8
+Because foreign bank balance sheets are significantly greater during the quarter than on
+quarter-ends, the decline in the size of balance sheets as reported in Appendix A1
+(based on call reports) will always be smaller than the decline in intra-quarter volumes
+
+Global Money Notes #9
+
+6
+
+This is because the deposit in question is the non-operating deposit of a financial customer which has a 100% HQLA
+requirement under the liquidity coverage ratio (LCR) rules of Basel III.
+
+7
+
+In plain English, this means that U.S. banks tend to function as a lenders of “next-to-last-resort” to foreign banks and investors in
+the FX swap market. Colloquially, the last thing the system does before tapping FRBNY’s FX swap lines is tap J.P. Morgan…
+
+8
+
+The changes in volumes reported on previous pages were from April, 2016 to February, 2017, both intra-quarter months.
+
+7
+
+11 April 2017
+
+Figure 6: Less Funding for Arbitrage
+Loss of unsecured funding by tenor, $ billion
+350
+
+300
+
+297
+
+250
+
+211
+200
+
+150
+
+148
+
+100
+
+99
+88
+63
+56
+
+50
+
+30
+
+0
+Jan-16
+
+Feb-16
+
+Mar-16
+
+Apr-16
+
+o/n (funding IOER arbitrage)
+
+May-16
+
+Jun-16
+
+Jul-16
+
+Aug-16
+
+o/n - 1M (funding term arbitrage)
+
+Sep-16
+
+Oct-16
+
+Nov-16
+
+1M - 3M (funding term arbitrage/HQLA)
+
+Dec-16
+
+Jan-17
+
+Feb-17
+
+3M+ (funding HQLA)
+
+Source: ICI, Credit Suisse
+
+Figure 7: Loss of Unsecured Funding by Country
+Loss of unsecured funding by country, $ billion
+800
+
+600
+
+400
+
+200
+
+0
+-110
+-99
+-200
+-96
+-71
+-400
+
+-600
+Apr-16
+
+Feb-17
+
+Change
+
+Unsecured funding provided by prime funds to foreign banks, $ bn
+Scandinavia
+
+France
+
+Japan
+
+Canada
+
+U.K.
+
+Netherlands
+
+Germany
+
+Switzerland
+
+Source: ICI, Credit Suisse
+
+Global Money Notes #9
+
+8
+
+11 April 2017
+
+(based on money fund filings). In recent months, the intra-quarter versus quarter-end
+discrepancy has been at least $150 billion mostly due to o/n arbitrage trades (see here).
+Second, quarter-end balance sheet snapshots are not a reliable indicator of foreign banks’
+intra-quarter activity in the FX swap market. This is because quarter-end FX swap trades
+are HQLA swaps (reserves at the Fed for reserves at other central banks or foreign bills)
+that typically do not expand banks’ balance sheets. But intra-quarter arbitrage trades do.
+These two caveats will apply to all other balance sheets discussed below.
+French branches lost $100 billion in unsecured funding. Most of this was used to fund
+lending in the FX swap market (affecting the EUR and JPY cross-currency bases), and the
+rest to fund HQLA portfolios associated with French banks’ broker-dealer operations in
+New York. Appendix A2 shows the individual balance sheets of French bank branches.
+Japanese branches lost about $100 billion in funding as well, but unlike other banks, they
+used most of these funds to lend in the real economy. Japanese branches managed to
+replace the funding they lost as they didn’t shrink their balance sheets (see Appendix A3).
+Canadian branches lost about $70 billion in funding. Most of this was used to fund lending
+in the FX swap market (affecting the CAD cross-currency basis), and the rest to fund the
+HQLA portfolios of Canadian banks’ dealer operations in New York (see Appendix A4).
+The remaining roughly $100 billion in funding was lost by U.K., Dutch, German, Swiss and
+Singaporean branches. U.K. branches lost $40 billion and the rest about $15 billion each,
+most of which went to the FX swap market (for selected balance sheets see Appendix A5).
+Of the $400 billion that is left with prime funds today, about one half is allocated to assets
+with less than seven days to maturity, and forms prime funds’ liquidity portfolios. The other
+half is in term assets, and forms prime funds’ term portfolios. Meaningful reallocations from
+the liquidity to the term portfolios are unlikely as the regulatory minimum for liquidity is
+30% of total assets, and prime funds converged around their current liquidity allocation of
+just under 50% as the industry benchmark (see Figure 8). That is, unless prime funds
+attract inflows, foreign bank branches have lost $250 billion in term unsecured funding,
+some of which has translated into a loss of their share of the FX swap market.9 “Some”
+and not “all” as some of the unsecured funding that foreign entities lost through branches
+were made up by tapping the tri-party repo market through their primary dealer arms
+(we will discuss the details of this funding switch and the net effects in Part 4 of our paper).
+The fact that prime funds are unlikely to improve the depth of unsecured funding markets
+(by lending more into the one and three-month points by reducing their liquidity portfolios)
+doesn’t bode well for the credibility of the three-month U.S. dollar Libor fixing. Beyond the
+$150 billion decline in the market for three-month unsecured funds between foreign banks
+and money funds as described above, DTCC data suggests that there is barely any
+issuance at the three-month point in the CD and CP markets. In line with these trends, the
+fourth quarter volume report on Libor from ICE shows a 7.5 point decline in transaction
+versus model-based submissions from a year ago – today, only 30% of submissions for
+three-month U.S. dollar Libor are based on trades; the rest are model-driven (see Figure 9).
+Three-month U.S. dollar Libor is slowly becoming an inactive funding point.
+We’ll return to this point in Part Six of our paper and discuss its implications for three-month
+Libor-OIS and cross-currency bases in light of developments in other funding markets.
+
+9 We derive $250 billion as the sum of $100 and $150 in one and three-month funding lost due to money fund reform (see above).
+
+We don’t count the $60 billion in six-month funding lost as a loss for foreign banks as those funds were lent mostly to U.S. banks.
+Global Money Notes #9
+
+9
+
+11 April 2017
+
+Figure 8: Don’t Expect a Miracle from WAM Extensions
+$ billion (left-hand side) and percent (right-hand side)
+800
+
+2.40
+2.30
+2.20
+
+700
+
+2.10
+2.00
+1.90
+
+600
+
+1.80
+1.70
+1.60
+
+500
+
+1.50
+1.40
+1.30
+
+400
+
+1.20
+1.10
+1.00
+
+300
+
+0.90
+0.80
+0.70
+
+200
+
+0.60
+0.50
+0.40
+
+100
+
+0.30
+0.20
+0.10
+
+0
+
+0.00
+Jan-16
+
+Feb-16
+
+Mar-16
+
+Apr-16
+
+May-16
+
+Jun-16
+
+Jul-16
+
+Aug-16
+
+Sep-16
+
+Oct-16
+
+Nov-16
+
+Dec-16
+
+Liqudity buffer (assets < 7 days, $ bn, LHS)
+
+Duration (all other assets, $ bn, LHS)
+
+% liquidity (minimum, RHS)
+
+% liquidity (actual, total, RHS)
+
+Jan-17
+
+Feb-17
+
+Source: ICI, Credit Suisse
+
+Figure 9: Science Fiction
+Submissions by U.S. dollar Libor panel banks, percent
+100%
+
+80%
+
+60%
+
+40%
+69%
+
+20%
+
+37%
+30%
+25%
+18%
+
+0%
+
+o/n
+
+1M
+
+3M
+Transaction based
+
+6M
+
+12M
+
+Model based
+
+Source: ICE, Credit Suisse
+
+Global Money Notes #9
+
+10
+
+11 April 2017
+
+Part 3 – Government Funds to U.S. Banks
+Chain 2 shows how government funds lend cash either o/n or term to the FHLBs via
+agency discount notes and floating rate securities, and how the FHLBs pass these funds
+on to foreign banks via o/n fed funds trades and to U.S. money center banks via advances.
+Overnight funds are lent via the purchase of o/n discount notes which the FHLBs use to
+lend o/n in the fed funds (FF) market. Such o/n FF trades form an integral part of FHLBs’
+liquidity portfolios, similar to the way o/n reserve balances form an integral part of U.S. and
+foreign banks’ HQLA portfolios.10 The other side of these trades are a dozen or so foreign
+banks that are highly rated enough for the FHLBs to be able to lend to them on an
+unsecured basis (o/n FF trades are unsecured). Foreign banks typically deposit these
+funds at the Fed earning interest on reserves (see Chain 2A). In essence, these types of
+arbitrage trades are the same as the ones described in Chain 1A, except that the latter
+involves a longer list of counterparties. This is because prime funds’ risk tolerance is
+greater than those of the FHLBs. Access to o/n FF market is limited only to the highest
+rated banks in the global financial system and that list includes banks from Canada, the
+Netherlands, Australia, France, Finland, Germany, Norway and Sweden (see Figure 10).11
+Similar to o/n Eurodollar trades, U.S. banks are notably absent from the o/n FF market.
+Term funds are lent via the purchase of term discount notes which the FHLBs use to fund
+advances to member banks which are exclusively U.S. banks, but not foreign banks. From
+the perspective of one’s ability to raise three-month funding in order to fund three-month
+lending in the FX swap market cheaply, U.S. banks have a very clear advantage over
+foreign banks. All U.S. money center banks are member banks of the FHLB system and
+so for example J.P. Morgan Chase Bank, NA of Columbus, OH can taps FHLB Cincinnati
+to raise cheap dollars to lend them via FX swaps to pension funds in Tokyo (see Chain 2B).
+
+Figure 10: Leaning on the Rest of the World to Set the Fed Funds Rate
+Ratings of unsecured investment credit exposure by domicile of counterparty, $ million, December 31, 2016
+
+Source: Office of Finance
+
+10 In
+
+fact, these o/n fed funds trades are the only place where the FHLBs can park their cash while meeting two crucial
+requirements: (1) earning a non-zero rate of interest and (2) getting their cash back early. Although the FHLBs have reserve
+accounts at the Fed which provide near 24-hour access to cash, those accounts pay zero interest. The FHLBs also have access
+to o/n RRPs which pay interest, but give cash back only at 3:30 PM. Foreign banks have a captive audience in the FHLBs!
+
+11 Canadian banks include National Bank of Canada, Bank of Nova Scotia, Royal Bank of Canada and the Bank of Montreal. Dutch
+
+banks include Rabobank. Australian banks include National Australia Bank, Australia and New Zealand Bank, Westpac and
+Commonwealth Bank of Australia. French banks include BNP Paribas. Finnish banks include Nordea. German banks include
+DZ Bank, Bayerische Landesbank and Landesbank Baden-Württemberg. Norwegian banks include DNB Bank. Swedish banks
+include Svenska Handelsbanken, Skandinaviska Enskilda Banken (SEB) and Swedbank. Eighteen foreign banks in total.
+
+Global Money Notes #9
+
+11
+
+11 April 2017
+
+Yet another advantage of U.S. banks over foreign banks is the ability of the former to tap
+six-month advances to fund HQLA portfolios (see Chain 2C). If a U.S. bank can issue
+fewer six-month CDs due to prime funds’ diminished presence in the CD market, it did not
+necessarily lose that funding if the FHLBs are lending more via advances on the back of
+government funds’ increased purchases of agency discount notes and floaters. But if
+foreign banks can issue fewer six-month CDs, their next port of call is the “outer rim” of
+funding markets – either the FX swap market or the debt capital market (see here).
+Thus, while the FHLBs trade exclusively with foreign banks through their liquidity portfolio,
+they trade exclusively with U.S. banks through their loan portfolio (see Figure 11).
+Of the $200 billion in net new funding absorbed by the FHLBs due to money fund reform,
+about $40 billion was absorbed by the FHLBs issuing more o/n discount notes. These fund
+o/n FF loans to highly-rated foreign banks and so indirectly IOER arbitrage trades. The
+increase in o/n lending by the FHLBs is visible in the increase in traded o/n FF volumes
+from $60 billion before money fund reform to around $90 billion today (see Figure 12).
+The remaining $140 billion in net new funding was directed at funding an expansion in
+lending to U.S. banks via advances. $40 billion of this went to funding HQLA portfolios
+(offsetting the loss of term funding from prime funds) and the rest (likely) to fund U.S.
+banks lending dollars in the FX swap market, grabbing market share from foreign banks.
+
+Part 4 – Government Funds to Primary Dealers
+Chain 3 shows how government funds lend cash to primary dealers via tri-party repos.
+Nearly all the funds lent by government funds to primary dealers via repos are overnight.
+Primary dealers lend these o/n balances either o/n or term in the GCF repo market to
+other primary dealers or in the bilateral repo market to customers (see Chains 3A and 3B).
+Similar to Chains 1B and 2B above, the very moment other dealers and customers raise
+funds via repo, those funds will be deposited in their name at a clearing bank and the
+clearing bank will keep those deposits in reserves at the Fed (not shown). When the
+deposits are spent, the reserve balances will travel from one clearing bank to another.
+Primary dealers can also use the funds raised via o/n repos to lend in the FX swap market
+(see Chain 3C). Like before, how the funds lent into the FX swap market are spent by
+foreign real money accounts is beyond the scope of this analysis. The key lesson is that
+arbitraging the difference between onshore and offshore dollar funding rates can be
+funded in both unsecured and secured markets. Foreign banks fund unsecured and
+primary dealers secured. Prime funds fund the former and government funds the latter.
+We next look at the nationality of primary dealers that absorbed most of the new repo
+funding between April, 2016 and February, 2017 (see Figure 13 and Appendix A6).
+Scandinavian banks absorbed nothing as they do not run dealer operations in the U.S.,
+and their branches did not substitute unsecured funding with secured funding. They didn’t,
+as the assets they funded (reserves) cannot be pledged as collateral. This is because
+repos involve the trading of securities for cash, and as the highest form of cash in the
+global financial system, reserves cannot be traded for anything better in money markets.
+French entities absorbed $60 billion. Roughly $40 billion of this net new repo funding was
+absorbed by one entity, the primary dealer arm of BNP Paribas; the New York branches of
+French banks absorbed the rest. After accounting for the loss of about $100 billion in
+unsecured funding, reform meant the net loss of $40 billion of funding for French entities.
+Japanese entities absorbed another $60 billion. New York branches of Japanese banks
+accounted for about a half of this increase, which was a direct response to the loss of
+unsecured funding (see Appendix A3). That Japanese banks could tap the repo market on
+
+Global Money Notes #9
+
+12
+
+11 April 2017
+
+Figure 11: The FHLBs Are a Key Cog of Global Dollar Funding Markets
+$ billion
+1,200
+
+Lending to foreign banks
+↑
+
+1,000
+
+Borrowing from government funds
+↑
+
+112
+
+410
+800
+
+600
+
+Lending to U.S. banks ←
+
+705
+
+400
+
+200
+
+0
+Assets
+
+Liabilities
+Q4-16
+
+Other assets
+
+Advances
+
+Bond portfolio
+
+Cash portfolio
+
+Equity
+
+Other liabilities
+
+Long-term funding
+
+Short-term funding
+
+Source: Office of Finance, Credit Suisse
+
+Figure 12: Money Fund Reform Boosts o/n Fed Funds Volumes
+$ billion
+300
+
+300
+
+250
+
+250
+
+200
+
+200
+
+150
+
+150
+
+100
+
+100
+
+50
+
+50
+
+0
+
+0
+
+15
+
+16
+o/n FF volume (ex month ends)
+
+Pre-reform trend (o/n FF funds volumes)
+
+17
+o/n ED volume (ex month ends)
+
+Source: FRBNY, Credit Suisse
+
+Global Money Notes #9
+
+13
+
+11 April 2017
+
+Figure 13: Gains of Secured Funding by Country
+$ billion
+800
+
+700
+
+600
+
+500
+
+400
+
+89
+
+300
+
+72
+200
+22
+43
+100
+
+57
+62
+
+0
+Apr-16
+
+Feb-17
+
+Change
+
+Funding provided by government-only money funds to repo dealers, $ bn
+-100
+France
+
+Japan
+
+Canada
+
+U.K.
+
+Netherlands
+
+Germany
+
+Switzerland
+
+U.S. (private)
+
+U.S. (o/n RRP w/ FRBNY)
+
+Source: ICI, Credit Suisse
+
+this scale without breaching their LCR was because one of the banks (Norinchukin) is not
+subject to Basel III and another (Sumitomo) had an LCR well above the minimum. 12
+Japanese banks’ primary dealer operations absorbed the rest. After accounting for the
+loss of $100 billion in unsecured funding, reform meant the net loss of about $40 billion in
+funding for Japanese entities onshore in the U.S. But given that Japanese banks did not
+shrink their dollar books globally (see the speech by Deputy Governor Nakaso), they must
+have replaced this loss with funding raised outside New York (see this piece by the BIS).
+Canadian entities absorbed about $40 billion. The New York primary dealer arm of the
+Royal Bank of Canada absorbed about $10 billion, and the Chicago branch of BMO about
+$20 billion. Bank of Nova Scotia’s New York agency appears not to have pursued recent
+inflows to the repo market. After accounting for the $70 billion in unsecured funding lost,
+reform meant the net loss of $30 billion in funding for Canadian entities in the U.S.
+U.K. primary dealers absorbed $20 billion. The New York primary dealer arms of Barclays
+and HSBC absorbed the bulk of this and the New York primary dealer arm of RBS the rest.
+After accounting for the $40 billion in unsecured funding lost, money fund reform meant
+the net loss of about $20 billion in funding raised by U.K. entities onshore in the U.S.
+Swiss primary dealers absorbed nothing, they lost market share over the period.
+U.S. primary dealers absorbed about $70 billion in new repo funding. The bulk was
+absorbed by J.P. Morgan Securities, Bank of America Merrill Lynch and Morgan Stanley,
+and $10 billion was absorbed by Goldman, Sachs & Co. and Citigroup Global Markets.
+
+12 In other words, they had room for their LCR to fall as they pledged U.S. Treasuries from their HQLA portfolio in the repo market.
+
+Global Money Notes #9
+
+14
+
+11 April 2017
+
+After accounting for the loss of about $40 billion in unsecured funding and the gain of
+about $140 billion in net new funding via advances from the FHLBs (see above), money
+fund reform netted $170 billion in net new funding for U.S. banks and primary dealers. We
+mapped $130 billion of this gain to the loss of French, Japanese, Canadian and U.K.
+banks above, and the remaining $40 billion can be traced to German and Dutch banks.
+Figure 14 provides a big picture summary of the flows we’ve discussed so far. Going from
+left to right, foreign bank branches have lost around $400 of unsecured funding due to
+money fund reform, on net. Some of their losses due to outflows from prime money funds
+were moderated by increased lending of o/n fed funds (FF) by the FHLB system.
+Money fund reform netted $200 billion in new repo funding for foreign primary dealers.
+This increase reduced by half the net loss of unsecured funding by foreign bank branches.
+Money fund reform netted $100 billion in new funding for U.S. banks and $70 billion in new
+repo funding for U.S. primary dealers (middle columns), for a total gain of $170 billion. This
+is the funding grab by U.S. intermediaries from foreign intermediaries we predicted here.
+In the grand scheme of things, money did not disappear from the system, it’s just flowing
+through a different set of balance sheets. Money fund reform has changed where the
+marginal FX swap trades are being funded and where the marginal prices are being set…
+Money fund reform-related flows all ran their course by early November.
+All the interesting price action (the narrowing of Libor-OIS spreads and the collapse of
+cross-currency bases) that happened in funding markets since then had little to do with
+reform as a catalyst. Money fund reform set the stage. The debt ceiling was the show…
+
+Figure 14: The Big Picture
+$ billion
+500
+
+450
+
+20
+420
+
+400
+150
+
+350
+
+300
+
+250
+
+90
+
+200
+
+200
+170
+
+150
+
+100
+
+200
+
+200
+140
+
+50
+40
+
+40
+
+Funding Gained
+
+Funding Lost
+
+0
+Funding Lost
+
+Foreign banks
+ED (o/n, prime funds)
+
+Unsecured (1M)
+
+Funding Gained
+
+Funding Lost
+
+U.S. banks/dealers
+Unsecured (3M)
+
+Unsecured (3M+)
+
+Funding Gained
+
+Foreign Dealers
+FF (o/n)
+
+Advances (term)
+
+RP (o/n)
+
+Net (gain/loss)
+
+Source: ICI, FRBNY, Credit Suisse
+
+Global Money Notes #9
+
+15
+
+11 April 2017
+
+Part 5 – Funding Black Holes
+Every funding chain discussed above had one unifying purpose: to arbitrage rates across
+various segments of the money market – secured and unsecured, onshore and offshore.
+The protagonists were money dealers – foreign banks’ New York branches, the FHLBs,
+U.S. banks and primary dealers (both U.S. and foreign). Their market making activities
+give rise to the flow of reserves across hundreds of different reserve accounts on the
+balance sheet of FRBNY, and across thousands of customer deposits at clearing banks.
+Drain some reserves and funding rates will respond…
+Chain 4 shows a simple transaction that drains reserves from the banking system and
+hence money dealers. It shows governments fund putting cash in the Fed’s RRP facility.
+Government funds typically do this when they have nowhere else to put their money –
+government funds typically work the markets hard to get as many U.S. Treasury bills and
+discos as they can, and have a very strong aversion to using the o/n RRP facility on days
+other than quarter-ends. This is visible from the fact that when faced with the choice of
+lending to the Fed (via the o/n RRP facility) or to primary dealers (via o/n tri-party repos) at
+the same rate, they will choose dealers over the Fed as they’ve done since November.13
+Just like light from a black hole, funds placed with the Fed via o/n RRPs never escape.
+They don’t because the Fed is not a money dealer in normal times, only in crisis times.
+Unlike banks and dealers, which trade money on both sides of their balance sheet, the
+Fed just takes money in, but it does not lend it out on the other side of its balance sheet.
+If reserves are drained, dollars are “off the grid” and funding conditions tighten…
+Of the $800 billion that flowed into government funds, only $100 billion went into the o/n
+RRP facility. As such, the associated tightening in funding conditions has been marginal.
+But o/n RRPs are not the only way to drain reserves from the system. For example,
+reserves are also drained when foreign official and supranational accounts place cash with
+FRBNY via the foreign RRP facility, or when the U.S. Treasury increases its cash
+balances at its Treasury General Account (TGA) at FRBNY. Balances in the foreign RRP
+facility have been stable at around $250 billion since the beginning of 2016, but TGA
+balances have seen a $400 billion swing recently, with a big impact on funding conditions.
+Balances in the TGA are an asset of the U.S. Treasury and every asset needs funding.
+Given that the TGA earns zero interest, Treasury funds them with bills to minimize
+negative carry. Since November, the Treasury reduced its cash balances by $400 billion
+and reduced bill issuance by the same amount. Both developments were related to the
+extraordinary measures taken by Treasury to avoid the debt ceiling. Importantly,
+government funds did not see a corresponding decline in their bill holdings (see Figure 15).
+If government money funds did not give up bills, who did and where did the money go?
+That is the $400 billion question hanging over the $/¥ cross-currency basis. The answer:
+…a bit to the bilateral repo market and a lot the FX swap market.
+The bilateral repo market is a market between primary dealers and large asset managers
+and hedge funds. PIMCO for example is famous for refusing to lend cash on the tri-party
+
+13 Money funds’ aversion has to do with counterparty limits, stigma and an unwillingness to upset the relationship with their primary
+
+dealer customer base. Tri-party repo is a relationship business where the ability to get funding when needed and the ability to get
+collateral when needed are key pillars of the harmony between government funds and dealers. If government funds were to
+upset the dealers (for example, by abandoning them for the Fed when spreads are nonexistent), they may not get product from
+the dealers when the tides change. In contrast, the inter-dealer GCF repo market is a blind-brokered market where relationships
+do not exist (they don’t because in a blind-brokered market you do not know who you are lending to). Because of this feature, the
+nature of trading in the GCF repo market is defined by an “extract a pound of flesh” mentality when opportunities arise. The rules
+of the game in the tri-party market are different – “relationships first”. Civil, as opposed to opportunistic. For richer, for poorer.
+Global Money Notes #9
+
+16
+
+11 April 2017
+
+Figure 15: If Money Funds Did Not Give Up Bills, Who Did?
+$ billion
+1,000
+
+1,000
+
+800
+
+800
+
+600
+
+600
+
+400
+
+400
+
+200
+
+200
+
+0
+
+0
+
+-200
+
+-200
+
+-400
+
+-400
+
+-600
+
+-600
+
+-800
+
+-800
+
+-1,000
+
+-1,000
+14
+
+15
+Outflows from prime funds
+
+16
+Inflows into government funds
+
+17
+Decline in U.S. Treasury bill supply
+
+Source: ICI, FRBNY, Credit Suisse
+
+platform. It lends exclusively on a bilateral basis. Similarly, the largest hedge funds lend
+their cash via bilateral repos as they don’t have access to tri-party repos to begin with.
+The benefits of bilateral trades over tri-party trades are their put option features: whereas
+tri-party repos return cash at 3:30 PM, bilateral repos are negotiated either with an 8:30 AM
+cash return or a put option which can be exercised at anytime during the business day.
+This put option mimics one’s ability to trade bills for cash intra-day with “ t+0 ” settlement.
+Bills and bilateral repos are viewed as very close substitutes. As a general rule of thumb,
+when the supply of Treasury bills falls, the bilateral repo market absorbs cash, and when
+the supply of Treasury bills increases, the reverse is true. Substitution between the two is
+seamless not because the maturity of bilateral repos can be tailored to mimic those of bills,
+but also because both instruments provide intra-day liquidity without major restrictions.14
+The market has a unique dynamic to it.
+Its players are among the most sophisticated traders of money markets. Those who play in
+the bilateral repo market as cash investors never “farm out” their cash management
+function to money funds. In fact, many of them manage their cash in house because they
+do not want to be constrained by the rules imposed on money funds. It is helpful to think
+about these market participants as “alpha” cash pools that aim to beat the benchmark
+returns in money markets, in contrast to “regular” cash pools content with the benchmark
+returns offered by most money funds (the concept of “alpha” cash pools versus “regular”
+cash pools is analogous to the concept of the “alpha” male versus the average Joe).
+For example, some of the excess returns to trading money markets could come from
+“alpha” cash pools hoarding U.S. Treasuries with a few months to maturity, in anticipation
+of a reduction in bill issuance due to the debt ceiling and government funds scrambling for
+14 The same cannot be said about tri-party repos or FRBNY’s o/n RRP facility, as they provide liquidity only after 3:30 PM.
+
+Global Money Notes #9
+
+17
+
+11 April 2017
+
+bills in response. Selling into government funds’ frenzied search for bills would yield
+profits, similar to the way Microsoft Corp.’s selling of U.S. Treasury bills into the flows from
+prime funds to government funds between June and November turned a profit. The only
+difference is that while Microsoft Corp. bought U.S. Treasury notes with the proceeds,
+“alpha” cash pools recycled the proceeds back into the money market via bilateral repos.
+Anecdotally, the preferred lending habitat of “alpha” cash pools is three-months and in.
+Their options are bills, quasi bills (bilateral repos) or synthetic bills (lending via FX swaps).
+Chain 5 shows what happens when “alpha” cash pools switch between these instruments.
+In the first example (see Chain 5A), “alpha” cash pools hold bills which fund TGA balances
+at the Fed. When these balances increase, reserves get drained from the financial system,
+similar to the way o/n RRPs drain reserves. Both places are “funding black holes”.
+Draining a lot of reserves through the TGA is a big deal because it takes reserves out of
+the financial system and away from the banks and primary dealers that arbitrage various
+corners of the global dollar funding market and intermediate dollars – or more precisely,
+reserves – from those who have them to those who need them. The cases to remember
+from earlier pages are Chain 1B where foreign banks were intermediating dollars raised
+from prime funds (via CDs) to real money accounts in regions with negative interest rates;
+Chain 2B where U.S. banks were intermediating dollars raised from government funds
+(via the FHLBs) to the same real money accounts; and Chain 3C where primary dealers
+were intermediating dollars from government funds (via repos) to similar types of accounts.
+In the second example (see Chain 5B), bilateral repos substitute for U.S. Treasury bills.
+The “alpha” cash pools, instead of channeling billions of dollars into the black hole via bills,
+are lending to primary dealers instead via bilateral repos and reserves find their way back
+into the global financial system through chains similar to Chain 3C (and also 2B and 1B).
+In the third example (see Chain 5C), “alpha” cash pools are lending of dollars directly in
+the FX swap market (via market maker’s matched books; for details see the Appendix to
+the pervious issue of Global Money Notes here). FX swaps substitute for repos. Instead of
+funding dealers harvesting cross-currency bases, “alphas” are harvesting the bases directly.
+Whether “alpha” cash pools are in one instrument versus another depends on their
+preferred lending habitat, risk tolerance and market views. Some are only comfortable to
+toggle between bills and repos, and some also dabble in FX swaps. When bills are in short
+supply, “alphas” toggle between repos and FX swaps according to their tastes and views.
+The size of the bilateral repo market is big.
+According to FRBNY’s FR2004 survey, the size of the entire repo market is circa $2 trillion
+(U.S. Treasury and MBS collateral only). In comparison, the size of the tri-party repo
+market between dealers and government funds (U.S. Treasury and MBS collateral also)
+is only $600 billion. Most of the difference between the two numbers accounts for the size
+of the bilateral repo market between dealers and large asset managers and hedge funds. 15
+Because public data on the size of the bilateral repo market does not exist, the best thing
+we can do is to use the FR2004 survey to infer the size and direction of change since
+November. It’s up, but not by $400 billion. And this means that most of the $400 billion that
+left the bill market went into the FX swap market via matched books like in Chain 5C.
+Figure 16 (overleaf) helps visualize the increase in the volume of funding raised via FX
+swaps as bill supply shrank by $400 billion since November. The lesson here is that data
+on money funds’ portfolio holdings only helps to track funding flows in the tri-party repo
+market, but not the bilateral repo market or the FX swap market (a currency repo market).
+And as it happens, the bilateral flows are more important to understand recent price action
+in money markets than tri-party flows. Adjust your radar to capture more of the landscape.
+
+15 “Most” and not “all” as there are other cash lenders in the tri-party repo market other than money funds (seclenders, for example)
+
+Global Money Notes #9
+
+18
+
+
