@@ -1,0 +1,15 @@
+# Obsidian configuration and workspace files
+.obsidian/
+!/.obsidian/plugins/
+!/.obsidian/themes/
+
+# Agent client sessions
+.obsidian/plugins/agent-client/sessions/
+
+# Workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Vault hidden files
+.trash/
+.DS_Store
