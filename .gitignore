@@ -1,15 +1,24 @@
-# Obsidian configuration and workspace files
+# Obsidian configuration (device-specific, don't sync)
 .obsidian/
-!/.obsidian/plugins/
-!/.obsidian/themes/
+# Keep shared plugins/themes if you want to sync them
+# !/.obsidian/plugins/
+# !/.obsidian/themes/
 
-# Agent client sessions
+# Agent client sessions (device-specific)
 .obsidian/plugins/agent-client/sessions/
-
-# Workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+# Claude Code configuration (device-specific, don't sync)
+.claude/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
 # Vault hidden files
 .trash/
-.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
