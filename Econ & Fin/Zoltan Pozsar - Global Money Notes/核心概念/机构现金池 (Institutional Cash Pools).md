@@ -46,11 +46,27 @@
 
 ---
 
+## 与 Safe Asset Glut 的关系
+
+机构现金池的增长是 **Safe Asset Glut（安全资产过剩）** 的核心驱动因素：
+- 需求端：现金池持续扩大
+- 供给端：安全资产（国债、准备金）增长跟不上
+- 结果：收益率压缩、负利率蔓延、追逐收益
+
+## 与 Bretton Woods III 的关系
+
+在 Bretton Woods III 框架下，机构现金池可能：
+- 从持有美元内部货币（国债、回购）转向
+- 持有外部货币（黄金、大宗商品相关资产）
+- 推动货币体系从信用锚向实物锚转变
+
 ## 相关链接
 
 - [[货币交易 (Money Dealing)]]
-- [[公共carry (Public carry)]]
-- [[私人carry (Private carry)]]
+- [[公共carry vs 私人carry (Public carry vs Private carry)]]
+- [[Safe Asset Glut (安全资产过剩)]]
+- [[Bretton Woods III]]
+- [[影子银行体系]]
 - [[Global Money Notes #1 - The Money Market Under Government Control]]
 
 ---

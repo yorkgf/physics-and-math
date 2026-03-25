@@ -88,7 +88,71 @@ $$|\mathbf{S}|^2 = \frac{1}{\mu_0^2}|\mathbf{E}\times\mathbf{B}|^2 = \frac{1}{\m
 
 ---
 
+## 引理汇总
+
+### 引理一：共线判定
+
+$$\mathbf{A} \times \mathbf{B} = \mathbf{0} \iff \mathbf{A} \parallel \mathbf{B}$$
+
+**证明**：取恒等式开方：
+
+$$|\mathbf{A} \times \mathbf{B}| = |\mathbf{A}||\mathbf{B}|\sin\theta = 0 \iff \sin\theta = 0 \iff \theta = 0 \text{ 或 } \pi$$
+
+---
+
+### 引理二：$\sin\theta$ 和 $\cos\theta$ 的显式公式
+
+$$\sin\theta = \frac{|\mathbf{A} \times \mathbf{B}|}{|\mathbf{A}||\mathbf{B}|}, \qquad \cos\theta = \frac{|\mathbf{A} \cdot \mathbf{B}|}{|\mathbf{A}||\mathbf{B}|}$$
+
+---
+
+### 引理三：三维格拉斯曼恒等式（Gram 行列式）
+
+$$\boxed{[\mathbf{A} \cdot (\mathbf{B} \times \mathbf{C})]^2 = \det\begin{pmatrix} \mathbf{A}\cdot\mathbf{A} & \mathbf{A}\cdot\mathbf{B} & \mathbf{A}\cdot\mathbf{C} \\ \mathbf{B}\cdot\mathbf{A} & \mathbf{B}\cdot\mathbf{B} & \mathbf{B}\cdot\mathbf{C} \\ \mathbf{C}\cdot\mathbf{A} & \mathbf{C}\cdot\mathbf{B} & \mathbf{C}\cdot\mathbf{C} \end{pmatrix}}$$
+
+**含义**：右边的 Gram 矩阵行列式 = 平行六面体体积的平方。当体积为零（行列式为零）时，三矢量线性相关（共面）。
+
+---
+
+### 引理四：共面判定
+
+$$\mathbf{A} \cdot (\mathbf{B} \times \mathbf{C}) = 0 \iff \mathbf{A}, \mathbf{B}, \mathbf{C} \text{ 共面}$$
+
+---
+
+### 引理五：投影分解
+
+$\mathbf{B}$ 在 $\mathbf{A}$ 方向上的垂直分量：
+
+$$|\mathbf{B}_\perp|^2 = |\mathbf{B}|^2 - \frac{(\mathbf{A} \cdot \mathbf{B})^2}{|\mathbf{A}|^2} = \frac{|\mathbf{A} \times \mathbf{B}|^2}{|\mathbf{A}|^2}$$
+
+---
+
+## 引理链全景图
+
+```
+Lagrange 恒等式
+│
+├── 引理一 → 共线判定
+│      └─ |A×B| = 0 ⟺ A ∥ B
+│
+├── 引理二 → sinθ, cosθ 显式公式
+│      └─ sinθ = |A×B|/(|A||B|)
+│
+├── 引理三 → Gram 行列式（三个矢量）
+│      └─ [A·(B×C)]² = det(G)
+│
+├── 引理四 → 共面判定
+│      └─ A·(B×C) = 0 ⟺ 共面
+│
+└── 引理五 → 投影分解
+       └─ |B_⊥|² = |A×B|²/|A|²
+```
+
+---
+
 ## 相关概念
 
-- [[矢量分析/矢量恒等式总结]] — 所属章节：代数恒等式 §1.2，BAC-CAB 是其证明工具
+- [[矢量分析/矢量恒等式总结]] — BAC-CAB 是 Lagrange 恒等式的代数证明工具
 - [[矢量分析/矢量分析索引]] — 矢量分析全览
+- [[矢量分析/亥姆霍兹定理]] — Gram 行列式在矢量场分解中的应用

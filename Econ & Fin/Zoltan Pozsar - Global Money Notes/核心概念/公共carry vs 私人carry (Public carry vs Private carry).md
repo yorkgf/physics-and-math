@@ -64,10 +64,24 @@
 
 ---
 
+## 与 Bretton Woods III 的联系
+
+公共carry体系是 Bretton Woods II 的特征：
+- 以美国国债为锚的内部货币体系
+- 美联储作为边际货币创造者
+
+向 Bretton Woods III 的转变：
+- 对美元内部货币的信任下降
+- 外部货币（黄金、大宗商品）重新受到重视
+- 可能从公共carry向商品carry转变
+
 ## 相关链接
 
 - [[货币交易 (Money Dealing)]]
 - [[机构现金池 (Institutional Cash Pools)]]
+- [[影子银行体系]]
+- [[Bretton Woods III]]
+- [[战争金融 (War Finance)]]
 - [[Global Money Notes #1 - The Money Market Under Government Control]]
 
 ---
