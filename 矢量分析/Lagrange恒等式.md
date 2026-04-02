@@ -38,13 +38,52 @@ $$\underbrace{|\mathbf{A}|^2|\mathbf{B}|^2\sin^2\theta}_{\text{垂直分量}^2} 
 
 ## 证明
 
-直接展开，利用 BAC-CAB 规则（见 [[矢量分析/矢量恒等式总结]]）：
+### 向量四重积的一般证明
 
-$$|\mathbf{A}\times\mathbf{B}|^2 = (\mathbf{A}\times\mathbf{B})\cdot(\mathbf{A}\times\mathbf{B})$$
+先证一般形式（对应习题 52）：
+$$\boxed{(\mathbf{a}\times\mathbf{b})\cdot(\mathbf{c}\times\mathbf{d}) = \begin{vmatrix} \mathbf{a}\cdot\mathbf{c} & \mathbf{b}\cdot\mathbf{c} \\ \mathbf{a}\cdot\mathbf{d} & \mathbf{b}\cdot\mathbf{d} \end{vmatrix} = (\mathbf{a}\cdot\mathbf{c})(\mathbf{b}\cdot\mathbf{d})-(\mathbf{a}\cdot\mathbf{d})(\mathbf{b}\cdot\mathbf{c})}$$
 
-用向量四重积恒等式 $(\mathbf{P}\times\mathbf{Q})\cdot(\mathbf{R}\times\mathbf{S}) = (\mathbf{P}\cdot\mathbf{R})(\mathbf{Q}\cdot\mathbf{S}) - (\mathbf{P}\cdot\mathbf{S})(\mathbf{Q}\cdot\mathbf{R})$，令 $\mathbf{P}=\mathbf{R}=\mathbf{A}$，$\mathbf{Q}=\mathbf{S}=\mathbf{B}$：
+#### 证法一：Levi-Civita 指标法
 
-$$|\mathbf{A}\times\mathbf{B}|^2 = (\mathbf{A}\cdot\mathbf{A})(\mathbf{B}\cdot\mathbf{B}) - (\mathbf{A}\cdot\mathbf{B})(\mathbf{B}\cdot\mathbf{A}) = |\mathbf{A}|^2|\mathbf{B}|^2 - (\mathbf{A}\cdot\mathbf{B})^2 \qquad \square$$
+$$(\mathbf{a}\times\mathbf{b})_i=\varepsilon_{ijk}a_jb_k,\qquad (\mathbf{c}\times\mathbf{d})_i=\varepsilon_{ilm}c_ld_m$$
+
+于是
+$$\begin{aligned}
+(\mathbf{a}\times\mathbf{b})\cdot(\mathbf{c}\times\mathbf{d})
+&= \varepsilon_{ijk}\varepsilon_{ilm}\,a_jb_kc_ld_m \\
+&= (\delta_{jl}\delta_{km}-\delta_{jm}\delta_{kl})a_jb_kc_ld_m \\
+&= (\mathbf{a}\cdot\mathbf{c})(\mathbf{b}\cdot\mathbf{d})-(\mathbf{a}\cdot\mathbf{d})(\mathbf{b}\cdot\mathbf{c}).
+\end{aligned}$$
+
+#### 证法二：BAC–CAB 规则
+
+**第一步：把左边改写成标量三重积的形式。**
+
+标量三重积（混合积）定义为 $(\mathbf{u}\times\mathbf{v})\cdot\mathbf{w}$，它有一个关键性质——**轮换不变性**：
+$$\boxed{(\mathbf{u}\times\mathbf{v})\cdot\mathbf{w} = \mathbf{u}\cdot(\mathbf{v}\times\mathbf{w})}$$
+
+> **为什么成立？** 用指标看最清楚：$(\mathbf{u}\times\mathbf{v})\cdot\mathbf{w}=\varepsilon_{ijk}u_jv_kw_i$，而 $\varepsilon_{ijk}=\varepsilon_{kij}$，所以可以把 $w_i$ 放最前面：$w_i\varepsilon_{ijk}v_jw_k=\mathbf{u}\cdot(\mathbf{v}\times\mathbf{w})$。
+
+现在看原式 $(\mathbf{a}\times\mathbf{b})\cdot(\mathbf{c}\times\mathbf{d})$。把 $\mathbf{c}\times\mathbf{d}$ **整体当作第三个向量** $\mathbf{w}$，即令 $\mathbf{w}=\mathbf{c}\times\mathbf{d}$，则原式正是 $(\mathbf{a}\times\mathbf{b})\cdot\mathbf{w}$。
+
+利用轮换不变性，把叉号"搬进去"：
+$$\boxed{(\mathbf{a}\times\mathbf{b})\cdot(\mathbf{c}\times\mathbf{d})=\mathbf{a}\cdot\bigl[\mathbf{b}\times(\mathbf{c}\times\mathbf{d})\bigr]}$$
+
+**第二步：对中括号使用 BAC–CAB 规则。**
+
+[[矢量分析/BAC-CAB规则证明|BAC–CAB 规则]] 给出：
+$$\mathbf{b}\times(\mathbf{c}\times\mathbf{d})=(\mathbf{b}\cdot\mathbf{d})\mathbf{c}-(\mathbf{b}\cdot\mathbf{c})\mathbf{d}.$$
+
+代回即得
+$$(\mathbf{a}\cdot\mathbf{c})(\mathbf{b}\cdot\mathbf{d})-(\mathbf{a}\cdot\mathbf{d})(\mathbf{b}\cdot\mathbf{c}).\qquad\square$$
+
+---
+
+### Lagrange 恒等式的特例
+
+在四重积公式中令 $\mathbf{a}=\mathbf{c}=\mathbf{A}$，$\mathbf{b}=\mathbf{d}=\mathbf{B}$：
+
+$$|\mathbf{A}\times\mathbf{B}|^2 = (\mathbf{A}\cdot\mathbf{A})(\mathbf{B}\cdot\mathbf{B})-(\mathbf{A}\cdot\mathbf{B})^2 = |\mathbf{A}|^2|\mathbf{B}|^2-(\mathbf{A}\cdot\mathbf{B})^2.\qquad\square$$
 
 ---
 
