@@ -20,6 +20,8 @@ created: 2026-04-03
 
 # Georgetown Summer High School Online — 乔治城大学暑期高中生项目（线上）
 
+![[Georgetown_logo.png|150]]
+
 ## 概述
 
 乔治城大学提供面向高中生的暑期项目，包含线上和校园两种模式。其中College Prep和Summer College项目可获得大学学分，全年提供在线课程。另有专门的"Resources for International Students"页面。

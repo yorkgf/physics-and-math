@@ -46,3 +46,13 @@ $$= \frac{1}{12}mL^2 + \frac{1}{36}mL^2 = \frac{3}{36}mL^2 + \frac{1}{36}mL^2 = 
 - [[Torque]]
 - [[Angular Momentum]]
 - [[Rotational Kinetic Energy]]
+
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../../Unit 5 Torque and Rotational Dynamics Index]] — 本单元索引
+- [[../../Examples/Index]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../../经典力学/广义动量|广义动量]] — 拉格朗日力学中的动量概念
+- [[../../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识总览

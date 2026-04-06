@@ -28,3 +28,10 @@ Physical Pendulum: τ = -mgd sinθ → Differential equation → Period T = 2π�
 - [[Examples/Example 18 - Torsional Oscillation of Meter Stick]] - Torsional pendulum and moment of inertia scaling
 
 > Note: Basic oscillation concepts (simple pendulum period, SHM definition, etc.) are covered in AP Physics 1 and omitted here.
+
+---
+
+## 导航链接
+- [[../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[Examples/Index|例题索引]] — 所有例题汇总
+- [[Unit 2 Force and Translational Dynamics Index|Unit 2]] → [[Unit 5 Torque and Rotational Dynamics Index|Unit 5]] → [[Unit 6 Energy and Momentum of Rotating Systems Index|Unit 6]]

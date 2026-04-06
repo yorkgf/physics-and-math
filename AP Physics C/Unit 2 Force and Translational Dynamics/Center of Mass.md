@@ -33,3 +33,11 @@ The center of mass is at the midpoint of the rod, as expected for a uniform rod.
 
 ## Related Concepts
 - [[Universal Gravitation]]
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../../Unit 2 Force and Translational Dynamics Index]] — 本单元索引
+- [[../../Examples/Index]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识总览

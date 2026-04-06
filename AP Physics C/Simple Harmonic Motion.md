@@ -81,6 +81,12 @@ $$a(t) = \frac{dv}{dt} = \boxed{-A\omega^2 \cos(\omega t) = -\omega^2 x(t)}$$
 
 ## Related Units
 - [[Unit 7 Oscillations Index]]
+- [[Unit 2 Force and Translational Dynamics Index]]
+- [[Unit 6 Energy and Momentum of Rotating Systems Index]]
+
+## 跨领域联系
+- [[../经典力学/经典力学索引]] — 经典力学中的振动理论
+- [[../电磁学/麦克斯韦方程组]] — 电磁振荡的数学基础
 
 ## Source
 AP Physics C - Mechanics

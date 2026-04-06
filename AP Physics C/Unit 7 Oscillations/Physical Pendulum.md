@@ -45,3 +45,11 @@ $$= 2\pi\sqrt{\frac{2 \times 1}{3 \times 9.8}} \approx 1.64 \text{ s}$$
 - [[Moment of Inertia]]
 - [[Example 18 - Torsional Oscillation of Meter Stick]] - Similar oscillation period analysis with moment of inertia
 - [[Example 18 - Torsional Oscillation of Meter Stick]] - Similar oscillation period analysis with moment of inertia
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../../Unit 7 Oscillations Index]] — 本单元索引
+- [[../../Examples/Index]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识总览

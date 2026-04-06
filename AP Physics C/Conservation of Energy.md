@@ -51,3 +51,8 @@ This can be used to calculate the energy required for orbital maneuvering.
 - [[Gravitational Potential Energy]]
 - [[Satellite Orbital Motion]]
 - [[Unit 6 Energy and Momentum of Rotating Systems Index]]
+
+## 导航链接
+- [[../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[Examples/Index]] — 所有例题汇总
+- [[Unit 2 Force and Translational Dynamics Index]] → [[Unit 5 Torque and Rotational Dynamics Index]] → [[Unit 6 Energy and Momentum of Rotating Systems Index|Unit 6]] → [[Unit 7 Oscillations Index|Unit 7]]

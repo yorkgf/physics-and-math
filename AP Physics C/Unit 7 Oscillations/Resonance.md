@@ -35,3 +35,11 @@ Half-power bandwidth: $\Delta f = \frac{f_0}{Q} = \frac{10}{50} = 0.2$ Hz
 
 ## Related Concepts
 - [[Differential Equation for SHM]]
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../../Unit 7 Oscillations Index]] — 本单元索引
+- [[../../Examples/Index]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识总览

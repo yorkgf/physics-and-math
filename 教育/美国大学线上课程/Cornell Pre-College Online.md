@@ -21,6 +21,8 @@ created: 2026-04-03
 
 # Cornell Pre-College Online — 康奈尔大学线上预科项目
 
+![[Cornell_logo.png|150]]
+
 ## 概述
 
 康奈尔大学暑期学院（School of Continuing Education）提供的线上预科项目，允许高中生修读康奈尔本科课程并获得**可转学分**。课程由康奈尔教职员工教授，夏季和冬季均有开设。

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774315784016-y4mvpwvg1",
+  "title": "解释电容器充电的能量辐射机制",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774315784016,
+  "updatedAt": 1775486868433,
+  "lastResponseAt": 1775486850718,
+  "sessionId": "0f229ee8-c0c4-4151-973e-33b92c1f5978",
+  "sdkSessionId": "0f229ee8-c0c4-4151-973e-33b92c1f5978",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

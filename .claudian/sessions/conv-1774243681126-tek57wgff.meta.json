@@ -1,0 +1,19 @@
+{
+  "id": "conv-1774243681126-tek57wgff",
+  "title": "Explain flux conservation in superconductors",
+  "titleGenerationStatus": "success",
+  "createdAt": 1774243681127,
+  "updatedAt": 1774315733611,
+  "lastResponseAt": 1774314974424,
+  "sessionId": "13e9853c-6434-4327-9238-e086c508a80a",
+  "sdkSessionId": "13e9853c-6434-4327-9238-e086c508a80a",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 36634,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 36755,
+    "percentage": 18
+  }
+}

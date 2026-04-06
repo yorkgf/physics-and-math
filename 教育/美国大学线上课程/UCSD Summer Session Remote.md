@@ -22,6 +22,8 @@ created: 2026-04-03
 
 # UCSD Summer Session Remote — UCSD暑期课程（远程）
 
+![[UCSD_logo.png|150]]
+
 ## 概述
 
 UC San Diego暑期课程面向所有学生开放（"Anyone can take classes at UC San Diego during the Summer!"），提供面授和远程两种模式，高中生、新生、转学生均可申请，可获得UCSD学分。

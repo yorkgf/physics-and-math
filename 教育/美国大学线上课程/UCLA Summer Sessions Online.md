@@ -22,6 +22,8 @@ created: 2026-04-03
 
 # UCLA Summer Sessions Online — UCLA暑期课程（线上）
 
+![[UCLA_logo.png|150]]
+
 ## 概述
 
 UCLA暑期课程提供800+门课程，包含完全在线和混合（面授/在线）两种模式，面向高中生、大学生和国际学生开放，可获取UCLA学分。

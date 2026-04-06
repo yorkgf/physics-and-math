@@ -20,6 +20,8 @@ created: 2026-04-03
 
 # NYU Pre-College Online — 纽约大学预科项目（线上）
 
+![[NYU_logo.png|150]]
+
 ## 概述
 
 NYU Pre-College允许高中生修读纽约大学本科课程并获得大学学分，课程由世界一流的NYU教师授课，提供线上和校园两种模式。涵盖艺术媒体、STEM、人文社科、商科等多个领域。

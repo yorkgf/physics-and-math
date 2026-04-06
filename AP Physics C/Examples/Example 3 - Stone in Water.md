@@ -106,3 +106,14 @@ The speed decreases from $v_2$ and asymptotically approaches $v_3$.
 
 ## Source
 AP Physics C - Mechanics (Free Response Question)
+
+---
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../Examples/Index|例题索引]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识
+- [[../../矢量分析/矢量分析索引|矢量分析索引]] — 数学工具
+- [[../../电磁学/电磁学整理索引|电磁学整理索引]] — 电磁学知识

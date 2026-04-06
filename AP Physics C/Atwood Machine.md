@@ -87,3 +87,12 @@ This requires solving differential equations or analyzing graphs of acceleration
 
 ## Source
 AP Physics C - Mechanics
+
+---
+
+## 导航链接
+- [[../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[Unit 2 Force and Translational Dynamics Index]] — 本单元索引
+- [[Examples/Index]] — 所有例题汇总
+- [[Friction Forces]] — 相关概念
+- [[Differential Equations in Mechanics]] — 相关概念

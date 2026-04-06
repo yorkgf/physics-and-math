@@ -45,3 +45,13 @@ $$\omega_2 = \frac{I_1\omega_1}{I_2} = \frac{6 \times 2}{2} = 6 \text{ rad/s}$$
 ## Related Concepts
 - [[Angular Momentum]]
 - [[Moment of Inertia]]
+
+
+## 导航链接
+- [[../../知识库导航|知识库总导航]] — 查看所有知识领域
+- [[../../Unit 5 Torque and Rotational Dynamics Index]] — 本单元索引
+- [[../../Examples/Index]] — 所有例题汇总
+
+## 跨领域联系
+- [[../../../经典力学/广义动量|广义动量]] — 拉格朗日力学中的守恒量
+- [[../../../经典力学/经典力学索引|经典力学索引]] — 经典力学知识总览

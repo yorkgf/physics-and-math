@@ -156,6 +156,11 @@ The characteristic time $\tau = \frac{m}{b}$ (for linear drag) determines how qu
 
 ## Related Units
 - [[Unit 2 Force and Translational Dynamics Index]]
+- [[Unit 7 Oscillations Index]]
+
+## 跨领域联系
+- [[../经典力学/曲线坐标系加速度推导]] — 微分方程在曲线坐标中的应用
+- [[../矢量分析/矢量分析索引]] — 矢量微分算子
 
 ## Source
 AP Physics C - Mechanics
