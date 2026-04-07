@@ -11,6 +11,7 @@
 
 # Claude Code configuration (device-specific, don't sync)
 .claude/
+.claudian/
 
 # Operating system files
 .DS_Store
