@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <marker id="arrow-black" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#1e1e1e"/>
+    </marker>
+    <marker id="arrow-purple" markerWidth="12" markerHeight="8" refX="10" refY="4" orient="auto">
+      <polygon points="0 0, 12 4, 0 8" fill="#7b35c8"/>
+    </marker>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="800" height="500" fill="#fafafa"/>
+
+  <!-- 标题 -->
+  <text x="30" y="40" font-size="24" font-weight="bold" fill="#1e1e1e" font-family="sans-serif">图1：点到直线的距离（叉积法）</text>
+  <text x="30" y="70" font-size="16" fill="#555" font-family="sans-serif">d = ‖PS⃗ × v⃗‖ / ‖v⃗‖   （平行四边形面积 ÷ 底边长）</text>
+
+  <!-- 坐标轴 -->
+  <!-- X轴 -->
+  <line x1="80" y1="400" x2="380" y2="400" stroke="#e03e3e" stroke-width="3"/>
+  <text x="385" y="405" font-size="18" fill="#e03e3e" font-family="sans-serif">x</text>
+  <!-- Y轴 -->
+  <line x1="80" y1="400" x2="80" y2="100" stroke="#3e8e3e" stroke-width="3"/>
+  <text x="83" y="95" font-size="18" fill="#3e8e3e" font-family="sans-serif">y</text>
+  <!-- Z轴 -->
+  <line x1="80" y1="400" x2="280" y2="220" stroke="#3e5fbf" stroke-width="3" marker-end="url(#arrow-black)"/>
+  <text x="285" y="215" font-size="18" fill="#3e5fbf" font-family="sans-serif">z</text>
+  <!-- 原点O -->
+  <text x="60" y="410" font-size="18" fill="#1e1e1e" font-family="sans-serif">O</text>
+
+  <!-- 直线L（虚线延伸） -->
+  <line x1="80" y1="400" x2="230" y2="240" stroke="#999" stroke-width="2.5" stroke-dasharray="10,5"/>
+
+  <!-- 方向向量 v⃗ -->
+  <line x1="80" y1="400" x2="230" y2="240" stroke="#1e1e1e" stroke-width="3.5" marker-end="url(#arrow-black)"/>
+  <text x="235" y="235" font-size="18" fill="#1e1e1e" font-family="sans-serif">v⃗</text>
+
+  <!-- P点（白点） -->
+  <circle cx="80" cy="400" r="7" fill="white" stroke="#1e1e1e" stroke-width="2.5"/>
+  <text x="55" y="425" font-size="18" fill="#1e1e1e" font-family="sans-serif">P</text>
+
+  <!-- S点（红色） -->
+  <circle cx="290" cy="230" r="7" fill="#ff5252" stroke="#1e1e1e" stroke-width="2.5"/>
+  <text x="298" y="225" font-size="18" fill="#1e1e1e" font-family="sans-serif">S</text>
+
+  <!-- 向量 PS⃗ -->
+  <line x1="80" y1="400" x2="290" y2="230" stroke="#7b35c8" stroke-width="3.5" marker-end="url(#arrow-purple)"/>
+  <text x="175" y="308" font-size="17" fill="#7b35c8" font-family="sans-serif">PS⃗</text>
+
+  <!-- 垂足H（蓝色） -->
+  <circle cx="170" cy="335" r="6" fill="#4fc3f7" stroke="#1e1e1e" stroke-width="2.5"/>
+  <text x="145" y="355" font-size="18" fill="#1e1e1e" font-family="sans-serif">H</text>
+
+  <!-- 垂线SH（红色虚线） -->
+  <line x1="290" y1="230" x2="170" y2="335" stroke="#e03e3e" stroke-width="2.5" stroke-dasharray="8,4"/>
+  <text x="220" y="275" font-size="15" fill="#e03e3e" font-family="sans-serif">d = |SH|</text>
+
+  <!-- 平行四边形 -->
+  <polygon points="80,400 230,240 440,70 290,230" fill="rgba(255,167,38,0.15)" stroke="#ff9800" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 面积标签 -->
+  <text x="240" y="260" font-size="14" fill="#e65100" font-family="sans-serif">平行四边形面积</text>
+  <text x="195" y="280" font-size="14" fill="#e65100" font-family="sans-serif">= ‖v⃗‖ × d</text>
+
+  <!-- 说明文字框 -->
+  <rect x="480" y="110" width="290" height="200" fill="#f5f5f5" stroke="#bdbdbd" stroke-width="1" rx="8"/>
+  <text x="495" y="140" font-size="16" font-weight="bold" fill="#1e1e1e" font-family="sans-serif">几何意义：</text>
+  <text x="495" y="168" font-size="15" fill="#424242" font-family="sans-serif">向量 v⃗ 与 PS⃗ 张成一个</text>
+  <text x="495" y="190" font-size="15" fill="#424242" font-family="sans-serif">平行四边形。</text>
+  <text x="495" y="220" font-size="15" fill="#424242" font-family="sans-serif">面积 = ‖v⃗‖ × d</text>
+  <text x="495" y="242" font-size="15" fill="#424242" font-family="sans-serif">    = ‖PS⃗ × v⃗‖</text>
+  <text x="495" y="275" font-size="16" font-weight="bold" fill="#e65100" font-family="sans-serif">∴ d = 面积 / 底边长</text>
+</svg>

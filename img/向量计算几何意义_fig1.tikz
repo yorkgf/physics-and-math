@@ -1,0 +1,60 @@
+% TikZ 绘制：点到直线的距离（叉积法）
+% 对应图1：d = ||PS × v|| / ||v||
+
+\begin{tikzpicture}[>=stealth, scale=1.5, transform shape]
+
+% 坐标轴
+\draw[red!70!black, thick] (0,0) -- (3,0) node[right] {$x$};
+\draw[green!70!black, thick] (0,0) -- (0,3) node[above] {$y$};
+\draw[blue!70!black, thick] (0,0) -- (2,-1.5) node[below right] {$z$};
+\node[below left] at (0,0) {$O$};
+
+% 直线L（虚线延伸）
+\draw[gray!60, dashed, thick] (0,0) -- (1.5,-1.5);
+
+% 方向向量 v
+\draw[black, thick, ->] (0,0) -- (1.5,-1.5) node[above right] {$\mathbf{v}$};
+
+% 点 P
+\filldraw[black] (0,0) circle (2pt) node[below right] {$P$};
+
+% 点 S
+\filldraw[red] (2.1,-1.7) circle (2pt) node[above right] {$S$};
+
+% 向量 PS
+\draw[purple, thick, ->] (0,0) -- (2.1,-1.7) node[midway, above left] {$\vec{PS}$};
+
+% 垂足 H
+\coordinate (H) at (1.26,-1.26);
+\filldraw[blue!50] (H) circle (1.8pt) node[below right] {$H$};
+
+% 垂线 SH (d)
+\draw[red, dashed, thick] (2.1,-1.7) -- (H) node[midway, above left] {$d = |SH|$};
+
+% 平行四边形
+\coordinate (P) at (0,0);
+\coordinate (Vend) at (1.5,-1.5);
+\coordinate (Send) at (2.1,-1.7);
+\coordinate (Fourth) at ($(Vend) + (Send) - (P)$);
+\fill[orange!15] (P) -- (Vend) -- (Fourth) -- (Send) -- cycle;
+\draw[orange, dashed, thick] (P) -- (Vend) -- (Fourth) -- (Send) -- cycle;
+
+% 标注平行四边形面积
+\node[orange!80!black, font=\small] at (1.6,-0.8) {平行四边形面积};
+\node[orange!80!black, font=\small] at (1.6,-1.1) {$= \|\mathbf{v}\| \times d$};
+
+% 说明框
+\node[draw, gray!30, fill=gray!5, rounded corners=3pt, align=left, inner sep=8pt] at (4.2,-0.8) {
+  \textbf{几何意义：} \\
+  向量 $\mathbf{v}$ 与 $\vec{PS}$ \\
+  张成一个平行四边形。 \\[3pt]
+  面积 $= \|\mathbf{v}\| \times d$ \\
+  $\quad\; = \|\vec{PS} \times \mathbf{v}\|$ \\[3pt]
+  \textbf{$\therefore\; d = \frac{\text{面积}}{\text{底边长}}$}
+};
+
+% 标题
+\node[font=\bfseries, align=center] at (2.2,1.2) {图1：点到直线的距离（叉积法）};
+\node[font=\small] at (2.2,0.9) {$d = \dfrac{\|\vec{PS} \times \mathbf{v}\|}{\|\mathbf{v}\|}$};
+
+\end{tikzpicture}

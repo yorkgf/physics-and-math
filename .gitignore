@@ -29,5 +29,11 @@ Thumbs.db
 Econ & Fin/pdf/
 Econ & Fin/download_pdfs.sh
 
-# Physics notes (local resources)
-物理学/电磁学/
+# Excalidraw Scripts
+Excalidraw/Scripts/
+
+# Gemini CLI configuration
+GEMINI.md
+
+# Claudian configuration
+.claudian/

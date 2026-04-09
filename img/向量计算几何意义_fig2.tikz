@@ -1,0 +1,44 @@
+% TikZ 绘制：点到平面的距离（投影法）
+% 对应图2：D = |QP · n| / ||n||
+
+\begin{tikzpicture}[>=stealth, scale=1.2, transform shape]
+
+% 平面 (透视平行四边形)
+\fill[blue!10] (1,0) -- (3,0.5) -- (5,0) -- (3,-0.5) -- cycle;
+\draw[blue, thick] (1,0) -- (3,0.5) -- (5,0) -- (3,-0.5) -- cycle;
+\node[blue, bold] at (2.8,0.15) {平面};
+\node[blue, font=\small] at (2,-0.35) {$ax + by + cz = d$};
+
+% Q点 (在平面上)
+\filldraw[black] (1.8,0) circle (2pt) node[below left] {$Q$};
+
+% P点 (平面外)
+\filldraw[red] (3,1.5) circle (2pt) node[above right] {$P$};
+
+% 向量 QP
+\draw[purple, thick, ->] (1.8,0) -- (3,1.5) node[midway, above left] {$\vec{QP}$};
+
+% 法向量 n (从Q出发)
+\draw[red, thick, ->] (1.8,0) -- (1.8,1.8) node[above right] {$\mathbf{n}$};
+
+% 投影垂足 H
+\coordinate (H) at (3,0);
+\draw[red, dashed, thick] (3,1.5) -- (H);
+\node[red, font=\small, right] at (3.1,0.75) {$D = |\vec{QP} \cdot \hat{\mathbf{n}}|$};
+
+% 说明框
+\node[draw, gray!20, fill=gray!3, rounded corners=3pt, align=left, inner sep=6pt, font=\small] at (4.8,0.8) {
+  \textbf{几何意义：} \\
+  $\vec{QP}$ 在法向量 $\mathbf{n}$ 方向 \\
+  上的投影长度。 \\[2pt]
+  $\hat{\mathbf{n}} = \dfrac{\mathbf{n}}{\|\mathbf{n}\|}$ \\
+  \quad (单位法向量) \\[2pt]
+  投影 $= \vec{QP} \cdot \hat{\mathbf{n}}$ \\
+  \textbf{$\quad\; = \dfrac{|\vec{QP} \cdot \mathbf{n}|}{\|\mathbf{n}\|}$}
+};
+
+% 标题
+\node[font=\bfseries, align=center] at (3,2.2) {图2：点到平面的距离（投影法）};
+\node[font=\small] at (3,1.9) {$D = \dfrac{|\vec{QP} \cdot \mathbf{n}|}{\|\mathbf{n}\|}$};
+
+\end{tikzpicture}

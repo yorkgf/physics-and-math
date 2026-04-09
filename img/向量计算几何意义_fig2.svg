@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" width="700" height="420">
+  <defs>
+    <marker id="arrow2-red" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e03e3e"/>
+    </marker>
+    <marker id="arrow2-purple" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#7b35c8"/>
+    </marker>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="700" height="420" fill="#fefefe"/>
+
+  <!-- 标题 -->
+  <text x="20" y="35" font-size="20" font-weight="bold" fill="#1e1e1e" font-family="sans-serif">图2：点到平面的距离（投影法）</text>
+  <text x="20" y="60" font-size="14" fill="#555" font-family="sans-serif">D = |QP⃗ · n⃗| / ‖n⃗‖   （向量在法向量方向上的投影长度）</text>
+
+  <!-- 平面（平行四边形透视） -->
+  <polygon points="100,300 300,350 500,300 300,250" fill="rgba(62,95,191,0.08)" stroke="#3e5fbf" stroke-width="2"/>
+  <text x="270" y="308" font-size="18" fill="#3e5fbf" font-family="sans-serif" font-weight="bold">平面</text>
+  <text x="170" y="360" font-size="13" fill="#3e5fbf" font-family="sans-serif">ax + by + cz = d</text>
+
+  <!-- Q点（白点，在平面上） -->
+  <circle cx="180" cy="290" r="6" fill="white" stroke="#1e1e1e" stroke-width="2"/>
+  <text x="158" y="308" font-size="16" fill="#1e1e1e" font-family="sans-serif">Q</text>
+
+  <!-- P点（红色，平面外） -->
+  <circle cx="300" cy="140" r="6" fill="#ff6b6b" stroke="#1e1e1e" stroke-width="2"/>
+  <text x="308" y="132" font-size="16" fill="#1e1e1e" font-family="sans-serif">P</text>
+
+  <!-- 向量 QP⃗（紫色箭头） -->
+  <line x1="180" y1="290" x2="300" y2="140" stroke="#7b35c8" stroke-width="2.5" marker-end="url(#arrow2-purple)"/>
+  <text x="228" y="208" font-size="15" fill="#7b35c8" font-family="sans-serif">QP⃗</text>
+
+  <!-- 法向量 n⃗（红色，从Q垂直向上） -->
+  <line x1="180" y1="290" x2="180" y2="100" stroke="#e03e3e" stroke-width="2.5" marker-end="url(#arrow2-red)"/>
+  <text x="188" y="98" font-size="16" fill="#e03e3e" font-family="sans-serif">n⃗</text>
+
+  <!-- 投影虚线 -->
+  <line x1="300" y1="140" x2="300" y2="290" stroke="#e03e3e" stroke-width="2" stroke-dasharray="6,3"/>
+  <text x="312" y="218" font-size="13" fill="#e03e3e" font-family="sans-serif">D = |QP⃗·n̂|</text>
+
+  <!-- 说明文字 -->
+  <rect x="420" y="90" width="255" height="185" fill="#f8fafc" stroke="#ddd" stroke-width="1" rx="6"/>
+  <text x="432" y="115" font-size="14" font-weight="bold" fill="#1e1e1e" font-family="sans-serif">几何意义：</text>
+  <text x="432" y="138" font-size="13" fill="#444" font-family="sans-serif">QP⃗ 在法向量 n⃗ 方向</text>
+  <text x="432" y="156" font-size="13" fill="#444" font-family="sans-serif">上的投影长度。</text>
+  <text x="432" y="182" font-size="13" fill="#444" font-family="sans-serif">n̂ = n⃗ / ‖n⃗‖</text>
+  <text x="432" y="200" font-size="13" fill="#444" font-family="sans-serif">    （单位法向量）</text>
+  <text x="432" y="226" font-size="13" fill="#444" font-family="sans-serif">投影 = QP⃗ · n̂</text>
+  <text x="432" y="244" font-size="14" font-weight="bold" fill="#b45309" font-family="sans-serif">    = |QP⃗·n⃗|/‖n⃗‖</text>
+</svg>
