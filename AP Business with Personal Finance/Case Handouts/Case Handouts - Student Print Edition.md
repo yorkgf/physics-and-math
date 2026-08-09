@@ -100,7 +100,7 @@ Bombas expanded its product line from socks to underwear and T-shirts between 20
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -200,7 +200,7 @@ VANCL used aggressive internet advertising — banner ads and search engine mark
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -302,7 +302,7 @@ By 2018, millions of ofo bicycles were broken or abandoned on city streets. User
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -403,7 +403,7 @@ By 2022–2024, multiple large competitors launched zero-sugar sparkling water p
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -500,7 +500,7 @@ Coca-Cola's price advantage comes from producing billions of bottles globally.
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -604,7 +604,7 @@ Zhong Xue Gao raised venture capital funding and expanded rapidly between 2019 a
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -693,7 +693,7 @@ Haidilao has expanded internationally to the U.S., U.K., Japan, South Korea, Sin
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -794,7 +794,7 @@ Dewu does not own the products sold on its platform. It connects independent sel
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -898,7 +898,7 @@ Yu Minhong stated that he wanted to help former teachers find new livelihoods af
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -999,7 +999,7 @@ Pop Mart sells Labubu figurines as blind boxes — customers do not know which d
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1104,7 +1104,7 @@ Pop Mart expanded from a single lifestyle store in Beijing to over 400 stores an
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1207,7 +1207,7 @@ Copa Di Vino's product is single-serve wine in a sealed cup — a format that di
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1317,7 +1317,7 @@ Patagonia operates the Worn Wear program, which encourages customers to repair c
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1421,7 +1421,7 @@ Seesaw entered bankruptcy/liquidation in 2024–2025, with reports of unpaid deb
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1528,9 +1528,17 @@ Ctrip serves hundreds of millions of users annually. The company has data on eac
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
+
+---
+subject: AP Business with Personal Finance
+unit: 1
+topic: 1.8
+case_company: Zara (Inditex Group)
+last_updated: 2026-08-09
+---
 
 # 1.8 Zara Supply Chain — Case Handout
 
@@ -1538,39 +1546,41 @@ Ctrip serves hundreds of millions of users annually. The company has data on eac
 
 ---
 
-## Company Overview
+## Background
 
-**Zara** is a Spanish fast fashion retailer and the flagship brand of the **Inditex Group**, the world's largest fashion retailer. Founded in 1975 in Arteixo, Spain, Zara operates over **6,000 stores** in 96 countries. Unlike most fashion brands, Zara's competitive advantage is built not on low prices or celebrity marketing, but on **speed** — a new design goes from sketch to store shelf in **2 weeks**, compared to the industry average of **6 months.**
+**Zara** is a Spanish fast fashion retailer and the flagship brand of the **Inditex Group**, the world's largest fashion retailer. Founded in 1975 in Arteixo, Spain, Zara operates over **6,000 stores** in 96 countries. Unlike most fashion brands, Zara's model is built on **speed** — a new design goes from sketch to store shelf in **2 weeks**, compared to the industry average of **6 months**.
+
+Zara owns factories in Spain and nearby countries (rather than outsourcing to Asia), operates one central distribution center in Arteixo through which every garment passes, and produces in small batches with store inventory refreshed twice a week.
 
 ---
 
 ## Key Events
 
-| Year | Event | Significance |
-|---|---|---|
-| **1975** | First Zara store opens in Arteixo, Spain | Founder Amancio Ortega starts with a single shop |
-| **1985** | Inditex Group formed | Zara becomes the core brand of a new parent company |
-| **1990s** | Own factories + central distribution center built | The 2-week supply chain takes shape |
-| **2000s** | Global expansion — stores in 60+ countries | Same supply chain model replicated worldwide |
-| **2010s** | 6,000+ stores, $20B+ annual revenue | World's #1 fast fashion brand by revenue |
-| **2020s** | Competitors (Shein, H&M) challenge on speed | Zara's model tested by even faster rivals |
+| Year | Event |
+|---|---|
+| **1975** | First Zara store opens in Arteixo, Spain; founder Amancio Ortega starts with a single shop |
+| **1985** | Inditex Group formed; Zara becomes the core brand of a new parent company |
+| **1990s** | Own factories and central distribution center built in Spain; the 2-week supply chain model takes shape |
+| **2000s** | Global expansion — stores open in 60+ countries; same supply chain model replicated worldwide |
+| **2010s** | Store count exceeds 6,000; annual revenue surpasses $20 billion |
+| **2020s** | Competitors (Shein, H&M) challenge Zara on speed; Shein's model delivers new designs in days using a different supply chain approach |
 
 ---
 
-## Zara Operations — Key Facts
+## Zara Supply Chain Data
 
 ### Speed-to-shelf timeline
 
 | Stage | Zara Timeline | Industry Average |
 |---|---|---|
-| Trend spotted → design ready | Monday to Friday (same week) | Weeks to months |
-| Sketch → store shelf | **2 weeks** | **6 months** |
+| Trend spotted to design ready | Monday to Friday (same week) | Weeks to months |
+| Sketch to store shelf | **2 weeks** | **6 months** |
 
 ### Production and inventory model
 
 - Produces in **small batches** — not millions of units at once
 - Store inventory is **refreshed twice a week**
-- If a style does not sell, it is gone in weeks
+- If a style does not sell, it is removed within weeks
 - **No markdowns, no excess inventory**
 
 ### Own factories vs. outsourcing
@@ -1579,48 +1589,89 @@ Ctrip serves hundreds of millions of users annually. The company has data on eac
 |---|---|---|
 | Location | Spain and nearby countries | Asia and other low-cost regions |
 | Unit cost | **Higher** | **Lower** |
-| Speed and control | **Maximum** | **Limited** |
+| Speed and control | Faster production cycles, full quality control | Longer lead times, less direct oversight |
 
 ### Distribution center
 
 - **Every garment** for every store worldwide passes through **one central facility** in Arteixo, Spain
 - Garments arrive and ship out within **hours** — the facility does not hold inventory long-term
-- **Distribution center** (moves inventory through) vs. **warehouse** (stores inventory) — Zara's facility is the former, not the latter
+- A distribution center moves inventory through quickly; a warehouse stores inventory long-term. Zara's facility operates as a distribution center
 
-### Supply chain as competitive barrier
-
-- The 2-week turnaround is the barrier — rivals cannot easily copy a system that depends on own factories, centralized distribution, and small-batch production all working together
-- Fewer links in the chain = fewer points of failure compared to brands that outsource globally
-
-### End-to-end chain
+### End-to-end supply chain
 
 | Stage | Zara Approach |
 |---|---|
-| Design | In-house, reacts to trends in days |
-| Raw materials | Sourced directly |
-| Manufacturing | Own factories (Spain and nearby) |
-| Distribution | One central facility, garments move in hours |
-| Retail | 6,000+ stores, inventory refreshed twice a week |
+| Design | In-house design team, reacts to trends within days |
+| Raw materials | Sourced directly from suppliers |
+| Manufacturing | Own factories in Spain and nearby countries |
+| Distribution | One central facility in Arteixo; garments move in hours |
+| Retail | 6,000+ stores; inventory refreshed twice per week |
 
 ---
 
 ## Questions
 
-1. **Zara's strategy is speed, not low price.** How did this strategy **shape every stage** of its supply chain? Give one specific example for each stage (design, materials, manufacturing, distribution, retail). (Connect to, 1.8.C.2)
+**1. Respond to parts A, B, and C.**
 
-2. **Zara built own factories in Spain instead of outsourcing to cheaper countries.** Which of the five supplier factors did Zara **sacrifice**, and which did it **prioritize**? Why did the speed strategy make this tradeoff worthwhile?
+Zara's supply chain spans five stages: design, raw materials, manufacturing, distribution, and retail.
 
-3. **Zara's central distribution center in Arteixo handles every garment for the entire world.** Explain the difference between a warehouse and a distribution center — and why Zara's facility is the latter, not the former. (Connect to )
+(A) Identify how Zara's approach at each of the five stages differs from a typical fashion brand.
 
-4. **Zara's supply chain is described as a "barrier to entry."** How is this different from a legal barrier (like an exclusive agreement with a supplier)? What makes Zara's chain **harder to copy** than a legal agreement? (Connect to )
+(B) Explain how the speed requirement at one stage (design) creates specific requirements at the other four stages.
 
-5. **Zara produces small batches and refreshes stores twice a week.** How does this reduce **risk** compared to a traditional fashion brand that produces large batches months in advance? What happens to unsold inventory in each model? (Connect to )
-
-6. **Compare Zara's supply chain to the candy seller's supplier decision** (supermarket vs. wholesale parent). Both involve choosing between a reliable/expensive option and a cheaper/riskier option. How are the **stakes** different for a global brand vs. a Saturday snack box — and what does that teach about **when to prioritize reliability over cost**?
+(C) Predict what would happen to Zara's supply chain if the company moved its central distribution center from Spain to Vietnam to be closer to outsourced factories.
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+**2. Respond to parts A, B, and C.**
+
+Zara chose to own factories in Spain and nearby countries instead of outsourcing to lower-cost regions in Asia.
+
+(A) Describe the tradeoff Zara made between unit cost and speed when choosing to own factories.
+
+(B) Explain why Zara's unit cost is higher than competitors who outsource, and identify what Zara gains in return.
+
+(C) Recommend whether Zara should outsource 50% of production to Asia to reduce costs. Support your recommendation with evidence from the scenario.
+
+---
+
+**3. Respond to parts A, B, and C.**
+
+Zara's central facility in Arteixo processes every garment for all 6,000+ stores worldwide, moving items through within hours rather than storing them.
+
+(A) Describe the difference between a facility that moves inventory through quickly and a facility that stores inventory long-term.
+
+(B) Explain the risk of routing all global garments through one central facility.
+
+(C) Identify one advantage of this centralized approach that a company using multiple regional warehouses would not have.
+
+---
+
+**4. Respond to parts A, B, and C.**
+
+Zara's 2-week turnaround depends on owned factories, centralized distribution, and small-batch production all working together. Competitors have not been able to replicate this system.
+
+(A) Describe what makes Zara's supply chain difficult for competitors to copy.
+
+(B) Explain why a competitor cannot achieve Zara's speed by simply copying one element (for example, building a central distribution center) without the other elements.
+
+(C) Evaluate whether Shein's supply chain model (which delivers new designs in days) is a greater threat to Zara than traditional competitors like H&M.
+
+---
+
+**5. Respond to parts A, B, and C.**
+
+Zara produces in small batches and refreshes store inventory twice a week, while traditional fashion brands produce large batches months in advance.
+
+(A) Describe what happens to unsold inventory in each model.
+
+(B) Explain how Zara's small-batch approach reduces financial risk compared to producing large batches six months before a selling season.
+
+(C) Identify one disadvantage of Zara's small-batch model compared to large-batch production, and explain when a company might prefer the large-batch approach.
+
+---
+
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1762,7 +1813,7 @@ Luckin Coffee's 2023 **Moutai Latte** collaboration sold millions of cups on day
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1869,7 +1920,7 @@ The Fendi x HEYTEA collaboration generated millions of social media shares witho
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -1977,7 +2028,7 @@ Keep provides a large library of free workout content that delivers real value t
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2085,7 +2136,7 @@ Tea Yan Yue Se's loyalty stamp card offers a free drink after six purchases, sto
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2186,7 +2237,7 @@ CEO Roberto Goizueta had previously succeeded in tweaking Coke's flavor for the 
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2303,7 +2354,7 @@ Dyson launched the Contra Rotator washing machine (~2000) at £1,000 with positi
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2425,7 +2476,7 @@ Tang stated in 2020 that "95% of Genki Forest's planned products have yet to be 
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2526,7 +2577,7 @@ Both Xiaomi and Costco use pricing strategies that sacrifice short-term profit f
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2650,7 +2701,7 @@ Costco charges $65 for a membership in the US but charges different membership f
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2772,7 +2823,7 @@ In November 2023, a woman's car caught fire and her Stanley Quencher survived wi
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -2883,7 +2934,7 @@ To Summer and Stanley both use direct-to-consumer channels (their own websites) 
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
@@ -3019,7 +3070,7 @@ After the 79-yuan eyebrow pencil controversy, Florasis began reducing its depend
 
 ---
 
-*Keep this handout for reference during class discussion and the Business Canvas Project.*
+*Keep this handout for reference during class discussion.*
 
 \newpage
 
