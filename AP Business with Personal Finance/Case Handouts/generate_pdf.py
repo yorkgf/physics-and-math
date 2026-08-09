@@ -71,13 +71,43 @@ cases_clean = cases_clean.replace("\\newpage", "\n\n<div class=\"page-break\"></
 #    keep only meaningful ones.
 # Actually, the --- lines serve as <hr> in HTML and we style them lightly — keep them.
 
-# ── Step 2: Extract TOC labels from preamble ─────────────────────────────────
-
-# Short display labels used in the original TOC (e.g. "1.1 Bombas", "2.4 Dyson")
-toc_items = re.findall(r"^\d+\.\s+(.+)$", raw[:preamble_end], re.MULTILINE)
+# ── Step 2: Extract TOC labels and case titles ────────────────────────────────
 
 # Full H1 case titles in order (skip the document title at index 0)
 case_titles = re.findall(r"^# (.+)", raw, re.MULTILINE)[1:]
+
+# Build short TOC labels: parse every YAML block for topic+case_company,
+# then align with H1 titles by position. Cases without a YAML block fall
+# back to a shortened form of the H1 title.
+def shorten_title(title):
+    for suffix in [" — Case Handout", " — Case Handouts"]:
+        title = title.replace(suffix, "")
+    return title.strip()
+
+# Map each H1 position → short label derived from its preceding YAML block
+yaml_block_re_pos = re.compile(
+    r"(?m)^---\s*\n((?:[\w_]+:[ \t]*.+\n)+)---\s*\n"
+)
+h1_matches = list(re.finditer(r"(?m)^# (.+)", raw))[1:]  # skip doc title
+
+toc_items = []
+for h1_match in h1_matches:
+    h1_pos = h1_match.start()
+    h1_title = h1_match.group(1)
+    # Find the nearest YAML block that ends just before this H1
+    label = None
+    for m in yaml_block_re_pos.finditer(raw):
+        if m.end() <= h1_pos and m.end() > h1_pos - 300:
+            block = m.group(1)
+            topic = re.search(r"topic:\s*(.+)", block)
+            company = re.search(r"case_company:\s*(.+)", block)
+            if topic and company:
+                label = f"{topic.group(1).strip()} {company.group(1).strip()}"
+            elif topic:
+                label = topic.group(1).strip()
+            elif company:
+                label = company.group(1).strip()
+    toc_items.append(label if label else shorten_title(h1_title))
 
 # ── Step 3: Convert Markdown → HTML ──────────────────────────────────────────
 
@@ -504,7 +534,7 @@ def make_body_html(front_matter_html, body_html_fragment):
 </html>"""
 
 
-def build_cover_html():
+def build_cover_html(n_cases=38):
     """Designed cover page — hero dark panel + white stats body."""
     return """
 <div class="cover">
@@ -536,7 +566,7 @@ def build_cover_html():
         </div>
         <div class="cover-stat">
           <span class="cover-stat-label">Total Cases</span>
-          <span class="cover-stat-value">38</span>
+          <span class="cover-stat-value">{n_cases}</span>
         </div>
       </div>
     </div>
@@ -616,7 +646,7 @@ def extract_case_pages(pdf_path, case_titles, cover_page_count):
 
 # ── Step 5: Two-pass render ───────────────────────────────────────────────────
 
-cover_html = build_cover_html()
+cover_html = build_cover_html(n_cases=len(case_titles))
 
 # --- Pass 1: render with placeholder TOC (no page numbers) to measure layout
 print("Pass 1: rendering draft to measure page numbers…")
