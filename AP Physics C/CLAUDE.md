@@ -70,3 +70,5 @@ AP Physics C/
 |------|----------|--------|------|
 | Quarter Quiz | QQ | 20 | 2026-03-31 |
 | Final Exam | FE | 30 | 2026-01-20 |
+| Mar 25 MCQ | Mar25_Q | 35 | 2026-03-25 |
+| Practice Exam 2 MCQ | PE2 | 40 | 2026-04-23 |

@@ -69,7 +69,62 @@ $$a(t) = \frac{dv}{dt} = \boxed{-A\omega^2 \cos(\omega t) = -\omega^2 x(t)}$$
 
 ---
 
-## Worked Examples
+## Physical Pendulum (物理摆)
+
+A **physical pendulum** is any rigid body pivoted at a point other than its center of mass, oscillating under gravity. Unlike the simple pendulum (point mass on a massless string), the physical pendulum accounts for the body's **moment of inertia**.
+
+### Derivation
+
+$$\tau = -mgd \sin\theta \quad \rightarrow \quad \text{重力产生的回复力矩}$$
+
+> 小角度近似：$\sin\theta \approx \theta$
+
+$$I \cdot \alpha = -mgd \cdot \theta \quad \rightarrow \quad \text{转动定律} \ \tau = I\alpha$$
+
+$$\alpha = -\left(\frac{mgd}{I}\right)\theta \quad \rightarrow \quad \text{SHM 标准形式} \ \alpha = -\omega^2\theta$$
+
+$$\omega^2 = \frac{mgd}{I} \quad \rightarrow \quad \omega = \sqrt{\frac{mgd}{I}} \quad \rightarrow \quad \text{角频率}$$
+
+$$\boxed{T = 2\pi\sqrt{\frac{I}{mgd}}} \quad \rightarrow \quad \text{周期（物理摆核心公式）}$$
+
+### 参数说明
+
+| 符号 | 含义 | 单位 |
+|------|------|------|
+| $m$ | 刚体质量 | kg |
+| $g$ | 重力加速度 | m/s² |
+| $d$ | 转轴到质心的距离 | m |
+| $I$ | 绕转轴的转动惯量 | kg·m² |
+| $\theta$ | 角位移（小角度近似 $\sin\theta \approx \theta$） | rad |
+
+### 特例：单摆 (Simple Pendulum)
+
+当质量集中在一点，悬线无质量时：
+
+$$I = mL^2, \quad d = L$$
+
+代入物理摆周期公式：
+
+$$T = 2\pi\sqrt{\frac{mL^2}{mgL}} = 2\pi\sqrt{\frac{L}{g}}$$
+
+### 物理摆 vs 弹簧振子
+
+| | 弹簧振子 | 物理摆 |
+|------|----------|--------|
+| **回复因素** | $F = -kx$ | $\tau = -mgd\,\theta$ |
+| **惯性因素** | $m$ | $I$ |
+| **SHM 条件** | 胡克定律 | 小角度 $\theta \ll 1$ |
+| **标准形式** | $a = -\frac{k}{m}x$ | $\alpha = -\frac{mgd}{I}\theta$ |
+| **角频率** | $\omega = \sqrt{k/m}$ | $\omega = \sqrt{mgd/I}$ |
+| **周期** | $T = 2\pi\sqrt{m/k}$ | $T = 2\pi\sqrt{I/mgd}$ |
+
+> [!tip]+ 解题关键
+> 物理摆问题核心三步：
+> 1. **找转轴** → 确定 $I$（平行轴定理：$I = I_{CM} + md^2$）
+> 2. **找质心** → 确定 $d$
+> 3. **代入** → $T = 2\pi\sqrt{I/mgd}$
+
+---
 
 - [[Differential Equation for SHM]]
 
