@@ -1,0 +1,1015 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta property="og:type" content="website"><meta name="twitter:card" content="summary"><style>@media screen{body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button{-webkit-tap-highlight-color:transparent;-webkit-appearance:none;appearance:none;background-color:transparent;border:0;color:inherit;cursor:pointer;font-size:inherit;opacity:.8;outline:none;padding:0;transition:opacity .2s linear}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:disabled,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:disabled,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:disabled,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:disabled{cursor:not-allowed;opacity:.15!important}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover{opacity:1}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:active,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:active,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover:active,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover:active{opacity:.6}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:not(:disabled),body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:not(:disabled),body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover:not(:disabled),body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover:not(:disabled){transition:none}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button.bespoke-marp-presenter-info-page-prev{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNNjggOTAgMjggNTBsNDAtNDAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button.bespoke-marp-presenter-info-page-next{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJtMzIgOTAgNDAtNDAtNDAtNDAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen]{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48c3R5bGU+LmF7ZmlsbDpub25lO3N0cm9rZTojZmZmO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6NXB4fTwvc3R5bGU+PC9kZWZzPjxyZWN0IHdpZHRoPSI4MCIgaGVpZ2h0PSI2MCIgeD0iMTAiIHk9IjIwIiBjbGFzcz0iYSIgcng9IjUuNjciLz48cGF0aCBkPSJNNDAgNzBIMjBWNTBtMjAgMEwyMCA3MG00MC00MGgyMHYyMG0tMjAgMCAyMC0yMCIgY2xhc3M9ImEiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button.exit[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button.exit[data-bespoke-marp-osc=fullscreen]{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48c3R5bGU+LmF7ZmlsbDpub25lO3N0cm9rZTojZmZmO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6NXB4fTwvc3R5bGU+PC9kZWZzPjxyZWN0IHdpZHRoPSI4MCIgaGVpZ2h0PSI2MCIgeD0iMTAiIHk9IjIwIiBjbGFzcz0iYSIgcng9IjUuNjciLz48cGF0aCBkPSJNMjAgNTBoMjB2MjBtLTIwIDAgMjAtMjBtNDAgMEg2MFYzMG0yMCAwTDYwIDUwIiBjbGFzcz0iYSIvPjwvc3ZnPg==")}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter]{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNODcuOCA0Ny41Qzg5IDUwIDg3LjcgNTIgODUgNTJIMzVhOC43IDguNyAwIDAgMS03LjItNC41bC0xNS42LTMxQzExIDE0IDEyLjIgMTIgMTUgMTJoNTBhOC44IDguOCAwIDAgMSA3LjIgNC41ek02MCA1MnYzNm0tMTAgMGgyME00NSA0MmgyMCIvPjwvc3ZnPg==") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button.bespoke-marp-presenter-note-bigger{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNMTIgNTBoODBNNTIgOTBWMTAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button.bespoke-marp-presenter-note-smaller{background:transparent url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNMTIgNTBoODAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}}@keyframes __bespoke_marp_transition_reduced_outgoing__{0%{opacity:1}to{opacity:0}}@keyframes __bespoke_marp_transition_reduced_incoming__{0%{mix-blend-mode:plus-lighter;opacity:0}to{mix-blend-mode:plus-lighter;opacity:1}}.bespoke-marp-note,.bespoke-marp-osc,.bespoke-progress-parent{display:none;transition:none}@media screen{::view-transition-group(*){animation-duration:var(--marp-bespoke-transition-animation-duration,.5s);animation-timing-function:ease}::view-transition-new(*),::view-transition-old(*){animation-delay:0s;animation-direction:var(--marp-bespoke-transition-animation-direction,normal);animation-duration:var(--marp-bespoke-transition-animation-duration,.5s);animation-fill-mode:both;animation-name:var(--marp-bespoke-transition-animation-name,var(--marp-bespoke-transition-animation-name-fallback,__bespoke_marp_transition_no_animation__));mix-blend-mode:normal}::view-transition-old(*){--marp-bespoke-transition-animation-name-fallback:__bespoke_marp_transition_reduced_outgoing__;animation-timing-function:ease}::view-transition-new(*){--marp-bespoke-transition-animation-name-fallback:__bespoke_marp_transition_reduced_incoming__;animation-timing-function:ease}::view-transition-new(root),::view-transition-old(root){animation-timing-function:linear}::view-transition-new(__bespoke_marp_transition_osc__),::view-transition-old(__bespoke_marp_transition_osc__){animation-duration:0s!important;animation-name:__bespoke_marp_transition_osc__!important}::view-transition-new(__bespoke_marp_transition_osc__){opacity:0!important}.bespoke-marp-transition-warming-up::view-transition-group(*),.bespoke-marp-transition-warming-up::view-transition-new(*),.bespoke-marp-transition-warming-up::view-transition-old(*){animation-play-state:paused!important}body,html{height:100%;margin:0}body{background:#000;overflow:hidden}svg.bespoke-marp-slide{content-visibility:hidden;opacity:0;pointer-events:none;z-index:-1}svg.bespoke-marp-slide:not(.bespoke-marp-active) *{view-transition-name:none!important}svg.bespoke-marp-slide.bespoke-marp-active{content-visibility:visible;opacity:1;pointer-events:auto;z-index:0}svg.bespoke-marp-slide.bespoke-marp-active.bespoke-marp-active-ready *{animation-name:__bespoke_marp__!important}@supports not (content-visibility:hidden){svg.bespoke-marp-slide[data-bespoke-marp-load=hideable]{display:none}svg.bespoke-marp-slide[data-bespoke-marp-load=hideable].bespoke-marp-active{display:block}}}@media screen and (prefers-reduced-motion:reduce){svg.bespoke-marp-slide *{view-transition-name:none!important}}@media screen{[data-bespoke-marp-fragment=inactive]{visibility:hidden}body[data-bespoke-view=""] .bespoke-marp-parent,body[data-bespoke-view=next] .bespoke-marp-parent{inset:0;position:absolute}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc{view-transition-name:__bespoke_marp_transition_osc__;background:rgba(0,0,0,.65);border-radius:7px;bottom:50px;color:#fff;contain:paint;display:block;font-family:Helvetica,Arial,sans-serif;font-size:16px;left:50%;line-height:0;opacity:1;padding:12px;position:absolute;touch-action:manipulation;transform:translateX(-50%);transition:opacity .2s linear;-webkit-user-select:none;user-select:none;white-space:nowrap;will-change:transform;z-index:1}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>*,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>*{margin-left:6px}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>:first-child,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>:first-child{margin-left:0}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>span,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>span{opacity:.8}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>span[data-bespoke-marp-osc=page],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>span[data-bespoke-marp-osc=page]{display:inline-block;min-width:140px;text-align:center}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev]{height:32px;line-height:32px;width:32px}body[data-bespoke-view=""] .bespoke-marp-parent.bespoke-marp-inactive,body[data-bespoke-view=next] .bespoke-marp-parent.bespoke-marp-inactive{cursor:none}body[data-bespoke-view=""] .bespoke-marp-parent.bespoke-marp-inactive>.bespoke-marp-osc,body[data-bespoke-view=next] .bespoke-marp-parent.bespoke-marp-inactive>.bespoke-marp-osc{opacity:0;pointer-events:none}body[data-bespoke-view=""] svg.bespoke-marp-slide,body[data-bespoke-view=next] svg.bespoke-marp-slide{height:100%;left:0;position:absolute;top:0;width:100%}body[data-bespoke-view=""] .bespoke-progress-parent{background:#222;display:flex;height:5px;width:100%}body[data-bespoke-view=""] .bespoke-progress-parent+.bespoke-marp-parent{top:5px}body[data-bespoke-view=""] .bespoke-progress-parent .bespoke-progress-bar{background:#0288d1;flex:0 0 0;transition:flex-basis .2s cubic-bezier(0,1,1,1)}body[data-bespoke-view=next]{background:transparent}body[data-bespoke-view=presenter]{background:#161616}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container{display:grid;font-family:Helvetica,Arial,sans-serif;grid-template:"current dragbar next" minmax(140px,1fr) "current dragbar note" 2fr "info    dragbar note" 3em;grid-template-columns:minmax(3px,var(--bespoke-marp-presenter-split-ratio,66%)) 0 minmax(3px,1fr);height:100%;left:0;position:absolute;top:0;width:100%}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent{grid-area:current;overflow:hidden;position:relative}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent svg.bespoke-marp-slide{height:calc(100% - 40px);left:20px;pointer-events:none;position:absolute;top:20px;-webkit-user-select:none;user-select:none;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent svg.bespoke-marp-slide.bespoke-marp-active{filter:drop-shadow(0 3px 10px rgba(0,0,0,.5))}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container{background:#0288d1;cursor:col-resize;grid-area:dragbar;margin-left:-3px;opacity:0;position:relative;transition:opacity .4s linear .1s;width:6px;z-index:10}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container:hover{opacity:1}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container.active{opacity:1;transition-delay:0s}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container{background:#222;cursor:pointer;display:none;grid-area:next;overflow:hidden;position:relative}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container.active{display:block}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container iframe.bespoke-marp-presenter-next{background:transparent;border:0;display:block;filter:drop-shadow(0 3px 10px rgba(0,0,0,.5));height:calc(100% - 40px);left:20px;pointer-events:none;position:absolute;top:20px;-webkit-user-select:none;user-select:none;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container{background:#222;color:#eee;grid-area:note;position:relative;z-index:1}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button{height:1.5em;line-height:1.5em;width:1.5em}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-wrapper{display:block;inset:0;position:absolute}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-buttons{background:rgba(0,0,0,.65);border-radius:4px;bottom:0;display:flex;gap:4px;margin:12px;opacity:0;padding:6px;pointer-events:none;position:absolute;right:0;transition:opacity .2s linear}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-buttons:focus-within,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-wrapper:focus-within+.bespoke-marp-presenter-note-buttons,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container:hover .bespoke-marp-presenter-note-buttons{opacity:1;pointer-events:auto}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note{word-wrap:break-word;box-sizing:border-box;font-size:calc(1.1em*var(--bespoke-marp-note-font-scale, 1));height:calc(100% - 40px);margin:20px;overflow:auto;padding-right:3px;scrollbar-color:hsla(0,0%,93%,.5) transparent;scrollbar-width:thin;white-space:pre-wrap;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar{width:6px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar-track{background:transparent}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar-thumb{background:hsla(0,0%,93%,.5);border-radius:6px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note:empty{pointer-events:none}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note.active{display:block}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note p:first-child{margin-top:0}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note p:last-child{margin-bottom:0}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container{align-items:center;box-sizing:border-box;color:#eee;display:flex;flex-wrap:nowrap;grid-area:info;justify-content:center;overflow:hidden;padding:0 10px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-time,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer{box-sizing:border-box;display:block;padding:0 10px;white-space:nowrap;width:100%}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button{height:1.5em;line-height:1.5em;width:1.5em}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page{order:2;text-align:center}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page .bespoke-marp-presenter-info-page-text{display:inline-block;min-width:120px;text-align:center}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-time{color:#999;order:1;text-align:left}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer{color:#999;order:3;text-align:right}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer:hover{cursor:pointer}}@media print{.bespoke-marp-presenter-info-container,.bespoke-marp-presenter-next-container,.bespoke-marp-presenter-note-container{display:none}}</style><style>div#\:\$p>svg>foreignObject>section{width:1280px;height:720px;box-sizing:border-box;overflow:hidden;position:relative;scroll-snap-align:center center}div#\:\$p>svg>foreignObject>section:after{bottom:0;content:attr(data-marpit-pagination);padding:inherit;pointer-events:none;position:absolute;right:0}div#\:\$p>svg>foreignObject>section:not([data-marpit-pagination]):after{display:none}/* Normalization */div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){font-size:2em;margin:0.67em 0}div#\:\$p>svg>foreignObject>section video::-webkit-media-controls{will-change:transform}@page{size:1280px 720px;margin:0}@media print{body,html{background-color:#fff;margin:0;page-break-inside:avoid;break-inside:avoid-page}div#\:\$p>svg>foreignObject>section{page-break-before:always;break-before:page}div#\:\$p>svg>foreignObject>section,div#\:\$p>svg>foreignObject>section *{-webkit-print-color-adjust:exact!important;animation-delay:0s!important;animation-duration:0s!important;color-adjust:exact!important;transition:none!important}div#\:\$p>svg[data-marpit-svg]{display:block;height:100vh;width:100vw}}div#\:\$p>svg>foreignObject>:where(section){container-type:size}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]{direction:ltr}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]>svg{overflow:visible;min-height:1px;min-width:1px}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]>svg a{fill:blue;stroke:blue}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][display=true]{display:block;text-align:center;margin:1em 0}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][display=true][width=full]{display:flex}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][justify=left]{text-align:left}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][justify=right]{text-align:right}div#\:\$p>svg>foreignObject>section g[data-mml-node=merror]>g{fill:red;stroke:red}div#\:\$p>svg>foreignObject>section g[data-mml-node=merror]>rect[data-background]{fill:yellow;stroke:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>line[data-line],div#\:\$p>svg>foreignObject>section svg[data-table]>g>line[data-line]{stroke-width:70px;fill:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>rect[data-frame],div#\:\$p>svg>foreignObject>section svg[data-table]>g>rect[data-frame]{stroke-width:70px;fill:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>.mjx-dashed,div#\:\$p>svg>foreignObject>section svg[data-table]>g>.mjx-dashed{stroke-dasharray:140}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>.mjx-dotted,div#\:\$p>svg>foreignObject>section svg[data-table]>g>.mjx-dotted{stroke-linecap:round;stroke-dasharray:0,140}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>g>svg{overflow:visible}div#\:\$p>svg>foreignObject>section [jax=SVG] mjx-tool{display:inline-block;position:relative;width:0;height:0}div#\:\$p>svg>foreignObject>section [jax=SVG] mjx-tool>mjx-tip{position:absolute;top:0;left:0}div#\:\$p>svg>foreignObject>section mjx-tool>mjx-tip{display:inline-block;padding:.2em;border:1px solid #888;font-size:70%;background-color:#F8F8F8;color:black;box-shadow:2px 2px 5px #AAAAAA}div#\:\$p>svg>foreignObject>section g[data-mml-node=maction][data-toggle]{cursor:pointer}div#\:\$p>svg>foreignObject>section mjx-status{display:block;position:fixed;left:1em;bottom:1em;min-width:25%;padding:.2em .4em;border:1px solid #888;font-size:90%;background-color:#F8F8F8;color:black}div#\:\$p>svg>foreignObject>section foreignObject[data-mjx-xml]{font-family:initial;line-height:normal;overflow:visible}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] path[data-c],div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] use[data-c]{stroke-width:3}@media print{div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] path[data-c],div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] use[data-c]{stroke-width:0}}div#\:\$p>svg>foreignObject>section img[data-marp-twemoji]{background:transparent;height:1em;margin:0 .05em 0 .1em;vertical-align:-.1em;width:1em}
+/*!
+ * Marp default theme.
+ *
+ * @theme default
+ * @author Yuki Hattori
+ *
+ * @auto-scaling true
+ * @size 16:9 1280px 720px
+ * @size 4:3 960px 720px
+ */div#\:\$p>svg>foreignObject>section,div#\:\$p>svg>foreignObject>section [data-theme=light]{--color-prettylights-syntax-comment:#6e7781;--color-prettylights-syntax-constant:#0550ae;--color-prettylights-syntax-entity:#6639ba;--color-prettylights-syntax-storage-modifier-import:#24292f;--color-prettylights-syntax-entity-tag:#116329;--color-prettylights-syntax-keyword:#cf222e;--color-prettylights-syntax-string:#0a3069;--color-prettylights-syntax-variable:#953800;--color-prettylights-syntax-brackethighlighter-unmatched:#82071e;--color-prettylights-syntax-invalid-illegal-text:#f6f8fa;--color-prettylights-syntax-invalid-illegal-bg:#82071e;--color-prettylights-syntax-carriage-return-text:#f6f8fa;--color-prettylights-syntax-carriage-return-bg:#cf222e;--color-prettylights-syntax-string-regexp:#116329;--color-prettylights-syntax-markup-list:#3b2300;--color-prettylights-syntax-markup-heading:#0550ae;--color-prettylights-syntax-markup-italic:#24292f;--color-prettylights-syntax-markup-bold:#24292f;--color-prettylights-syntax-markup-deleted-text:#82071e;--color-prettylights-syntax-markup-deleted-bg:#ffebe9;--color-prettylights-syntax-markup-inserted-text:#116329;--color-prettylights-syntax-markup-inserted-bg:#dafbe1;--color-prettylights-syntax-markup-changed-text:#953800;--color-prettylights-syntax-markup-changed-bg:#ffd8b5;--color-prettylights-syntax-markup-ignored-text:#eaeef2;--color-prettylights-syntax-markup-ignored-bg:#0550ae;--color-prettylights-syntax-meta-diff-range:#8250df;--color-prettylights-syntax-brackethighlighter-angle:#57606a;--color-prettylights-syntax-sublimelinter-gutter-mark:#8c959f;--color-prettylights-syntax-constant-other-reference-link:#0a3069;--color-fg-default:#1f2328;--color-fg-muted:#656d76;--color-fg-subtle:#6e7781;--color-canvas-default:#fff;--color-canvas-subtle:#f6f8fa;--color-border-default:#d0d7de;--color-border-muted:#d8dee4;--color-neutral-muted:rgba(175,184,193,.2);--color-accent-fg:#0969da;--color-accent-emphasis:#0969da;--color-attention-subtle:#fff8c5;--color-danger-fg:#d1242f;color-scheme:light}div#\:\$p>svg>foreignObject>section [data-theme=dark],div#\:\$p>svg>foreignObject>section:where(.invert){--color-prettylights-syntax-comment:#8b949e;--color-prettylights-syntax-constant:#79c0ff;--color-prettylights-syntax-entity:#d2a8ff;--color-prettylights-syntax-storage-modifier-import:#c9d1d9;--color-prettylights-syntax-entity-tag:#7ee787;--color-prettylights-syntax-keyword:#ff7b72;--color-prettylights-syntax-string:#a5d6ff;--color-prettylights-syntax-variable:#ffa657;--color-prettylights-syntax-brackethighlighter-unmatched:#f85149;--color-prettylights-syntax-invalid-illegal-text:#f0f6fc;--color-prettylights-syntax-invalid-illegal-bg:#8e1519;--color-prettylights-syntax-carriage-return-text:#f0f6fc;--color-prettylights-syntax-carriage-return-bg:#b62324;--color-prettylights-syntax-string-regexp:#7ee787;--color-prettylights-syntax-markup-list:#f2cc60;--color-prettylights-syntax-markup-heading:#1f6feb;--color-prettylights-syntax-markup-italic:#c9d1d9;--color-prettylights-syntax-markup-bold:#c9d1d9;--color-prettylights-syntax-markup-deleted-text:#ffdcd7;--color-prettylights-syntax-markup-deleted-bg:#67060c;--color-prettylights-syntax-markup-inserted-text:#aff5b4;--color-prettylights-syntax-markup-inserted-bg:#033a16;--color-prettylights-syntax-markup-changed-text:#ffdfb6;--color-prettylights-syntax-markup-changed-bg:#5a1e02;--color-prettylights-syntax-markup-ignored-text:#c9d1d9;--color-prettylights-syntax-markup-ignored-bg:#1158c7;--color-prettylights-syntax-meta-diff-range:#d2a8ff;--color-prettylights-syntax-brackethighlighter-angle:#8b949e;--color-prettylights-syntax-sublimelinter-gutter-mark:#484f58;--color-prettylights-syntax-constant-other-reference-link:#a5d6ff;--color-fg-default:#e6edf3;--color-fg-muted:#7d8590;--color-fg-subtle:#6e7681;--color-canvas-default:#0d1117;--color-canvas-subtle:#161b22;--color-border-default:#30363d;--color-border-muted:#21262d;--color-neutral-muted:hsla(215,8%,47%,.4);--color-accent-fg:#2f81f7;--color-accent-emphasis:#1f6feb;--color-attention-subtle:rgba(187,128,9,.15);--color-danger-fg:#f85149;color-scheme:dark}div#\:\$p>svg>foreignObject>section{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;word-wrap:break-word;background-color:var(--color-canvas-default);color:var(--color-fg-default);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:16px;line-height:1.5;margin:0}div#\:\$p>svg>foreignObject>section{--marpit-root-font-size:16px}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor .octicon-link:before{background-color:currentColor;content:" ";display:inline-block;height:16px;-webkit-mask-image:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 0 1 0-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 4.95 4.95l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83 0z"/></svg>');mask-image:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 0 1 0-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 4.95 4.95l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83 0z"/></svg>');width:16px}div#\:\$p>svg>foreignObject>section details,div#\:\$p>svg>foreignObject>section figcaption,div#\:\$p>svg>foreignObject>section figure{display:block}div#\:\$p>svg>foreignObject>section summary{display:list-item}div#\:\$p>svg>foreignObject>section [hidden]{display:none!important}div#\:\$p>svg>foreignObject>section a{background-color:transparent;color:var(--color-accent-fg);text-decoration:none}div#\:\$p>svg>foreignObject>section abbr[title]{border-bottom:none;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}div#\:\$p>svg>foreignObject>section b,div#\:\$p>svg>foreignObject>section strong{font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section dfn{font-style:italic}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){border-bottom:1px solid var(--color-border-muted);font-size:2em;font-weight:var(--base-text-weight-semibold,600);margin:.67em 0;padding-bottom:.3em}div#\:\$p>svg>foreignObject>section mark{background-color:var(--color-attention-subtle);color:var(--color-fg-default)}div#\:\$p>svg>foreignObject>section small{font-size:90%}div#\:\$p>svg>foreignObject>section sub,div#\:\$p>svg>foreignObject>section sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}div#\:\$p>svg>foreignObject>section sub{bottom:-.25em}div#\:\$p>svg>foreignObject>section sup{top:-.5em}div#\:\$p>svg>foreignObject>section img{background-color:var(--color-canvas-default);border-style:none;box-sizing:content-box;max-width:100%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section kbd,div#\:\$p>svg>foreignObject>section samp{font-family:monospace;font-size:1em}div#\:\$p>svg>foreignObject>section figure{margin:1em 40px}div#\:\$p>svg>foreignObject>section hr{background:transparent;background-color:var(--color-border-default);border:0;box-sizing:content-box;height:.25em;margin:24px 0;overflow:hidden;padding:0}div#\:\$p>svg>foreignObject>section input{font:inherit;font-family:inherit;font-size:inherit;line-height:inherit;margin:0;overflow:visible}div#\:\$p>svg>foreignObject>section [type=button],div#\:\$p>svg>foreignObject>section [type=reset],div#\:\$p>svg>foreignObject>section [type=submit]{-webkit-appearance:button}div#\:\$p>svg>foreignObject>section [type=checkbox],div#\:\$p>svg>foreignObject>section [type=radio]{box-sizing:border-box;padding:0}div#\:\$p>svg>foreignObject>section [type=number]::-webkit-inner-spin-button,div#\:\$p>svg>foreignObject>section [type=number]::-webkit-outer-spin-button{height:auto}div#\:\$p>svg>foreignObject>section [type=search]::-webkit-search-cancel-button,div#\:\$p>svg>foreignObject>section [type=search]::-webkit-search-decoration{-webkit-appearance:none}div#\:\$p>svg>foreignObject>section ::-webkit-input-placeholder{color:inherit;opacity:.54}div#\:\$p>svg>foreignObject>section ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}div#\:\$p>svg>foreignObject>section a:hover{text-decoration:underline}div#\:\$p>svg>foreignObject>section ::-moz-placeholder{color:var(--color-fg-subtle);opacity:1}div#\:\$p>svg>foreignObject>section ::placeholder{color:var(--color-fg-subtle);opacity:1}div#\:\$p>svg>foreignObject>section hr:after,div#\:\$p>svg>foreignObject>section hr:before{content:"";display:table}div#\:\$p>svg>foreignObject>section hr:after{clear:both}div#\:\$p>svg>foreignObject>section table{border-collapse:collapse;border-spacing:0;display:block;max-width:100%;overflow:auto;width:-moz-max-content;width:max-content}div#\:\$p>svg>foreignObject>section td,div#\:\$p>svg>foreignObject>section th{padding:0}div#\:\$p>svg>foreignObject>section details summary{cursor:pointer}div#\:\$p>svg>foreignObject>section details:not([open])>:not(summary){display:none!important}div#\:\$p>svg>foreignObject>section [role=button]:focus,div#\:\$p>svg>foreignObject>section a:focus,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus,div#\:\$p>svg>foreignObject>section input[type=radio]:focus{box-shadow:none;outline:2px solid var(--color-accent-fg);outline-offset:-2px}div#\:\$p>svg>foreignObject>section [role=button]:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section a:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section input[type=radio]:focus:not(:focus-visible){outline:1px solid transparent}div#\:\$p>svg>foreignObject>section [role=button]:focus-visible,div#\:\$p>svg>foreignObject>section a:focus-visible,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus-visible,div#\:\$p>svg>foreignObject>section input[type=radio]:focus-visible{box-shadow:none;outline:2px solid var(--color-accent-fg);outline-offset:-2px}div#\:\$p>svg>foreignObject>section a:not([class]):focus,div#\:\$p>svg>foreignObject>section a:not([class]):focus-visible,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus-visible,div#\:\$p>svg>foreignObject>section input[type=radio]:focus,div#\:\$p>svg>foreignObject>section input[type=radio]:focus-visible{outline-offset:0}div#\:\$p>svg>foreignObject>section kbd{background-color:var(--color-canvas-subtle);border-bottom-color:var(--color-neutral-muted);border:1px solid var(--color-neutral-muted);border-radius:6px;box-shadow:inset 0 -1px 0 var(--color-neutral-muted);color:var(--color-fg-default);display:inline-block;font:11px ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:10px;padding:3px 5px;vertical-align:middle}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){font-weight:var(--base-text-weight-semibold,600);line-height:1.25;margin-bottom:16px;margin-top:24px}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){border-bottom:1px solid var(--color-border-muted);font-size:1.5em;padding-bottom:.3em}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-size:1.25em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4){font-size:1em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-size:.875em}div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){color:var(--color-fg-muted);font-size:.85em;font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section p{margin-bottom:10px;margin-top:0}div#\:\$p>svg>foreignObject>section blockquote{border-left:.25em solid var(--color-border-default);color:var(--color-fg-muted);margin:0;padding:0 1em}div#\:\$p>svg>foreignObject>section ol,div#\:\$p>svg>foreignObject>section ul{margin-bottom:0;margin-top:0;padding-left:2em}div#\:\$p>svg>foreignObject>section ol ol,div#\:\$p>svg>foreignObject>section ul ol{list-style-type:lower-roman}div#\:\$p>svg>foreignObject>section ol ol ol,div#\:\$p>svg>foreignObject>section ol ul ol,div#\:\$p>svg>foreignObject>section ul ol ol,div#\:\$p>svg>foreignObject>section ul ul ol{list-style-type:lower-alpha}div#\:\$p>svg>foreignObject>section dd{margin-left:0}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section samp,div#\:\$p>svg>foreignObject>section tt{font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;font-size:12px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){word-wrap:normal;margin-bottom:0;margin-top:0}div#\:\$p>svg>foreignObject>section .octicon{fill:currentColor;display:inline-block;overflow:visible!important;vertical-align:text-bottom}div#\:\$p>svg>foreignObject>section input::-webkit-inner-spin-button,div#\:\$p>svg>foreignObject>section input::-webkit-outer-spin-button{-webkit-appearance:none;appearance:none;margin:0}div#\:\$p>svg>foreignObject>section:after,div#\:\$p>svg>foreignObject>section:before{
+  /* content:""; */display:table}div#\:\$p>svg>foreignObject>section:after{clear:both}div#\:\$p>svg>foreignObject>section>:first-child{margin-top:0!important}div#\:\$p>svg>foreignObject>section>:last-child{margin-bottom:0!important}div#\:\$p>svg>foreignObject>section a:not([href]){color:inherit;text-decoration:none}div#\:\$p>svg>foreignObject>section .absent{color:var(--color-danger-fg)}div#\:\$p>svg>foreignObject>section .anchor{float:left;line-height:1;margin-left:-20px;padding-right:4px}div#\:\$p>svg>foreignObject>section .anchor:focus{outline:none}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section blockquote,div#\:\$p>svg>foreignObject>section details,div#\:\$p>svg>foreignObject>section dl,div#\:\$p>svg>foreignObject>section ol,div#\:\$p>svg>foreignObject>section p,div#\:\$p>svg>foreignObject>section table,div#\:\$p>svg>foreignObject>section ul{margin-bottom:16px;margin-top:0}div#\:\$p>svg>foreignObject>section blockquote>:first-child{margin-top:0}div#\:\$p>svg>foreignObject>section blockquote>:last-child{margin-bottom:0}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) .octicon-link{color:var(--color-fg-default);vertical-align:middle;visibility:hidden}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor{text-decoration:none}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor .octicon-link{visibility:visible}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) code,div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) tt,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) code,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) tt,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) code,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) tt,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) code,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) tt,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) code,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) tt,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) code,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) tt{font-size:inherit;padding:0 .2em}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section summary :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section summary :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section summary :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section summary :is(h6,marp-h6){display:inline-block}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h3,marp-h3) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h4,marp-h4) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h5,marp-h5) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h6,marp-h6) .anchor{margin-left:-40px}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2){border-bottom:0;padding-bottom:0}div#\:\$p>svg>foreignObject>section ol.no-list,div#\:\$p>svg>foreignObject>section ul.no-list{list-style-type:none;padding:0}div#\:\$p>svg>foreignObject>section ol[type="a s"]{list-style-type:lower-alpha}div#\:\$p>svg>foreignObject>section ol[type="A s"]{list-style-type:upper-alpha}div#\:\$p>svg>foreignObject>section ol[type="i s"]{list-style-type:lower-roman}div#\:\$p>svg>foreignObject>section ol[type="I s"]{list-style-type:upper-roman}div#\:\$p>svg>foreignObject>section div>ol:not([type]),div#\:\$p>svg>foreignObject>section ol[type="1"]{list-style-type:decimal}div#\:\$p>svg>foreignObject>section ol ol,div#\:\$p>svg>foreignObject>section ol ul,div#\:\$p>svg>foreignObject>section ul ol,div#\:\$p>svg>foreignObject>section ul ul{margin-bottom:0;margin-top:0}div#\:\$p>svg>foreignObject>section li>p{margin-top:16px}div#\:\$p>svg>foreignObject>section li+li{margin-top:.25em}div#\:\$p>svg>foreignObject>section dl{padding:0}div#\:\$p>svg>foreignObject>section dl dt{font-size:1em;font-style:italic;font-weight:var(--base-text-weight-semibold,600);margin-top:16px;padding:0}div#\:\$p>svg>foreignObject>section dl dd{margin-bottom:16px;padding:0 16px}div#\:\$p>svg>foreignObject>section table th{font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section table td,div#\:\$p>svg>foreignObject>section table th{border:1px solid var(--color-border-default);padding:6px 13px}div#\:\$p>svg>foreignObject>section table td>:last-child{margin-bottom:0}div#\:\$p>svg>foreignObject>section table tr{background-color:var(--color-canvas-default);border-top:1px solid var(--color-border-muted)}div#\:\$p>svg>foreignObject>section table tr:nth-child(2n){background-color:var(--color-canvas-subtle)}div#\:\$p>svg>foreignObject>section table img{background-color:transparent}div#\:\$p>svg>foreignObject>section img[align=right]{padding-left:20px}div#\:\$p>svg>foreignObject>section img[align=left]{padding-right:20px}div#\:\$p>svg>foreignObject>section .emoji{background-color:transparent;max-width:none;vertical-align:text-top}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame,div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame>:is(span,marp-span){display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame>:is(span,marp-span){border:1px solid var(--color-border-default);float:left;margin:13px 0 0;padding:7px;width:auto}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame :is(span,marp-span) img{display:block;float:left}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame :is(span,marp-span) :is(span,marp-span){clear:both;color:var(--color-fg-default);display:block;padding:5px 0 0}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center{clear:both;display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center>:is(span,marp-span){display:block;margin:13px auto 0;overflow:hidden;text-align:center}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center :is(span,marp-span) img{margin:0 auto;text-align:center}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right{clear:both;display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right>:is(span,marp-span){display:block;margin:13px 0 0;overflow:hidden;text-align:right}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right :is(span,marp-span) img{margin:0;text-align:right}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-left{display:block;float:left;margin-right:13px;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-left :is(span,marp-span){margin:13px 0 0}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-right{display:block;float:right;margin-left:13px;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-right>:is(span,marp-span){display:block;margin:13px auto 0;overflow:hidden;text-align:right}div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section tt{background-color:var(--color-neutral-muted);border-radius:6px;font-size:85%;margin:0;padding:.2em .4em;white-space:break-spaces}div#\:\$p>svg>foreignObject>section code br,div#\:\$p>svg>foreignObject>section tt br{display:none}div#\:\$p>svg>foreignObject>section del code{text-decoration:inherit}div#\:\$p>svg>foreignObject>section samp{font-size:85%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) code{font-size:100%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre)>code{background:transparent;border:0;margin:0;padding:0;white-space:pre;word-break:normal}div#\:\$p>svg>foreignObject>section .highlight{margin-bottom:16px}div#\:\$p>svg>foreignObject>section .highlight :is(pre,marp-pre){margin-bottom:0;word-break:normal}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){background-color:var(--color-canvas-subtle);border-radius:6px;color:var(--color-fg-default);font-size:85%;line-height:1.45;overflow:auto;padding:16px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) code,div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) tt{word-wrap:normal;background-color:transparent;border:0;display:inline;line-height:inherit;margin:0;max-width:auto;overflow:visible;padding:0}div#\:\$p>svg>foreignObject>section .csv-data td,div#\:\$p>svg>foreignObject>section .csv-data th{font-size:12px;line-height:1;overflow:hidden;padding:5px;text-align:left;white-space:nowrap}div#\:\$p>svg>foreignObject>section .csv-data .blob-num{background:var(--color-canvas-default);border:0;padding:10px 8px 9px;text-align:right}div#\:\$p>svg>foreignObject>section .csv-data tr{border-top:0}div#\:\$p>svg>foreignObject>section .csv-data th{background:var(--color-canvas-subtle);border-top:0;font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section [data-footnote-ref]:before{content:"["}div#\:\$p>svg>foreignObject>section [data-footnote-ref]:after{content:"]"}div#\:\$p>svg>foreignObject>section .footnotes{border-top:1px solid var(--color-border-default);color:var(--color-fg-muted);font-size:12px}div#\:\$p>svg>foreignObject>section div#\:\$p>svg>foreignObject>section section.footnotes{--marpit-root-font-size:12px}div#\:\$p>svg>foreignObject>section .footnotes ol{padding-left:16px}div#\:\$p>svg>foreignObject>section .footnotes ol ul{display:inline-block;margin-top:16px;padding-left:16px}div#\:\$p>svg>foreignObject>section .footnotes li{position:relative}div#\:\$p>svg>foreignObject>section .footnotes li:target:before{border:2px solid var(--color-accent-emphasis);border-radius:6px;bottom:-8px;content:"";left:-24px;pointer-events:none;position:absolute;right:-8px;top:-8px}div#\:\$p>svg>foreignObject>section .footnotes li:target{color:var(--color-fg-default)}div#\:\$p>svg>foreignObject>section .footnotes .data-footnote-backref g-emoji{font-family:monospace}div#\:\$p>svg>foreignObject>section .pl-c{color:var(--color-prettylights-syntax-comment)}div#\:\$p>svg>foreignObject>section .pl-c1,div#\:\$p>svg>foreignObject>section .pl-s .pl-v{color:var(--color-prettylights-syntax-constant)}div#\:\$p>svg>foreignObject>section .pl-e,div#\:\$p>svg>foreignObject>section .pl-en{color:var(--color-prettylights-syntax-entity)}div#\:\$p>svg>foreignObject>section .pl-s .pl-s1,div#\:\$p>svg>foreignObject>section .pl-smi{color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section .pl-ent{color:var(--color-prettylights-syntax-entity-tag)}div#\:\$p>svg>foreignObject>section .pl-k{color:var(--color-prettylights-syntax-keyword)}div#\:\$p>svg>foreignObject>section .pl-pds,div#\:\$p>svg>foreignObject>section .pl-s,div#\:\$p>svg>foreignObject>section .pl-s .pl-pse .pl-s1,div#\:\$p>svg>foreignObject>section .pl-sr,div#\:\$p>svg>foreignObject>section .pl-sr .pl-cce,div#\:\$p>svg>foreignObject>section .pl-sr .pl-sra,div#\:\$p>svg>foreignObject>section .pl-sr .pl-sre{color:var(--color-prettylights-syntax-string)}div#\:\$p>svg>foreignObject>section .pl-smw,div#\:\$p>svg>foreignObject>section .pl-v{color:var(--color-prettylights-syntax-variable)}div#\:\$p>svg>foreignObject>section .pl-bu{color:var(--color-prettylights-syntax-brackethighlighter-unmatched)}div#\:\$p>svg>foreignObject>section .pl-ii{background-color:var(--color-prettylights-syntax-invalid-illegal-bg);color:var(--color-prettylights-syntax-invalid-illegal-text)}div#\:\$p>svg>foreignObject>section .pl-c2{background-color:var(--color-prettylights-syntax-carriage-return-bg);color:var(--color-prettylights-syntax-carriage-return-text)}div#\:\$p>svg>foreignObject>section .pl-sr .pl-cce{color:var(--color-prettylights-syntax-string-regexp);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-ml{color:var(--color-prettylights-syntax-markup-list)}div#\:\$p>svg>foreignObject>section .pl-mh,div#\:\$p>svg>foreignObject>section .pl-mh .pl-en,div#\:\$p>svg>foreignObject>section .pl-ms{color:var(--color-prettylights-syntax-markup-heading);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-mi{color:var(--color-prettylights-syntax-markup-italic);font-style:italic}div#\:\$p>svg>foreignObject>section .pl-mb{color:var(--color-prettylights-syntax-markup-bold);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-md{background-color:var(--color-prettylights-syntax-markup-deleted-bg);color:var(--color-prettylights-syntax-markup-deleted-text)}div#\:\$p>svg>foreignObject>section .pl-mi1{background-color:var(--color-prettylights-syntax-markup-inserted-bg);color:var(--color-prettylights-syntax-markup-inserted-text)}div#\:\$p>svg>foreignObject>section .pl-mc{background-color:var(--color-prettylights-syntax-markup-changed-bg);color:var(--color-prettylights-syntax-markup-changed-text)}div#\:\$p>svg>foreignObject>section .pl-mi2{background-color:var(--color-prettylights-syntax-markup-ignored-bg);color:var(--color-prettylights-syntax-markup-ignored-text)}div#\:\$p>svg>foreignObject>section .pl-mdr{color:var(--color-prettylights-syntax-meta-diff-range);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-ba{color:var(--color-prettylights-syntax-brackethighlighter-angle)}div#\:\$p>svg>foreignObject>section .pl-sg{color:var(--color-prettylights-syntax-sublimelinter-gutter-mark)}div#\:\$p>svg>foreignObject>section .pl-corl{color:var(--color-prettylights-syntax-constant-other-reference-link);text-decoration:underline}div#\:\$p>svg>foreignObject>section g-emoji{display:inline-block;font-family:Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:1em;font-style:normal!important;font-weight:var(--base-text-weight-normal,400);line-height:1;min-width:1ch;vertical-align:-.075em}div#\:\$p>svg>foreignObject>section g-emoji img{height:1em;width:1em}div#\:\$p>svg>foreignObject>section .task-list-item{list-style-type:none}div#\:\$p>svg>foreignObject>section .task-list-item label{font-weight:var(--base-text-weight-normal,400)}div#\:\$p>svg>foreignObject>section .task-list-item.enabled label{cursor:pointer}div#\:\$p>svg>foreignObject>section .task-list-item+.task-list-item{margin-top:4px}div#\:\$p>svg>foreignObject>section .task-list-item .handle{display:none}div#\:\$p>svg>foreignObject>section .task-list-item-checkbox{margin:0 .2em .25em -1.4em;vertical-align:middle}div#\:\$p>svg>foreignObject>section .contains-task-list:dir(rtl) .task-list-item-checkbox{margin:0 -1.6em .25em .2em}div#\:\$p>svg>foreignObject>section .contains-task-list{position:relative}div#\:\$p>svg>foreignObject>section .contains-task-list:focus-within .task-list-item-convert-container,div#\:\$p>svg>foreignObject>section .contains-task-list:hover .task-list-item-convert-container{clip:auto;display:block;height:24px;overflow:visible;width:auto}div#\:\$p>svg>foreignObject>section ::-webkit-calendar-picker-indicator{filter:invert(50%)}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){color:var(--h1-color);font-size:1.6em}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){border-bottom:none}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){font-size:1.3em}div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-size:1.1em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4){font-size:1.05em}div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-size:1em}div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){font-size:.9em}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) strong,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) strong,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) strong,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) strong,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) strong,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) strong{color:var(--heading-strong-color);font-weight:inherit}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h4,marp-h4)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h6,marp-h6)::part(auto-scaling){max-height:563px}div#\:\$p>svg>foreignObject>section hr{height:0;padding-top:.25em}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){border:1px solid var(--color-border-default);line-height:1.15;overflow:visible}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre)::part(auto-scaling){max-height:529px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs){color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-doctag),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-keyword),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta .hljs-keyword),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-template-tag),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-template-variable),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-type),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-variable.language_){color:var(--color-prettylights-syntax-keyword)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.class_),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.class_.inherited__),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.function_){color:var(--color-prettylights-syntax-entity)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-attr),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-attribute),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-literal),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-number),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-operator),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-attr),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-class),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-id),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-variable){color:var(--color-prettylights-syntax-constant)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta .hljs-string),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-regexp),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-string){color:var(--color-prettylights-syntax-string)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-built_in),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-symbol){color:var(--color-prettylights-syntax-variable)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-code),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-comment),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-formula){color:var(--color-prettylights-syntax-comment)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-name),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-quote),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-pseudo),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-tag){color:var(--color-prettylights-syntax-entity-tag)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-subst){color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-section){color:var(--color-prettylights-syntax-markup-heading);font-weight:700}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-bullet){color:var(--color-prettylights-syntax-markup-list)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-emphasis){color:var(--color-prettylights-syntax-markup-italic);font-style:italic}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-strong){color:var(--color-prettylights-syntax-markup-bold);font-weight:700}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-addition){background-color:var(--color-prettylights-syntax-markup-inserted-bg);color:var(--color-prettylights-syntax-markup-inserted-text)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-deletion){background-color:var(--color-prettylights-syntax-markup-deleted-bg);color:var(--color-prettylights-syntax-markup-deleted-text)}div#\:\$p>svg>foreignObject>section footer,div#\:\$p>svg>foreignObject>section header{color:var(--header-footer-color);font-size:18px;left:30px;margin:0;position:absolute}div#\:\$p>svg>foreignObject>section header{top:21px}div#\:\$p>svg>foreignObject>section footer{bottom:21px}div#\:\$p>svg>foreignObject>section{--h1-color:#246;--header-footer-color:hsla(0,0%,40%,.75);--heading-strong-color:#48c;--paginate-color:#777;align-items:stretch;display:flex;flex-flow:column nowrap;font-size:29px;height:720px;justify-content:center;padding:78.5px;width:1280px}div#\:\$p>svg>foreignObject>section{--marpit-root-font-size:29px}div#\:\$p>svg>foreignObject>section:where(.invert){--h1-color:#cee7ff;--header-footer-color:hsla(0,0%,60%,.75);--heading-strong-color:#7bf;--paginate-color:#999}div#\:\$p>svg>foreignObject>section>:last-child,div#\:\$p>svg>foreignObject>section[data-footer]>:nth-last-child(2){margin-bottom:0}div#\:\$p>svg>foreignObject>section>:first-child,div#\:\$p>svg>foreignObject>section>header:first-child+*{margin-top:0}div#\:\$p>svg>foreignObject>section:after{bottom:21px;color:var(--paginate-color);font-size:24px;padding:0;position:absolute;right:30px}div#\:\$p>svg>foreignObject>section:after{--marpit-root-font-size:24px}div#\:\$p>svg>foreignObject>section[data-color] :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section[data-color] :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section[data-color] :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section[data-color] :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section[data-color] :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section[data-color] :is(h6,marp-h6){color:currentcolor}div#\:\$p>svg>foreignObject>section{width:1280px;height:720px}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]{columns:initial!important;display:block!important;padding:0!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]:after,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]:before,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content]:after,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content]:before{display:none!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]{all:initial;display:flex;flex-direction:row;height:100%;overflow:hidden;width:100%}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container][data-marpit-advanced-background-direction=vertical]{flex-direction:column}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split]>div[data-marpit-advanced-background-container]{width:var(--marpit-advanced-background-split,50%)}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split=right]>div[data-marpit-advanced-background-container]{margin-left:calc(100% - var(--marpit-advanced-background-split, 50%))}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]>figure{all:initial;background-position:center;background-repeat:no-repeat;background-size:cover;flex:auto;margin:0}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]>figure>figcaption{position:absolute;border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;white-space:nowrap;width:1px}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content],div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=pseudo]{background:transparent!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=pseudo],div#\:\$p>svg[data-marpit-svg]>foreignObject[data-marpit-advanced-background=pseudo]{pointer-events:none!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background-split]{width:100%;height:100%}</style></head><body><div class="bespoke-marp-osc"><button data-bespoke-marp-osc="prev" tabindex="-1" title="Previous slide">Previous slide</button><span data-bespoke-marp-osc="page"></span><button data-bespoke-marp-osc="next" tabindex="-1" title="Next slide">Next slide</button><button data-bespoke-marp-osc="fullscreen" tabindex="-1" title="Toggle fullscreen (f)">Toggle fullscreen</button><button data-bespoke-marp-osc="presenter" tabindex="-1" title="Open presenter view (p)">Open presenter view</button></div><div id=":$p"><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="1" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="lead" data-theme="default" class="lead" data-marpit-pagination="1" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:lead;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h1 id="15-vision">1.5 Vision</h1>
+<h3 id="ap-business-with-personal-finance--unit-1">AP Business with Personal Finance · Unit 1</h3>
+<p>Lesson deck — <strong>concepts + practice</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="2" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="2" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="todays-goals">Today's goals</h2>
+<p>By the end of this lesson you can:</p>
+<ol>
+<li>Distinguish between <strong>core values</strong> and <strong>core competencies</strong>, and explain how each shapes business and personal decisions</li>
+<li>Evaluate <strong>vision statements</strong> and <strong>mission statements</strong> — and tell them apart</li>
+<li>Classify organizations as <strong>businesses</strong>, <strong>social enterprises</strong>, or <strong>nonprofits</strong></li>
+</ol>
+<p><strong>Running story continues:</strong> the snack box is three weeks old, and <strong>two offers</strong> arrive in the same week that the cash box can't decide between.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="3" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-two-offers">The two offers</h2>
+<p>The snack box has regulars — then one week brings <strong>two offers:</strong></p>
+<ol>
+<li>A parent offers to <strong>bankroll a candy-only mega cart</strong>: double the inventory, double the margin — but <strong>the fruit the families asked for would have to go</strong></li>
+<li>The league asks him to take over the <strong>far field's snack table</strong> — a bigger job that <strong>pays less at first</strong> and runs entirely on trust</li>
+</ol>
+<p>One pair of hands, one Saturday, two doors.</p>
+<blockquote>
+<p><strong>Nothing in his cash box answers this</strong>, because it's a decision about <strong>what the business is <em>for</em></strong> and <strong>what it is <em>best at</em></strong> — not about the arithmetic.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="4" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="core-values--definition">Core values — definition</h2>
+<p><strong>Core values</strong> = the <strong>defining beliefs and principles</strong> that guide an individual's or a business's actions.</p>
+<p>Examples: creativity, excellence, transparency, empathy, reliability.</p>
+<p>He writes three on the <strong>lid of his cooler:</strong></p>
+<ul>
+<li><em>Show up on time</em></li>
+<li><em>Listen to the families</em></li>
+<li><em>Keep prices fair</em></li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="5" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="why-communicate-core-values">Why communicate core values?</h2>
+<p>Businesses communicate core values for <strong>two reasons:</strong></p>
+<ol>
+<li><strong>Align employees</strong> to a shared purpose</li>
+<li><strong>Guide decision makers</strong> toward choices consistent with what the business believes</li>
+</ol>
+<blockquote>
+<p>His cousin helps on Saturdays, and <strong>the cooler lid is how the cousin makes the right call when nobody's watching.</strong> That's the job values do: <strong>turn one person's judgment into the whole team's default.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="6" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="testing-a-stated-value">Testing a stated value</h2>
+<p><strong>Run the mega cart past the lid:</strong> double margin, but the fruit goes — and the families asked for that fruit two weeks ago.</p>
+<p>The cart <strong>fails &quot;listen to the families&quot; before the math even starts.</strong></p>
+<blockquote>
+<p><strong>A value the business abandons the first time money appears was a decoration.</strong> Test any stated value by asking: <strong>what did it cost the business at the last real decision?</strong></p>
+</blockquote>
+<ul>
+<li>Transparency → what goes on the label?</li>
+<li>Empathy → how a refund is handled?</li>
+<li>Excellence → whether a flawed batch ships?</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="7" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="core-competencies--definition">Core competencies — definition</h2>
+<p><strong>Core competencies</strong> = the <strong>capabilities, skills, and expertise</strong> that help an individual or a business <strong>outperform rivals and achieve competitive advantage.</strong></p>
+<p>Examples: innovation, customer service, communication, ethical behavior, efficiency.</p>
+<p>His list:</p>
+<ul>
+<li>The <strong>pre-order system</strong> in the group chat (nobody else takes orders before game day)</li>
+<li>The <strong>halftime handoff</strong> (one minute per team)</li>
+<li>A <strong>reputation for showing up</strong> (carried from the hallway in 1.1)</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="8" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="core-value-vs-core-competency">Core value vs. core competency</h2>
+<p><strong>The pair the exam loves to swap — pin the difference now:</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Core <strong>value</strong></th>
+<th>Core <strong>competency</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>It is…</td>
+<td>what the business <strong>believes</strong></td>
+<td>what the business <strong>is good at</strong></td>
+</tr>
+<tr>
+<td>Example</td>
+<td>Reliability on the cooler lid (a belief he enforces)</td>
+<td>The 60-second handoff (a skill he built)</td>
+</tr>
+<tr>
+<td>Scenario signal</td>
+<td>&quot;Believes&quot;</td>
+<td>&quot;Good at&quot;</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>A value is what the business <em>believes</em>; a competency is what it is <em>good at</em>.</strong> Speed is a <strong>built skill</strong> → competency.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="9" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="competencies-feed-competitive-advantage">Competencies feed competitive advantage</h2>
+<p><strong>Competitive advantage</strong> (from 1.2) = the edge that lets one win customers from a rival.</p>
+<p><strong>Core competencies feed that edge.</strong> A differentiated product, a lower cost, a faster service — trace an advantage backward and you usually find <strong>a capability somebody developed.</strong></p>
+<blockquote>
+<p><strong>Rule of thumb:</strong> pursue the opportunities your <strong>strengths can win</strong>, and spend resources where those strengths <strong>compound.</strong></p>
+</blockquote>
+<p>The far-field table leans on his logistics + reputation; the mega cart leans mostly on <strong>someone else's money.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="10" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="values-and-competencies-for-individuals">Values and competencies for individuals</h2>
+<p>The same tool points at <strong>you.</strong> Individuals consider their own core values and core competencies when choosing <strong>educational paths, careers, and jobs.</strong></p>
+<ul>
+<li>A student who values <strong>independence</strong> and is skilled with <strong>systems</strong> reads one set of options</li>
+<li>A student who values <strong>service</strong> and is skilled with <strong>people</strong> reads another</li>
+</ul>
+<blockquote>
+<p><strong>Two job offers:</strong> one pays <strong>20% more</strong> but demands weekend hours that collide with something you refuse to give up; the other pays <strong>less</strong> but builds a skill already on your strengths list.</p>
+</blockquote>
+<blockquote>
+<p><strong>Knowing your list before the offer arrives is the entire advantage.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="11" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="vision-statement--definition">Vision statement — definition</h2>
+<p><strong>Vision statement</strong> = a concise description of the <strong>future</strong> the business is trying to create — its <strong>aspirations</strong> and <strong>core values</strong>.</p>
+<blockquote>
+<p>His vision: <strong>&quot;Game days where no family scrambles.&quot;</strong></p>
+</blockquote>
+<ul>
+<li>Describes <strong>no operations</strong> — just a future worth wanting</li>
+<li>The <strong>aspiration</strong>, not the work</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="12" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="mission-statement--definition">Mission statement — definition</h2>
+<p><strong>Mission statement</strong> = describes <strong>what the business does</strong> and <strong>how</strong> it will achieve its long-term goals.</p>
+<blockquote>
+<p>His mission: <strong>&quot;Deliver pre-ordered snack boxes to every team by halftime, reliably, at prices families can trust.&quot;</strong></p>
+</blockquote>
+<ul>
+<li>Describes <strong>the work</strong> — what it does + how</li>
+<li>The <strong>operation</strong>, not the aspiration</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="13" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="vision-vs-mission--the-test">Vision vs. mission — the test</h2>
+<p><strong>Test any statement with one question:</strong> does it describe a <strong>future worth wanting</strong>, or does it describe <strong>the work</strong>?</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th><strong>Vision statement</strong></th>
+<th><strong>Mission statement</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Describes</td>
+<td>the <strong>future</strong> the business is trying to create</td>
+<td><strong>what the business does</strong> and <strong>how</strong></td>
+</tr>
+<tr>
+<td>In one word</td>
+<td>Aspiration</td>
+<td>Operation</td>
+</tr>
+<tr>
+<td>Scenario signal</td>
+<td>&quot;Aspires&quot; (a future worth wanting)</td>
+<td>&quot;Does and how&quot; (the work)</td>
+</tr>
+</tbody>
+</table>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="14" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="classify-by-content--not-by-label">Classify by content — not by label</h2>
+<blockquote>
+<p><strong>&quot;A city where every student graduates ready&quot;</strong> → no operations, all aspiration → <strong>vision.</strong></p>
+<p><strong>&quot;We provide afterschool math tutoring in three neighborhoods, priced by family income&quot;</strong> → what it does + how → <strong>mission.</strong></p>
+</blockquote>
+<p><strong>The labels are unreliable:</strong> the words &quot;vision&quot; and &quot;mission&quot; rarely appear inside the statements themselves — <strong>classify by content.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="15" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="why-vision-and-mission-matter--internally">Why vision and mission matter — internally</h2>
+<p>These statements earn their space <strong>twice.</strong> Inside the business:</p>
+<ul>
+<li>Communicate long-term goals + core values</li>
+<li>Guide decision making</li>
+<li>Give everyone a shared purpose</li>
+</ul>
+<blockquote>
+<p><strong>The cooler-lid test:</strong> the snack box's vision (&quot;Game days where no family scrambles&quot;) tells the cousin what to do when nobody's watching — that's the internal job.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="16" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="why-vision-and-mission-matter--externally">Why vision and mission matter — externally</h2>
+<p>Outside the business, vision and mission statements <strong>earn trust before a single transaction:</strong></p>
+<ul>
+<li><strong>Customers</strong> read the mission and learn what the business stands for without buying first</li>
+<li><strong>Investors and partners</strong> evaluate alignment with their own goals before committing resources</li>
+<li><strong>Community members</strong> gauge whether the business shares their values</li>
+</ul>
+<blockquote>
+<p>The mission does the work <strong>before the first sale.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="17" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="vision-and-mission--the-snack-box-test">Vision and mission — the snack box test</h2>
+<blockquote>
+<p>When the wholesale parent reads the snack box's mission — <em>&quot;Deliver pre-ordered snack boxes to every team by halftime, reliably, at prices families can trust&quot;</em> — <strong>he learns the fruit stays.</strong></p>
+</blockquote>
+<p>He doesn't need to buy a single bag first. He doesn't need to watch a Saturday.</p>
+<p><strong>The statement told him what he needed to know.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="18" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-external-job--mission-before-the-first-sale">The external job — mission before the first sale</h2>
+<blockquote>
+<p><strong>That's the external job:</strong> the mission answers the question a customer or partner would otherwise have to ask by experience.</p>
+</blockquote>
+<p>A parent who reads the mission <strong>knows the fruit stays</strong> — without buying a single bag.<br />
+An investor who reads the vision <strong>knows the direction</strong> — without sitting in a single meeting.</p>
+<p><strong>The mission does the work before the first transaction.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="invert" data-theme="default" class="invert" data-marpit-pagination="19" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:invert;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h1 id="case-study--patagonia">Case study — Patagonia</h1>
+<p><strong>When a company actually lives its values.</strong></p>
+<p><img class="emoji" draggable="false" alt="🎬" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f3ac.svg" data-marp-twemoji=""/> <a href="https://www.youtube.com/watch?v=uiGL2UrRvTg">Values Rule — Patagonia</a> · <a href="https://www.youtube.com/watch?v=BapdfqBFw8Y">Mission-Driven Company</a></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="20" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia--the-statements">Patagonia — the statements</h2>
+<p>Founded 1973 by <strong>Yvon Chouinard</strong> — a climber who built gear for friends.</p>
+<table>
+<thead>
+<tr>
+<th>Statement</th>
+<th>Content</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vision</strong></td>
+<td><em>&quot;We're in business to save our home planet.&quot;</em></td>
+<td>Aspiration — no operations, a future worth wanting</td>
+</tr>
+<tr>
+<td><strong>Mission</strong></td>
+<td><em>&quot;Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.&quot;</em></td>
+<td>What + how — the work itself</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Run the test:</strong> one sentence describes a <strong>future</strong>; the other describes <strong>the work.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="21" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia--transparency-tested">Patagonia — transparency tested</h2>
+<ul>
+<li><strong>Transparency</strong> → published its own supply-chain failures publicly <strong>before anyone asked</strong></li>
+</ul>
+<p>The company released a report admitting that some suppliers used exploitative labor practices — then published its own plan to fix them. Most companies hide supply-chain problems; Patagonia <strong>volunteered</strong> them.</p>
+<blockquote>
+<p><strong>The cost:</strong> short-term reputation risk. <strong>The gain:</strong> long-term trust.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="22" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia--environmental-commitment-tested">Patagonia — environmental commitment tested</h2>
+<ul>
+<li><strong>Environmental commitment</strong> → ran a full-page ad on Black Friday: <em>&quot;Don't Buy This Jacket&quot;</em> — telling customers to <strong>buy less</strong></li>
+</ul>
+<p>On the biggest shopping day of the year, Patagonia told consumers <strong>not to buy its products</strong> unless they truly needed them. The ad listed the environmental cost of producing the jacket.</p>
+<blockquote>
+<p><strong>The cost:</strong> revenue from the biggest sales day of the year. <strong>The gain:</strong> a brand identity no competitor could copy.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="23" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia--quality-as-a-value">Patagonia — quality as a value</h2>
+<ul>
+<li><strong>Quality</strong> → offered <strong>free lifetime repairs</strong>, sacrificing repeat purchases</li>
+</ul>
+<blockquote>
+<p>The value said <em>&quot;build things that last&quot;</em> — not <em>&quot;build things that break on schedule so customers come back.&quot;</em></p>
+</blockquote>
+<p>A jacket that lasts fifteen years <strong>costs Patagonia fifteen years of replacement sales.</strong> The value held anyway.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="24" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-pattern--values-survived-contact-with-revenue">The pattern — values survived contact with revenue</h2>
+<p>Three tests. Three values. <strong>Every one cost money.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Value</th>
+<th>Decision</th>
+<th>Revenue impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Transparency</td>
+<td>Published own supply-chain failures</td>
+<td>Short-term reputation risk</td>
+</tr>
+<tr>
+<td>Environmental commitment</td>
+<td>&quot;Don't Buy This Jacket&quot; ad</td>
+<td>Told customers <strong>not to buy</strong></td>
+</tr>
+<tr>
+<td>Quality</td>
+<td>Free lifetime repairs</td>
+<td>Sacrificed repeat purchases</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Test any stated value by asking: what did it cost the business at the last real decision?</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="25" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-principle--values-vs-money">The principle — values vs. money</h2>
+<blockquote>
+<p><strong>A value the business abandons the first time money appears was a decoration.</strong></p>
+</blockquote>
+<p>Patagonia's values <strong>survived contact with revenue</strong> across every test — transparency, environmental commitment, and quality.</p>
+<p><strong>Ask yourself:</strong> does your snack box's cooler-lid list hold up the same way? If a parent offered to double the margin in exchange for cutting the fruit, would <em>&quot;listen to the families&quot;</em> survive?</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="26" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia--the-ultimate-test-2022">Patagonia — the ultimate test (2022)</h2>
+<p>In September 2022, Chouinard <strong>gave the company away:</strong></p>
+<ul>
+<li><strong>98%</strong> of shares → Holdfast Collective (<strong>a nonprofit</strong> fighting climate change)</li>
+<li><strong>2%</strong> → a trust ensuring the mission is enforced</li>
+<li><strong>All future profit</strong> → environmental causes, not owners</li>
+</ul>
+<blockquote>
+<p><em>&quot;Earth is now our only shareholder.&quot;</em></p>
+</blockquote>
+<p><strong>Ask:</strong> is Patagonia now a <strong>business</strong>, a <strong>social enterprise</strong>, or a <strong>nonprofit</strong>?</p>
+<blockquote>
+<p><strong>The decision tree:</strong> owners keep profit? → <strong>No</strong> (surplus → mission) → the structure moved <strong>past social enterprise into nonprofit territory</strong> — while the stores still sell jackets.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="27" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="patagonia-vs-seesaw--setup">Patagonia vs. Seesaw — setup</h2>
+<p><strong>Two specialty brands. Two relationships with their own vision.</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Patagonia</th>
+<th>Seesaw Coffee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stated vision</td>
+<td><em>&quot;Save our home planet&quot;</em></td>
+<td><em>&quot;Bring specialty coffee into everyone's daily life&quot;</em></td>
+</tr>
+<tr>
+<td>Vision connected to business?</td>
+<td><strong>Yes</strong> — outdoor gear, supply chain, planet</td>
+<td><strong>Started yes</strong> — then chased the 9.9-yuan price war</td>
+</tr>
+<tr>
+<td>Values tested at real decisions?</td>
+<td><strong>Yes</strong> — took real revenue hits</td>
+<td><strong>No</strong> — sacrificed quality to match Luckin's discounts</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>Growing; ownership transferred to fight climate change</td>
+<td>Bankrupt — closed stores, debts unpaid</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>A vision that guides real decisions is a strategy. A vision that gets abandoned at the first price war is a warning.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="invert" data-theme="default" class="invert" data-marpit-pagination="28" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:invert;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h1 id="case-study--seesaw-coffee">Case study — Seesaw Coffee</h1>
+<p><strong>What happens when a brand abandons its own vision to chase a price war?</strong></p>
+<p><img class="emoji" draggable="false" alt="🎬" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f3ac.svg" data-marp-twemoji=""/> <a href="https://www.bilibili.com/video/BV1AHEv6DEAe">Seesaw之后，精品咖啡还剩下什么？</a>（5 min · 解索一线观察）</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="29" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="29" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="seesaw--the-vision">Seesaw — the vision</h2>
+<p>Seesaw Coffee was founded in 2012 in Shanghai — one of the <strong>pioneers of China's specialty coffee movement.</strong></p>
+<p>Its stated vision:</p>
+<blockquote>
+<p><em>&quot;Bring specialty coffee into everyone's daily life.&quot;</em></p>
+</blockquote>
+<p>Core values: <strong>craft, innovation, community</strong> — the brand built its identity around quality beans, skilled baristas, and a curated café experience.</p>
+<blockquote>
+<p><strong>Run the test:</strong> does this describe a <strong>future worth wanting</strong> or <strong>the work</strong>? It reads like aspiration — a future where specialty coffee is everyday, not premium.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="30" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="seesaw--the-gap">Seesaw — the gap</h2>
+<p>The specialty vision worked — until the <strong>9.9-yuan price war</strong> arrived.</p>
+<ul>
+<li>Luckin Coffee and Cotti flooded the market with <strong>deep-discount coupons</strong> (9.9 yuan per cup)</li>
+<li>Seesaw <strong>cut prices and ran its own 9.9 promotions</strong> to keep customers</li>
+<li>But specialty beans and trained baristas <strong>cost more than 9.9 yuan per cup</strong> — every discounted sale was a <strong>loss</strong></li>
+<li>The brand that stood for <strong>craft</strong> was now competing on <strong>price</strong> — a war it could not win</li>
+</ul>
+<blockquote>
+<p><strong>A value the business abandons the first time money appears was a decoration.</strong> Seesaw's core value of &quot;craft&quot; was discarded the moment the price war started.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="31" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="seesaw--the-result">Seesaw — the result</h2>
+<table>
+<thead>
+<tr>
+<th>Year</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2012</td>
+<td>Founded in Shanghai — specialty coffee pioneer</td>
+</tr>
+<tr>
+<td>2017–2021</td>
+<td>VC-funded expansion; stores in major cities across China</td>
+</tr>
+<tr>
+<td>2023–2024</td>
+<td>Price war with Luckin/Cotti; 9.9-yuan promotions erode margins</td>
+</tr>
+<tr>
+<td>2024–2025</td>
+<td>Mass store closures; debts unpaid; <strong>bankruptcy</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>The vision could not survive the first competitive shock because the business stopped acting on it.</strong> When the price war arrived, &quot;craft&quot; was the first thing to go — and the brand followed.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="32" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="seesaw--discussion">Seesaw — discussion</h2>
+<p><strong>Pair up. 2 minutes.</strong></p>
+<ol>
+<li>Classify Seesaw's <em>&quot;Bring specialty coffee into everyone's daily life&quot;</em> — vision or mission? <strong>Why?</strong></li>
+<li>Seesaw's value was <strong>craft</strong>. At what point did the business <strong>stop testing that value at real decisions</strong>? What did the 9.9-yuan promotion tell customers?</li>
+<li>How is Seesaw's outcome <strong>different</strong> from Patagonia's? Both faced pressure to compromise — what made the difference?</li>
+</ol>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="33" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="invert" data-theme="default" class="invert" data-marpit-pagination="33" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:invert;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h1 id="your-turn--apply-the-concepts">Your turn — apply the concepts</h1>
+<p><strong>Classify the statement → explain why.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="34" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="34" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="three-kinds-of-organizations--for-profit">Three kinds of organizations — for-profit</h2>
+<p>Both seek profit. <strong>The difference is what else they do.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Purpose</th>
+<th>Profit?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Business</strong></td>
+<td>Achieve and increase profits, remain competitive and viable</td>
+<td>Owners keep or reinvest</td>
+</tr>
+<tr>
+<td><strong>Social enterprise</strong></td>
+<td>Profit <strong>plus</strong> a built-in social objective</td>
+<td>Owners keep profit</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>The decision tree, step 2:</strong> if owners <strong>can</strong> keep profit → look for a social objective built into the products, operations, or financial model. <strong>Find one</strong> → social enterprise. <strong>Find none</strong> → business.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="35" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="35" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="three-kinds-of-organizations--nonprofit">Three kinds of organizations — nonprofit</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Purpose</th>
+<th>Profit?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Nonprofit</strong></td>
+<td>Serve the public good</td>
+<td>Surplus <strong>must</strong> be reinvested; <strong>no payment to owners</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>The decision tree, step 1:</strong> can owners keep the profit at all? If <strong>no</strong> — every surplus feeds the mission → <strong>nonprofit.</strong></p>
+</blockquote>
+<p><strong>Surplus reinvestment is the legal signature of a nonprofit.</strong> A nonprofit <em>can</em> sell goods, and revenues <em>can</em> exceed costs — but <strong>none of the surplus may flow to an owner.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="36" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="36" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="business--definition">Business — definition</h2>
+<p>A <strong>business</strong> seeks to <strong>achieve and increase profits</strong>, fulfill its stated mission/goals, and <strong>remain competitive and viable</strong> long-term.</p>
+<p>Profit improves in exactly <strong>two ways:</strong></p>
+<ul>
+<li><strong>Increase revenues</strong></li>
+<li><strong>Decrease costs</strong></li>
+</ul>
+<blockquote>
+<p>That's the <strong>revenue − cost</strong> arithmetic from 1.1, now running a whole organization.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="37" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="37" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="social-enterprise--definition">Social enterprise — definition</h2>
+<p>A <strong>social enterprise</strong> seeks <strong>profit while also, by design, achieving social objectives.</strong></p>
+<p>Impact travels through <strong>three channels:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Channel</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The <strong>products</strong> themselves</td>
+<td>A company whose product is a low-cost water filter</td>
+</tr>
+<tr>
+<td><strong>Operations</strong></td>
+<td>A moving company that hires workers other employers overlook</td>
+</tr>
+<tr>
+<td>The <strong>financial model</strong></td>
+<td>A brand that routes a share of every sale to a local scholarship fund</td>
+</tr>
+</tbody>
+</table>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="38" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="38" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="nonprofit-organization--definition">Nonprofit organization — definition</h2>
+<p>A <strong>nonprofit</strong> serves the <strong>public good</strong> rather than generating profit for owners.</p>
+<blockquote>
+<p><strong>Mark the precision — the exam tests the edges:</strong> a nonprofit <strong>can</strong> sell goods and services, and its revenues <strong>can</strong> exceed its costs. The law draws <strong>one hard line: any surplus must be reinvested in the organization, and none of it may flow to owners.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="39" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="39" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="nonprofit-revenue-sources">Nonprofit revenue sources</h2>
+<p>Nonprofits raise funds through channels that <strong>don't require a sale:</strong></p>
+<ul>
+<li><strong>Grant</strong> = funding awarded for a stated purpose, usually by a government or foundation; earned <strong>by application, not by sale</strong></li>
+<li><strong>Donations</strong> arrive with <strong>no product attached</strong></li>
+<li><strong>Volunteers</strong> lower the <strong>labor</strong> side of the cost ledger</li>
+</ul>
+<blockquote>
+<p><strong>Surplus reinvestment is the legal signature of a nonprofit.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="40" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="40" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-organization-decision-tree">The organization decision tree</h2>
+<p><strong>Ask two questions in order:</strong></p>
+<ol>
+<li><strong>Can owners keep the profit at all?</strong>
+<ul>
+<li>If <strong>no</strong> (every surplus feeds the mission) → <strong>nonprofit</strong></li>
+</ul>
+</li>
+<li>If <strong>yes</strong> → look for a <strong>social objective</strong> built into the products, operations, or financial model:
+<ul>
+<li><strong>Find one</strong> → social enterprise</li>
+<li><strong>Find none</strong> → business</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p><strong>Surplus reinvestment is the legal signature of a nonprofit.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="41" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="41" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="all-three-at-the-park-on-saturday">All three at the park on Saturday</h2>
+<table>
+<thead>
+<tr>
+<th>Who</th>
+<th>Type</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>His snack box</td>
+<td><strong>Business</strong></td>
+<td>Profit is his to keep or reinvest</td>
+</tr>
+<tr>
+<td>The league itself</td>
+<td><strong>Nonprofit</strong></td>
+<td>Registration fees + bake-sale table fund uniforms and goals; surplus buys nets, never a payout</td>
+</tr>
+<tr>
+<td>Parent floating a drink stand, donating half its profit to field-repair</td>
+<td><strong>Social enterprise</strong></td>
+<td>Profit-seeking + a built-in social objective</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Same park, three different answers to <strong>whom the gains ultimately serve.</strong></p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="42" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="42" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="the-classification-tells--exam-habit">The classification tells — exam habit</h2>
+<p>This is a <strong>classification topic</strong> — collect the tells:</p>
+<table>
+<thead>
+<tr>
+<th>Signal in the scenario</th>
+<th>Points to</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>&quot;Believes&quot;</td>
+<td>Core <strong>value</strong></td>
+</tr>
+<tr>
+<td>&quot;Good at&quot;</td>
+<td>Core <strong>competency</strong></td>
+</tr>
+<tr>
+<td>&quot;Aspires&quot; (a future worth wanting)</td>
+<td><strong>Vision</strong></td>
+</tr>
+<tr>
+<td>&quot;Does and how&quot; (the work)</td>
+<td><strong>Mission</strong></td>
+</tr>
+<tr>
+<td>Owners keep profit, no social objective</td>
+<td><strong>Business</strong></td>
+</tr>
+<tr>
+<td>Owners keep profit + built-in social objective</td>
+<td><strong>Social enterprise</strong></td>
+</tr>
+<tr>
+<td>No owner keeps surplus; surplus → mission</td>
+<td><strong>Nonprofit</strong></td>
+</tr>
+</tbody>
+</table>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="43" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="invert" data-theme="default" class="invert" data-marpit-pagination="43" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:invert;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h1 id="practice--6-questions">Practice — 6 questions</h1>
+<p><strong>3 on one stimulus (Bright Thread)</strong> · <strong>3 standalone</strong></p>
+<p>Read → pause → <strong>commit to an answer</strong> → then reveal.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="44" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="44" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="stimulus-bright-thread">Stimulus: Bright Thread</h2>
+<p><strong>Rosa Delgado</strong> owns <strong>Bright Thread</strong>, a clothing alteration and repair shop. Posted <strong>core values:</strong> craftsmanship, honesty, community. Bright Thread is known across the neighborhood for the <strong>fastest turnaround of any tailor</strong> — a strength built on Rosa's <strong>custom scheduling system.</strong> Two framed statements hang by the register:</p>
+<ol>
+<li><em>&quot;Clothing that lasts, in a neighborhood that thrives.&quot;</em></li>
+<li><em>&quot;Bright Thread repairs and alters clothing with same-week service at prices working families can afford.&quot;</em></li>
+</ol>
+<p>Rosa is weighing two expansions: (1) <strong>reselling inexpensive imported garments she has not inspected</strong> at a high markup, or (2) <strong>launching a same-day uniform repair service</strong> for local businesses.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="45" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="45" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q1--classify-the-fastest-turnaround">Q1 — Classify the fastest turnaround</h2>
+<p>Bright Thread's fastest-in-the-neighborhood turnaround is best classified as which?</p>
+<ul>
+<li>A. A core value</li>
+<li>B. A vision statement</li>
+<li>C. A social objective</li>
+<li>D. A core competency</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="46" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="46" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q1--answer-d">Q1 — Answer: <strong>D</strong></h2>
+<p><strong>Why:</strong> Core competencies are capabilities/skills/expertise that help a business <strong>outperform rivals</strong> and achieve competitive advantage. Fastest turnaround is a capability with the <strong>rival comparison built right into the phrase</strong>, resting on a specific skill — Rosa's scheduling system.</p>
+<p><strong>Trap: A</strong> — the <strong>paired-concept swap</strong> for this topic. Core <strong>values</strong> are beliefs/principles (the craftsmanship, honesty, community posted on the wall).</p>
+<blockquote>
+<p><strong>A value is what the business <em>believes</em>; a competency is what it is <em>good at</em>.</strong> Speed here is a <strong>built skill</strong> → competency.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="47" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="47" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q2--how-values--competencies-should-guide-the-choice">Q2 — How values + competencies should guide the choice</h2>
+<p>Which best explains how Rosa's core values and core competencies should influence her choice between the two expansions?</p>
+<ul>
+<li>A. Choose the resale option, because higher markups increase profit fastest</li>
+<li>B. Favor the option that aligns with her values and uses her existing strengths — the same-day uniform service</li>
+<li>C. Pursue both options, because businesses grow by accepting every opportunity</li>
+<li>D. Core values apply only to employees, so they shouldn't affect an owner's decision</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="48" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="48" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q2--answer-b">Q2 — Answer: <strong>B</strong></h2>
+<p><strong>Why:</strong> Businesses consider core competencies when deciding which opportunities to pursue and how to allocate resources, and choose actions <strong>consistent with their values.</strong> The uniform service runs directly on her speed + scheduling system <strong>and</strong> serves the community her values name; reselling uninspected garments strains craftsmanship + honesty while using <strong>none</strong> of her strengths.</p>
+<p><strong>Trap: A</strong> — high-margin move that abandons strengths/values <strong>risks the reputation the profits depend on.</strong></p>
+<p><strong>Trap: C</strong> — one shop cannot fund and staff every opportunity; <strong>choosing well is the entire skill being tested.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="49" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="49" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q3--classify-statement-1">Q3 — Classify statement 1</h2>
+<p>The first framed statement — <em>&quot;clothing that lasts, in a neighborhood that thrives&quot;</em> — is best classified as which?</p>
+<ul>
+<li>A. A vision statement, because it expresses the shop's values and aspirations</li>
+<li>B. A mission statement, because it describes the shop's daily operations</li>
+<li>C. A code of conduct for employees</li>
+<li>D. A business hypothesis to be tested</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="50" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="50" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q3--answer-a">Q3 — Answer: <strong>A</strong></h2>
+<p><strong>Why:</strong> A vision statement is a concise description of <strong>core values and aspirations</strong> — this names <strong>a future the shop wants to exist</strong> (durable clothing, thriving neighborhood) and describes <strong>no operations.</strong></p>
+<p><strong>Trap: B</strong> — the <strong>vision-mission swap.</strong> Statement 2 is the <strong>mission:</strong> what it does — repairs/alterations — and how — same-week service at fair prices.</p>
+<blockquote>
+<p><strong>Run the test:</strong> a <strong>future worth wanting</strong> = vision; a <strong>description of the work</strong> = mission.</p>
+</blockquote>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="51" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="51" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q4--why-communicate-core-values">Q4 — Why communicate core values?</h2>
+<p>Which best explains why businesses communicate core values to their employees?</p>
+<ul>
+<li>A. To <strong>guarantee</strong> that no employee ever behaves unethically</li>
+<li>B. To increase revenue in the following quarter</li>
+<li>C. To align employees to a shared purpose and guide decisions consistent with the business's beliefs</li>
+<li>D. To satisfy a legal requirement that businesses publish their values</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="52" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="52" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q4--answer-c">Q4 — Answer: <strong>C</strong></h2>
+<p><strong>Why:</strong> Businesses communicate core values to <strong>align employees</strong> to a shared purpose and <strong>guide decision makers</strong> toward choices consistent with the business's beliefs.</p>
+<p><strong>Trap: A</strong> — <strong>&quot;guarantee&quot;</strong> is an absolute. Values <strong>guide</strong> choices; <strong>no statement on a wall guarantees behavior.</strong></p>
+<p><strong>Trap: D</strong> — borrows <strong>legal-factor thinking from Topic 1.3</strong> — no law requires a business to publish core values.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="53" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="53" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q5--reading-a-financial-table">Q5 — Reading a financial table</h2>
+<p><strong>Harbor Kitchen's year in numbers:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Line item</th>
+<th>Amount</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revenue from meal sales</td>
+<td>$180,000</td>
+</tr>
+<tr>
+<td>Grant funding</td>
+<td>$60,000</td>
+</tr>
+<tr>
+<td>Donations</td>
+<td>$40,000</td>
+</tr>
+<tr>
+<td>Total costs</td>
+<td>$250,000</td>
+</tr>
+</tbody>
+</table>
+<p><em>Study the numbers. What moved? What didn't?</em></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="54" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="54" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q5--what-does-the-data-support">Q5 — What does the data support?</h2>
+<p>The <strong>$30,000 surplus</strong> was spent expanding the organization's <strong>free cooking classes</strong>, and <strong>no payment went to any owner.</strong> Based on the table, Harbor Kitchen is best classified as which?</p>
+<ul>
+<li>A. A traditional business, because it earns revenue from selling meals</li>
+<li>B. A nonprofit organization, because its surplus is reinvested in its mission and it relies partly on grants and donations</li>
+<li>C. A social enterprise, because it sells meals and offers free classes</li>
+<li>D. A failing organization, because its costs exceeded its sales revenue</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="55" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="55" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q5--answer-b">Q5 — Answer: <strong>B</strong></h2>
+<p><strong>Why:</strong> Every marker points the same direction: <strong>grants and donations</strong> alongside sales revenue, the surplus went <strong>back into the mission</strong>, and <strong>no owner received a payment.</strong></p>
+<blockquote>
+<p><strong>Surplus reinvestment is the legal signature of a nonprofit.</strong></p>
+</blockquote>
+<p><strong>Trap: C</strong> — the tell is the <strong>destination of the money:</strong> a social enterprise seeks profit <strong>for its owners</strong> alongside social objectives; Harbor Kitchen pays <strong>no owner anything.</strong></p>
+<p><strong>Trap: D</strong> — reads one row and stops: sales alone fall short of costs, but <strong>total revenue is $280,000 against $250,000</strong> = a $30,000 surplus. <strong>A nonprofit running a surplus is healthy, legal, and common.</strong></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="56" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="56" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q6--social-enterprise-vs-traditional-business">Q6 — Social enterprise vs. traditional business</h2>
+<p>Which best distinguishes a social enterprise from a traditional business?</p>
+<ul>
+<li>A. A social enterprise intentionally pursues social objectives through its products, operations, or financial model while still seeking profit</li>
+<li>B. A social enterprise is legally required to reinvest all surplus funds into the organization</li>
+<li>C. A social enterprise must be owned by a charity</li>
+<li>D. A social enterprise <strong>always</strong> donates the <strong>majority</strong> of its profits</li>
+</ul>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="57" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="57" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="q6--answer-a">Q6 — Answer: <strong>A</strong></h2>
+<p><strong>Why:</strong> A social enterprise seeks profit while also achieving social objectives; impact travels through <strong>three channels:</strong> products, operations, or financial model.</p>
+<p><strong>Trap: B</strong> — borrows the <strong>nonprofit's legal rule.</strong> Reinvestment of <strong>all</strong> surplus defines nonprofits; social enterprises <strong>keep real profit.</strong></p>
+<p><strong>Trap: D</strong> — fails on <strong>&quot;always&quot;</strong> and <strong>&quot;majority&quot;</strong> — a fixed donation share is <strong>one possible</strong> financial model, and nothing about the category requires it.</p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="58" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-theme="default" data-marpit-pagination="58" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+<h2 id="trap-patterns-to-watch">Trap patterns to watch</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Trap</th>
+<th>Where</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Paired-concept swap:</strong> core value (believes) vs. core competency (good at)</td>
+<td>Q1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>High-margin move that abandons strengths/values <strong>risks reputation</strong></td>
+<td>Q2</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Vision-mission swap:</strong> a future worth wanting vs. a description of the work</td>
+<td>Q3</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>&quot;Guarantee&quot;</strong> — absolutes still apply</td>
+<td>Q4</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Nonprofit vs. social enterprise:</strong> the tell is the <strong>destination of the money</strong></td>
+<td>Q5</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Reading one row and stopping:</strong> sum ALL revenue (sales + grants + donations)</td>
+<td>Q5</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Neighboring-concept trap:</strong> reusing the nonprofit rule for a social enterprise</td>
+<td>Q6</td>
+</tr>
+</tbody>
+</table>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="59" data-paginate="true" data-header="AP Business · 1.5 Vision" data-footer="Lesson deck — concepts + practice (based on MAMAKO)" data-class="lead" data-theme="default" class="lead" data-marpit-pagination="59" style="--paginate:true;--header:AP Business · 1.5 Vision;--footer:Lesson deck — concepts + practice (based on MAMAKO);--class:lead;--theme:default;" data-marpit-pagination-total="59" data-size="16:9">
+<header>AP Business · 1.5 Vision</header>
+
+<h2 id="wrap-up">Wrap-up</h2>
+<ul>
+<li><strong>Core values</strong> = what the business <strong>believes</strong>; <strong>core competencies</strong> = what it is <strong>good at</strong></li>
+<li><strong>Test a stated value</strong> by what it cost at the last real decision</li>
+<li><strong>Competencies feed competitive advantage</strong> — pursue opportunities your strengths can win</li>
+<li><strong>Vision</strong> = the <strong>future</strong> worth wanting; <strong>Mission</strong> = <strong>what</strong> it does and <strong>how</strong></li>
+<li><strong>Classify by content</strong>, not by the label on the document</li>
+<li><strong>Three organization types:</strong> business (owners keep profit), social enterprise (profit + social objective), nonprofit (surplus → mission, no owner payment)</li>
+<li><strong>Organization decision tree:</strong> owners keep profit? → No = nonprofit; Yes → social objective = social enterprise; else = business</li>
+</ul>
+<h3 id="next-16-business-ethics">Next: 1.6 Business Ethics</h3>
+<p><em>The profitable move and the right move point in different directions. What happens then?</em></p>
+<footer>Lesson deck — concepts + practice (based on MAMAKO)</footer>
+</section>
+<script>!function(){"use strict";const t={h1:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"1"},style:"display: block; font-size: 2em; margin-block-start: 0.67em; margin-block-end: 0.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h2:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"2"},style:"display: block; font-size: 1.5em; margin-block-start: 0.83em; margin-block-end: 0.83em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h3:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"3"},style:"display: block; font-size: 1.17em; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h4:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"4"},style:"display: block; margin-block-start: 1.33em; margin-block-end: 1.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h5:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"5"},style:"display: block; font-size: 0.83em; margin-block-start: 1.67em; margin-block-end: 1.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h6:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"6"},style:"display: block; font-size: 0.67em; margin-block-start: 2.33em; margin-block-end: 2.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},span:{proto:()=>HTMLSpanElement},pre:{proto:()=>HTMLElement,style:"display: block; font-family: monospace; white-space: pre; margin: 1em 0; --marp-auto-scaling-white-space: pre;"}},e="data-marp-auto-scaling-wrapper",i="data-marp-auto-scaling-svg",n="data-marp-auto-scaling-container";class s extends HTMLElement{constructor(){super(),this.svgPreserveAspectRatio="xMinYMid meet";const t=t=>([e])=>{const{width:i,height:n}=e.contentRect;this[t]={width:i,height:n},this.updateSVGRect()};this.attachShadow({mode:"open"}),this.containerObserver=new ResizeObserver(t("containerSize")),this.wrapperObserver=new ResizeObserver(((...e)=>{t("wrapperSize")(...e),this.flushSvgDisplay()}))}static get observedAttributes(){return["data-downscale-only"]}connectedCallback(){var t,s,o,r,a;this.shadowRoot.innerHTML=`\n<style>\n  svg[${i}] { display: block; width: 100%; height: auto; vertical-align: top; }\n  span[${n}] { display: table; white-space: var(--marp-auto-scaling-white-space, nowrap); width: max-content; }\n</style>\n<div ${e}>\n  <svg part="svg" ${i}>\n    <foreignObject><span ${n}><slot></slot></span></foreignObject>\n  </svg>\n</div>\n    `.split(/\n\s*/).join(""),this.wrapper=null!==(t=this.shadowRoot.querySelector(`div[${e}]`))&&void 0!==t?t:void 0;const l=this.svg;this.svg=null!==(o=null===(s=this.wrapper)||void 0===s?void 0:s.querySelector(`svg[${i}]`))&&void 0!==o?o:void 0,this.svg!==l&&(this.svgComputedStyle=this.svg?window.getComputedStyle(this.svg):void 0),this.container=null!==(a=null===(r=this.svg)||void 0===r?void 0:r.querySelector(`span[${n}]`))&&void 0!==a?a:void 0,this.observe()}disconnectedCallback(){this.svg=void 0,this.svgComputedStyle=void 0,this.wrapper=void 0,this.container=void 0,this.observe()}attributeChangedCallback(){this.observe()}flushSvgDisplay(){const{svg:t}=this;t&&(t.style.display="inline",requestAnimationFrame((()=>{t.style.display=""})))}observe(){this.containerObserver.disconnect(),this.wrapperObserver.disconnect(),this.wrapper&&this.wrapperObserver.observe(this.wrapper),this.container&&this.containerObserver.observe(this.container),this.svgComputedStyle&&this.observeSVGStyle(this.svgComputedStyle)}observeSVGStyle(t){const e=()=>{const i=(()=>{const e=t.getPropertyValue("--preserve-aspect-ratio");if(e)return e.trim();return`x${(({textAlign:t,direction:e})=>{if(t.endsWith("left"))return"Min";if(t.endsWith("right"))return"Max";if("start"===t||"end"===t){let i="rtl"===e;return"end"===t&&(i=!i),i?"Max":"Min"}return"Mid"})(t)}YMid meet`})();i!==this.svgPreserveAspectRatio&&(this.svgPreserveAspectRatio=i,this.updateSVGRect()),t===this.svgComputedStyle&&requestAnimationFrame(e)};e()}updateSVGRect(){var t,e,i,n,s,o,r;let a=Math.ceil(null!==(e=null===(t=this.containerSize)||void 0===t?void 0:t.width)&&void 0!==e?e:0);const l=Math.ceil(null!==(n=null===(i=this.containerSize)||void 0===i?void 0:i.height)&&void 0!==n?n:0);void 0!==this.dataset.downscaleOnly&&(a=Math.max(a,null!==(o=null===(s=this.wrapperSize)||void 0===s?void 0:s.width)&&void 0!==o?o:0));const c=null===(r=this.svg)||void 0===r?void 0:r.querySelector(":scope > foreignObject");if(null==c||c.setAttribute("width",`${a}`),null==c||c.setAttribute("height",`${l}`),this.svg&&(this.svg.setAttribute("viewBox",`0 0 ${a} ${l}`),this.svg.setAttribute("preserveAspectRatio",this.svgPreserveAspectRatio),this.svg.style.height=a<=0||l<=0?"0":""),this.container){const t=this.svgPreserveAspectRatio.toLowerCase();this.container.style.marginLeft=t.startsWith("xmid")||t.startsWith("xmax")?"auto":"0",this.container.style.marginRight=t.startsWith("xmi")?"auto":"0"}}}const o=(t,{attrs:e={},style:i})=>class extends t{constructor(...t){super(...t);for(const[t,i]of Object.entries(e))this.hasAttribute(t)||this.setAttribute(t,i);this.attachShadow({mode:"open"})}static get observedAttributes(){return["data-auto-scaling"]}connectedCallback(){this._update()}attributeChangedCallback(){this._update()}_update(){const t=i?`<style>:host { ${i} }</style>`:"";let e="<slot></slot>";const{autoScaling:n}=this.dataset;if(void 0!==n){e=`<marp-auto-scaling exportparts="svg:auto-scaling" ${"downscale-only"===n?"data-downscale-only":""}>${e}</marp-auto-scaling>`}this.shadowRoot.innerHTML=t+e}};let r;const a=Symbol();let l;const c="marpitSVGPolyfill:setZoomFactor,",d=Symbol(),g=Symbol();const h=()=>{const t="Apple Computer, Inc."===navigator.vendor,e=t?[u]:[],i={then:e=>(t?(async()=>{if(void 0===l){const t=document.createElement("canvas");t.width=10,t.height=10;const e=t.getContext("2d"),i=new Image(10,10),n=new Promise((t=>{i.addEventListener("load",(()=>t()))}));i.crossOrigin="anonymous",i.src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2210%22%20height%3D%2210%22%20viewBox%3D%220%200%201%201%22%3E%3CforeignObject%20width%3D%221%22%20height%3D%221%22%20requiredExtensions%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22width%3A%201px%3B%20height%3A%201px%3B%20background%3A%20red%3B%20position%3A%20relative%22%3E%3C%2Fdiv%3E%3C%2FforeignObject%3E%3C%2Fsvg%3E",await n,e.drawImage(i,0,0),l=e.getImageData(5,5,1,1).data[3]<128}return l})().then((t=>{null==e||e(t?[u]:[])})):null==e||e([]),i)};return Object.assign(e,i)};let p,m;function u(t){const e="object"==typeof t&&t.target||document,i="object"==typeof t?t.zoom:t;window[g]||(Object.defineProperty(window,g,{configurable:!0,value:!0}),document.body.style.zoom=1.0001,document.body.offsetHeight,document.body.style.zoom=1,window.addEventListener("message",(({data:t,origin:e})=>{if(e===window.origin)try{if(t&&"string"==typeof t&&t.startsWith(c)){const[,e]=t.split(","),i=Number.parseFloat(e);Number.isNaN(i)||(m=i)}}catch(t){console.error(t)}})));let n=!1;Array.from(e.querySelectorAll("svg[data-marpit-svg]"),(t=>{var e,s,o,r;t.style.transform||(t.style.transform="translateZ(0)");const a=i||m||t.currentScale||1;p!==a&&(p=a,n=a);const l=t.getBoundingClientRect(),{length:c}=t.children;for(let i=0;i<c;i+=1){const n=t.children[i];if(n.getScreenCTM){const t=n.getScreenCTM();if(t){const i=null!==(s=null===(e=n.x)||void 0===e?void 0:e.baseVal.value)&&void 0!==s?s:0,c=null!==(r=null===(o=n.y)||void 0===o?void 0:o.baseVal.value)&&void 0!==r?r:0,d=n.children.length;for(let e=0;e<d;e+=1){const s=n.children[e];if("SECTION"===s.tagName){const{style:e}=s;e.transformOrigin||(e.transformOrigin=`${-i}px ${-c}px`),e.transform=`scale(${a}) matrix(${t.a}, ${t.b}, ${t.c}, ${t.d}, ${t.e-l.left}, ${t.f-l.top}) translateZ(0.0001px)`;break}}}}}})),!1!==n&&Array.from(e.querySelectorAll("iframe"),(({contentWindow:t})=>{null==t||t.postMessage(`${c}${n}`,"null"===window.origin?"*":window.origin)}))}function v({once:t=!1,target:e=document}={}){const i=function(t=document){if(t[d])return t[d];let e=!0;const i=()=>{e=!1,delete t[d]};Object.defineProperty(t,d,{configurable:!0,value:i});let n=[],s=!1;(async()=>{try{n=await h()}finally{s=!0}})();const o=()=>{for(const e of n)e({target:t});s&&0===n.length||e&&window.requestAnimationFrame(o)};return o(),i}(e);return t?(i(),()=>{}):i}p=1,m=void 0;const b=Symbol(),w=(e=document)=>{if("undefined"==typeof window)throw new Error("Marp Core's browser script is valid only in browser context.");if(((e=document)=>{const i=window[a];i||customElements.define("marp-auto-scaling",s);for(const n of Object.keys(t)){const s=`marp-${n}`,a=t[n].proto();null!=r||(r=!!document.createElement("div",{is:"marp-auto-scaling"}).outerHTML.startsWith("<div is")),r&&a!==HTMLElement?i||customElements.define(s,o(a,{style:t[n].style}),{extends:n}):(i||customElements.define(s,o(HTMLElement,t[n])),e.querySelectorAll(`${n}[is="${s}"]`).forEach((t=>{t.outerHTML=t.outerHTML.replace(new RegExp(`^<${n}`,"i"),`<${s}`).replace(new RegExp(`</${n}>$`,"i"),`</${s}>`)})))}window[a]=!0})(e),e[b])return e[b];const i=v({target:e}),n=()=>{i(),delete e[b]},l=Object.assign(n,{cleanup:n,update:()=>w(e)});return Object.defineProperty(e,b,{configurable:!0,value:l}),l},y=document.currentScript;w(y?y.getRootNode():document)}();
+</script></foreignObject></svg></div><div class="bespoke-marp-note" data-index="0" tabindex="0"><p>Open by asking: &quot;You've found a problem, analyzed the market, and designed a product. But what's the long-term destination — what is this business actually FOR?&quot;</p></div><div class="bespoke-marp-note" data-index="44" tabindex="0"><p>Pause. Ask: is &quot;fastest turnaround&quot; something the business believes, or something it is good at?</p></div><script>/*!! License: https://unpkg.com/@marp-team/marp-cli@2.5.0/lib/bespoke.js.LICENSE.txt */
+!function(){"use strict";function e(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}var t={from:function(e,t){var n,r=1===(e.parent||e).nodeType?e.parent||e:document.querySelector(e.parent||e),o=[].filter.call("string"==typeof e.slides?r.querySelectorAll(e.slides):e.slides||r.children,(function(e){return"SCRIPT"!==e.nodeName})),i={},a=function(e,t){return(t=t||{}).index=o.indexOf(e),t.slide=e,t},s=function(e,t){i[e]=(i[e]||[]).filter((function(e){return e!==t}))},l=function(e,t){return(i[e]||[]).reduce((function(e,n){return e&&!1!==n(t)}),!0)},c=function(e,t){o[e]&&(n&&l("deactivate",a(n,t)),n=o[e],l("activate",a(n,t)))},d=function(e,t){var r=o.indexOf(n)+e;l(e>0?"next":"prev",a(n,t))&&c(r,t)},u={off:s,on:function(e,t){return(i[e]||(i[e]=[])).push(t),s.bind(null,e,t)},fire:l,slide:function(e,t){if(!arguments.length)return o.indexOf(n);l("slide",a(o[e],t))&&c(e,t)},next:d.bind(null,1),prev:d.bind(null,-1),parent:r,slides:o,destroy:function(e){l("destroy",a(n,e)),i={}}};return(t||[]).forEach((function(e){e(u)})),n||c(0),u}},n=e(t);const r=document.body,o=(...e)=>history.replaceState(...e),i="presenter",a="next",s=["",i,a],l="bespoke-marp-",c=`data-${l}`,d=(e,{protocol:t,host:n,pathname:r,hash:o}=location)=>{const i=e.toString();return`${t}//${n}${r}${i?"?":""}${i}${o}`},u=()=>r.dataset.bespokeView,f=e=>new URLSearchParams(location.search).get(e),m=(e,t={})=>{var n;const r={location,setter:o,...t},i=new URLSearchParams(r.location.search);for(const t of Object.keys(e)){const n=e[t];"string"==typeof n?i.set(t,n):i.delete(t)}try{r.setter({...null!==(n=window.history.state)&&void 0!==n?n:{}},"",d(i,r.location))}catch(e){console.error(e)}},g=(()=>{const e="bespoke-marp";try{return localStorage.setItem(e,e),localStorage.removeItem(e),!0}catch(e){return!1}})(),p=e=>{try{return localStorage.getItem(e)}catch(e){return null}},v=(e,t)=>{try{return localStorage.setItem(e,t),!0}catch(e){return!1}},h=e=>{try{return localStorage.removeItem(e),!0}catch(e){return!1}},y=(e,t)=>{const n="aria-hidden";t?e.setAttribute(n,"true"):e.removeAttribute(n)},b=e=>{e.parent.classList.add(`${l}parent`),e.slides.forEach((e=>e.classList.add(`${l}slide`))),e.on("activate",(t=>{const n=`${l}active`,r=t.slide,o=r.classList,i=!o.contains(n);if(e.slides.forEach((e=>{e.classList.remove(n),y(e,!0)})),o.add(n),y(r,!1),i){const e=`${n}-ready`;o.add(e),document.body.clientHeight,o.remove(e)}}))},w=e=>{let t=0,n=0;Object.defineProperty(e,"fragments",{enumerable:!0,value:e.slides.map((e=>[null,...e.querySelectorAll("[data-marpit-fragment]")]))});const r=r=>void 0!==e.fragments[t][n+r],o=(r,o)=>{t=r,n=o,e.fragments.forEach(((e,t)=>{e.forEach(((e,n)=>{if(null==e)return;const i=t<r||t===r&&n<=o;e.setAttribute(`${c}fragment`,(i?"":"in")+"active");const a=`${c}current-fragment`;t===r&&n===o?e.setAttribute(a,"current"):e.removeAttribute(a)}))})),e.fragmentIndex=o;const i={slide:e.slides[r],index:r,fragments:e.fragments[r],fragmentIndex:o};e.fire("fragment",i)};e.on("next",(({fragment:i=!0})=>{if(i){if(r(1))return o(t,n+1),!1;const i=t+1;e.fragments[i]&&o(i,0)}else{const r=e.fragments[t].length;if(n+1<r)return o(t,r-1),!1;const i=e.fragments[t+1];i&&o(t+1,i.length-1)}})),e.on("prev",(({fragment:i=!0})=>{if(r(-1)&&i)return o(t,n-1),!1;const a=t-1;e.fragments[a]&&o(a,e.fragments[a].length-1)})),e.on("slide",(({index:t,fragment:n})=>{let r=0;if(void 0!==n){const o=e.fragments[t];if(o){const{length:e}=o;r=-1===n?e-1:Math.min(Math.max(n,0),e-1)}}o(t,r)})),o(0,0)},x=document,k=()=>!(!x.fullscreenEnabled&&!x.webkitFullscreenEnabled),$=()=>!(!x.fullscreenElement&&!x.webkitFullscreenElement),E=e=>{e.fullscreen=()=>{k()&&(async()=>{return $()?null===(e=x.exitFullscreen||x.webkitExitFullscreen)||void 0===e?void 0:e.call(x):((e=x.body)=>{var t;return null===(t=e.requestFullscreen||e.webkitRequestFullscreen)||void 0===t?void 0:t.call(e)})();var e})()},document.addEventListener("keydown",(t=>{"f"!==t.key&&"F11"!==t.key||t.altKey||t.ctrlKey||t.metaKey||!k()||(e.fullscreen(),t.preventDefault())}))},L=`${l}inactive`,S=(e=2e3)=>({parent:t,fire:n})=>{const r=t.classList,o=e=>n(`marp-${e?"":"in"}active`);let i;const a=()=>{i&&clearTimeout(i),i=setTimeout((()=>{r.add(L),o()}),e),r.contains(L)&&(r.remove(L),o(!0))};for(const e of["mousedown","mousemove","touchend"])document.addEventListener(e,a);setTimeout(a,0)},P=["AUDIO","BUTTON","INPUT","SELECT","TEXTAREA","VIDEO"],_=e=>{e.parent.addEventListener("keydown",(e=>{if(!e.target)return;const t=e.target;(P.includes(t.nodeName)||"true"===t.contentEditable)&&e.stopPropagation()}))},T=e=>{window.addEventListener("load",(()=>{for(const t of e.slides){const e=t.querySelector("marp-auto-scaling, [data-auto-scaling], [data-marp-fitting]");t.setAttribute(`${c}load`,e?"":"hideable")}}))},I=({interval:e=250}={})=>t=>{document.addEventListener("keydown",(e=>{if(" "===e.key&&e.shiftKey)t.prev();else if("ArrowLeft"===e.key||"ArrowUp"===e.key||"PageUp"===e.key)t.prev({fragment:!e.shiftKey});else if(" "!==e.key||e.shiftKey)if("ArrowRight"===e.key||"ArrowDown"===e.key||"PageDown"===e.key)t.next({fragment:!e.shiftKey});else if("End"===e.key)t.slide(t.slides.length-1,{fragment:-1});else{if("Home"!==e.key)return;t.slide(0)}else t.next();e.preventDefault()}));let n,r,o=0;t.parent.addEventListener("wheel",(i=>{let a=!1;const s=(e,t)=>{e&&(a=a||((e,t)=>((e,t)=>{const n="X"===t?"Width":"Height";return e[`client${n}`]<e[`scroll${n}`]})(e,t)&&((e,t)=>{const{overflow:n}=e,r=e[`overflow${t}`];return"auto"===n||"scroll"===n||"auto"===r||"scroll"===r})(getComputedStyle(e),t))(e,t)),(null==e?void 0:e.parentElement)&&s(e.parentElement,t)};if(0!==i.deltaX&&s(i.target,"X"),0!==i.deltaY&&s(i.target,"Y"),a)return;i.preventDefault();const l=Math.sqrt(i.deltaX**2+i.deltaY**2);if(void 0!==i.wheelDelta){if(void 0===i.webkitForce&&Math.abs(i.wheelDelta)<40)return;if(i.deltaMode===i.DOM_DELTA_PIXEL&&l<4)return}else if(i.deltaMode===i.DOM_DELTA_PIXEL&&l<12)return;r&&clearTimeout(r),r=setTimeout((()=>{n=0}),e);const c=Date.now()-o<e,d=l<=n;if(n=l,c||d)return;let u;(i.deltaX>0||i.deltaY>0)&&(u="next"),(i.deltaX<0||i.deltaY<0)&&(u="prev"),u&&(t[u](),o=Date.now())}))},M=(e=`.${l}osc`)=>{const t=document.querySelector(e);if(!t)return()=>{};const n=(e,n)=>{t.querySelectorAll(`[${c}osc=${JSON.stringify(e)}]`).forEach(n)};return k()||n("fullscreen",(e=>e.style.display="none")),g||n("presenter",(e=>{e.disabled=!0,e.title="Presenter view is disabled due to restricted localStorage."})),e=>{t.addEventListener("click",(t=>{if(t.target instanceof HTMLElement){const{bespokeMarpOsc:n}=t.target.dataset;n&&t.target.blur();const r={fragment:!t.shiftKey};"next"===n?e.next(r):"prev"===n?e.prev(r):"fullscreen"===n?null==e||e.fullscreen():"presenter"===n&&e.openPresenterView()}})),e.parent.appendChild(t),e.on("activate",(({index:t})=>{n("page",(n=>n.textContent=`Page ${t+1} of ${e.slides.length}`))})),e.on("fragment",(({index:t,fragments:r,fragmentIndex:o})=>{n("prev",(e=>e.disabled=0===t&&0===o)),n("next",(n=>n.disabled=t===e.slides.length-1&&o===r.length-1))})),e.on("marp-active",(()=>y(t,!1))),e.on("marp-inactive",(()=>y(t,!0))),k()&&(e=>{for(const t of["","webkit"])x.addEventListener(t+"fullscreenchange",e)})((()=>n("fullscreen",(e=>e.classList.toggle("exit",k()&&$())))))}},O=e=>{window.addEventListener("message",(t=>{if(t.origin!==window.origin)return;const[n,r]=t.data.split(":");if("navigate"===n){const[t,n]=r.split(",");let o=Number.parseInt(t,10),i=Number.parseInt(n,10)+1;i>=e.fragments[o].length&&(o+=1,i=0),e.slide(o,{fragment:i})}}))};var A=["area","base","br","col","command","embed","hr","img","input","keygen","link","meta","param","source","track","wbr"];let C=e=>String(e).replace(/[&<>"']/g,(e=>`&${D[e]};`)),D={"&":"amp","<":"lt",">":"gt",'"':"quot","'":"apos"},N="dangerouslySetInnerHTML",B={className:"class",htmlFor:"for"},q={};function K(e,t){let n=[],r="";t=t||{};for(let e=arguments.length;e-- >2;)n.push(arguments[e]);if("function"==typeof e)return t.children=n.reverse(),e(t);if(e){if(r+="<"+e,t)for(let e in t)!1!==t[e]&&null!=t[e]&&e!==N&&(r+=` ${B[e]?B[e]:C(e)}="${C(t[e])}"`);r+=">"}if(-1===A.indexOf(e)){if(t[N])r+=t[N].__html;else for(;n.length;){let e=n.pop();if(e)if(e.pop)for(let t=e.length;t--;)n.push(e[t]);else r+=!0===q[e]?e:C(e)}r+=e?`</${e}>`:""}return q[r]=!0,r}const j=({children:e})=>K(null,null,...e),F=`${l}presenter-`,V={container:`${F}container`,dragbar:`${F}dragbar-container`,next:`${F}next`,nextContainer:`${F}next-container`,noteContainer:`${F}note-container`,noteWrapper:`${F}note-wrapper`,noteButtons:`${F}note-buttons`,infoContainer:`${F}info-container`,infoPage:`${F}info-page`,infoPageText:`${F}info-page-text`,infoPagePrev:`${F}info-page-prev`,infoPageNext:`${F}info-page-next`,noteButtonsBigger:`${F}note-bigger`,noteButtonsSmaller:`${F}note-smaller`,infoTime:`${F}info-time`,infoTimer:`${F}info-timer`},U=e=>{const{title:t}=document;document.title="[Presenter view]"+(t?` - ${t}`:"");const n={},r=e=>(n[e]=n[e]||document.querySelector(`.${e}`),n[e]);document.body.appendChild((e=>{const t=document.createElement("div");return t.className=V.container,t.appendChild(e),t.insertAdjacentHTML("beforeend",K(j,null,K("div",{class:V.nextContainer},K("iframe",{class:V.next,src:"?view=next"})),K("div",{class:V.dragbar}),K("div",{class:V.noteContainer},K("div",{class:V.noteWrapper}),K("div",{class:V.noteButtons},K("button",{class:V.noteButtonsSmaller,tabindex:"-1",title:"Smaller notes font size"},"Smaller notes font size"),K("button",{class:V.noteButtonsBigger,tabindex:"-1",title:"Bigger notes font size"},"Bigger notes font size"))),K("div",{class:V.infoContainer},K("div",{class:V.infoPage},K("button",{class:V.infoPagePrev,tabindex:"-1",title:"Previous"},"Previous"),K("span",{class:V.infoPageText}),K("button",{class:V.infoPageNext,tabindex:"-1",title:"Next"},"Next")),K("time",{class:V.infoTime,title:"Current time"}),K("time",{class:V.infoTimer,title:"Timer"})))),t})(e.parent)),(e=>{let t=!1;r(V.dragbar).addEventListener("mousedown",(()=>{t=!0,r(V.dragbar).classList.add("active")})),window.addEventListener("mouseup",(()=>{t=!1,r(V.dragbar).classList.remove("active")})),window.addEventListener("mousemove",(e=>{if(!t)return;const n=e.clientX/document.documentElement.clientWidth*100;r(V.container).style.setProperty("--bespoke-marp-presenter-split-ratio",`${Math.max(0,Math.min(100,n))}%`)})),r(V.nextContainer).addEventListener("click",(()=>e.next()));const n=r(V.next),o=(i=n,(e,t)=>{var n;return null===(n=i.contentWindow)||void 0===n?void 0:n.postMessage(`navigate:${e},${t}`,"null"===window.origin?"*":window.origin)});var i;n.addEventListener("load",(()=>{r(V.nextContainer).classList.add("active"),o(e.slide(),e.fragmentIndex),e.on("fragment",(({index:e,fragmentIndex:t})=>o(e,t)))}));const a=document.querySelectorAll(".bespoke-marp-note");a.forEach((e=>{e.addEventListener("keydown",(e=>e.stopPropagation())),r(V.noteWrapper).appendChild(e)})),e.on("activate",(()=>a.forEach((t=>t.classList.toggle("active",t.dataset.index==e.slide())))));let s=0;const l=e=>{s=Math.max(-5,s+e),r(V.noteContainer).style.setProperty("--bespoke-marp-note-font-scale",(1.2**s).toFixed(4))},c=()=>l(1),d=()=>l(-1),u=r(V.noteButtonsBigger),f=r(V.noteButtonsSmaller);u.addEventListener("click",(()=>{u.blur(),c()})),f.addEventListener("click",(()=>{f.blur(),d()})),document.addEventListener("keydown",(e=>{"+"===e.key&&c(),"-"===e.key&&d()}),!0),e.on("activate",(({index:t})=>{r(V.infoPageText).textContent=`${t+1} / ${e.slides.length}`}));const m=r(V.infoPagePrev),g=r(V.infoPageNext);m.addEventListener("click",(t=>{m.blur(),e.prev({fragment:!t.shiftKey})})),g.addEventListener("click",(t=>{g.blur(),e.next({fragment:!t.shiftKey})})),e.on("fragment",(({index:t,fragments:n,fragmentIndex:r})=>{m.disabled=0===t&&0===r,g.disabled=t===e.slides.length-1&&r===n.length-1}));let p=new Date;const v=()=>{const e=new Date,t=e=>`${Math.floor(e)}`.padStart(2,"0"),n=e.getTime()-p.getTime(),o=t(n/1e3%60),i=t(n/1e3/60%60),a=t(n/36e5%24);r(V.infoTime).textContent=e.toLocaleTimeString(),r(V.infoTimer).textContent=`${a}:${i}:${o}`};v(),setInterval(v,250),r(V.infoTimer).addEventListener("click",(()=>{p=new Date}))})(e)},X=e=>{if(!(e=>e.syncKey&&"string"==typeof e.syncKey)(e))throw new Error("The current instance of Bespoke.js is invalid for Marp bespoke presenter plugin.");Object.defineProperties(e,{openPresenterView:{enumerable:!0,value:H},presenterUrl:{enumerable:!0,get:R}}),g&&document.addEventListener("keydown",(t=>{"p"!==t.key||t.altKey||t.ctrlKey||t.metaKey||(t.preventDefault(),e.openPresenterView())}))};function H(){const{max:e,floor:t}=Math,n=e(t(.85*window.innerWidth),640),r=e(t(.85*window.innerHeight),360);return window.open(this.presenterUrl,F+this.syncKey,`width=${n},height=${r},menubar=no,toolbar=no`)}function R(){const e=new URLSearchParams(location.search);return e.set("view","presenter"),e.set("sync",this.syncKey),d(e)}const W=e=>{const t=u();return t===a&&e.appendChild(document.createElement("span")),{"":X,[i]:U,[a]:O}[t]},J=e=>{e.on("activate",(t=>{document.querySelectorAll(".bespoke-progress-parent > .bespoke-progress-bar").forEach((n=>{n.style.flexBasis=100*t.index/(e.slides.length-1)+"%"}))}))},Y=e=>{const t=Number.parseInt(e,10);return Number.isNaN(t)?null:t},z=(e={})=>{const t={history:!0,...e};return e=>{let n=!0;const r=e=>{const t=n;try{return n=!0,e()}finally{n=t}},o=(t={fragment:!0})=>{let n=t.fragment?Y(f("f")||""):null;((t,n)=>{const{min:r,max:o}=Math,{fragments:i,slides:a}=e,s=o(0,r(t,a.length-1)),l=o(0,r(n||0,i[s].length-1));s===e.slide()&&l===e.fragmentIndex||e.slide(s,{fragment:l})})((()=>{var t,r;if(location.hash){const[o]=location.hash.slice(1).split(":~:");if(/^\d+$/.test(o))return(null!==(t=Y(o))&&void 0!==t?t:1)-1;const i=document.getElementById(o)||document.querySelector(`a[name="${CSS.escape(o)}"]`);if(i){const{length:t}=e.slides;for(let o=0;o<t;o+=1)if(e.slides[o].contains(i)){const t=null===(r=e.fragments)||void 0===r?void 0:r[o],a=i.closest("[data-marpit-fragment]");if(t&&a){const e=t.indexOf(a);e>=0&&(n=e)}return o}}}return 0})(),n)};e.on("fragment",(({index:e,fragmentIndex:r})=>{n||m({f:0===r||r.toString()},{location:{...location,hash:`#${e+1}`},setter:(...e)=>t.history?history.pushState(...e):history.replaceState(...e)})})),setTimeout((()=>{o(),window.addEventListener("hashchange",(()=>r((()=>{o({fragment:!1}),m({f:void 0})})))),window.addEventListener("popstate",(()=>{n||r((()=>o()))})),n=!1}),0)}},G=(e={})=>{var t;const n=e.key||(null===(t=window.history.state)||void 0===t?void 0:t.marpBespokeSyncKey)||Math.random().toString(36).slice(2),r=`bespoke-marp-sync-${n}`;var i;i={marpBespokeSyncKey:n},m({},{setter:(e,...t)=>o({...e,...i},...t)});const a=()=>{const e=p(r);return e?JSON.parse(e):Object.create(null)},s=e=>{const t=a(),n={...t,...e(t)};return v(r,JSON.stringify(n)),n},l=()=>{window.removeEventListener("pageshow",l),s((e=>({reference:(e.reference||0)+1})))};return e=>{l(),Object.defineProperty(e,"syncKey",{value:n,enumerable:!0});let t=!0;setTimeout((()=>{e.on("fragment",(e=>{t&&s((()=>({index:e.index,fragmentIndex:e.fragmentIndex})))}))}),0),window.addEventListener("storage",(n=>{if(n.key===r&&n.oldValue&&n.newValue){const r=JSON.parse(n.oldValue),o=JSON.parse(n.newValue);if(r.index!==o.index||r.fragmentIndex!==o.fragmentIndex)try{t=!1,e.slide(o.index,{fragment:o.fragmentIndex,forSync:!0})}finally{t=!0}}}));const o=()=>{const{reference:e}=a();void 0===e||e<=1?h(r):s((()=>({reference:e-1})))};window.addEventListener("pagehide",(e=>{e.persisted&&window.addEventListener("pageshow",l),o()})),e.on("destroy",o)}},{PI:Q,abs:Z,sqrt:ee,atan2:te}=Math,ne={passive:!0},re=({slope:e=-.7,swipeThreshold:t=30}={})=>n=>{let r;const o=n.parent,i=e=>{const t=o.getBoundingClientRect();return{x:e.pageX-(t.left+t.right)/2,y:e.pageY-(t.top+t.bottom)/2}};o.addEventListener("touchstart",(({touches:e})=>{r=1===e.length?i(e[0]):void 0}),ne),o.addEventListener("touchmove",(e=>{if(r)if(1===e.touches.length){e.preventDefault();const t=i(e.touches[0]),n=t.x-r.x,o=t.y-r.y;r.delta=ee(Z(n)**2+Z(o)**2),r.radian=te(n,o)}else r=void 0})),o.addEventListener("touchend",(o=>{if(r){if(r.delta&&r.delta>=t&&r.radian){const t=(r.radian-e+Q)%(2*Q)-Q;n[t<0?"next":"prev"](),o.stopPropagation()}r=void 0}}),ne)},oe=new Map;oe.clear(),oe.set("none",{backward:{both:void 0,incoming:void 0,outgoing:void 0},forward:{both:void 0,incoming:void 0,outgoing:void 0}});const ie={both:"",outgoing:"outgoing-",incoming:"incoming-"},ae={forward:"",backward:"-backward"},se=e=>`--marp-bespoke-transition-animation-${e}`,le=e=>`--marp-transition-${e}`,ce=se("name"),de=se("duration"),ue=e=>new Promise((t=>{const n={},r=document.createElement("div"),o=e=>{r.remove(),t(e)};r.addEventListener("animationstart",(()=>o(n))),Object.assign(r.style,{animationName:e,animationDuration:"1s",animationFillMode:"both",animationPlayState:"paused",position:"absolute",pointerEvents:"none"}),document.body.appendChild(r);const i=getComputedStyle(r).getPropertyValue(le("duration"));i&&(n.defaultDuration=i),((e,t)=>{requestAnimationFrame((()=>{e.style.animationPlayState="running",requestAnimationFrame((()=>t(void 0)))}))})(r,o)})),fe=async e=>oe.has(e)?oe.get(e):(e=>{const t={},n=[];for(const[r,o]of Object.entries(ie))for(const[i,a]of Object.entries(ae)){const s=`marp-${o}transition${a}-${e}`;n.push(ue(s).then((e=>{t[i]=t[i]||{},t[i][r]=e?{...e,name:s}:void 0})))}return Promise.all(n).then((()=>t))})(e).then((t=>(oe.set(e,t),t))),me=e=>Object.values(e).flatMap(Object.values).every((e=>!e)),ge=(e,{type:t,backward:n})=>{const r=e[n?"backward":"forward"],o=(()=>{const e=r[t],n=e=>({[ce]:e.name});if(e)return n(e);if(r.both){const e=n(r.both);return"incoming"===t&&(e[se("direction")]="reverse"),e}})();return!o&&n?ge(e,{type:t,backward:!1}):o||{[ce]:"__bespoke_marp_transition_no_animation__"}},pe=e=>{if(e)try{const t=JSON.parse(e);if((e=>{if("object"!=typeof e)return!1;const t=e;return"string"==typeof t.name&&(void 0===t.duration||"string"==typeof t.duration)})(t))return t}catch(e){}},ve="_tSId",he="_tA",ye="bespoke-marp-transition-warming-up",be=window.matchMedia("(prefers-reduced-motion: reduce)"),we="__bespoke_marp_transition_reduced_outgoing__",xe="__bespoke_marp_transition_reduced_incoming__",ke={forward:{both:void 0,incoming:{name:xe},outgoing:{name:we}},backward:{both:void 0,incoming:{name:xe},outgoing:{name:we}}},$e=e=>{if(!document.startViewTransition)return;const t=t=>(void 0!==t&&(e._tD=t),e._tD);let n;t(!1),((...e)=>{const t=[...new Set(e).values()];return Promise.all(t.map((e=>fe(e)))).then()})(...Array.from(document.querySelectorAll("section[data-transition], section[data-transition-back]")).flatMap((e=>[e.dataset.transition,e.dataset.transitionBack].flatMap((e=>{const t=pe(e);return[null==t?void 0:t.name,(null==t?void 0:t.builtinFallback)?`__builtin__${t.name}`:void 0]})).filter((e=>!!e))))).then((()=>{document.querySelectorAll("style").forEach((e=>{e.innerHTML=e.innerHTML.replace(/--marp-transition-duration:[^;}]*[;}]/g,(e=>e.slice(0,-1)+"!important"+e.slice(-1)))}))}));const r=(n,{back:r,cond:o})=>i=>{var a;const s=t();if(s)return!!i[he]||!("object"!=typeof s||(s.skipTransition(),!i.forSync));if(!o(i))return!0;const l=e.slides[e.slide()],c=()=>{var e;return null!==(e=i.back)&&void 0!==e?e:r},d="data-transition"+(c()?"-back":""),u=l.querySelector(`section[${d}]`);if(!u)return!0;const f=pe(null!==(a=u.getAttribute(d))&&void 0!==a?a:void 0);return!f||((async(e,{builtinFallback:t=!0}={})=>{let n=await fe(e);if(me(n)){if(!t)return;return n=await fe(`__builtin__${e}`),me(n)?void 0:n}return n})(f.name,{builtinFallback:f.builtinFallback}).then((e=>{if(!e){t(!0);try{n(i)}finally{t(!1)}return}let r=e;be.matches&&(console.warn("Use a constant animation to transition because preferring reduced motion by viewer has detected."),r=ke);const o=document.getElementById(ve);o&&o.remove();const a=document.createElement("style");a.id=ve,document.head.appendChild(a),((e,t)=>{const n=[`:root{${le("direction")}:${t.backward?-1:1};}`,":root:has(.bespoke-marp-inactive){cursor:none;}"],r=t=>{var n,o,i;const a=(null===(n=e[t].both)||void 0===n?void 0:n.defaultDuration)||(null===(o=e[t].outgoing)||void 0===o?void 0:o.defaultDuration)||(null===(i=e[t].incoming)||void 0===i?void 0:i.defaultDuration);return"forward"===t?a:a||r("forward")},o=t.duration||r(t.backward?"backward":"forward");void 0!==o&&n.push(`::view-transition-group(*){${de}:${o};}`);const i=e=>Object.entries(e).map((([e,t])=>`${e}:${t};`)).join("");return n.push(`::view-transition-old(root){${i(ge(e,{...t,type:"outgoing"}))}}`,`::view-transition-new(root){${i(ge(e,{...t,type:"incoming"}))}}`),n})(r,{backward:c(),duration:f.duration}).forEach((e=>{var t;return null===(t=a.sheet)||void 0===t?void 0:t.insertRule(e)}));const s=document.documentElement.classList;s.add(ye);let l=!1;const d=()=>{l||(n(i),l=!0,s.remove(ye))},u=()=>{t(!1),a.remove(),s.remove(ye)};try{t(!0);const e=document.startViewTransition(d);t(e),e.finished.finally(u)}catch(e){console.error(e),d(),u()}})),!1)};e.on("prev",r((t=>e.prev({...t,[he]:!0})),{back:!0,cond:e=>{var t;return e.index>0&&!((null===(t=e.fragment)||void 0===t||t)&&n.fragmentIndex>0)}})),e.on("next",r((t=>e.next({...t,[he]:!0})),{cond:t=>t.index+1<e.slides.length&&!(n.fragmentIndex+1<n.fragments.length)})),setTimeout((()=>{e.on("slide",r((t=>e.slide(t.index,{...t,[he]:!0})),{cond:t=>{const n=e.slide();return t.index!==n&&(t.back=t.index<n,!0)}}))}),0),e.on("fragment",(e=>{n=e}))};let Ee;const Le=()=>(void 0===Ee&&(Ee="wakeLock"in navigator&&navigator.wakeLock),Ee),Se=async()=>{const e=Le();if(e)try{return await e.request("screen")}catch(e){console.warn(e)}return null},Pe=async()=>{if(!Le())return;let e;const t=()=>{e&&"visible"===document.visibilityState&&Se()};for(const e of["visibilitychange","fullscreenchange"])document.addEventListener(e,t);return e=await Se(),e};((e=document.getElementById(":$p"))=>{(()=>{const e=f("view");r.dataset.bespokeView=e===a||e===i?e:""})();const t=(e=>{const t=f(e);return m({[e]:void 0}),t})("sync")||void 0;n.from(e,((...e)=>{const t=s.findIndex((e=>u()===e));return e.map((([e,n])=>e[t]&&n)).filter((e=>e))})([[1,1,0],G({key:t})],[[1,1,1],W(e)],[[1,1,0],_],[[1,1,1],b],[[1,0,0],S()],[[1,1,1],T],[[1,1,1],z({history:!1})],[[1,1,0],I()],[[1,1,0],E],[[1,0,0],J],[[1,1,0],re()],[[1,0,0],M()],[[1,0,0],$e],[[1,1,1],w],[[1,1,0],Pe]))})()}();</script><script>window.__marpCliWatchWS="ws://localhost:37717/dbb8ab4606ec50ed787bc0b969f68fb5293fc44888db09f262a40e131515db7e";!function(){"use strict";const e=(n,o=!1)=>{const t=new WebSocket(n);return t.addEventListener("open",(()=>{console.info("[Marp CLI] Observing the change of file..."),o&&location.reload()})),t.addEventListener("close",(()=>{console.warn("[Marp CLI] WebSocket for file watcher was disconnected. Try re-connecting in 5000ms..."),setTimeout((()=>e(n,!0)),5e3)})),t.addEventListener("message",(e=>{"reload"===e.data&&location.reload()})),t};(()=>{const n=window.__marpCliWatchWS;n&&e(n)})()}();</script></body></html>

@@ -1,16 +1,25 @@
 {
   "id": "conv-1775486876756-obgj6jmf0",
   "providerId": "claude",
-  "title": "你是什么模型",
-  "titleGenerationStatus": "pending",
+  "title": "8月6日 00:21",
   "createdAt": 1775486876756,
-  "updatedAt": 1775487080478,
-  "lastResponseAt": 1775487080478,
-  "sessionId": "275f7af1-504e-409c-8e60-73d173e584a2",
+  "lastActivityAt": 1785946936151,
+  "sessionId": null,
   "providerState": {
-    "providerSessionId": "275f7af1-504e-409c-8e60-73d173e584a2"
+    "previousProviderSessionIds": [
+      "275f7af1-504e-409c-8e60-73d173e584a2",
+      "c8fe5269-872c-4ae5-9ec3-bdab2faf9926"
+    ]
   },
-  "currentNote": "矢量分析/平面方程与法向量的几何直觉.md",
+  "modelRecoverySource": {
+    "sessionId": null,
+    "providerState": {
+      "previousProviderSessionIds": [
+        "275f7af1-504e-409c-8e60-73d173e584a2"
+      ],
+      "providerSessionId": "c8fe5269-872c-4ae5-9ec3-bdab2faf9926"
+    }
+  },
   "usage": {
     "model": "sonnet",
     "inputTokens": 0,

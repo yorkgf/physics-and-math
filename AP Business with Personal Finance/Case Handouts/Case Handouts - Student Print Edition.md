@@ -2,7 +2,7 @@
 
 **Student Print Edition**
 
-> 38 case handouts for all 4 units. Print this document for student distribution.
+> 39 case handouts for all 4 units. Print this document for student distribution.
 
 > Generated: 2026-08-09
 
@@ -3067,6 +3067,152 @@ After the 79-yuan eyebrow pencil controversy, Florasis began reducing its depend
 (B) Explain why relying heavily on a single spokesperson creates risk for a brand.
 
 (C) Recommend two specific steps Florasis should take to diversify its promotional mix and reduce the risk of a single spokesperson damaging the brand. Support your recommendations with evidence from the case.
+
+---
+
+*Keep this handout for reference during class discussion.*
+
+\newpage
+
+---
+subject: AP Business with Personal Finance
+unit: 2
+topic: 2.7
+case_company: Bilibili & YouTube
+last_updated: 2026-08-19
+---
+
+# 2.7 Bilibili & YouTube — Case Handout
+
+> **Topic 2.7 Promotion and Marketing Communications** · Read before class. Be ready to discuss.
+
+---
+
+## Background
+
+**Bilibili (B站)** is a Chinese video-sharing platform founded in 2009, originally focused on anime, comics, and games (ACG) content. By 2025, Bilibili had grown to **366 million monthly active users (MAU)** and **113 million daily active users (DAU)**, with an average user age of **26 years old** — one of the youngest large-platform audiences in China. Users spend an average of **99 minutes per day** on the platform. Unlike most video platforms, Bilibili's culture centers on **danmu (弹幕)**, a real-time bullet-comment system where viewer comments scroll across the video screen, creating a shared viewing experience.
+
+Bilibili's advertising model is fundamentally **creator-driven**. Instead of serving ads before or during videos (as most platforms do), Bilibili connects brands with **UP主 (Uploaders)** — the platform's content creators — who integrate products into their original videos. The official brand-creator marketplace is called **Huahuo (花火)**. Bilibili does not insert pre-roll or mid-roll ads into creator videos; nearly all advertising revenue comes from brand-creator collaborations. In 2025, Bilibili generated **RMB 10.06 billion (~$1.44 billion) in advertising revenue**, a 23% increase year over year. Approximately **3 million creators** earned income on the platform, with average creator income growing **21% year over year**.
+
+**YouTube** is a global video-sharing platform owned by Google/Alphabet, with over **2.7 billion monthly logged-in users** across all age groups and regions. YouTube's primary advertising model is **platform-served ads**: the platform automatically inserts video ads before (pre-roll), during (mid-roll), or after (post-roll) creator content. Advertisers bid through **Google Ads** in a real-time auction system. When a viewer loads a video, the auction runs in milliseconds, and the winning ad is served. YouTube shares **55% of Watch Page ad revenue** with creators (45% for Shorts), paying through AdSense. YouTube's parent company Alphabet generated over **$350 billion in total ad revenue** in 2025.
+
+---
+
+## How Each Advertising Model Works
+
+### Bilibili: Creator-Embedded Model (UP主带货)
+
+| Feature | Detail |
+|---------|--------|
+| **Official marketplace** | **Huahuo (花火)**: brands browse UP主 profiles, negotiate collaborations, and pay directly. Bilibili charges only a **5% platform commission**. |
+| **Open marketplace** | **Xuanshang (悬赏)**: brands upload products; UP主 voluntarily choose which to promote. UP主 earn **CPS (Cost Per Sale) commissions of 20–50%**. Requires 10,000+ followers. |
+| **Ad formats** | **Interstitial**: UP主 briefly mentions or demonstrates the product within their regular content. **Brand creative collaboration**: UP主 creates a fully customized original video around the brand. |
+| **Cost formula** | ~**10% of follower count in RMB**. A UP主 with 100,000 followers charges approximately **RMB 10,000 (~$1,500 USD)** per video. |
+| **Budget allocation** | Recommended: **70% to creators**, 30% to Qifei (paid amplification to boost reach). |
+| **Content lifespan** | Videos remain on the platform indefinitely; conversion half-life is up to **1 month** — videos keep generating sales weeks after posting. |
+
+### YouTube: Platform-Served Model (贴片广告)
+
+| Feature | Detail |
+|---------|--------|
+| **Skippable ads (TrueView)** | Viewer can **skip after 5 seconds**. Advertiser pays only when viewer watches **30+ seconds** or interacts. CPV: **$0.10–$0.30**. |
+| **Non-skippable ads** | Viewer must watch the entire ad (**7–15 seconds**). Billed on **CPM (cost per 1,000 impressions)**: **$5–$30+**. |
+| **Bumper ads** | **6 seconds or less**, non-skippable. CPM: **$5–$20**. |
+| **Auction system** | Advertisers bid through Google Ads. Winning bid = bid amount + ad quality/relevance score. The winner never pays more than their submitted bid. |
+| **Revenue share** | Creators receive **55% of net ad revenue** on Watch Page ads; YouTube keeps **45%**. For Shorts, creators receive 45%. |
+| **Content lifespan** | Ads are **one-time impressions** — they do not create a lasting content asset for the brand. |
+
+---
+
+## Key Metrics Comparison
+
+| Metric | Bilibili UP主 | YouTube Pre-Roll |
+|--------|--------------|------------------|
+| **CPM / cost** | ~10% of follower count per video (mid-tier: $1,500–$5,000) | CPM $3–$30+; CPV $0.10–$0.30 |
+| **Conversion rate** | **4.1%** (Bilibili links to JD.com — 2× the Douyin rate) | **1.5–3.0%** benchmark |
+| **Viewer skip rate** | N/A — no forced ads; viewers chose the video | **75–85%** of viewers skip skippable ads within 5 seconds |
+| **Watch completion** | **62%** average (for engaged viewers who chose to watch) | **40–60%** for 30-second skippable ads |
+| **Trust mechanism** | Parasocial relationship: fans trust UP主 recommendations | No trust mechanism; ad is from an unknown brand |
+| **Branded search lift** | **340%** increase in Baidu searches after UP主 video (case study) | **5–20%** brand lift (industry benchmark) |
+| **Content longevity** | Videos stay searchable and watchable for months; ongoing passive conversion | One-time impression; no lasting content asset |
+| **Platform commission** | Huahuo: **5%** | YouTube: **45%** of ad revenue |
+
+---
+
+## Real Campaign Results
+
+In 2024, an ergonomic chair brand ran a campaign on Bilibili using **3 mid-tier UP主** (80,000–220,000 followers in the tech/gaming category). Each UP主 created a **15-minute product review video** integrating the chair into their regular content.
+
+| Metric | Result |
+|--------|--------|
+| Combined views | **180,000** |
+| Average watch completion | **62%** |
+| Branded search lift on Baidu | **340%** |
+| Conversion rate (Bilibili link → JD.com purchase) | **4.1%** (2× the typical Douyin traffic conversion rate) |
+
+By comparison, a YouTube pre-roll campaign for a similar product category would typically achieve a **1.5–3.0% conversion rate** at a CPA (cost per acquisition) of **$20–$100**, with most viewers skipping the ad before the message is delivered.
+
+---
+
+## Questions
+
+**1. Respond to parts A, B, and C.**
+
+Bilibili and YouTube use fundamentally different approaches to deliver advertising to viewers.
+
+(A) Describe how the Bilibili UP主 model works and how the YouTube pre-roll model works.
+
+(B) Identify one key difference in how advertisers pay on each platform.
+
+(C) Explain which model gives the advertiser more control over how the product is presented to the viewer.
+
+---
+
+**2. Respond to parts A, B, and C.**
+
+A viewer sees a Bilibili UP主 review an ergonomic chair for 15 minutes, demonstrating the product on camera and answering questions in the danmu comments. The same viewer later watches a 15-second YouTube pre-roll ad for the same chair before a music video.
+
+(A) Explain why the viewer may trust the UP主 recommendation more than the YouTube pre-roll ad.
+
+(B) Identify one risk of relying on UP主 trust for product promotion.
+
+(C) Explain what the YouTube pre-roll ad achieves that the UP主 video cannot.
+
+---
+
+**3. Respond to parts A, B, and C.**
+
+A skincare brand has a $10,000 advertising budget and must choose between Bilibili UP主 marketing and YouTube pre-roll ads.
+
+(A) Using the cost data from the case, describe what the brand could purchase on each platform with this budget.
+
+(B) Compare the conversion rates and viewer engagement rates of the two models. Explain which model is likely to generate more direct sales for the same budget.
+
+(C) Explain why the model with the lower direct conversion rate might still be valuable for the brand.
+
+---
+
+**4. Respond to parts A, B, and C.**
+
+A Bilibili UP主 posts a product review video that remains on the platform for six months, continuing to receive views and generate sales. A YouTube pre-roll ad plays once per viewer and creates no lasting content.
+
+(A) Explain what "conversion half-life of up to 1 month" means for the Bilibili UP主 video.
+
+(B) Evaluate the long-term marketing value of the UP主 video compared to the YouTube pre-roll ad.
+
+(C) Recommend which format is better suited for a product that requires research before purchase (such as a laptop or a skincare routine). Support your answer with evidence from the case.
+
+---
+
+**5. Respond to parts A, B, and C.**
+
+A Chinese skincare brand wants to expand internationally. It currently sells only in China through Bilibili UP主 marketing and domestic e-commerce platforms (Tmall, JD.com). The brand is considering whether to also use YouTube pre-roll ads to reach customers in the United States and Europe.
+
+(A) Identify two specific advantages of using YouTube pre-roll ads to reach international customers that Bilibili UP主 marketing cannot provide.
+
+(B) Identify two specific risks of entering the YouTube advertising market for a brand that has only used Bilibili UP主 marketing before.
+
+(C) Recommend whether the brand should use only Bilibili, only YouTube, or both platforms. Support your recommendation using two specific criteria from the case.
 
 ---
 

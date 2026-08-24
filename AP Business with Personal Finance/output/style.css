@@ -1,0 +1,365 @@
+/* ============================================================
+   AP Business with Personal Finance — Vocab Review Booklet
+   Print stylesheet (A4, WeasyPrint)
+   ============================================================ */
+
+/* ── Page Setup ── */
+@page {
+  size: A4;
+  margin: 22mm 18mm 25mm 18mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    color: #94a3b8;
+  }
+}
+
+/* No page number on the cover page */
+@page cover {
+  margin: 0;
+  @bottom-center { content: none; }
+}
+
+/* ── Fonts ── */
+body {
+  font-family: "Inter", "Helvetica Neue", "Noto Sans SC", Arial, sans-serif;
+  font-size: 10pt;
+  line-height: 1.55;
+  color: #1e293b;
+}
+
+/* ── Cover Page ── */
+.cover-page {
+  page: cover;
+  page-break-after: always;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(160deg, #0f172a 0%, #1e3a5f 40%, #2563eb 100%);
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Decorative geometric shapes */
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: -80px;
+  right: -80px;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: -120px;
+  left: -60px;
+  width: 450px;
+  height: 450px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.cover-inner {
+  position: relative;
+  z-index: 1;
+  padding: 0 40mm;
+}
+
+.cover-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 30px;
+  padding: 8px 28px;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+  color: #93c5fd;
+}
+
+.cover-title {
+  font-size: 32pt;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 0 0 12px 0;
+  letter-spacing: -0.5px;
+  color: #ffffff;
+}
+
+.cover-subtitle {
+  font-size: 15pt;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #93c5fd;
+  margin: 0 0 40px 0;
+}
+
+.cover-divider {
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #60a5fa, #93c5fd);
+  border-radius: 2px;
+  margin: 0 auto 40px auto;
+}
+
+.cover-meta {
+  font-size: 9.5pt;
+  color: #94a3b8;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+}
+
+.cover-meta strong {
+  color: #cbd5e1;
+  font-weight: 600;
+}
+
+.cover-footer {
+  position: absolute;
+  bottom: 30mm;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+.cover-footer-line {
+  width: 120px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.15);
+  margin: 0 auto 14px auto;
+}
+
+.cover-footer-text {
+  font-size: 8pt;
+  color: #64748b;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* ── Headings ── */
+h1 {
+  font-size: 20pt;
+  font-weight: 800;
+  color: #1e3a5f;
+  margin-top: 0;
+  margin-bottom: 6px;
+  padding-bottom: 8px;
+  border-bottom: 2.5px solid #2563eb;
+  letter-spacing: -0.3px;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1e40af;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  padding-bottom: 5px;
+  border-bottom: 1.5px solid #dbeafe;
+  page-break-after: avoid;
+}
+
+/* ── Paragraphs & emphasis ── */
+p {
+  margin: 0 0 8px 0;
+}
+
+strong {
+  font-weight: 700;
+  color: #1e293b;
+}
+
+em {
+  font-style: italic;
+  color: #475569;
+}
+
+/* ── Horizontal rules (section dividers) ── */
+hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 16px 0;
+}
+
+/* ── Tables ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 8px 0 14px 0;
+  font-size: 9pt;
+  line-height: 1.5;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+tr {
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+
+th {
+  background: #1e3a5f;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 8.5pt;
+  text-align: left;
+  padding: 8px 10px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  border: none;
+}
+
+th:first-child {
+  border-radius: 4px 0 0 0;
+}
+
+th:last-child {
+  border-radius: 0 4px 0 0;
+}
+
+td {
+  padding: 7px 10px;
+  border-bottom: 1px solid #e2e8f0;
+  vertical-align: top;
+}
+
+/* Zebra striping */
+tbody tr:nth-child(even) td {
+  background: #f8fafc;
+}
+
+tbody tr:nth-child(odd) td {
+  background: #ffffff;
+}
+
+/* First column (row number) — center and compact */
+td:first-child {
+  text-align: center;
+  font-weight: 600;
+  color: #64748b;
+  width: 30px;
+  font-size: 8.5pt;
+}
+
+/* Glossary tables: # | Term | Definition */
+table:nth-of-type(1) th:nth-child(1),
+table:nth-of-type(1) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(1) th:nth-child(2),
+table:nth-of-type(1) td:nth-child(2) {
+  width: 22%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(1) th:nth-child(3),
+table:nth-of-type(1) td:nth-child(3) {
+  width: auto;
+}
+
+/* Trap Pairs tables: # | Term A | Term B | Key Difference */
+table:nth-of-type(2) th:nth-child(1),
+table:nth-of-type(2) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(2) th:nth-child(2),
+table:nth-of-type(2) td:nth-child(2) {
+  width: 18%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(2) th:nth-child(3),
+table:nth-of-type(2) td:nth-child(3) {
+  width: 18%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(2) th:nth-child(4),
+table:nth-of-type(2) td:nth-child(4) {
+  width: auto;
+}
+
+/* Formulas tables: Formula | Calculation */
+table:nth-of-type(3) th:nth-child(1),
+table:nth-of-type(3) td:nth-child(1) {
+  width: 35%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(3) th:nth-child(2),
+table:nth-of-type(3) td:nth-child(2) {
+  width: 65%;
+}
+
+/* Sections with additional terms (4 tables) */
+table:nth-of-type(4) th:nth-child(1),
+table:nth-of-type(4) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(4) th:nth-child(2),
+table:nth-of-type(4) td:nth-child(2) {
+  width: 22%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(4) th:nth-child(3),
+table:nth-of-type(4) td:nth-child(3) {
+  width: auto;
+}
+
+/* ── Page Break Helper ── */
+.page-break {
+  page-break-after: always;
+}
+
+/* ── Unit title pages ── */
+h1 + h2 {
+  margin-top: 6px;
+}
+
+/* ── Compact list items for inline formula rows ── */
+code {
+  font-family: "JetBrains Mono", "Fira Code", "Consolas", monospace;
+  font-size: 8.5pt;
+  background: #f1f5f9;
+  padding: 1px 5px;
+  border-radius: 3px;
+  color: #1e40af;
+}
+
+/* ── Link styling ── */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}

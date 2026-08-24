@@ -1,0 +1,6304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AP Business with Personal Finance — Vocabulary Review Booklet</title>
+  <style>
+/* ============================================================
+   AP Business with Personal Finance — Vocab Review Booklet
+   Print stylesheet (A4, WeasyPrint)
+   ============================================================ */
+
+/* ── Page Setup ── */
+@page {
+  size: A4;
+  margin: 22mm 18mm 25mm 18mm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    color: #94a3b8;
+  }
+}
+
+/* No page number on the cover page */
+@page cover {
+  margin: 0;
+  @bottom-center { content: none; }
+}
+
+/* ── Fonts ── */
+body {
+  font-family: "Inter", "Helvetica Neue", "Noto Sans SC", Arial, sans-serif;
+  font-size: 10pt;
+  line-height: 1.55;
+  color: #1e293b;
+}
+
+/* ── Cover Page ── */
+.cover-page {
+  page: cover;
+  page-break-after: always;
+  width: 210mm;
+  height: 297mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(160deg, #0f172a 0%, #1e3a5f 40%, #2563eb 100%);
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Decorative geometric shapes */
+.cover-page::before {
+  content: "";
+  position: absolute;
+  top: -80px;
+  right: -80px;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.cover-page::after {
+  content: "";
+  position: absolute;
+  bottom: -120px;
+  left: -60px;
+  width: 450px;
+  height: 450px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.cover-inner {
+  position: relative;
+  z-index: 1;
+  padding: 0 40mm;
+}
+
+.cover-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 30px;
+  padding: 8px 28px;
+  font-size: 10pt;
+  font-weight: 600;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+  color: #93c5fd;
+}
+
+.cover-title {
+  font-size: 32pt;
+  font-weight: 800;
+  line-height: 1.2;
+  margin: 0 0 12px 0;
+  letter-spacing: -0.5px;
+  color: #ffffff;
+}
+
+.cover-subtitle {
+  font-size: 15pt;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #93c5fd;
+  margin: 0 0 40px 0;
+}
+
+.cover-divider {
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(90deg, #60a5fa, #93c5fd);
+  border-radius: 2px;
+  margin: 0 auto 40px auto;
+}
+
+.cover-meta {
+  font-size: 9.5pt;
+  color: #94a3b8;
+  line-height: 1.8;
+  letter-spacing: 0.3px;
+}
+
+.cover-meta strong {
+  color: #cbd5e1;
+  font-weight: 600;
+}
+
+.cover-footer {
+  position: absolute;
+  bottom: 30mm;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 1;
+}
+
+.cover-footer-line {
+  width: 120px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.15);
+  margin: 0 auto 14px auto;
+}
+
+.cover-footer-text {
+  font-size: 8pt;
+  color: #64748b;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
+
+/* ── Headings ── */
+h1 {
+  font-size: 20pt;
+  font-weight: 800;
+  color: #1e3a5f;
+  margin-top: 0;
+  margin-bottom: 6px;
+  padding-bottom: 8px;
+  border-bottom: 2.5px solid #2563eb;
+  letter-spacing: -0.3px;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 13pt;
+  font-weight: 700;
+  color: #1e40af;
+  margin-top: 18px;
+  margin-bottom: 8px;
+  padding-bottom: 5px;
+  border-bottom: 1.5px solid #dbeafe;
+  page-break-after: avoid;
+}
+
+/* ── Paragraphs & emphasis ── */
+p {
+  margin: 0 0 8px 0;
+}
+
+strong {
+  font-weight: 700;
+  color: #1e293b;
+}
+
+em {
+  font-style: italic;
+  color: #475569;
+}
+
+/* ── Horizontal rules (section dividers) ── */
+hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 16px 0;
+}
+
+/* ── Tables ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 8px 0 14px 0;
+  font-size: 9pt;
+  line-height: 1.5;
+  page-break-inside: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+tr {
+  page-break-inside: avoid;
+  page-break-after: auto;
+}
+
+th {
+  background: #1e3a5f;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 8.5pt;
+  text-align: left;
+  padding: 8px 10px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  border: none;
+}
+
+th:first-child {
+  border-radius: 4px 0 0 0;
+}
+
+th:last-child {
+  border-radius: 0 4px 0 0;
+}
+
+td {
+  padding: 7px 10px;
+  border-bottom: 1px solid #e2e8f0;
+  vertical-align: top;
+}
+
+/* Zebra striping */
+tbody tr:nth-child(even) td {
+  background: #f8fafc;
+}
+
+tbody tr:nth-child(odd) td {
+  background: #ffffff;
+}
+
+/* First column (row number) — center and compact */
+td:first-child {
+  text-align: center;
+  font-weight: 600;
+  color: #64748b;
+  width: 30px;
+  font-size: 8.5pt;
+}
+
+/* Glossary tables: # | Term | Definition */
+table:nth-of-type(1) th:nth-child(1),
+table:nth-of-type(1) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(1) th:nth-child(2),
+table:nth-of-type(1) td:nth-child(2) {
+  width: 22%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(1) th:nth-child(3),
+table:nth-of-type(1) td:nth-child(3) {
+  width: auto;
+}
+
+/* Trap Pairs tables: # | Term A | Term B | Key Difference */
+table:nth-of-type(2) th:nth-child(1),
+table:nth-of-type(2) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(2) th:nth-child(2),
+table:nth-of-type(2) td:nth-child(2) {
+  width: 18%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(2) th:nth-child(3),
+table:nth-of-type(2) td:nth-child(3) {
+  width: 18%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(2) th:nth-child(4),
+table:nth-of-type(2) td:nth-child(4) {
+  width: auto;
+}
+
+/* Formulas tables: Formula | Calculation */
+table:nth-of-type(3) th:nth-child(1),
+table:nth-of-type(3) td:nth-child(1) {
+  width: 35%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(3) th:nth-child(2),
+table:nth-of-type(3) td:nth-child(2) {
+  width: 65%;
+}
+
+/* Sections with additional terms (4 tables) */
+table:nth-of-type(4) th:nth-child(1),
+table:nth-of-type(4) td:nth-child(1) {
+  width: 28px;
+  text-align: center;
+}
+
+table:nth-of-type(4) th:nth-child(2),
+table:nth-of-type(4) td:nth-child(2) {
+  width: 22%;
+  font-weight: 600;
+  color: #1e3a5f;
+}
+
+table:nth-of-type(4) th:nth-child(3),
+table:nth-of-type(4) td:nth-child(3) {
+  width: auto;
+}
+
+/* ── Page Break Helper ── */
+.page-break {
+  page-break-after: always;
+}
+
+/* ── Unit title pages ── */
+h1 + h2 {
+  margin-top: 6px;
+}
+
+/* ── Compact list items for inline formula rows ── */
+code {
+  font-family: "JetBrains Mono", "Fira Code", "Consolas", monospace;
+  font-size: 8.5pt;
+  background: #f1f5f9;
+  padding: 1px 5px;
+  border-radius: 3px;
+  color: #1e40af;
+}
+
+/* ── Link styling ── */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+  </style>
+</head>
+<body>
+
+<div class="cover-page">
+  <div class="cover-inner">
+    <div class="cover-badge">AP Exam Review</div>
+    <h1 class="cover-title">Business with<br>Personal Finance</h1>
+    <p class="cover-subtitle">Vocabulary Review Booklet</p>
+    <div class="cover-divider"></div>
+    <div class="cover-meta">
+      <strong>Units 1 &ndash; 5</strong> &middot; Complete Vocabulary Reference<br>
+      Core Terms &middot; Additional Terms &middot; Trap Pairs &middot; Formulas
+    </div>
+  </div>
+  <div class="cover-footer">
+    <div class="cover-footer-line"></div>
+    <div class="cover-footer-text">Study Smart &middot; Score High</div>
+  </div>
+</div>
+
+<h1 id="unit-1-business-fundamentals">Unit 1: Business Fundamentals</h1>
+<div class="page-break">
+
+</div>
+<h2 id="what-is-a-business">1.1 What Is a Business</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Business</td>
+<td>An organization or entity that produces and distributes products
+(goods and/or services); can be any size, face-to-face or virtual.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Product</td>
+<td>A good, a service, or both — what a business produces and
+distributes.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Goods</td>
+<td>Tangible items (a candy bar, a phone, a desk).</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Services</td>
+<td>Work performed for compensation (a haircut, a tutoring session, a
+flight).</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Revenue</td>
+<td>Money earned from selling, before expenses.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Profit</td>
+<td>What remains after all expenses are subtracted. (Profit = Revenue −
+Total Cost)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Customer</td>
+<td>The individual or business that purchases a good or service.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Consumer</td>
+<td>The individual who uses a good or service, whether or not they
+bought it.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Need</td>
+<td>Something essential for survival (food, water, shelter, basic
+healthcare).</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Want</td>
+<td>Improves life without being essential (a Netflix subscription, new
+sneakers).</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Market opportunity</td>
+<td>A customer problem, need, or want that a business might
+address.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Problem-solution fit</td>
+<td>The match between a customer problem and a product built to solve
+it.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Value</td>
+<td>The worth or benefit of a product to customers (measured by the
+highest price they’d willingly pay).</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Value creation</td>
+<td>When a business provides a product that responds to customers’
+problems, needs, or wants.</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Value capture</td>
+<td>When a business charges a higher price than it cost to produce.
+(Value captured = Price − Cost)</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Value proposition</td>
+<td>A clear statement of how a product solves a customer problem and why
+choose it over alternatives.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="markets-and-competitive-advantage">1.2 Markets and Competitive
+Advantage</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Market</td>
+<td>Any physical or virtual space where sellers interact with their
+buyers; can be local, regional, or global.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Voluntary exchange</td>
+<td>A transaction in which both sides walk away better off — sellers
+earn revenue, buyers receive value.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Prevailing market price</td>
+<td>The going price for a good or service in a competitive market that
+no individual seller can hold themselves above.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Competitive advantage</td>
+<td>The ability to outperform rivals, leading to increased market share
+and potentially increased profits.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Market share</td>
+<td>The portion of a market’s total sales that one business
+controls.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Rival businesses</td>
+<td>Businesses competing for the same customers in the same market.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Differentiation</td>
+<td>Building products with distinguishing features that set them apart
+from competitors’ offerings.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Barrier to entry</td>
+<td>An obstacle that makes it difficult for new firms to compete in a
+market.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Monopoly</td>
+<td>A market without competition, in which only one business operates
+and produces a unique good or service.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Cost leadership</td>
+<td>A strategy of achieving competitive advantage by producing as
+efficiently as possible to charge the lowest price — common in commodity
+and agricultural markets where products are undifferentiated.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="pestel-factors">1.3 PESTEL Factors</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>PESTEL</td>
+<td>An acronym for the six kinds of outside forces that shape the
+business landscape: Political, Economic, Social, Technological,
+Environmental, Legal.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Viability</td>
+<td>The ability to survive and stay successful in a market over
+time.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Political factors</td>
+<td>Policies and political dynamics that affect market activity: trade
+policy, taxes, subsidies, mandates, bans, political stability.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Economic factors</td>
+<td>Conditions of the economy itself: economic stability, household
+income, inflation, unemployment, interest rates.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Social factors</td>
+<td>Trends in society and culture that affect consumers: demographics,
+cultural norms, lifestyle trends, population growth.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Technological factors</td>
+<td>Features of a market tied to the availability of technology:
+internet access, automation, pace of innovation.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Environmental factors</td>
+<td>External environmental conditions that promote or limit market
+activity: geography, access to resources, waste rules, customer
+attitudes toward the environment.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Legal factors</td>
+<td>Specific laws, rules, and regulations that impact market activity:
+employment laws, consumer protection, health and safety rules, IP
+protection, antitrust laws.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="how-business-ideas-originate">1.4 How Business Ideas
+Originate</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Gap</td>
+<td>A need or want that is not currently being met — an unmet need in a
+market. Can exist even when competitors are present, if a specific need
+goes unserved.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Opportunity</td>
+<td>A new or better way to do something — often triggered by a change in
+technology, society, rules, or resources.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Existing business</td>
+<td>What is already being sold in a market — a source of ideas through
+replication, adaptation, or improvement.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Replication</td>
+<td>Copying a business model that works in one market and applying it in
+another — one of the most common sources of business ideas
+worldwide.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Observation</td>
+<td>The skill of watching what people struggle with, complain about, or
+can’t find — the primary way entrepreneurs discover gaps.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Risk</td>
+<td>The chance that things will not go as planned — the possibility of
+unwanted outcomes like losing money, time, or effort. Can be managed but
+never fully eliminated.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Return</td>
+<td>The gain (usually money) that an entrepreneur hopes to earn from a
+business. Never guaranteed.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Risk–return tradeoff</td>
+<td>A situation where taking more risk gives the chance of a higher
+return, but also a higher chance of losing everything.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Viability</td>
+<td>The ability to survive and stay successful in a market over time
+(carried forward from 1.3).</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Entrepreneur</td>
+<td>A person who takes on the risk of starting and running a
+business.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Entrepreneurial motivation</td>
+<td>The reasons entrepreneurs bear risk, including potential profits,
+satisfaction of solving a problem, and pursuing a passion — not all
+motivation is financial.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="vision-mission-and-values">1.5 Vision, Mission, and Values</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Core values</td>
+<td>The defining beliefs and principles that guide an individual’s or
+business’s actions. Examples: creativity, excellence, transparency,
+empathy, reliability.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Core competencies</td>
+<td>The capabilities, skills, and expertise that help an individual or
+business outperform rivals and achieve competitive advantage. Examples:
+innovation, customer service, communication, ethical behavior,
+efficiency.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vision statement</td>
+<td>A concise description of the future the business is trying to create
+— its aspirations and core values. Describes a future worth wanting, not
+the work.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mission statement</td>
+<td>Describes what the business does and how it will achieve its
+long-term goals. Describes the work — the operation, not the
+aspiration.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Business</td>
+<td>An organization that seeks to achieve and increase profits, fulfill
+its mission/goals, and remain competitive and viable. Owners keep or
+reinvest profit.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Social enterprise</td>
+<td>An organization that seeks profit while also, by design, achieving
+social objectives. Impact travels through products, operations, or
+financial model. Owners keep profit.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Nonprofit organization</td>
+<td>An organization that serves the public good rather than generating
+profit for owners. Any surplus must be reinvested; no payment to
+owners.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Grant</td>
+<td>Funding awarded for a stated purpose, usually by a government or
+foundation; earned by application, not by sale.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Donation</td>
+<td>Money or resources given to an organization with no product attached
+in return.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Competitive advantage</td>
+<td>The ability to outperform rivals in the same market, leading to
+increased market share and potentially profits. Core competencies feed
+competitive advantage.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="business-ethics">1.6 Business Ethics</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Unethical behavior</td>
+<td>Actions that violate moral or professional standards</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Code of conduct</td>
+<td>A written document outlining expected ethical behavior and
+standards</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Training</td>
+<td>Teaching employees to follow ethical guidelines through ongoing
+instruction and practice scenarios</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Internal repercussion</td>
+<td>A consequence imposed after an ethical transgression (warning,
+suspension, termination)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Modeling (ethical behavior)</td>
+<td>A leader demonstrates ethical behavior in front of employees, so the
+standard is learned by observation</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Incentive</td>
+<td>A reward that encourages a particular action, offered before the
+behavior</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Ethical dilemma</td>
+<td>A situation where a core value conflicts with another core value or
+with a business goal or practice</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Internal stakeholder</td>
+<td>Individuals or groups with direct involvement in a business’s
+operations, decisions, and outcomes</td>
+</tr>
+<tr>
+<td>9</td>
+<td>External stakeholder</td>
+<td>Individuals or groups not directly employed or involved but with a
+vested interest in the business’s decisions and outcomes</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Brand loyalty</td>
+<td>Ongoing customer preference for a business’s products based on trust
+and positive experience</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Ethical dilemma</td>
+<td>Unethical behavior</td>
+<td>Both involve ethics — Dilemma = two sides with real trade-offs;
+unethical behavior = a specific wrong act (lying, hiding, taking)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Incentive</td>
+<td>Internal repercussion</td>
+<td>Both influence employee behavior — Incentive = reward BEFORE
+behavior (pulls toward); repercussion = consequence AFTER behavior
+(pushes back)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Modeling</td>
+<td>Internal repercussion</td>
+<td>Both involve a leader taking action — Modeling = leader DEMONSTRATES
+the standard; repercussion = leader PUNISHES a transgression</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Internal stakeholder</td>
+<td>External stakeholder</td>
+<td>Both affected by business decisions — Internal = direct involvement
+in operations; external = vested interest only</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Greatest total benefit</td>
+<td>One-column total</td>
+<td>Both involve adding numbers — Must sum across EVERY stakeholder
+group (internal + external); stopping at one column is the trap</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Right decision + broken reason</td>
+<td>Right decision + valid reason</td>
+<td>Both reach the same verdict — A conclusion supported by “always” or
+“guarantee” is wrong reasoning even if the verdict is correct</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="organization-roles-and-responsibilities">1.7 Organization,
+Roles, and Responsibilities</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sole proprietorship</td>
+<td>A business with one owner who has full control, keeps all profits,
+and is personally liable for all debts</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Partnership</td>
+<td>A business with two or more owners who share control and profits and
+are personally liable for all debts</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Limited liability company (LLC)</td>
+<td>A business structure where owners retain control and profits but are
+shielded from personal liability</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Corporation</td>
+<td>A business structure owned by shareholders who cede control to an
+elected board of directors in exchange for greater access to
+funding</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Personal liability</td>
+<td>The owner’s personal assets are at risk for business debts and
+obligations</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Limited liability (liability shield)</td>
+<td>Business owners are not personally responsible for business debts —
+only the business’s assets are at risk</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Organizational structure</td>
+<td>The arrangement of roles, responsibilities, authority, and
+communication within a business</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Department</td>
+<td>A specialized functional unit within a larger business (e.g.,
+accounting, marketing, operations)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Accounting</td>
+<td>The department that tracks expenditures and earnings and prepares
+financial statements to monitor financial health</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Finance</td>
+<td>The department that secures and manages funds and uses financial
+data to recommend strategies for improving performance</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Outsourcing</td>
+<td>Hiring another business to handle a function instead of doing it
+internally</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sole proprietorship</td>
+<td>LLC</td>
+<td>Both have one or few owners who retain control — Sole prop =
+personal liability; LLC = liability shield</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Partnership</td>
+<td>Corporation</td>
+<td>Both have multiple people in ownership — Partnership = owners retain
+control, personal liability; Corporation = owners cede control,
+liability shielded</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Accounting</td>
+<td>Finance</td>
+<td>Both deal with money and financial data — Accounting = backward
+(records, statements); Finance = forward (funds, strategies)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Personal liability</td>
+<td>Limited liability</td>
+<td>Both describe who pays business debts — Personal = owners pay from
+pocket; Limited = only business assets at risk</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Roles</td>
+<td>Departments</td>
+<td>Both describe who does what — Roles = how small teams divide work;
+Departments = how large businesses organize functions</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Outsourcing</td>
+<td>Core competency</td>
+<td>Both involve a business function — Outsourcing = moving function out
+(cost-driven); Core competency = developing function in-house
+(competitive advantage)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Control vs. funding tradeoff</td>
+<td>More control → Less funding available<br>Less control (corporation)
+→ More funding accessible</td>
+</tr>
+<tr>
+<td>Liability boundary</td>
+<td>Sole prop + Partnership = Personal liability<br>LLC + Corporation =
+Liability shield</td>
+</tr>
+<tr>
+<td>3-question method</td>
+<td>1. Who owns it? → 2. Who pays debts? → 3. How funded?<br>→ Structure
+identified</td>
+</tr>
+<tr>
+<td>Accounting vs. finance</td>
+<td>Preparing statements / tracking past money → Accounting<br>Analyzing
+data / planning future strategy → Finance</td>
+</tr>
+<tr>
+<td>Outsourcing triggers</td>
+<td>Missing skills → Outsource<br>High labor costs → Outsource</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="supply-chains">1.8 Supply Chains</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Artisan production</td>
+<td>A production process that relies on skilled labor and close
+attention to detail, producing goods in smaller quantities</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mass production</td>
+<td>A production process that relies on technology, assembly lines, and
+machinery to produce goods in far larger quantities</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Supply chain</td>
+<td>All of the individuals and businesses involved at each stage of
+producing and distributing a product — from raw materials to final
+customer delivery</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Raw materials</td>
+<td>The basic natural resources or inputs used to manufacture a
+product</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Manufacturing facility</td>
+<td>The location where workers and equipment turn raw materials into
+finished goods</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Warehouse</td>
+<td>A facility that emphasizes storage of finished goods</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Distribution center</td>
+<td>A facility that stores goods and moves them onward to stores and
+customers</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Supplier</td>
+<td>A business that buys materials/goods from one business and sells
+them to another</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Distributor</td>
+<td>A business that buys finished products from manufacturers and sells
+them onward to retail stores</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Scaling</td>
+<td>Building higher-capacity, more efficient supply chains so that
+revenue increases outrun cost increases</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Service supply chain</td>
+<td>Acquiring the employees, resources, and delivery systems needed to
+provide a service (in person or virtually)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Artisan production</td>
+<td>Mass production</td>
+<td>Both produce physical goods — Artisan = skilled labor, small
+quantities; Mass = technology, large quantities</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Warehouse</td>
+<td>Distribution center</td>
+<td>Both store goods — Warehouse = storage only; Distribution center =
+stores and moves onward</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Supplier</td>
+<td>Distributor</td>
+<td>Both move goods between businesses — Supplier = materials into
+production; Distributor = finished goods out to retail</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Buying inputs</td>
+<td>Outsourcing</td>
+<td>Both involve paying another business — Buying inputs = purchasing
+raw materials; Outsourcing = handing entire function to another
+business</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Service supply chain</td>
+<td>No supply chain</td>
+<td>Services have no visible factory or warehouse — Services DO have
+supply chains made of people, resources, delivery systems</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cost increase</td>
+<td>Scaling failure</td>
+<td>Both show rising total costs — Scaling succeeds when revenue growth
+&gt; cost growth; question is whether revenue rose faster</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chain order</td>
+<td>Raw materials → Manufacturing → Warehouse → Distribution/Retail →
+Customer</td>
+</tr>
+<tr>
+<td>Warehouse vs. distribution center</td>
+<td>Warehouse = storage; Distribution center = storage + forwarding</td>
+</tr>
+<tr>
+<td>Five supplier factors</td>
+<td>Cost, quality, efficiency, convenience, risk (the one that hides) —
+always weigh all five</td>
+</tr>
+<tr>
+<td>Scaling success test</td>
+<td>Revenue growth % &gt; Cost growth % → scaling works</td>
+</tr>
+<tr>
+<td>Strategy → chain</td>
+<td>Be specific: cheaper input / better input / locked-up input — name
+the mechanism</td>
+</tr>
+<tr>
+<td>Service chain</td>
+<td>People + resources + delivery system — no factory, no warehouse</td>
+</tr>
+<tr>
+<td>Three question shapes</td>
+<td>(1) Order the stages, (2) Choose a supplier, (3) Match strategy to
+chain</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="unit-2-marketing-and-customers">Unit 2: Marketing and
+Customers</h1>
+<div class="page-break">
+
+</div>
+<h2 id="marketing-to-customers">2.1 Marketing to Customers</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Marketing</td>
+<td>All activities a business undertakes to identify customers’
+problems, needs, and wants, and to promote, sell, and deliver products
+that meet them</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Customer data</td>
+<td>Information about customers that helps marketers decide which
+customers to serve, which products to produce, and how to market
+effectively and profitably</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Demographic characteristics</td>
+<td>Measurable qualities used to describe a population, such as age,
+sex, race, ethnicity, income, and location</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Psychographic characteristics</td>
+<td>Cognitive and behavioral factors within a population, including
+individuals’ interests, activities, values, and lifestyles</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Market segmentation</td>
+<td>Aggregating potential customers into groups (market segments) based
+on shared demographic and psychographic characteristics</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Market segment</td>
+<td>A group of potential customers who share demographic and
+psychographic characteristics</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Target customers</td>
+<td>The buyers most likely to purchase a specific product because of
+their wants, needs, and preferences</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Customer profile</td>
+<td>A fictional description of a specific sample customer, incorporating
+demographic and psychographic data as well as wants, needs, and
+preferences</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Personalized service</td>
+<td>A relationship tactic that treats a customer as a known
+individual</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Customer acquisition cost (CAC)</td>
+<td>Total marketing, advertising, and sales costs used to acquire
+customers ÷ number of customers acquired</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Lifetime value of a customer (LTV)</td>
+<td>The estimated amount of money a customer will spend on the
+business’s products over time</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Data breach</td>
+<td>An incident that exposes stored customer information to
+outsiders</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Subscriber list</td>
+<td>A digital tool that records who asked to hear from the business</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Click-tracking software</td>
+<td>A digital tool that records what visitors tap or click on a
+website</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Social media monitoring</td>
+<td>Reading what people say publicly about a product on social
+platforms</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Rewards program</td>
+<td>A relationship tactic that gives repeat buyers a reason to
+return</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Customer feedback opportunities</td>
+<td>A relationship tactic (e.g., satisfaction surveys) that asks buyers
+what to fix</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Identity theft</td>
+<td>Using stolen personal details to impersonate a person</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Fraud</td>
+<td>Using deception, often powered by stolen data, to take money or
+property</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Targeting efficiency</td>
+<td>The cost and effectiveness advantage of designing products and
+marketing for a specific segment rather than appealing to a broad
+audience — targeting is more effective and less costly</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Demographic</td>
+<td>Psychographic</td>
+<td>Both describe customers — Demographic = measurable/census traits
+(who the person is) · Psychographic = cognitive/behavioral (what the
+person cares about)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Market segment</td>
+<td>Customer profile</td>
+<td>Both describe target customers — Segment = the group sharing traits
+· Profile = one fictional person who stands for the group</td>
+</tr>
+<tr>
+<td>3</td>
+<td>CAC</td>
+<td>LTV</td>
+<td>Both are per-customer numbers — CAC = what you spend to get a
+customer · LTV = what that customer spends on you over time</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Advertising costs</td>
+<td>Acquisition costs</td>
+<td>Both involve spending to get customers — Advertising is one
+component; acquisition costs = marketing + advertising + sales (all of
+them)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Brand loyalty</td>
+<td>Repeat purchase</td>
+<td>Both describe coming back — Loyalty = emotional attachment to the
+brand · Repeat = buying again (may be convenience, not loyalty)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Privacy violation</td>
+<td>Data breach</td>
+<td>Both involve customer data problems — Privacy = collecting/storing
+without awareness or disclosure · Breach = data exposed to
+outsiders</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CAC = (marketing + advertising + sales costs) ÷ customers
+acquired</td>
+<td>What it costs to win one customer</td>
+</tr>
+<tr>
+<td>LTV = estimated total spending over time</td>
+<td>What a customer is worth to you</td>
+</tr>
+<tr>
+<td>LTV − CAC</td>
+<td>Net value per customer</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="consumer-behavior">2.2 Consumer Behavior</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Rational decision-making process</td>
+<td>A deliberate, step-by-step approach in which a consumer identifies a
+need, gathers information, evaluates alternatives, makes a purchase, and
+reviews the outcome</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Habitual buying behavior</td>
+<td>Low-involvement, routine purchasing in which a consumer repeats a
+familiar choice with little conscious evaluation</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Personal factors</td>
+<td>Individual characteristics—such as age, income, lifestyle, and
+personality—that shape what a consumer wants and can afford</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Psychological factors</td>
+<td>Internal mental processes—motivation, perception, learning, and
+beliefs—that influence how a consumer interprets and reacts to
+marketing</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Social and cultural factors</td>
+<td>External forces—family, reference groups, culture, and social
+class—that set norms and expectations for what a consumer considers
+acceptable or desirable</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Situational influences</td>
+<td>Temporary, context-specific conditions—such as time pressure, store
+atmosphere, or mood—that affect a purchase decision at the moment</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Purchasing pattern</td>
+<td>The observable regularity in a consumer’s buying, defined by timing,
+frequency, and quantity of purchases</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Consumer protection laws</td>
+<td>Government regulations that safeguard buyers against unfair,
+deceptive, or unsafe business practices</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Substitute products</td>
+<td>Alternative goods or services that satisfy the same underlying need,
+giving consumers a choice when one option is restricted or
+unavailable</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Scarcity</td>
+<td>The perception that a product is limited in availability, which
+increases its psychological appeal and urgency to buy</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Authority</td>
+<td>The tendency to defer to people perceived as experts or credible
+sources when making purchase decisions</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Consensus/social proof</td>
+<td>The tendency to follow the actions of others, assuming that if many
+people buy something, it must be a good choice</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Reciprocity</td>
+<td>The felt obligation to give something back after receiving a favor,
+gift, or concession from a seller</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Consistency</td>
+<td>The desire to act in ways that are aligned with commitments one has
+already made, even small ones</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Liking</td>
+<td>The tendency to be persuaded by people or brands we find attractive,
+similar to us, or complimentary toward us</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Unity</td>
+<td>The feeling of shared identity—“we are the same kind of person”—that
+deepens influence beyond mere similarity</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Face test</td>
+<td>A personal ethics check: “Would I be comfortable if the tactic I’m
+using were fully disclosed to the customer?”</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Consequential purchase</td>
+<td>A high-stakes buying decision (large money, long commitment, high
+risk) that is more likely to trigger the rational decision-making
+process</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Technology-driven purchasing shift</td>
+<td>Changes in consumer purchasing patterns caused by technology and
+innovation — e.g., the internet and smartphones enabled online shopping,
+price comparison, peer reviews, and new information/entertainment
+channels</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Rational decision-making</td>
+<td>Habitual buying</td>
+<td>Both describe how consumers buy — Rational = deliberate,
+step-by-step evaluation · Habitual = automatic, low-involvement
+routine</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Personal factors</td>
+<td>Psychological factors</td>
+<td>Both operate inside the individual — Personal = who you are (age,
+income, lifestyle) · Psychological = what you think and feel
+(motivation, perception, beliefs)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Social/cultural factors</td>
+<td>Situational influences</td>
+<td>Both are external forces on a decision — Social/cultural = permanent
+norms and group expectations · Situational = temporary, moment-specific
+conditions (time, mood, store atmosphere)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Consensus/social proof</td>
+<td>Authority</td>
+<td>Both rely on others’ behavior or status — Consensus = “many people
+bought this” (quantity of buyers) · Authority = “an expert endorses
+this” (credibility of one source)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Reciprocity</td>
+<td>Liking</td>
+<td>Both involve a positive connection to the seller — Reciprocity =
+obligation from a favor received (give-back) · Liking = rapport from
+attraction or similarity (warmth)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Consistency</td>
+<td>Unity</td>
+<td>Both deepen commitment over time — Consistency = alignment with your
+own past actions (self-image) · Unity = alignment with a group’s
+identity (belonging)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Purchasing pattern = timing + frequency + quantity</td>
+<td>Three observable dimensions of how a consumer buys</td>
+</tr>
+<tr>
+<td>Four tiebreakers when choosing between similar products</td>
+<td>Price, features, availability, advertising — the criteria consumers
+use when two options seem equal</td>
+</tr>
+<tr>
+<td>Face test = “Does the tactic survive full disclosure?”</td>
+<td>An ethical check: would you be comfortable if the customer saw
+exactly what you were doing?</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="market-research">2.3 Market Research</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Market research</td>
+<td>The systematic process of gathering, analyzing, and interpreting
+information about a market, including potential customers and
+competitors, to guide business decisions.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Quantitative data</td>
+<td>Numerical information that can be measured and expressed using
+numbers, such as sales figures, percentages, or survey ratings.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Qualitative data</td>
+<td>Non-numerical information expressed in words, images, or
+observations, such as customer opinions, motivations, or feelings.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Desirability</td>
+<td>Whether a product or service solves a real customer problem or
+fulfills a genuine need (problem-solution fit).</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Feasibility</td>
+<td>Whether the business has or can acquire the resources, technology,
+and capabilities needed to deliver the product or service.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Viability</td>
+<td>Whether the product or service can generate sustainable profit and
+long-term financial success.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Secondary-source research</td>
+<td>Analysis of data that already exists, such as government reports,
+industry publications, or competitor websites, to understand the broader
+market landscape.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Primary-source research</td>
+<td>Collection of new, original data directly from target customers
+through methods like surveys, interviews, experiments, and
+observations.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Business hypothesis</td>
+<td>A specific, testable assumption about a business idea (e.g.,
+“Customers prefer Feature A over Feature B”) that is fed INTO a research
+method for validation.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>A/B testing</td>
+<td>A controlled experiment that compares two versions (A and B) of a
+single variable—such as a webpage headline or pricing—by randomly
+assigning real customers to each version and measuring which performs
+better.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Survey</td>
+<td>A structured set of questions distributed to a large number of
+respondents to collect primarily quantitative data on preferences,
+behaviors, or demographics.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Data visualization</td>
+<td>The graphical representation of data through charts, graphs, or maps
+to make patterns, trends, and comparisons easier to understand.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Focus group</td>
+<td>A moderated discussion with a small group of target customers
+(typically 6-10) to explore attitudes, perceptions, and reactions to a
+product or concept.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>One-on-one interview</td>
+<td>A direct, in-depth conversation with a single respondent to gather
+detailed qualitative insights, often including follow-up questions.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Experiment</td>
+<td>A controlled test in which a researcher deliberately changes one
+variable while holding others constant to observe the effect on behavior
+or outcomes.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Observation</td>
+<td>A research method in which a researcher watches and records customer
+behavior in natural settings without altering the environment or
+interacting with subjects.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bar chart</td>
+<td>A chart that uses rectangular bars of varying heights to compare
+discrete categories or data points.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Stacked bar chart</td>
+<td>A bar chart in which each bar is divided into segments representing
+sub-categories, showing both the total and the composition of each
+category.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Line graph</td>
+<td>A graph that connects data points with lines to display trends or
+changes over a continuous period.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Pie chart</td>
+<td>A circular chart divided into slices that represent the proportion
+or percentage share of each category within a whole.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Sample bias</td>
+<td>A systematic error that occurs when the sample of respondents is not
+representative of the broader target population, leading to skewed or
+unreliable results.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Research method selection</td>
+<td>The process of choosing which primary research method (survey,
+interview, focus group, experiment, A/B test, observation) to use based
+on the types of data needed to test a specific business hypothesis.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Research limitations</td>
+<td>The reality that businesses cannot always accurately predict
+customer or market responses and must sometimes innovate with limited,
+unclear, or contradictory data — no research method eliminates all
+uncertainty.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Quantitative</td>
+<td>Qualitative</td>
+<td>Both are types of data collected during research. — Quantitative =
+numbers you can count and graph (e.g., “72% prefer X”). Qualitative =
+words and images you interpret (e.g., “I like X because…”).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Secondary</td>
+<td>Primary</td>
+<td>Both aim to understand the market. — Secondary = data that already
+exists (government stats, industry reports). Primary = data you collect
+yourself (surveys, interviews).</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Hypothesis</td>
+<td>Finding</td>
+<td>Both relate to the research cycle. — Hypothesis = the assumption you
+feed IN before testing (e.g., “Feature A is preferred”). Finding = the
+result handed BACK after analysis (e.g., “Feature B was preferred
+70%-30%”).</td>
+</tr>
+<tr>
+<td>4</td>
+<td>A/B Test</td>
+<td>Observation</td>
+<td>Both study customer behavior. — A/B test = you deliberately change
+something (Version A vs. B) and compare outcomes. Observation = you
+watch behavior without changing anything.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Survey</td>
+<td>Interview</td>
+<td>Both collect customer input. — Survey = large sample, primarily
+quantitative, fixed questions, little or no follow-up. Interview = small
+sample, primarily qualitative, open-ended, with follow-up
+questions.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Desirability</td>
+<td>Viability</td>
+<td>Both assess whether to pursue a business idea. — Desirability = “Do
+customers want this?” (problem-solution fit). Viability = “Can we make
+money doing this?” (profitable path). A product can be desirable but not
+viable.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A/B Test Math</td>
+<td>A: 7/9 ≈ 78%<br>B: 3/8 ≈ 38%<br>→ A wins by ~40 pp</td>
+</tr>
+<tr>
+<td>Survey Base / Denominator</td>
+<td>30/120 = 25%<br>30/200 = 15%<br>→ Always report raw count WITH the
+base</td>
+</tr>
+<tr>
+<td>Desirable → Feasible → Viability</td>
+<td>1. Desirability — customer need?<br>2. Feasibility — can we
+deliver?<br>3. Viability — profitable path?</td>
+</tr>
+<tr>
+<td>Secondary before Primary</td>
+<td>Secondary first — cheaper, faster, refines primary questions</td>
+</tr>
+<tr>
+<td>Sample Bias Red Flags</td>
+<td>Convenience sampling (friends only)<br>Voluntary response bias
+(passionate only)<br>Undercoverage (missing a key demographic)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="product">2.4 Product</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Idea Generation</td>
+<td>The first stage of product development where businesses brainstorm
+new concepts or gather suggestions from customers.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Idea Screening</td>
+<td>Evaluating potential product ideas by analyzing market size,
+competition, costs, and regulatory barriers before moving forward.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Prototype</td>
+<td>A preliminary model of a product that can range from a simple visual
+mockup to a functional working version.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Concept Testing</td>
+<td>Sharing a product idea with potential customers to confirm it solves
+a real problem they actually have.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Minimum Viable Product (MVP)</td>
+<td>The most basic version of a product that includes only core features
+and that customers are willing to pay for.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Value Proposition</td>
+<td>A statement that explains why a target customer should choose your
+product instead of a competitor’s.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Manufacturing Planning</td>
+<td>Deciding how and where a product will be produced, which begins
+after the MVP is validated through customer feedback.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Market Research</td>
+<td>The process of gathering and analyzing data about customers,
+competitors, and market conditions to guide product decisions.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Brand</td>
+<td>A name, term, design, symbol, or combination that identifies and
+differentiates a company’s products from those of competitors.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Branding</td>
+<td>The ongoing process of building a brand’s identity so that customers
+develop trust and loyalty over time.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Brand Equity</td>
+<td>The added financial and competitive value a product earns because
+customers recognize, trust, and prefer the brand.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Product Life Cycle (PLC)</td>
+<td>A model describing the four stages every product passes through:
+introduction, growth, maturity, and decline.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Introduction Stage</td>
+<td>The first PLC stage, marked by low sales, high costs, and a
+strategic focus on building customer awareness.</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Maturity Stage</td>
+<td>The PLC stage where sales peak, growth slows, the market is
+saturated, and competition is heaviest.</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Product Portfolio Management</td>
+<td>The practice of managing multiple products at different life cycle
+stages to balance risk and maintain steady revenue.</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Product Messaging</td>
+<td>The stage of product development focused on crafting the value
+proposition and product-positioning strategy to communicate the
+product’s unique value to target customers</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Generic Product</td>
+<td>A product sold without branding or a distinctive brand identity,
+targeting customers who prioritize cost savings over brand
+recognition</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Growth Stage</td>
+<td>The PLC stage where sales rise rapidly, profits begin to appear, and
+new competitors enter the market.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Decline Stage</td>
+<td>The final PLC stage where sales drop and businesses must decide
+whether to reduce investment, discontinue, or reinvent the product.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Product Features</td>
+<td>The specific attributes or functions of a product that deliver value
+to the customer.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Customer Feedback</td>
+<td>Information collected from users about their experience with a
+product, used to guide refinements and improvements.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Target Market</td>
+<td>The specific group of consumers a product is designed and marketed
+to serve (cross-topic: 2.1).</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Market Saturation</td>
+<td>A condition in which most potential customers already own or use a
+product, making further sales growth difficult.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Price Wars</td>
+<td>Aggressive rounds of price cutting among competitors, most common
+during the maturity stage of the PLC.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="price">2.5 Price</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Price</td>
+<td>The amount of money a customer pays in exchange for a good or
+service.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pricing Strategy</td>
+<td>A deliberate method a business uses to set the price of its products
+in order to meet revenue and profit goals.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Value-Based Pricing</td>
+<td>Setting a price based on the customer’s perceived value — what they
+are willing to pay — rather than on costs alone.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Competitive Pricing</td>
+<td>Setting a price by looking at what competitors charge for similar
+products and positioning accordingly.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Cost-Based Pricing</td>
+<td>Calculating the total cost per unit and then adding a markup to
+determine the selling price (cost + desired profit = price).</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Penetration Pricing</td>
+<td>Setting a low initial price to attract customers quickly and gain
+market share, then gradually raising the price.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Dynamic Pricing</td>
+<td>Adjusting the price of a product in real time based on current
+demand, supply, or other market conditions.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Loss-Leader Pricing</td>
+<td>Selling a specific product below cost to draw customers into the
+store or platform, expecting they will also buy profitable items.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Pricing Power</td>
+<td>The ability of a business to raise its prices without losing
+customers to competitors.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Price Elasticity of Demand</td>
+<td>A measure of how sensitive customers are to a change in price —
+whether demand rises or falls significantly when price shifts.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Price Fixing</td>
+<td>An illegal agreement between competitors to set prices at a certain
+level, eliminating genuine competition.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Price Gouging</td>
+<td>Raising prices to unfair levels during a crisis or emergency, which
+is illegal in many states and countries.</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Price Discrimination</td>
+<td>Charging different prices to different customer segments for the
+same product; illegal when based on protected characteristics.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Elastic Demand</td>
+<td>Demand that changes significantly when price changes — customers are
+highly price-sensitive.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Inelastic Demand</td>
+<td>Demand that stays relatively stable even when price changes —
+customers are less price-sensitive.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Markup</td>
+<td>The amount added to the cost of a product to determine its selling
+price and generate profit.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Switching Costs</td>
+<td>The time, money, or effort a customer must spend to change from one
+product or brand to another.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Price War</td>
+<td>A situation where competing businesses continuously lower prices to
+undercut each other, often hurting profits industry-wide.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Perceived Value</td>
+<td>The customer’s belief about what a product is worth to them,
+influenced by brand, quality, and experience.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="place-and-channels">2.6 Place and Channels</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Place</td>
+<td>Where and how customers access a business’s products, whether
+through physical locations, online platforms, or membership-based
+models</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Marketing channel</td>
+<td>All the individuals and businesses involved in moving a finished
+product from the producer to the final customer</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Distribution channel</td>
+<td>A synonym for marketing channel — the path a product follows from
+production to the end user</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Supply chain</td>
+<td>The full network of people and businesses that produce and
+distribute a product, from raw materials through final delivery; the
+marketing channel is the final stage of this chain</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Direct channel</td>
+<td>A marketing path that connects the business straight to its
+customers with no intermediaries in between</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Indirect channel</td>
+<td>A marketing path that includes intermediaries such as wholesalers or
+retailers between the business and its customers</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Intermediary</td>
+<td>A third party — such as a wholesaler, retailer, or distributor —
+that sits between the producer and the final customer in a channel</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Wholesaler</td>
+<td>A business that buys products in bulk from manufacturers and resells
+them in smaller quantities to retailers or other businesses</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Retailer</td>
+<td>A business that sells products directly to the final consumer,
+either in physical stores or online</td>
+</tr>
+<tr>
+<td>10</td>
+<td>B2C channel</td>
+<td>A marketing channel designed to deliver products from businesses
+directly to individual consumers, such as websites or retail stores</td>
+</tr>
+<tr>
+<td>11</td>
+<td>B2B channel</td>
+<td>A marketing channel designed to deliver products from one business
+to another, often using industrial distributors</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Legally mandated channel</td>
+<td>A distribution path required by law for certain products — such as
+prescription medications or health-and-safety goods — that restricts how
+and where the product can be sold</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Industrial distributor</td>
+<td>A middleman that sells products to other businesses rather than to
+individual consumers; the standard B2B channel</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Company-owned store</td>
+<td>A retail location operated directly by the brand, giving the
+business full control over pricing, merchandising, and customer
+experience</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Club membership model</td>
+<td>A retail format (e.g., Costco, Sam’s Club) where customers pay a fee
+to access products, often at lower prices in bulk</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Channel partner</td>
+<td>Any external business — wholesaler, retailer, or distributor — that
+helps move a product to the final customer through an indirect
+channel</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Channel conflict</td>
+<td>Tension that arises when two or more channel partners compete for
+the same customers, such as a brand’s website competing with its own
+retail partners</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="promotion-and-marketing-communications">2.7 Promotion and
+Marketing Communications</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Marketing campaign</td>
+<td>A coordinated effort that uses multiple promotional tools to promote
+a product or brand to customers</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Promotional mix</td>
+<td>The combination of tools a business uses to communicate its message
+to customers</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Media advertising</td>
+<td>Using mass-media channels (TV, radio, newspapers, billboards) to
+deliver the same message to a large audience at the same time</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Personal selling</td>
+<td>Direct, one-on-one interaction with a customer that provides
+detailed product information or a demonstration</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sales pitch</td>
+<td>A short verbal presentation that conveys a product’s value
+proposition to a potential buyer</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Sales promotion</td>
+<td>Short-term incentives like discounts or coupons designed to
+encourage rapid purchasing decisions</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Direct marketing</td>
+<td>Sending targeted messages (flyers, brochures) directly to a large
+number of potential customers</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Public relations</td>
+<td>Activities such as press releases and media interviews aimed at
+creating a favorable public image for the business</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Consequential purchase</td>
+<td>A high-involvement buying decision where the customer needs
+detailed, personalized information before committing</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Routine purchase</td>
+<td>A low-involvement buying decision that does not require extensive
+research or interaction before purchasing</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Digital marketing</td>
+<td>The use of the internet and digital tools — such as websites, email,
+social media, and mobile apps — to connect with customers</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Traditional marketing</td>
+<td>Offline promotional methods that existed before the internet,
+including TV, radio, print, and billboards</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Big data</td>
+<td>Large volumes of information collected digitally about customer
+responses, behaviors, and buying factors</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Value proposition</td>
+<td>A clear statement of the unique benefit a product offers that makes
+it worth buying</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Brand loyalty</td>
+<td>A customer’s emotional attachment to a brand that drives repeat
+purchases over time</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Brand awareness</td>
+<td>The extent to which customers recognize and recall a particular
+brand</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Call to action (CTA)</td>
+<td>A message designed to prompt an immediate response, such as “Buy
+now” or “Sign up today”</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Return on marketing investment (ROMI)</td>
+<td>The revenue generated relative to the amount spent on a marketing
+campaign</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Target audience</td>
+<td>The specific group of customers a marketing message is designed to
+reach</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Personalization</td>
+<td>Tailoring marketing messages to individual customers based on their
+data and preferences</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Reach</td>
+<td>The total number of distinct people exposed to a marketing
+message</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="unit-3-financial-management">Unit 3: Financial Management</h1>
+<div class="page-break">
+
+</div>
+<h2 id="saving-for-future-purchases">3.1 Saving for Future
+Purchases</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>saving</td>
+<td>Setting aside a portion of income for future use; creates a personal
+asset and may earn interest</td>
+</tr>
+<tr>
+<td>2</td>
+<td>income</td>
+<td>Money earned by consumers, typically by working for an organization;
+can also come from self-employment, rental properties, government
+programs, investments, or retirement accounts</td>
+</tr>
+<tr>
+<td>3</td>
+<td>interest</td>
+<td>Payment earned on savings, determined by the interest rate, the
+amount of savings, the type of savings vehicle, and conditions in the
+economy</td>
+</tr>
+<tr>
+<td>4</td>
+<td>interest rate</td>
+<td>The percentage at which savings earn interest</td>
+</tr>
+<tr>
+<td>5</td>
+<td>savings vehicle</td>
+<td>The type of account or instrument used to hold savings (e.g.,
+savings account, CD, money market account)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>automated savings plans</td>
+<td>Programs that allocate a set amount of income to savings during each
+pay period</td>
+</tr>
+<tr>
+<td>7</td>
+<td>retirement savings plans</td>
+<td>Programs that allow individuals to save on taxes when they save for
+retirement (e.g., 401k, IRA)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>health savings accounts (HSAs)</td>
+<td>Accounts that allow individuals to save on taxes when they allocate
+money for health-related expenses</td>
+</tr>
+<tr>
+<td>9</td>
+<td>inflation</td>
+<td>An increase in the prices of goods and services; erodes the
+purchasing power of savings because money will buy fewer goods and
+services in the future</td>
+</tr>
+<tr>
+<td>10</td>
+<td>purchasing power</td>
+<td>The value of money in terms of what it can buy; eroded by
+inflation</td>
+</tr>
+<tr>
+<td>11</td>
+<td>financial institutions</td>
+<td>Organizations such as commercial banks and credit unions that offer
+savings vehicles</td>
+</tr>
+<tr>
+<td>12</td>
+<td>federally insured</td>
+<td>Protection provided by the federal government on deposits at
+financial institutions (up to $250,000), meaning the consumer does not
+lose their deposit if the bank goes out of business</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>barriers to saving</td>
+<td>Factors that make saving difficult, including inconsistent income,
+recurring expenses that exceed income, instant gratification, lifestyle
+inflation, and impulse buying</td>
+</tr>
+<tr>
+<td>2</td>
+<td>instant gratification</td>
+<td>A psychological force that makes saving difficult — the desire to
+spend now rather than save for the future</td>
+</tr>
+<tr>
+<td>3</td>
+<td>lifestyle inflation</td>
+<td>A psychological force that makes saving difficult — the tendency to
+increase spending as income rises</td>
+</tr>
+<tr>
+<td>4</td>
+<td>impulse buying</td>
+<td>A psychological force that makes saving difficult — unplanned
+purchases driven by emotion</td>
+</tr>
+<tr>
+<td>5</td>
+<td>savings account</td>
+<td>A deposit account at a financial institution that typically pays
+interest and is federally insured up to $250,000; features vary by
+institution</td>
+</tr>
+<tr>
+<td>6</td>
+<td>money market account</td>
+<td>Similar to a savings account, federally insured; may require a
+larger minimum deposit, charge higher fees, pay higher interest rates,
+and provide easier access to cash</td>
+</tr>
+<tr>
+<td>7</td>
+<td>certificate of deposit (CD)</td>
+<td>Similar to a savings account, federally insured; typically pays
+higher interest than savings or money market accounts, but depositors
+are restricted from withdrawing funds for a set period</td>
+</tr>
+<tr>
+<td>8</td>
+<td>mobile payment accounts</td>
+<td>Vehicles for storing savings that make money easy to spend; unless
+offered by insured institutions, not federally insured and typically do
+not pay interest</td>
+</tr>
+<tr>
+<td>9</td>
+<td>cryptocurrency accounts</td>
+<td>Vehicles for storing savings that users hope will gain value as an
+asset; not federally insured and typically do not pay interest</td>
+</tr>
+<tr>
+<td>10</td>
+<td>cost of living</td>
+<td>The amount of money needed to cover basic expenses; affected by
+economic conditions</td>
+</tr>
+<tr>
+<td>11</td>
+<td>PESTEL factors</td>
+<td>Political, economic, social, technological, environmental, and legal
+forces that can impact the value of savings and incentives to save</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="borrowing-credit-and-debt">3.2 Borrowing, Credit, and Debt</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>borrowing</td>
+<td>The act of obtaining money from a lender with the obligation to
+repay it with interest</td>
+</tr>
+<tr>
+<td>2</td>
+<td>loan</td>
+<td>Borrowed money that must be repaid with interest</td>
+</tr>
+<tr>
+<td>3</td>
+<td>interest rate</td>
+<td>The percentage charged on borrowed money; varies based on the
+lender, type of loan, amount borrowed, and borrower’s credit
+history</td>
+</tr>
+<tr>
+<td>4</td>
+<td>repayment terms</td>
+<td>The conditions under which a loan must be repaid (schedule,
+duration, penalties)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>secured loans</td>
+<td>Loans used to buy items that can serve as collateral, such as cars
+and houses; typically have lower interest rates</td>
+</tr>
+<tr>
+<td>6</td>
+<td>unsecured loans</td>
+<td>General consumer loans that are not backed by collateral; typically
+have higher interest rates than secured loans</td>
+</tr>
+<tr>
+<td>7</td>
+<td>collateral</td>
+<td>An asset that can serve as security for a loan; the lender can seize
+it if the borrower defaults</td>
+</tr>
+<tr>
+<td>8</td>
+<td>default</td>
+<td>When a borrower fails to repay a loan according to the agreed
+terms</td>
+</tr>
+<tr>
+<td>9</td>
+<td>creditworthiness</td>
+<td>A consumer’s ability and likelihood to repay a loan, assessed by
+lenders based on income, savings, existing debt, and credit reports</td>
+</tr>
+<tr>
+<td>10</td>
+<td>credit reports</td>
+<td>Documents created by credit bureaus that detail a consumer’s past
+use of credit; created each time a consumer interacts with a financial
+institution</td>
+</tr>
+<tr>
+<td>11</td>
+<td>credit bureaus</td>
+<td>Organizations that collect information each time a consumer
+interacts with a financial institution and create credit reports (also
+called credit reporting agencies)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>credit score</td>
+<td>A numerical reflection of a consumer’s past use of credit, included
+in a credit report; can be shared with potential lenders, employers,
+landlords, insurance companies, and government agencies</td>
+</tr>
+<tr>
+<td>13</td>
+<td>bankruptcy</td>
+<td>A legal process that eliminates some debts and helps the borrower
+set up a repayment plan for other debts; available to individuals who
+face negative consequences from unmanageable debt</td>
+</tr>
+<tr>
+<td>14</td>
+<td>consumer protection laws</td>
+<td>Laws that require lenders to communicate credit terms clearly and
+explicitly to borrowers; govern debt collection tactics and prohibit
+discriminatory lending practices</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>liability / debt</td>
+<td>An obligation to repay borrowed money; borrowing creates a personal
+liability or debt (connects to 3.3, 3.7)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>credit card companies</td>
+<td>Entities that lend money to consumers through credit cards</td>
+</tr>
+<tr>
+<td>3</td>
+<td>mortgage lenders</td>
+<td>Entities that lend money to consumers for home purchases</td>
+</tr>
+<tr>
+<td>4</td>
+<td>alternative financial services</td>
+<td>Services such as payday loans, check-cashing services, and instant
+tax refunds that lend money to consumers</td>
+</tr>
+<tr>
+<td>5</td>
+<td>payday loans</td>
+<td>A type of alternative financial service — short-term, high-interest
+loans against a consumer’s next paycheck</td>
+</tr>
+<tr>
+<td>6</td>
+<td>down payment</td>
+<td>Using some income or saved money to pay part of the cost of a major
+purchase like a home or car; helps obtain better loan terms</td>
+</tr>
+<tr>
+<td>7</td>
+<td>debt management assistance</td>
+<td>Help available to individuals who face negative consequences from
+unmanageable debt, such as property seizures</td>
+</tr>
+<tr>
+<td>8</td>
+<td>property seizures</td>
+<td>A negative consequence of unmanageable debt — a lender can take the
+borrower’s property if a secured loan is not repaid</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="accounting-and-financial-management">3.3 Accounting and
+Financial Management</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>financial transactions</td>
+<td>Business activities such as buying resources, receiving payment from
+customers, distributing profits to owners, and saving and borrowing
+funds that affect assets, liabilities, and owners’ equity</td>
+</tr>
+<tr>
+<td>2</td>
+<td>assets</td>
+<td>Items of value owned by a business or individual</td>
+</tr>
+<tr>
+<td>3</td>
+<td>liabilities</td>
+<td>Debts or obligations owed by a business or individual</td>
+</tr>
+<tr>
+<td>4</td>
+<td>owners’ equity</td>
+<td>The value of the business to its owners; the residual interest after
+subtracting liabilities from assets</td>
+</tr>
+<tr>
+<td>5</td>
+<td>net worth</td>
+<td>For consumers, the difference between assets and liabilities</td>
+</tr>
+<tr>
+<td>6</td>
+<td>financial statements</td>
+<td>Reports that summarize a business’s financial performance, used to
+monitor financial health, guide decision making, provide accurate
+information to shareholders/investors/lenders, and ensure compliance
+with laws and reporting regulations</td>
+</tr>
+<tr>
+<td>7</td>
+<td>generally accepted accounting principles (GAAP)</td>
+<td>Require corporations that sell ownership shares to the public to
+consistently disclose all positive and negative financial information
+for each reporting period, typically quarterly or annually</td>
+</tr>
+<tr>
+<td>8</td>
+<td>budget</td>
+<td>An organized system for tracking financial transactions used by
+consumers to monitor finances and make decisions aligned to financial
+goals</td>
+</tr>
+<tr>
+<td>9</td>
+<td>accounting departments</td>
+<td>Departments that identify and record all financial transactions
+during a time period and prepare financial statements</td>
+</tr>
+<tr>
+<td>10</td>
+<td>managerial accountants</td>
+<td>Accountants who provide financial information and analysis to
+managers and other internal stakeholders for business planning and
+decision making</td>
+</tr>
+<tr>
+<td>11</td>
+<td>financial accountants</td>
+<td>Accountants who provide financial information and analysis primarily
+to external stakeholders (shareholders, investors, and lenders)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>finance departments</td>
+<td>Departments responsible for analyzing financial data compiled by
+accounting departments and recommending strategies for maintaining or
+improving a business’s financial performance</td>
+</tr>
+<tr>
+<td>13</td>
+<td>internal stakeholders</td>
+<td>Managers and other individuals within the business who use financial
+information</td>
+</tr>
+<tr>
+<td>14</td>
+<td>external stakeholders</td>
+<td>Shareholders, investors, lenders, and others outside the business
+who use financial information</td>
+</tr>
+<tr>
+<td>15</td>
+<td>financial advisors</td>
+<td>Professionals consumers may hire to help with financial planning,
+decision making, and tax preparation</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="business-expenses">3.4 Business Expenses</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>startup costs</td>
+<td>One-time expenditures associated with launching a new business or
+product as well as initial expenses incurred while establishing the
+business</td>
+</tr>
+<tr>
+<td>2</td>
+<td>one-time expenditures</td>
+<td>Costs incurred once at launch, including legal fees, incorporation
+and licensing fees, and in some cases equipment purchases</td>
+</tr>
+<tr>
+<td>3</td>
+<td>initial expenses</td>
+<td>Expenses incurred while establishing the business (occupancy,
+R&amp;D, marketing, insurance, initial inventories) that become ongoing
+once the business begins operation</td>
+</tr>
+<tr>
+<td>4</td>
+<td>direct costs</td>
+<td>Costs tied to the production or delivery of specific goods or
+services</td>
+</tr>
+<tr>
+<td>5</td>
+<td>indirect costs</td>
+<td>Costs associated with running the business, not tied to specific
+goods or services; also called operating expenses</td>
+</tr>
+<tr>
+<td>6</td>
+<td>fixed expenses</td>
+<td>Costs that do not change with production or service levels (e.g.,
+rent, insurance, base salaries)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>variable expenses</td>
+<td>Costs that increase as production/service levels increase (e.g., raw
+materials, hourly wages, packaging)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>cost of goods sold (COGS)</td>
+<td>Direct costs incurred by businesses that produce goods; includes raw
+materials, production supplies, production-related wages, and facility
+operating costs; components can be fixed or variable</td>
+</tr>
+<tr>
+<td>9</td>
+<td>cost of sales</td>
+<td>Direct costs for businesses that provide services, including direct
+labor expenses, travel costs, and materials associated with delivering
+the service</td>
+</tr>
+<tr>
+<td>10</td>
+<td>operating expenses</td>
+<td>Recurring indirect costs that are typically fixed; include
+occupancy, office/sales salaries, marketing, supplies, utilities,
+maintenance, and insurance</td>
+</tr>
+<tr>
+<td>11</td>
+<td>insurance</td>
+<td>Protection purchased by businesses (and consumers) against financial
+losses from accidents, injuries, or property damage; some types are
+required, many are optional</td>
+</tr>
+<tr>
+<td>12</td>
+<td>risk tolerance</td>
+<td>Willingness to accept risk and/or pay for insurance to minimize
+risk; varies among businesses and consumers</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>legal fees</td>
+<td>A one-time startup expenditure for attorneys, contracts, and
+business formation</td>
+</tr>
+<tr>
+<td>2</td>
+<td>incorporation and licensing fees</td>
+<td>One-time fees paid to government entities to legally establish the
+business and obtain operating permits</td>
+</tr>
+<tr>
+<td>3</td>
+<td>occupancy expense</td>
+<td>Cost of physical space for the business (rent, lease payments);
+becomes an ongoing operating expense</td>
+</tr>
+<tr>
+<td>4</td>
+<td>research and development (R&amp;D)</td>
+<td>Initial and ongoing expenses for developing new products or
+improving existing ones</td>
+</tr>
+<tr>
+<td>5</td>
+<td>raw materials</td>
+<td>A variable component of COGS — the basic materials used to produce
+goods</td>
+</tr>
+<tr>
+<td>6</td>
+<td>production supplies</td>
+<td>A component of COGS — materials used in the production process but
+not part of the final product</td>
+</tr>
+<tr>
+<td>7</td>
+<td>direct labor expenses</td>
+<td>A component of cost of sales for service businesses — wages paid to
+workers who directly deliver the service</td>
+</tr>
+<tr>
+<td>8</td>
+<td>workers compensation insurance</td>
+<td>A type of insurance required by law for businesses; covers employee
+injuries on the job</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="financial-capital">3.5 Financial Capital</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>bootstrapping</td>
+<td>Using personal savings, personal bank loans, and/or personal credit
+to fund startup costs</td>
+</tr>
+<tr>
+<td>2</td>
+<td>external financial capital</td>
+<td>Cash obtained from outside sources to fund business operations</td>
+</tr>
+<tr>
+<td>3</td>
+<td>break even</td>
+<td>The point at which a business covers all costs for a period;
+calculated by determining how many goods or services need to be
+sold</td>
+</tr>
+<tr>
+<td>4</td>
+<td>loans</td>
+<td>A classification of financial capital that must be repaid with
+interest; interest on loans is a business expense</td>
+</tr>
+<tr>
+<td>5</td>
+<td>equity financing</td>
+<td>A type of business funding that requires issuing ownership shares
+and ceding some control over decisions and a portion of future profits
+to investors, who become part owners</td>
+</tr>
+<tr>
+<td>6</td>
+<td>bonds</td>
+<td>A financial instrument representing a loan from an investor to a
+business; can be issued by businesses organized as corporations</td>
+</tr>
+<tr>
+<td>7</td>
+<td>stock</td>
+<td>An ownership share in a business; can be sold privately or publicly;
+can be issued by businesses organized as corporations</td>
+</tr>
+<tr>
+<td>8</td>
+<td>secondary market</td>
+<td>A market where financial assets (loans, bonds, stock) can be resold
+after the initial issuance</td>
+</tr>
+<tr>
+<td>9</td>
+<td>financial assets</td>
+<td>Loans (including bonds) or shares of stock obtained by lenders and
+investors in exchange for financial capital provided to businesses</td>
+</tr>
+<tr>
+<td>10</td>
+<td>dividends</td>
+<td>Income representing an investor’s share of a business’s profits;
+some corporations reinvest earnings and do not pay dividends</td>
+</tr>
+<tr>
+<td>11</td>
+<td>capital gain</td>
+<td>Profit achieved when an investor sells an asset at a higher price
+than they paid; prices change in response to business performance,
+investor demand, and PESTEL forces</td>
+</tr>
+<tr>
+<td>12</td>
+<td>annual rate of return</td>
+<td>Determined by dividing the total dollars gained (income + capital
+gain) by the price of the asset</td>
+</tr>
+<tr>
+<td>13</td>
+<td>risk tolerance</td>
+<td>Willingness of lenders and investors to take financial risks; higher
+risk tolerance → higher expected returns</td>
+</tr>
+<tr>
+<td>14</td>
+<td>business plan</td>
+<td>A document including value proposition, market research, marketing
+strategy, and financial projections used to justify a funding
+request</td>
+</tr>
+<tr>
+<td>15</td>
+<td>pitch</td>
+<td>A polished presentation summarizing key business information to
+persuade potential lenders and investors to provide capital</td>
+</tr>
+<tr>
+<td>16</td>
+<td>valuation</td>
+<td>An estimate of what an ownership share is worth; based on financial
+reports, projections, and external industry data</td>
+</tr>
+<tr>
+<td>17</td>
+<td>product-market fit</td>
+<td>Evidence that a business’s product meets a market need; a funding
+request is more likely to succeed when demonstrated</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>ownership shares</td>
+<td>Portions of ownership in a business issued through equity financing;
+investors become part owners</td>
+</tr>
+<tr>
+<td>2</td>
+<td>business loans</td>
+<td>Loans to businesses similar to personal loans; must be repaid with
+interest; interest is a business expense</td>
+</tr>
+<tr>
+<td>3</td>
+<td>business bank loans</td>
+<td>Loans available to established businesses (typically 2+ years in
+operation) with proven revenue and capacity to repay</td>
+</tr>
+<tr>
+<td>4</td>
+<td>shareholder (investor)</td>
+<td>An individual who buys a share of stock and becomes an owner in the
+business</td>
+</tr>
+<tr>
+<td>5</td>
+<td>financial projections</td>
+<td>Estimates of future financial performance included in a business
+plan; used to justify funding requests</td>
+</tr>
+<tr>
+<td>6</td>
+<td>institutional lenders and investors</td>
+<td>Organizations (banks, venture capital firms) as opposed to
+individuals that provide financial capital</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="the-income-statement">3.6 The Income Statement</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>income statement</td>
+<td>A financial statement that compares total revenue to total costs
+over a time period to determine net profit or loss; also called the
+statement of profit and loss; typically provides multiple periods for
+comparison</td>
+</tr>
+<tr>
+<td>2</td>
+<td>revenue</td>
+<td>Income generated by a business’s core activities, such as sales of
+goods and services</td>
+</tr>
+<tr>
+<td>3</td>
+<td>cost of goods sold (COGS)</td>
+<td>Direct costs of production; one of three major categories on the
+income statement</td>
+</tr>
+<tr>
+<td>4</td>
+<td>operating expenses</td>
+<td>Indirect costs of running the business; one of three major
+categories on the income statement</td>
+</tr>
+<tr>
+<td>5</td>
+<td>gross profit</td>
+<td>Profit earned after deducting only direct costs of production;
+calculated as revenue minus COGS</td>
+</tr>
+<tr>
+<td>6</td>
+<td>operating profit</td>
+<td>Profit earned after deducting COGS and operating expenses;
+represents net income before interest and taxes; calculated as gross
+profit minus operating expenses</td>
+</tr>
+<tr>
+<td>7</td>
+<td>interest expense</td>
+<td>The cost of borrowing money through loans (including bonds)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>pretax income</td>
+<td>Calculated by subtracting interest expense from operating
+profit</td>
+</tr>
+<tr>
+<td>9</td>
+<td>tax expense</td>
+<td>Taxes paid on positive pretax income; included on the income
+statement</td>
+</tr>
+<tr>
+<td>10</td>
+<td>net profit</td>
+<td>The final dollar amount on the income statement; calculated as
+pretax income minus taxes; known as the “bottom line”; represents profit
+earned by owners at the end of a period</td>
+</tr>
+<tr>
+<td>11</td>
+<td>gross profit margin</td>
+<td>Calculated as gross profit ÷ total revenue; evaluates how
+successfully a business sets prices and manages direct costs</td>
+</tr>
+<tr>
+<td>12</td>
+<td>operating profit margin</td>
+<td>Calculated as operating profit ÷ total revenue; evaluates how
+successfully a business markets, sells, and controls operating
+expenses</td>
+</tr>
+<tr>
+<td>13</td>
+<td>net profit margin</td>
+<td>Calculated as net profit ÷ total revenue; evaluates overall
+profitability; the percentage of revenue that flows to owners as
+income</td>
+</tr>
+<tr>
+<td>14</td>
+<td>percent change</td>
+<td>Calculated as [(Current Value − Initial Value) ÷ Initial Value] ×
+100; used to determine the rate of change for any data point</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>statement of profit and loss</td>
+<td>Another name for the income statement</td>
+</tr>
+<tr>
+<td>2</td>
+<td>bottom line</td>
+<td>Another name for net profit — the last line on the income
+statement</td>
+</tr>
+<tr>
+<td>3</td>
+<td>selling expenses</td>
+<td>A category of operating expenses: advertising costs, salespeople’s
+salaries, trade promotions</td>
+</tr>
+<tr>
+<td>4</td>
+<td>general and administrative expenses</td>
+<td>A category of operating expenses: office salaries, rent on office
+space, insurance, IT</td>
+</tr>
+<tr>
+<td>5</td>
+<td>nonrecurring expenses</td>
+<td>One-time costs that are not expected to repeat (e.g., lawsuit
+settlement, asset write-down)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>projected income statements</td>
+<td>Estimates of future revenues and expenses; help businesses plan for
+costs, identify funding needs, and maintain cash to meet
+obligations</td>
+</tr>
+<tr>
+<td>7</td>
+<td>budgets</td>
+<td>Plans for revenues, costs, and resulting profit/loss for a period;
+for consumers, plans for net pay, savings, and expenses</td>
+</tr>
+<tr>
+<td>8</td>
+<td>net pay</td>
+<td>Income after taxes and other deductions; used in consumer
+budgets</td>
+</tr>
+<tr>
+<td>9</td>
+<td>revenue projection</td>
+<td>An estimate of future revenue based on planned pricing strategies
+and market research about customer demand and industry trends</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gross Profit</td>
+<td>Revenue − COGS</td>
+</tr>
+<tr>
+<td>Operating Profit</td>
+<td>Gross Profit − Operating Expenses</td>
+</tr>
+<tr>
+<td>Pretax Income</td>
+<td>Operating Profit − Interest Expense</td>
+</tr>
+<tr>
+<td>Net Profit</td>
+<td>Pretax Income − Tax Expense</td>
+</tr>
+<tr>
+<td>Gross Profit Margin</td>
+<td>Gross Profit ÷ Revenue</td>
+</tr>
+<tr>
+<td>Operating Profit Margin</td>
+<td>Operating Profit ÷ Revenue</td>
+</tr>
+<tr>
+<td>Net Profit Margin</td>
+<td>Net Profit ÷ Revenue</td>
+</tr>
+<tr>
+<td>Percent Change</td>
+<td>[(Current − Initial) ÷ Initial] × 100</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="the-balance-sheet-and-net-worth">3.7 The Balance Sheet and Net
+Worth</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>balance sheet</td>
+<td>A financial statement that compares a business’s assets to its
+liabilities and owners’ equity at a specific point in time</td>
+</tr>
+<tr>
+<td>2</td>
+<td>balance sheet equation</td>
+<td>Assets = Liabilities + Owners’ Equity; also called the fundamental
+accounting equation</td>
+</tr>
+<tr>
+<td>3</td>
+<td>assets</td>
+<td>Every item of value owned by a business, grouped by liquidity into
+current assets, long-term assets, and intangible assets</td>
+</tr>
+<tr>
+<td>4</td>
+<td>liquidity</td>
+<td>The ease with which an asset can be converted into cash</td>
+</tr>
+<tr>
+<td>5</td>
+<td>current assets</td>
+<td>Highly liquid assets including cash, short-term investments,
+accounts receivable, and inventory; used to fund day-to-day
+operations</td>
+</tr>
+<tr>
+<td>6</td>
+<td>accounts receivable</td>
+<td>Money owed to a business by its customers; a current asset</td>
+</tr>
+<tr>
+<td>7</td>
+<td>inventory</td>
+<td>Goods held by a business for sale or production; a current
+asset</td>
+</tr>
+<tr>
+<td>8</td>
+<td>long-term assets</td>
+<td>Assets considered less liquid, including fixed assets and long-term
+investments</td>
+</tr>
+<tr>
+<td>9</td>
+<td>fixed assets</td>
+<td>Long-term assets such as production plants, equipment, and vehicles
+used to run business operations</td>
+</tr>
+<tr>
+<td>10</td>
+<td>intangible assets</td>
+<td>Non-physical items such as patents, brand names, and trademarks that
+have value because they represent potential revenue</td>
+</tr>
+<tr>
+<td>11</td>
+<td>liabilities</td>
+<td>Debts or obligations owed by a business, grouped into current and
+long-term liabilities in order of when payment is due</td>
+</tr>
+<tr>
+<td>12</td>
+<td>current liabilities</td>
+<td>Debts due within one year: accounts payable, short-term debt,
+current payments on long-term debt, and accrued operating expenses</td>
+</tr>
+<tr>
+<td>13</td>
+<td>accounts payable</td>
+<td>Money owed to a business’s suppliers; a current liability</td>
+</tr>
+<tr>
+<td>14</td>
+<td>long-term liabilities</td>
+<td>Obligations to pay beyond one year, such as mortgages, bank loans,
+and long-term bonds</td>
+</tr>
+<tr>
+<td>15</td>
+<td>owners’ equity</td>
+<td>The difference between assets and liabilities; the net worth of a
+business to its owners; often comprised of stock and retained
+earnings</td>
+</tr>
+<tr>
+<td>16</td>
+<td>retained earnings</td>
+<td>The business’s cumulative profits not paid out as dividends; a
+component of owners’ equity</td>
+</tr>
+<tr>
+<td>17</td>
+<td>working capital</td>
+<td>Current assets minus current liabilities; measures whether a
+business has sufficient short-term resources to fund day-to-day
+operations</td>
+</tr>
+<tr>
+<td>18</td>
+<td>bankruptcy</td>
+<td>A legal process through which a business can liquidate assets,
+eliminate or repay debts, and either shut down or reorganize under legal
+supervision</td>
+</tr>
+<tr>
+<td>19</td>
+<td>personal net worth</td>
+<td>Typically calculated for a household; determined by adding all
+household assets and subtracting all liabilities</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>accrued operating expenses</td>
+<td>Expenses that have been incurred but not yet paid (e.g., wages
+earned but not yet disbursed, utilities used but not yet billed); a
+current liability</td>
+</tr>
+<tr>
+<td>2</td>
+<td>patents</td>
+<td>An intangible asset — legal protection for an invention</td>
+</tr>
+<tr>
+<td>3</td>
+<td>brand names</td>
+<td>An intangible asset — the value of customer recognition and
+reputation</td>
+</tr>
+<tr>
+<td>4</td>
+<td>trademarks</td>
+<td>An intangible asset — legally protected symbols, names, or
+designs</td>
+</tr>
+<tr>
+<td>5</td>
+<td>positive net worth</td>
+<td>When a business’s assets exceed its liabilities</td>
+</tr>
+<tr>
+<td>6</td>
+<td>liquidate assets</td>
+<td>Converting assets to cash as part of the bankruptcy process</td>
+</tr>
+<tr>
+<td>7</td>
+<td>household</td>
+<td>May include more than one individual; the unit for which personal
+net worth is typically calculated</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Balance Sheet Equation</td>
+<td>Assets = Liabilities + Owners’ Equity</td>
+</tr>
+<tr>
+<td>Owners’ Equity</td>
+<td>Assets − Liabilities</td>
+</tr>
+<tr>
+<td>Working Capital</td>
+<td>Current Assets − Current Liabilities</td>
+</tr>
+<tr>
+<td>Current Ratio</td>
+<td>Current Assets ÷ Current Liabilities</td>
+</tr>
+<tr>
+<td>Personal Net Worth</td>
+<td>Total Household Assets − Total Household Liabilities</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="the-cash-flow-statement">3.8 The Cash Flow Statement</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>cash flow statement</td>
+<td>A financial statement that shows how cash inflows and outflows
+impact a business’s cash balance over a financial reporting period</td>
+</tr>
+<tr>
+<td>2</td>
+<td>cash inflows</td>
+<td>Payments that increase a business’s cash balance; typically include
+customer payments, interest/dividends earned, proceeds from asset sales,
+and infusions of financial capital (e.g., new loans)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>cash outflows</td>
+<td>Payments that decrease a business’s cash balance; typically include
+payments to employees and suppliers, interest expense, taxes, asset
+purchases, debt repayment, and dividends</td>
+</tr>
+<tr>
+<td>4</td>
+<td>cash balance</td>
+<td>The amount of cash a business has on hand at a given time; monitored
+to ensure sufficient cash for recurring expenses, repaying lenders, and
+managing unforeseen expenses</td>
+</tr>
+<tr>
+<td>5</td>
+<td>positive cash flow</td>
+<td>When cash inflows exceed cash outflows at the end of a period</td>
+</tr>
+<tr>
+<td>6</td>
+<td>negative cash flow</td>
+<td>When cash outflows exceed cash inflows at the end of a period; may
+signal inability to pay current expenses, which could lead to shut down
+or bankruptcy even if net income is positive</td>
+</tr>
+<tr>
+<td>7</td>
+<td>financial obligations</td>
+<td>Commitments a business must meet, including paying employees,
+suppliers, creditors, and shareholders</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="ethics-and-financial-reporting">3.9 Ethics and Financial
+Reporting</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>unethical practices in finance</td>
+<td>Include misuse of funds, tax evasion, embezzlement, bribery, lack of
+transparency, and fraud (including falsifying information on financial
+statements)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>misuse of funds</td>
+<td>Using company money for unauthorized purposes; an unethical and
+illegal practice</td>
+</tr>
+<tr>
+<td>3</td>
+<td>tax evasion</td>
+<td>Deliberately underreporting income or overstating deductions to
+reduce taxes owed; illegal</td>
+</tr>
+<tr>
+<td>4</td>
+<td>embezzlement</td>
+<td>Stealing money from an organization by someone entrusted with access
+to its funds; illegal</td>
+</tr>
+<tr>
+<td>5</td>
+<td>bribery</td>
+<td>Offering something of value to influence a decision; illegal</td>
+</tr>
+<tr>
+<td>6</td>
+<td>lack of transparency</td>
+<td>Hiding relevant financial information from stakeholders;
+unethical</td>
+</tr>
+<tr>
+<td>7</td>
+<td>fraud</td>
+<td>Deliberately misrepresenting financial data; can include falsifying
+information on financial statements; illegal</td>
+</tr>
+<tr>
+<td>8</td>
+<td>falsifying information</td>
+<td>Altering financial statements to portray a financial situation as
+better or worse than it really is; used to influence stock prices,
+secure better loan terms, or avoid taxes</td>
+</tr>
+<tr>
+<td>9</td>
+<td>auditing</td>
+<td>The process of reviewing financial records; under U.S. law, publicly
+held corporations must submit financial records annually for auditing by
+independent firms</td>
+</tr>
+<tr>
+<td>10</td>
+<td>financial market regulations</td>
+<td>Regulations designed to ensure investors have access to accurate
+information and are protected from fraud</td>
+</tr>
+<tr>
+<td>11</td>
+<td>professional ethics codes</td>
+<td>Codes maintained by professional organizations for accountants and
+financial managers; emphasize honesty, integrity, transparency,
+objectivity, and confidentiality</td>
+</tr>
+<tr>
+<td>12</td>
+<td>codes of conduct</td>
+<td>Internal mechanisms developed by businesses to prevent unethical
+behavior</td>
+</tr>
+<tr>
+<td>13</td>
+<td>audit requirements</td>
+<td>Internal mechanisms developed by businesses to prevent unethical
+behavior</td>
+</tr>
+<tr>
+<td>14</td>
+<td>cash-handling processes</td>
+<td>Internal mechanisms developed by businesses to prevent unethical
+behavior</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>independent accounting firms</td>
+<td>External firms that audit the financial records of publicly held
+corporations; must be independent of the company they audit</td>
+</tr>
+<tr>
+<td>2</td>
+<td>honesty</td>
+<td>Emphasized in professional ethics codes — being truthful in all
+professional communications</td>
+</tr>
+<tr>
+<td>3</td>
+<td>integrity</td>
+<td>Emphasized in professional ethics codes — acting ethically even when
+under pressure</td>
+</tr>
+<tr>
+<td>4</td>
+<td>transparency</td>
+<td>Emphasized in professional ethics codes — openly disclosing all
+relevant financial information</td>
+</tr>
+<tr>
+<td>5</td>
+<td>objectivity</td>
+<td>Emphasized in professional ethics codes — not letting bias or
+pressure compromise professional judgment</td>
+</tr>
+<tr>
+<td>6</td>
+<td>confidentiality</td>
+<td>Emphasized in professional ethics codes — protecting sensitive
+client information</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="unit-4-management-and-strategy">Unit 4: Management and
+Strategy</h1>
+<div class="page-break">
+
+</div>
+<h2 id="management-and-leadership">4.1 Management and Leadership</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Management</td>
+<td>The process of planning, organizing, leading, and evaluating a
+business’s use of human, financial, and physical resources to meet goals
+and objectives</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Planning</td>
+<td>The management function of setting goals and determining the actions
+needed to achieve them</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Organizing</td>
+<td>The management function of arranging resources and tasks to achieve
+the business’s goals</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Leading</td>
+<td>The management function of motivating, directing, and guiding
+employees toward achieving goals</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Evaluating</td>
+<td>The management function of assessing performance against goals and
+making adjustments</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Vision</td>
+<td>A statement describing what the business aspires to become or
+achieve in the long term</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Mission</td>
+<td>A statement describing the business’s fundamental purpose — why it
+exists and whom it serves</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Core competency</td>
+<td>A unique skill, knowledge, or capability that gives a business a
+competitive advantage</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Outsourcing</td>
+<td>Hiring an external company to perform tasks that are not part of the
+business’s core competencies</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Compensation</td>
+<td>The total pay and benefits an employee receives in exchange for
+their work</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Salary</td>
+<td>A fixed annual amount paid to an employee, typically in equal
+installments regardless of hours worked</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Commission</td>
+<td>A variable payment based on a percentage of sales or deals closed by
+the employee</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Hourly wage</td>
+<td>A fixed amount paid per hour of work</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Stakeholder</td>
+<td>Any individual or group affected by or able to affect the business’s
+decisions</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Communication skills</td>
+<td>The ability to express ideas clearly, communicate persuasively,
+listen empathetically, and correctly interpret and respond to
+feedback</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Work arrangement</td>
+<td>The type of employment relationship: full-time, part-time,
+temporary, or contract — chosen based on business needs</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Compensation factors</td>
+<td>The criteria employers use to determine pay, including education,
+skills, and productivity</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Piece rate pay</td>
+<td>Compensation based on the number of units produced rather than hours
+worked</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Profit sharing</td>
+<td>A compensation scheme in which employees receive a percentage of the
+business’s profits</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Equity compensation</td>
+<td>Stock options or stock grants that give employees partial ownership
+in the company</td>
+</tr>
+<tr>
+<td>4</td>
+<td>On-the-job training</td>
+<td>Learning new skills while performing actual work tasks, often with a
+mentor or supervisor</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Continuing education</td>
+<td>Ongoing learning after initial training, including courses,
+certifications, and conferences</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Apprentice program</td>
+<td>A structured training program combining paid work with classroom
+instruction under a skilled mentor</td>
+</tr>
+<tr>
+<td>7</td>
+<td>PTO (Paid time off)</td>
+<td>Compensated leave from work, including vacation, sick days, and
+personal days</td>
+</tr>
+<tr>
+<td>8</td>
+<td>HSA (Health savings account)</td>
+<td>A tax-advantaged account used to pay for qualified medical expenses,
+often paired with a high-deductible health plan</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Disability insurance</td>
+<td>Insurance that replaces a portion of income if an employee cannot
+work due to illness or injury</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Autonomy</td>
+<td>The degree of independence and decision-making authority an employee
+has in their role</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Vision</td>
+<td>Mission</td>
+<td>Vision = what the business wants to become (future state). Mission =
+why the business exists (current purpose). Vision is aspirational;
+mission is operational.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Salary</td>
+<td>Hourly wage</td>
+<td>Salary = fixed annual amount, same each pay period regardless of
+hours. Hourly wage = paid per hour worked; varies with hours.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Commission</td>
+<td>Profit sharing</td>
+<td>Commission = based on individual sales performance. Profit sharing =
+based on overall company profits distributed to all eligible
+employees.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Core competency</td>
+<td>Outsourcing</td>
+<td>Core competency = what the business does BEST (keep in-house).
+Outsourcing = delegating tasks that are NOT core competencies to
+external providers.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Management</td>
+<td>Leadership</td>
+<td>Management = planning, organizing, leading, evaluating
+(process-oriented). Leadership = articulating vision, motivating people,
+building teams (people-oriented). A manager may not be a leader; a
+leader may not be a manager.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="evaluating-performance-using-kpis">4.2 Evaluating Performance
+Using KPIs</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Key performance indicator (KPI)</td>
+<td>A data point used to measure a business’s performance, including
+progress toward short- and long-term goals and the effectiveness of
+strategy</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Revenue</td>
+<td>The total amount of money a business earns from its normal business
+activities (sales of goods or services)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Gross profit</td>
+<td>Revenue minus cost of goods sold (COGS) — the profit remaining after
+deducting direct production costs</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Gross profit margin</td>
+<td>Gross profit divided by revenue, expressed as a percentage —
+measures production efficiency</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Operating profit</td>
+<td>Gross profit minus operating expenses — profit from core business
+operations before interest and taxes</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cost of goods sold (COGS)</td>
+<td>The direct costs attributable to the production of goods sold,
+including materials and direct labor</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Operating expenses</td>
+<td>Costs required to run the business that are not directly tied to
+production, such as rent, salaries, and marketing</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Cash flow</td>
+<td>The net amount of cash moving in and out of a business during a
+specific period</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Customer acquisition cost (CAC)</td>
+<td>The total cost of marketing and sales efforts divided by the number
+of new customers acquired</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Customer lifetime value (CLV)</td>
+<td>The total revenue a business expects to earn from a single customer
+over the entire duration of their relationship</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Customer retention rate</td>
+<td>The percentage of customers who continue doing business with the
+company over a given period</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Benchmark</td>
+<td>A reference point used to compare data to a standard, based on
+internal historical data or external industry standards</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Market share</td>
+<td>The percentage of total sales in an industry captured by a specific
+business</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Net Promoter Score (NPS)</td>
+<td>A customer satisfaction metric measuring how likely customers are to
+recommend the business to others (scale: −100 to +100)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Cash burn rate</td>
+<td>The rate at which a business spends its cash reserves, typically
+expressed as a monthly figure</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cash runway</td>
+<td>The amount of time (in months) a business can continue operating
+before running out of cash, calculated as cash on hand ÷ monthly burn
+rate</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Operating profit margin</td>
+<td>Operating profit divided by revenue, expressed as a percentage —
+measures overall operational efficiency</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Per-unit cost</td>
+<td>The total cost to produce one unit of a product, calculated as total
+production costs ÷ number of units produced</td>
+</tr>
+<tr>
+<td>5</td>
+<td>On-time delivery percentage</td>
+<td>The percentage of orders delivered to customers by the promised
+date</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Order accuracy</td>
+<td>The percentage of orders fulfilled correctly without errors (wrong
+item, wrong quantity, damage)</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Internal benchmark</td>
+<td>A reference point based on the business’s own historical data (e.g.,
+comparing this quarter to last quarter)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>External benchmark</td>
+<td>A reference point based on industry standards or competitor data
+(e.g., comparing to industry average)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Diminishing returns</td>
+<td>The principle that as investment in one area increases, the marginal
+benefit eventually decreases</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Revenue</td>
+<td>Profit</td>
+<td>Revenue = total money earned from sales. Profit = what remains after
+subtracting costs. A business can have high revenue but no profit (or a
+loss).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Gross profit margin</td>
+<td>Operating profit margin</td>
+<td>Gross profit margin = (Revenue − COGS) ÷ Revenue. Operating profit
+margin = (Revenue − COGS − Operating Expenses) ÷ Revenue. Operating
+margin is always lower because it includes more costs.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>CAC</td>
+<td>CLV</td>
+<td>CAC = what it costs to GET a customer. CLV = what a customer is
+WORTH over their lifetime. A healthy business has CLV &gt; CAC (ideally
+3:1 or higher).</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Internal benchmark</td>
+<td>External benchmark</td>
+<td>Internal = compared to your own past performance. External =
+compared to industry or competitor standards. Both are needed for a
+complete picture.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Cash flow</td>
+<td>Cash burn rate</td>
+<td>Cash flow = net cash in minus cash out (can be positive or
+negative). Cash burn rate = how fast you’re spending cash (always
+expressed as a positive monthly figure). A negative cash flow means a
+positive burn rate.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>KPI</td>
+<td>Data point</td>
+<td>A KPI is a data point selected because it directly measures progress
+toward goals. Not all data points are KPIs — only those tied to mission,
+profitability, or viability.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Formulas</strong></p>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Formula</th>
+<th>Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gross Profit</td>
+<td>Revenue − COGS</td>
+</tr>
+<tr>
+<td>Gross Profit Margin</td>
+<td>Gross Profit ÷ Revenue × 100%</td>
+</tr>
+<tr>
+<td>Operating Profit</td>
+<td>Gross Profit − Operating Expenses</td>
+</tr>
+<tr>
+<td>Operating Profit Margin</td>
+<td>Operating Profit ÷ Revenue × 100%</td>
+</tr>
+<tr>
+<td>CLV:CAC Ratio</td>
+<td>Customer Lifetime Value ÷ Customer Acquisition Cost</td>
+</tr>
+<tr>
+<td>Cash Runway</td>
+<td>Cash on Hand ÷ Monthly Burn Rate</td>
+</tr>
+<tr>
+<td>Customer Retention Rate</td>
+<td>(Customers End − New Customers) ÷ Customers Start × 100%</td>
+</tr>
+<tr>
+<td>Market Share</td>
+<td>Business Revenue ÷ Total Market Revenue × 100%</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="strategy-and-decision-making">4.3 Strategy and Decision
+Making</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Strategy</td>
+<td>A plan or approach to achieving a goal; in business, how a company
+will achieve competitive advantage, fulfill its mission, or increase
+profits</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Competitive advantage</td>
+<td>A condition or circumstance that puts a business in a favorable or
+superior business position over its rivals</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tactics</td>
+<td>Specific actions or approaches intended to advance the business’s
+strategy</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Strategic data</td>
+<td>Information about financial performance, customers, competitors, and
+market trends that businesses gather and track to define, evaluate, and
+modify strategy</td>
+</tr>
+<tr>
+<td>5</td>
+<td>PACED model</td>
+<td>A deliberative decision-making process: Problem, Alternatives,
+Criteria, Evaluate, Decide</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Problem (PACED)</td>
+<td>The first step — clearly defining the decision to be made or the
+challenge to address</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Alternatives (PACED)</td>
+<td>The second step — developing a list of possible options or courses
+of action</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Criteria (PACED)</td>
+<td>The third step — establishing the standards or factors by which
+alternatives will be judged</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Evaluate (PACED)</td>
+<td>The fourth step — assessing each alternative against the established
+criteria</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Decide (PACED)</td>
+<td>The fifth step — selecting the best alternative based on the
+evaluation</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Return on investment (ROI)</td>
+<td>A financial metric measuring the additional profit generated by an
+investment, divided by the cost of the investment</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Decision-making criteria</td>
+<td>The standards, factors, or benchmarks used to evaluate and compare
+alternatives</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Quantifiable criteria</td>
+<td>Measurable, numerical factors such as costs, revenues, profits, and
+timelines</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Intangible criteria</td>
+<td>Non-numerical factors such as reputation, mission alignment,
+employee morale, and brand impact</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Strategic framework</td>
+<td>A structured tool or model used to systematically evaluate variables
+relevant to a business decision</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Weighted scoring matrix</td>
+<td>A decision-making tool that assigns weights to criteria and scores
+each alternative, producing a numerical ranking</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Market considerations</td>
+<td>Factors related to competitiveness, market share, and customer
+demand that influence a decision</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Operational considerations</td>
+<td>Factors related to production, supply chain, and day-to-day
+operations that influence a decision</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Organizational considerations</td>
+<td>Factors related to employees, culture, and organizational structure
+that influence a decision</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Resource mobilization</td>
+<td>The process of directing financial, human, and physical resources
+toward a strategic goal</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Imperfect decision making</td>
+<td>Decisions made with conflicting criteria and limited or incomplete
+data, requiring judgment and trade-offs</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Strategy</td>
+<td>Tactics</td>
+<td>Strategy = the overall plan (“expand into retail”). Tactics =
+specific actions to execute the plan (“attend trade show,” “hire sales
+rep”). Strategy is “what and why”; tactics are “how.”</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Quantifiable criteria</td>
+<td>Intangible criteria</td>
+<td>Quantifiable = measurable numbers (ROI, cost, revenue). Intangible =
+non-numerical (reputation, morale, mission). Both matter in decision
+making.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ROI</td>
+<td>Revenue</td>
+<td>Revenue = total money earned. ROI = the return generated relative to
+the investment cost. A project can have high revenue but low ROI if the
+investment was very large.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Problem</td>
+<td>Alternatives (PACED)</td>
+<td>Problem = what you’re trying to solve. Alternatives = the possible
+solutions. You must define the problem before developing
+alternatives.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Competitive advantage</td>
+<td>Strategy</td>
+<td>Competitive advantage = the favorable position itself (what you
+have). Strategy = the plan to achieve or maintain that position (how you
+get/keep it).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="strategic-frameworks-porters-five-forces-and-swot">4.4 Strategic
+Frameworks: Porter’s Five Forces and SWOT</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Porter’s Five Forces</td>
+<td>A framework developed by Michael Porter to evaluate the competitive
+intensity, attractiveness, and potential profitability of a competitive
+environment</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Competitive rivalry</td>
+<td>The intensity of competition among existing businesses in a market,
+determined by the number of competitors, product differentiation, and
+pricing power</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Threat of new entrants</td>
+<td>The risk that new businesses will enter the market and increase
+competition; determined by barriers to entry</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Barriers to entry</td>
+<td>Obstacles that make it difficult for new businesses to enter a
+market, such as high capital requirements, brand loyalty, regulations,
+and economies of scale</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Threat of substitute products</td>
+<td>The risk that customers will switch to alternative products that
+meet the same need but are not direct competitors</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Customer (buyer) power</td>
+<td>The ability of customers to influence pricing and terms, shaped by
+the number of customers, acquisition costs, and switching costs</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Supplier power</td>
+<td>The ability of resource providers to raise input costs, shaped by
+the number of suppliers and the cost of switching to alternatives</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Switching costs</td>
+<td>The monetary and psychological costs a customer incurs when changing
+from one product or brand to another</td>
+</tr>
+<tr>
+<td>9</td>
+<td>SWOT analysis</td>
+<td>A framework evaluating internal (Strengths, Weaknesses) and external
+(Opportunities, Threats) factors that influence a business’s ability to
+accomplish its goals</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Strengths</td>
+<td>Internal advantages a business controls, such as core competencies,
+brand recognition, skilled employees, and financial resources</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Weaknesses</td>
+<td>Internal disadvantages a business faces, such as missing
+competencies, limited funds, outdated technology, and poor customer
+service</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Opportunities</td>
+<td>External factors beyond a business’s control that may contribute to
+success, such as market growth, technology advancements, and favorable
+regulations</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Threats</td>
+<td>External factors beyond a business’s control that may negatively
+impact the business, such as rising costs, natural disasters, and
+disruptive innovation</td>
+</tr>
+<tr>
+<td>14</td>
+<td>PESTEL</td>
+<td>A framework analyzing external macro-environmental factors:
+Political, Economic, Social, Technological, Environmental, and
+Legal</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Competitive environment</td>
+<td>The overall market conditions in which businesses compete, including
+the number and strength of competitors, customers, and suppliers</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Product differentiation</td>
+<td>The degree to which a product is perceived as unique or distinct
+from competitors’ products</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Pricing power</td>
+<td>A business’s ability to raise prices without losing customers to
+competitors</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Economies of scale</td>
+<td>Cost advantages that businesses obtain due to their scale of
+operation, where cost per unit decreases as output increases</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Intangible assets</td>
+<td>Non-physical assets such as brand recognition, reputation,
+intellectual property, and company culture</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Intellectual property</td>
+<td>Creations of the mind — inventions, designs, brand names, and trade
+secrets — legally protected from unauthorized use</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Disruptive innovation</td>
+<td>An innovation that fundamentally changes the way customers meet
+their needs, often displacing established businesses</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Input costs</td>
+<td>The prices paid for raw materials, component parts, and resources
+needed to produce goods or services</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Resource market</td>
+<td>The market in which businesses purchase the inputs they need to
+produce their products (e.g., grain market, labor market)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Strengths</td>
+<td>Opportunities</td>
+<td>Strengths = internal factors the business CONTROLS (e.g., skilled
+employees). Opportunities = external factors the business CANNOT control
+(e.g., market growth). The key test: can the business directly change
+it?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Weaknesses</td>
+<td>Threats</td>
+<td>Weaknesses = internal disadvantages (e.g., limited budget). Threats
+= external risks (e.g., new competitor enters). Weaknesses can be fixed
+by the business; threats must be responded to.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Competitive rivalry</td>
+<td>Threat of new entrants</td>
+<td>Rivalry = competition from EXISTING businesses. New entrants =
+competition from businesses that DON’T EXIST YET but could enter the
+market.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Customer power</td>
+<td>Supplier power</td>
+<td>Customer power = buyers’ ability to push prices DOWN. Supplier power
+= sellers’ ability to push input costs UP. Both squeeze the business’s
+margins from different sides.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Substitute products</td>
+<td>Direct competitors</td>
+<td>Substitutes = different products that meet the same need (e.g., food
+truck vs. restaurant). Direct competitors = same type of product (e.g.,
+restaurant vs. restaurant).</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Porter’s Five Forces</td>
+<td>SWOT analysis</td>
+<td>Five Forces = evaluates ONLY the external competitive environment
+(industry attractiveness). SWOT = evaluates BOTH internal (S, W) and
+external (O, T) factors. Five Forces is an input to the “T” in
+SWOT.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Barriers to entry</td>
+<td>Switching costs</td>
+<td>Barriers to entry = obstacles for NEW BUSINESSES entering the
+market. Switching costs = costs for CUSTOMERS changing brands. Both
+protect existing businesses but from different threats.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h1 id="unit-5-personal-finance">Unit 5: Personal Finance</h1>
+<div class="page-break">
+
+</div>
+<h2 id="taxes-net-income-and-budgeting">5.1 Taxes, Net Income, and
+Budgeting</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Income tax</td>
+<td>A percentage of income paid to federal, state, and/or local
+governments; for employees, a portion is withheld from each paycheck by
+the employer</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Capital gains tax</td>
+<td>A tax paid on the profit earned from selling an asset (e.g., stocks,
+property) at a higher price than the purchase price; typically taxed at
+a lower rate than income tax</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Payroll tax</td>
+<td>Taxes withheld from employee paychecks that fund specific government
+insurance programs, including Social Security, Medicare, Medicaid, and
+unemployment benefits</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Property tax</td>
+<td>A tax based on the value of an individual’s property (houses, land,
+cars), paid to local or state government</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sales tax</td>
+<td>A tax based on the sales price of an item, collected by the business
+at the point of sale and submitted to the government</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Progressive tax</td>
+<td>A tax system in which individuals earning higher incomes pay higher
+tax rates; the U.S. federal income tax is progressive</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Tax deduction</td>
+<td>An expense that reduces an individual’s taxable income, thereby
+reducing the taxes owed (e.g., mortgage interest, retirement
+contributions, charitable donations)</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Tax credit</td>
+<td>A direct reduction in the amount of taxes owed (not taxable income);
+more valuable than a deduction of the same amount</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Gross income</td>
+<td>The total amount of income earned during a pay period before any
+deductions</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Net income (net pay)</td>
+<td>The amount of money an individual receives after all deductions
+(taxes, benefits, retirement) are subtracted from gross income</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Pay stub</td>
+<td>A document provided by an employer showing gross income, mandatory
+and voluntary deductions, and net income for a pay period</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Mandatory deduction</td>
+<td>Amounts required by law to be withheld from a paycheck, including
+federal/state income taxes and payroll taxes</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Voluntary deduction</td>
+<td>Amounts an employee chooses to have withheld for benefits such as
+health insurance, retirement savings, and life insurance</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Taxable income</td>
+<td>Gross income minus tax deductions; the amount of income on which
+taxes are actually calculated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tax refund</td>
+<td>Money returned to a taxpayer when the amount withheld from paychecks
+exceeds the actual tax owed for the year</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Withholding</td>
+<td>The practice of an employer deducting estimated taxes from each
+paycheck and sending them directly to the government</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Pretax deduction</td>
+<td>A deduction taken from gross income before taxes are calculated,
+reducing taxable income (e.g., 401(k) contributions, HSA
+contributions)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Social Security</td>
+<td>A federal program providing retirement, disability, and survivor
+benefits, funded by payroll taxes shared between employer and
+employee</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Medicare</td>
+<td>A federal health insurance program for people 65+ and certain
+younger individuals with disabilities, funded by payroll taxes</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Self-employment tax</td>
+<td>The full payroll tax (both employer and employee portions) that
+self-employed individuals and contractors must pay themselves</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Filing status</td>
+<td>A classification (single, married filing jointly, head of household,
+etc.) that determines tax brackets and standard deduction amounts</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Budget</td>
+<td>A plan for how an individual or household will allocate income
+toward expenses, savings, and debt repayment over a specific period</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Tax deduction</td>
+<td>Tax credit</td>
+<td>Deduction reduces TAXABLE INCOME (you save your tax rate × the
+deduction). Credit reduces TAXES OWED directly (a $1,000 credit saves
+you exactly $1,000). Credits are more valuable.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Gross income</td>
+<td>Net income</td>
+<td>Gross = total earnings BEFORE deductions. Net = what you actually
+TAKE HOME after all deductions. Net can be significantly lower than
+gross.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mandatory deduction</td>
+<td>Voluntary deduction</td>
+<td>Mandatory = required by law (income tax, payroll tax). Voluntary =
+chosen by employee (health insurance, 401(k), union dues). You can
+change voluntary deductions; you cannot opt out of mandatory ones.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Income tax</td>
+<td>Payroll tax</td>
+<td>Income tax = general tax on earnings funding government operations.
+Payroll tax = specific tax funding Social Security and Medicare. Both
+are withheld, but they fund different things.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Progressive tax</td>
+<td>Flat tax</td>
+<td>Progressive = higher income → higher tax rate (U.S. federal system).
+Flat = same rate for all income levels. The U.S. uses progressive; some
+states use flat tax.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Pretax deduction</td>
+<td>Post-tax deduction</td>
+<td>Pretax = deducted BEFORE taxes calculated → reduces taxable income
+(e.g., 401(k)). Post-tax = deducted AFTER taxes calculated → does not
+reduce taxable income (e.g., Roth 401(k)).</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="managing-personal-risk">5.2 Managing Personal Risk</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Insurable risk</td>
+<td>A risk that involves a potential loss due to chance, is
+quantifiable, and is statistically predictable, allowing an insurer to
+estimate cost and likelihood</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Personal risk</td>
+<td>An insurable risk involving the health and well-being of the insured
+individual, such as injury from an accident or suffering from
+illness</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Property risk</td>
+<td>An insurable risk involving loss or damage to the insured
+individual’s property, such as their home or car</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Liability risk</td>
+<td>An insurable risk involving damage caused to another person’s
+property or health, such as damage from reckless driving</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Health insurance</td>
+<td>Insurance that reimburses policyholders for medically necessary
+healthcare and sometimes preventive care; may be provided as an employee
+benefit</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Auto insurance</td>
+<td>Insurance covering financial losses from car accidents, damage to
+the insured’s vehicle, and liability for damage caused to others</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Homeowner’s insurance</td>
+<td>Insurance covering financial losses to a home and its contents, as
+well as liability for injuries that occur on the property</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Renter’s insurance</td>
+<td>Insurance covering a renter’s personal property and liability, but
+not the building itself (which is the landlord’s responsibility)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Life insurance</td>
+<td>Insurance that provides funds to designated beneficiaries in the
+event of the insured person’s death, intended to replace lost income or
+fund dependents’ needs</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Premium</td>
+<td>The amount an insurance buyer pays (annual, semi-annual, or monthly)
+for an insurance policy</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Claim</td>
+<td>A formal request filed by the policyholder to the insurance company
+for reimbursement after a covered financial loss</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Risk tolerance</td>
+<td>An individual’s willingness and ability to accept uncertainty or
+potential financial loss; affects insurance and investment
+decisions</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Insurance fraud</td>
+<td>A crime involving misrepresentation or falsified claims by
+policyholders, or misrepresentation of policies/benefits by insurance
+sellers</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Predatory lending</td>
+<td>Deceptive or aggressive lending practices that exploit borrowers,
+often through high fees, hidden terms, or pressure tactics</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Personal financial risk</td>
+<td>The risk of financial loss due to events such as car accidents,
+illness, property damage, or liability — individuals face both financial
+and physical risks in daily life</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Legal insurance requirement</td>
+<td>Insurance coverage mandated by law, such as auto liability insurance
+required by most U.S. states and property insurance required by mortgage
+lenders</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Dependent coverage</td>
+<td>Additional insurance needs that arise when an individual has
+dependents (spouse, children), including family health insurance,
+multiple vehicle policies, and higher life insurance amounts</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Risk reduction</td>
+<td>Actions taken to lower insurance premiums by reducing risky behavior
+— e.g., maintaining a good driving record (auto insurance) or not
+smoking (life insurance)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Deductible</td>
+<td>The amount the policyholder must pay out of pocket before insurance
+begins covering costs; higher deductibles typically mean lower
+premiums</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Coverage</td>
+<td>The total amount of protection provided by an insurance policy; the
+maximum the insurer will pay for a covered loss</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Beneficiary</td>
+<td>The person designated to receive funds from a life insurance policy
+upon the insured person’s death</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Extended warranty</td>
+<td>A service contract on an expensive purchase (car, appliance) that
+extends the manufacturer’s warranty and covers repairs beyond the
+original terms</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Identity theft</td>
+<td>The fraudulent acquisition and use of someone’s personal information
+(SSN, credit card numbers) for financial gain</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Phishing</td>
+<td>A fraudulent attempt to obtain personal or financial information by
+disguising as a trustworthy entity in electronic communications</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Credit freeze</td>
+<td>A tool that restricts access to an individual’s credit report,
+preventing identity thieves from opening new accounts in the person’s
+name</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Nonprofit credit counselor</td>
+<td>A professional from a nonprofit organization who provides free or
+low-cost advice on managing debt, budgeting, and avoiding predatory
+loans</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Premium</td>
+<td>Deductible</td>
+<td>Premium = what you PAY regularly to have insurance. Deductible =
+what you PAY out of pocket when you FILE a claim. Higher deductible →
+lower premium (and vice versa).</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Personal risk</td>
+<td>Property risk</td>
+<td>Personal risk = harm to YOUR BODY (injury, illness). Property risk =
+harm to YOUR THINGS (home, car). Both are insurable, but different
+policies cover each.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Liability risk</td>
+<td>Property risk</td>
+<td>Liability = damage YOU cause to OTHERS or THEIR property. Property =
+damage to YOUR OWN property. Auto insurance covers both: collision (your
+car) + liability (the other car).</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tax credit</td>
+<td>Insurance claim</td>
+<td>Tax credit = reduces taxes you owe to the government. Insurance
+claim = request for reimbursement from your insurance company after a
+loss. Both give you money back, but from different sources.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Predatory lending</td>
+<td>Insurance fraud</td>
+<td>Predatory lending = the LENDER exploits the borrower. Insurance
+fraud = the POLICYHOLDER or INSURER commits a crime. Both are illegal
+and harmful to consumers.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Homeowner’s insurance</td>
+<td>Renter’s insurance</td>
+<td>Homeowner’s = covers the BUILDING + contents + liability. Renter’s =
+covers CONTENTS + liability only (not the building). The landlord’s
+policy covers the building for renters.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<div class="page-break">
+
+</div>
+<h2 id="saving-and-investing-for-education-housing-and-retirement">5.3
+Saving and Investing for Education, Housing, and Retirement</h2>
+<p><strong>Core Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Financial asset</td>
+<td>A resource with monetary value that an individual owns, including
+savings accounts, CDs, stocks, bonds, and mutual funds</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Savings account</td>
+<td>A deposit account at a bank or credit union that earns interest;
+federally insured (FDIC/NCUA), low risk, low return</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Certificate of deposit (CD)</td>
+<td>A savings instrument with a fixed term and fixed interest rate;
+penalties for early withdrawal; federally insured</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stock</td>
+<td>A share of ownership in a company; value depends on the company’s
+performance; higher risk, higher expected return</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Bond</td>
+<td>A loan made by an investor to a borrower (government or
+corporation); pays fixed interest; generally lower risk than stocks</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Mutual fund</td>
+<td>An investment that pools money from many investors to buy a
+diversified portfolio of stocks and/or bonds</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Compounding</td>
+<td>The process by which investment returns generate their own returns
+over time; starting early leads to significantly greater wealth</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Risk-return tradeoff</td>
+<td>The principle that financial assets with higher potential returns
+also carry higher potential risk of loss</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Inflation</td>
+<td>The rate at which the general level of prices rises over time,
+decreasing the purchasing power of money</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Diversification</td>
+<td>A strategy of allocating funds across a variety of financial assets
+with different risk levels to seek higher returns without excessive
+risk</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Time horizon</td>
+<td>The length of time an investor expects to hold an investment before
+needing the money; affects asset allocation choices</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Social Security</td>
+<td>A U.S. federal program providing retirement income funded by payroll
+taxes; one source of retirement funding</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Mortgage</td>
+<td>A loan used to purchase real estate, where the property serves as
+collateral; repayment terms include principal, interest, and
+duration</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Student loan</td>
+<td>A loan used to finance postsecondary education; federal loans
+typically have lower interest rates and more favorable terms than
+private loans</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Terms</strong></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Nominal return</td>
+<td>The rate of return on an investment before adjusting for
+inflation</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Real return</td>
+<td>The rate of return on an investment after adjusting for inflation;
+reflects actual purchasing power gained</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Capital gain</td>
+<td>The profit earned when an investment is sold for more than its
+purchase price</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Dividend</td>
+<td>A distribution of a portion of a company’s earnings to its
+shareholders</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Interest</td>
+<td>The cost of borrowing money (paid by borrower) or the return earned
+on savings/investments (paid to saver)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Transaction fee</td>
+<td>A cost charged each time an investment is bought or sold</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Management fee</td>
+<td>An ongoing fee charged by a mutual fund or financial advisor for
+managing investments</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Discount brokerage</td>
+<td>A firm that charges lower fees for buying/selling investments but
+provides less personal advice than a full-service firm</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Behavioral bias</td>
+<td>Psychological tendencies (overconfidence, loss aversion) that cause
+investors to make irrational decisions</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Overconfidence bias</td>
+<td>A behavioral bias causing investors to overestimate their ability to
+predict market movements, leading to excessive risk-taking</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Loss aversion bias</td>
+<td>A behavioral bias causing investors to feel losses more acutely than
+gains, leading to premature selling at a loss</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Down payment</td>
+<td>An upfront cash payment representing a percentage of a home’s
+purchase price; the rest is financed with a mortgage</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Fixed-rate mortgage</td>
+<td>A mortgage with an interest rate that stays the same for the entire
+loan term</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Adjustable-rate mortgage (ARM)</td>
+<td>A mortgage with an interest rate that can change over time based on
+market conditions</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Scholarship</td>
+<td>Financial aid awarded based on merit (academic, athletic, artistic)
+that does not need to be repaid</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Grant</td>
+<td>Financial aid awarded based on financial need that does not need to
+be repaid</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Work-study program</td>
+<td>A federal financial aid program providing part-time employment to
+students to help pay for education expenses</td>
+</tr>
+<tr>
+<td>18</td>
+<td>401(k)</td>
+<td>An employer-sponsored retirement savings plan allowing employees to
+contribute pretax dollars; employers may match contributions</td>
+</tr>
+<tr>
+<td>19</td>
+<td>IRA (Individual Retirement Account)</td>
+<td>A personal retirement savings account with tax advantages;
+traditional IRA (tax-deferred) or Roth IRA (tax-free growth)</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Charitable giving</td>
+<td>Donations to nonprofit organizations; may provide tax deductions and
+align with personal values and mission</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Long-term financial goals</td>
+<td>Major financial objectives that individuals or households plan for
+over years or decades, including paying for postsecondary education,
+buying a home, and saving for retirement</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Family financial planning</td>
+<td>The process of discussing and sharing long-term financial goals
+between partners or family members to reduce potential financial
+conflict and align priorities</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Automated savings technology</td>
+<td>Financial technology tools — such as automated savings transfers,
+payroll deductions for retirement accounts, and round-up savings apps —
+that help individuals overcome barriers to saving</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Financial advisor</td>
+<td>A professional who helps individuals evaluate saving and investment
+options; selection criteria include licensing, certifications,
+education, experience, and cost</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Investment benchmarking</td>
+<td>The practice of comparing the performance of financial assets
+against a standard index (e.g., S&amp;P 500 for stocks, Bloomberg
+Aggregate Bond Index for bonds) to assess returns</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Trap Pairs</strong></p>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr>
+<th>#</th>
+<th>Term A</th>
+<th>Term B</th>
+<th>Key Difference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Stock</td>
+<td>Bond</td>
+<td>Stock = OWNERSHIP in a company (higher risk, higher return). Bond =
+a LOAN to a company/government (lower risk, lower return). Stockholders
+own; bondholders lend.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nominal return</td>
+<td>Real return</td>
+<td>Nominal = return BEFORE inflation adjustment. Real = return AFTER
+inflation adjustment. A 7% nominal return with 3% inflation = 4% real
+return.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Tax deduction</td>
+<td>Tax credit</td>
+<td>Deduction reduces TAXABLE INCOME. Credit reduces TAXES OWED
+directly. A $1,000 deduction at 22% tax rate saves $220; a $1,000 credit
+saves $1,000.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Scholarship</td>
+<td>Grant</td>
+<td>Scholarship = based on MERIT (academic, athletic, artistic
+achievement). Grant = based on NEED (financial situation). Neither needs
+to be repaid.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Fixed-rate mortgage</td>
+<td>Adjustable-rate mortgage</td>
+<td>Fixed = interest rate NEVER changes → predictable payments.
+Adjustable = interest rate CAN change → payments may increase or
+decrease.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>401(k)</td>
+<td>IRA</td>
+<td>401(k) = employer-sponsored (higher contribution limits, possible
+employer match). IRA = individual account (more investment choices,
+lower limits). Both offer tax advantages for retirement.</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Overconfidence bias</td>
+<td>Loss aversion bias</td>
+<td>Overconfidence = thinking you’re BETTER at investing than you are →
+takes too much risk. Loss aversion = feeling losses TOO ACUTELY → sells
+too early to avoid further loss. Both lead to poor returns.</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Transaction fee</td>
+<td>Management fee</td>
+<td>Transaction fee = one-time cost PER TRADE. Management fee = ongoing
+annual cost for fund management (often as % of assets). Both reduce your
+return.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Savings account</td>
+<td>CD</td>
+<td>Savings account = withdraw ANYTIME, lower interest. CD = locked for
+a FIXED TERM, higher interest, penalty for early withdrawal. Both are
+federally insured.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Capital gain</td>
+<td>Dividend</td>
+<td>Capital gain = profit from SELLING an asset for more than you paid.
+Dividend = regular CASH PAYMENT from company earnings to shareholders.
+Both are forms of investment return but earned differently.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+
+</body>
+</html>
