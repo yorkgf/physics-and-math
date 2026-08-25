@@ -1,12 +1,12 @@
 {
   "id": "conv-1774241442575-1yy9bh18h",
+  "providerId": "claude",
   "title": "Analyze US mortgage securitization funding chain",
   "titleGenerationStatus": "success",
   "createdAt": 1774241442576,
-  "updatedAt": 1774243058788,
-  "lastResponseAt": 1774242992059,
-  "sessionId": "a6c87baa-1104-4a87-8dc7-d326c144093f",
-  "sdkSessionId": "a6c87baa-1104-4a87-8dc7-d326c144093f",
+  "lastActivityAt": 1774242992059,
+  "sessionId": null,
+  "selectedModel": "sonnet",
   "usage": {
     "model": "sonnet",
     "inputTokens": 64735,

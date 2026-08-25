@@ -536,7 +536,7 @@ def make_body_html(front_matter_html, body_html_fragment):
 
 def build_cover_html(n_cases=38):
     """Designed cover page — hero dark panel + white stats body."""
-    return """
+    return f"""
 <div class="cover">
   <div class="cover-band-top"></div>
 
