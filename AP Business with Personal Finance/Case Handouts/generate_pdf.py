@@ -616,17 +616,33 @@ def build_toc_html(toc_items, page_map):
 """
 
 
+def pdf_pages_text(pdf_path):
+    """
+    Return a list of page text strings for pdf_path.
+    Prefer pdftotext (poppler-utils); fall back to pypdf if the binary
+    is not installed.
+    """
+    try:
+        result = subprocess.run(
+            ["pdftotext", "-layout", "-enc", "UTF-8", str(pdf_path), "-"],
+            capture_output=True, text=True
+        )
+        if result.returncode == 0:
+            return result.stdout.split("\x0c")
+    except FileNotFoundError:
+        pass
+    from pypdf import PdfReader
+    reader = PdfReader(str(pdf_path))
+    return [page.extract_text() or "" for page in reader.pages]
+
+
 def extract_case_pages(pdf_path, case_titles, cover_page_count):
     """
-    Run pdftotext on pdf_path and find the first page of each case.
+    Extract text from pdf_path and find the first page of each case.
     Returns dict mapping case_title -> absolute_page_number.
     cover_page_count: number of pages occupied by the cover/TOC before body starts.
     """
-    result = subprocess.run(
-        ["pdftotext", "-layout", "-enc", "UTF-8", str(pdf_path), "-"],
-        capture_output=True, text=True
-    )
-    pages = result.stdout.split("\x0c")
+    pages = pdf_pages_text(pdf_path)
 
     def normalize(s):
         return re.sub(r"[\s\-—–·()[\]'\"]+", "", s).lower()
@@ -659,11 +675,7 @@ with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
 HTML(string=draft_html, base_url=str(BASE_DIR)).write_pdf(str(tmp_path))
 
 # Determine how many pages the cover+TOC occupy (before cases start)
-result = subprocess.run(
-    ["pdftotext", "-layout", "-enc", "UTF-8", str(tmp_path), "-"],
-    capture_output=True, text=True
-)
-draft_pages = result.stdout.split("\x0c")
+draft_pages = pdf_pages_text(tmp_path)
 
 first_case_norm = re.sub(r"[\s\-—–·()[\]'\"]+", "", case_titles[0]).lower()[:28]
 cover_page_count = 0
