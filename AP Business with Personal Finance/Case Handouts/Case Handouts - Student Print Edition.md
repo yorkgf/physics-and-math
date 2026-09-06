@@ -2,7 +2,7 @@
 
 **Student Print Edition**
 
-> 40 case handouts for all 4 units. Print this document for student distribution.
+> 41 case handouts for all 4 units. Print this document for student distribution.
 
 > Generated: 2026-09-03
 
@@ -1167,6 +1167,175 @@ PESTEL factors move — a factor that points one way in 2018 can reverse later.
 ---
 
 *Keep this handout for reference during class discussion — and do not look up what Tesla actually decided until after the reveal.*
+
+\newpage
+
+---
+subject: AP Business with Personal Finance
+unit: 1
+topic: 1.3
+case_company: SHEIN — The Identity Decision (2026)
+last_updated: 2026-09-06
+---
+
+# SHEIN's Identity Decision: Come Out, Stay Hidden, or De-Sinicize? — Case Handout
+
+> **Topic 1.3 PESTEL Factors** · Read before class. Be ready to discuss.
+
+> **This is a decision case. The clock stops in January 2026. Everything that happened afterward is deliberately hidden — do NOT look it up (and do NOT watch recent news videos about SHEIN) before the discussion. Your job is to make the decision yourself using only the information in this handout.**
+
+---
+
+## Background
+
+SHEIN (希音) is the world's largest online fashion retailer. Founded in China and built around factories in Guangdong, it sells ultra-cheap clothing — dresses for a few dollars, jeans for about ten — to customers in **150+ countries**. By 2025 it had roughly **273 million active customers**, made **over a billion orders a year**, and generated about **$41.8 billion in revenue**.
+
+It is also famously a company that **refuses to say who it is**. Its founder has never given an interview and almost no public photo of him exists. When the company moved its headquarters to Singapore in 2021–22, executives publicly insisted: **"SHEIN is not a Chinese company. SHEIN is a Singapore company."** Yet more than 90% of its supply chain sits in Guangdong, and most of its products are stored in mainland China.
+
+In early 2022, private investors valued SHEIN at roughly **$100 billion** — one of the most valuable private companies on Earth. Now, in January 2026, the founder and the board face a decision they have spent years avoiding: **how does SHEIN finally go public — and what kind of company will it say it is?**
+
+---
+
+## The Situation in January 2026 — A Board Briefing
+
+### 1. The business SHEIN built
+
+- SHEIN's model is called **LATR — Large-scale Automated Test and Re-order**, also known in China as **小单快反 (small order, quick response)**: test a tiny batch of a design, measure demand from clicks and purchases in real time, and only then mass-produce the winners.
+- The result: **~600,000 new styles a year** (fast-fashion rival Zara launches roughly 13,000) and an **inventory turnover of about 36 days** — money tied up in unsold clothes for weeks rather than months.
+- Design-to-shelf runs **two to three weeks**; data comes from millions of clicks, shares, and searches, and early growth was fuelled by cheap influencer seeding on social media.
+- SHEIN keeps costs brutally low: roughly **17,751 employees run $41.8 billion in revenue** (Zara's owner employs ~162,000 people for about the same sales), with almost no physical stores. But margins are thin: net margin was **~2.7%** in 2024, versus **12–15%** for Inditex (Zara).
+
+### 2. The mystery — who is SHEIN, really?
+
+- **Chinese roots:** founded in Nanjing, built its operating base in Guangzhou and the garment clusters of **Guangdong (广东)**, including Panyu. Roughly **10,000 supplier factories** and **600,000+ jobs** in Guangdong depend on SHEIN.
+- **Singapore label:** since 2021–22 the group's holding entity is Singapore-based **Roadget Business Pte. Ltd.**; the founder became a Singapore permanent resident; company leaders repeated that SHEIN is a "global company" and "a Singapore company."
+- Executives even said discussing whether SHEIN is Chinese could be challenged; the founder reportedly changed some registrations to distance the firm from China.
+- In 2025, news broke that SHEIN was **considering moving its headquarters back to China** to smooth the path for a Hong Kong listing.
+- Regulators do not just accept labels: China's securities regulator applies a **"substance over form"** rule — a company whose main business, assets, and operations sit in China is treated as a **Chinese domestic company** for listing purposes, no matter where its HQ is registered.
+
+### 3. The rules of trade turned against it
+
+- **May 2025:** the United States removed the **de minimis exemption**, the rule that let parcels worth under **$800** enter duty-free. China-origin goods shipped by SHEIN or its marketplace now face import duties of **10% to 87.5%**.
+- The impact was immediate: after SHEIN raised prices to offset tariffs, **U.S. revenue fell 14.3%** in the first quarter of 2026, and the U.S. share of sales dropped from roughly **30% to 22.5%**.
+- The **European Union** scrapped its €150 duty exemption (a flat **€3-per-item** duty applies from July 2026), and **Thailand, Vietnam, and Japan** tightened or removed their own low-value exemptions in 2025–26.
+- Raising prices to cover duties attacks the core of SHEIN's appeal — the ultra-low price.
+
+### 4. The regulators lining up
+
+- **China (CSRC):** to list in Hong Kong, SHEIN must file through its Chinese operating entity, **Guangzhou SHEIN International**, and obtain approval under the "substance over form" rule. Approvals take time — and depend on the company's relationship with Beijing.
+- **United States:** its **2023 New York listing attempt collapsed** over data-security and supply-chain-transparency scrutiny; a **Federal Trade Commission (FTC) investigation** is open; and U.S. law (UFLPA) presumes goods linked to forced labor in parts of China are blocked at the border.
+- **United Kingdom:** its **2024 London attempt stalled** amid scrutiny of labour rights, environmental standards, and tax arrangements.
+- **France:** more than **€210 million** in penalties since 2025 over misleading pricing displays, environmental claims, and consumer-protection failures — and a threatened full block of the platform.
+- **European Union:** investigations into product safety, algorithm design, and "addictive" shopping features; **intellectual-property** suits from Nike, Uniqlo, Zara, H&M, Levi's, Ralph Lauren, Dr. Martens, and others over copied designs.
+- **Tax:** a 2025 U.K. report alleged that of SHEIN's ~£2 billion of U.K. sales, about **£1.72 billion (84%)** was moved to the Singapore parent as "purchase costs," leaving only £38 million of taxable profit in the U.K. — and just **£9.6 million of U.K. tax**. Regulators in several countries are looking at the same structure.
+
+### 5. The economics of going public
+
+- The investor base — HongShan/Sequoia, Tiger Global, General Atlantic, Brookfield, IDG, Boyu, Mubadala and others — needs an **exit**, and they funded a $100 billion company.
+- Valuations have been sliding: **~$100B (2022) → ~$64B (2023) → early-2026 reports of seeking $40–50B**, with some investors already bracing for far less.
+- Growth has slowed hard: 2025 revenue rose only **+8%** (after +20.7% in 2024), net profit fell **38.7%** to about **$2.06 billion**, and Q1 2026 swung to a **~$99 million loss** (partly a one-time accounting charge).
+- New York is closed and London stalled → **Hong Kong is the last realistic venue**, and Hong Kong markets have been strong in 2026.
+- Rivals are pressing from every side: **Temu** (PDD), **TikTok Shop** (2025 GMV ~$64 billion), and AliExpress fight for the same bargain-hunting customers; Western brands fight the reputational battle.
+
+### 6. Society and the environment
+
+- SHEIN's growth rode a **social trend**: young consumers who want fashion at prices that make it a "small treat" (小确幸), discovered through social media — and who are increasingly conscious of the **environmental cost of fast fashion**.
+- Fast fashion is a political and social target: "disposable clothing," textile waste, and recycling programs that critics call greenwashing. This **ESG pressure was one reason London stalled**.
+- France fined SHEIN partly over its **environmental claims**; the EU is writing rules on sustainable fashion.
+
+### 7. The window
+
+- China's CSRC approval is the gate to the Hong Kong listing — the last door open.
+- The **mystery itself is now the obstacle**: as long as SHEIN refuses to say who it is, Beijing hesitates, Washington and Brussels distrust it, and investors cannot price it.
+- People who deal with regulators know that **policy windows open and close** — and that a company that has hidden for eighteen years cannot hide forever.
+
+---
+
+## The Decision
+
+At the January 2026 board meeting, four options were on the table:
+
+- **Option A — Stay in the shadows.** Keep the anonymous founder, the Singapore identity, and the "we are not a Chinese company" line. Push for the Hong Kong listing without conceding Chinese status. No visible change — but under "substance over form," approval stalls, the valuation keeps sliding, and investors run out of patience.
+- **Option B — Come out and embrace China.** The founder makes his first public appearance, declares "Guangdong is SHEIN's root" (广东是希音的根), commits billions of yuan to Guangdong's supply chain, files through the Chinese operating entity, and accepts treatment as a Chinese company. This unlocks the listing — but publicly concedes the identity the company spent years hiding, and invites U.S. and EU political and legal pressure.
+- **Option C — De-Sinicize / go global-local.** Shift production toward Turkey, Brazil, India, and Southeast Asia; localize inventory in the U.S. and EU; build a genuinely multinational structure that no single country can define. Hedges against both Washington and Beijing — but shatters the LATR cost engine, takes years, and cannot change where most garments are still made.
+- **Option D — Wait.** Delay the IPO, keep raising prices to absorb tariffs, shrink toward profitability, and wait for trade policy and investor sentiment to stabilize. Preserves optionality — but growth stalls, rivals advance, and investors who once wrote $100 billion on SHEIN will demand an exit at whatever price the market offers.
+
+---
+
+## Questions
+
+**1. Respond to parts A, B, and C.**
+
+(A) Complete a PESTEL analysis for SHEIN's identity decision: for **each** of the six factors, identify one specific fact from this handout and mark it as an **opportunity** or a **risk** for SHEIN.
+
+| Factor | One specific fact from the handout | Opportunity or risk? | How it acts on SHEIN |
+|---|---|---|---|
+| **Political** | | | |
+| **Economic** | | | |
+| **Social** | | | |
+| **Technological** | | | |
+| **Environmental** | | | |
+| **Legal** | | | |
+
+(B) For the political and legal factors you identified, explain the **direction** of each: is it pushing SHEIN toward "coming out" (Option B) or pulling it toward staying hidden (Option A)?
+
+(C) The removal of the de minimis exemption "feels" economic, and the identity mystery "feels" social. Classify each one by its **source**, and explain why.
+
+---
+
+**2. Respond to parts A, B, and C.**
+
+(A) The question "is SHEIN Chinese or Singaporean?" is a business question, but it belongs to PESTEL. Identify its primary classification and one other factor it overlaps with.
+
+(B) Explain **why** SHEIN spent years hiding its Chinese roots — and why that strategy stopped working by January 2026.
+
+(C) If SHEIN announced tomorrow, "We are a Chinese company," predict how **three different stakeholders** — Beijing, Washington, and SHEIN's investors — would each respond.
+
+---
+
+**3. Respond to parts A, B, and C.**
+
+(A) Identify **two** benefits Option B (come out and embrace China) would offer SHEIN that Option A does not.
+
+(B) Identify **two** specific risks SHEIN would take on with Option B that Option C does not face.
+
+(C) SHEIN's competitive advantage is its LATR supply chain — small orders, quick response, ultra-low cost. Evaluate which option best **protects** that advantage — and which option does the most to **reduce political and legal exposure**. Explain whether the same option does both.
+
+---
+
+**4. Respond to parts A, B, and C.**
+
+(A) Choose the **three most important factors** for this specific decision and rank them.
+
+(B) Justify your #1 factor: why does it matter more than the others for SHEIN in January 2026?
+
+(C) "A proper PESTEL analysis treats all six factors as equally important." Explain why this statement is wrong, using evidence from SHEIN's situation.
+
+---
+
+**5. Respond to parts A, B, and C.**
+
+(A) Recommend one option — **A, B, C, or D** (or a clearly sequenced combination) — for SHEIN in January 2026.
+
+(B) Justify your recommendation using **at least three specific factors** from your table. For each: name the factor, state its direction (opportunity or risk), and tie it directly to SHEIN.
+
+(C) State the single biggest risk of your recommended option and propose one concrete action SHEIN could take to manage it.
+
+---
+
+**6. (Challenge) Respond to parts A, B, and C.**
+
+PESTEL factors move — a factor that points one way in January 2026 can reverse later.
+
+(A) Identify one factor in this handout that is visibly changing as of January 2026.
+
+(B) Explain how a reversal of that factor would change your recommendation.
+
+(C) Recommend one **"trigger signal"** SHEIN's board should watch — a specific event or data point that would tell management to accelerate the IPO, or to pull back.
+
+---
+
+*Keep this handout for reference during class discussion — and do not look up what SHEIN actually decided until after the reveal.*
 
 \newpage
 
