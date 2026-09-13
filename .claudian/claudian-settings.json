@@ -11,7 +11,6 @@
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
-  "persistentExternalContextPaths": [],
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {},
@@ -29,11 +28,10 @@
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:2ce5fc6e-6423-47c7-b50e-8c480deca346": "/home/yorkgf/.local/bin/claude"
+        "device-079896c6f7dce69b22aaeba2c6073be90b2581f27a002546d63c291b99be4365": "/home/yorkgf/.local/bin/claude"
       },
       "loadUserSettings": true,
       "enableChrome": true,
-      "enableBangBash": false,
       "customModels": "",
       "defaultModel": "opus",
       "lastModel": "sonnet",
@@ -47,7 +45,7 @@
       "safeMode": "workspace-write",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:2ce5fc6e-6423-47c7-b50e-8c480deca346": "/home/yorkgf/.local/bin/codex"
+        "device-079896c6f7dce69b22aaeba2c6073be90b2581f27a002546d63c291b99be4365": "/home/yorkgf/.local/bin/codex"
       },
       "customModels": "",
       "discoveredModels": [],
@@ -79,7 +77,7 @@
     "pi": {
       "cliPath": "",
       "cliPathsByHost": {
-        "device:2ce5fc6e-6423-47c7-b50e-8c480deca346": "/home/yorkgf/.config/nvm/versions/node/v24.18.0/bin/pi"
+        "device-079896c6f7dce69b22aaeba2c6073be90b2581f27a002546d63c291b99be4365": "/home/yorkgf/.config/nvm/versions/node/v24.18.0/bin/pi"
       },
       "discoveredModels": [
         {
@@ -138,15 +136,14 @@
       "environmentHash": "",
       "environmentVariables": "",
       "modelAliases": {},
-      "planBasePermissionMode": "normal",
       "preferredReasoningByModel": {},
       "visibleModels": null
     }
   },
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
-    "providerId": "pi",
-    "model": "pi:cc-switch-deep-seek/deepseek-v4-flash"
+    "providerId": "claude",
+    "model": "sonnet"
   },
   "savedProviderModel": {
     "claude": "sonnet",
@@ -169,6 +166,7 @@
   "lastCustomModel": "",
   "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
+  "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
