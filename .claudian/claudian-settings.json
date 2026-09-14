@@ -3,10 +3,9 @@
   "permissionMode": "yolo",
   "model": "sonnet",
   "thinkingBudget": "off",
-  "effortLevel": "xhigh",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
-  "titleGenerationLocale": "",
   "titleGenerationModel": "",
   "excludedTags": [],
   "mediaFolder": "",
@@ -14,17 +13,14 @@
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {},
-  "customModelAliases": {},
   "keyboardNavigation": {
     "scrollUpKey": "w",
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "requireCommandOrControlEnterToSend": false,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
-      "enabled": true,
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {
@@ -32,13 +28,13 @@
       },
       "loadUserSettings": true,
       "enableChrome": true,
+      "enableBangBash": false,
+      "enableOpus1M": false,
+      "enableSonnet1M": false,
       "customModels": "",
-      "defaultModel": "opus",
       "lastModel": "sonnet",
-      "modelEnvironmentType": "sonnet",
-      "titleModelEnvironmentType": "",
       "environmentVariables": "",
-      "environmentHash": "runtime-input:v1:74d6c0567810019baa3086fabd4fb618852b4de0ac422b6230b426dadbcecffc"
+      "environmentHash": ""
     },
     "codex": {
       "enabled": false,
@@ -48,17 +44,12 @@
         "device-079896c6f7dce69b22aaeba2c6073be90b2581f27a002546d63c291b99be4365": "/home/yorkgf/.local/bin/codex"
       },
       "customModels": "",
-      "discoveredModels": [],
-      "modelAliases": {},
-      "visibleModels": null,
-      "enableUltraEffort": false,
       "reasoningSummary": "detailed",
       "environmentVariables": "",
-      "environmentHash": "runtime-input:v1:e0e3d9f430794d91513439c1856e40e0cd95b561037f66b0db54d6609d7ed2d6",
-      "catalogTimestamp": 0,
-      "catalogFingerprint": "",
+      "environmentHash": "",
       "installationMethodsByHost": {
-        "yorkgf-PC": "native-windows"
+        "yorkgf-PC": "native-windows",
+        "feng-XiaoXinPro-14-IAH5R": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -141,35 +132,47 @@
     }
   },
   "settingsProvider": "claude",
-  "lastSelectedChatModel": {
-    "providerId": "claude",
-    "model": "sonnet"
-  },
+
   "savedProviderModel": {
     "claude": "sonnet",
-    "codex": "sonnet",
+    "codex": "gpt-5.5",
     "pi": "pi:cc-switch-deep-seek/deepseek-v4-flash"
   },
   "savedProviderEffort": {
-    "claude": "xhigh",
+    "claude": "high",
     "codex": "high",
     "pi": "high"
   },
-  "savedProviderServiceTier": {},
-  "savedProviderThinkingBudget": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
+  "savedProviderThinkingBudget": {
+    "claude": "off",
+    "codex": "off"
+  },
   "savedProviderPermissionMode": {
     "claude": "yolo",
     "codex": "yolo",
     "pi": "yolo"
   },
-  "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
-  "maxWarmAgentProcesses": 5,
+  "maxTabs": 3,
+  "tabBarPosition": "input",
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
-  "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
+  "hiddenProviderCommands": {},
+  "titleGenerationLocale": "",
+  "customModelAliases": {},
+  "requireCommandOrControlEnterToSend": false,
+  "lastSelectedChatModel": {
+    "providerId": "pi",
+    "model": "pi:cc-switch-deep-seek/deepseek-v4-flash"
+  },
+  "pendingProviderSessionInvalidations": {},
+  "maxWarmAgentProcesses": 5,
+  "expandFileEditsByDefault": false,
   "enableDualPane": true,
   "dualPaneSide": "right",
   "restoreTabsOnStartup": true,
@@ -178,8 +181,5 @@
   "collabGitPath": "",
   "sessionManagerOrganization": "list",
   "sessionManagerSort": "last-updated",
-  "pinnedLinkedContentPaths": [],
-  "hiddenProviderCommands": {},
-  "maxTabs": 3,
-  "tabBarPosition": "input"
+  "pinnedLinkedContentPaths": []
 }
