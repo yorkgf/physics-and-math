@@ -1,9 +1,7 @@
 # Assignment: AcFun vs. Bilibili — A Tale of Two Video Platforms
 
-> **Due:** _______________
-> **Format:** Written report (800–1200 words) OR slide deck (8–12 slides)
-> **Weight:** _______________
->
+> 
+> 
 > **Instructions:** Read the background information below. Then complete **Part A** (research) and **Part B** (analysis). Your analysis must use concepts from **Topics 1.1–1.4**.
 
 ---
@@ -22,42 +20,42 @@ Yet today, **Bilibili has over 300 million monthly active users and a market cap
 
 ### AcFun (A站)
 
-| | Details |
-|---|---|
-| **Founded** | 2007 |
-| **Founder** | Xilin (西林), a college student |
-| **Original concept** | China's first video platform with danmaku (弹幕) comments, modeled after Japan's Niconico |
-| **Early community** | ACG (Anime, Comics, Games) enthusiasts — China's earliest danmaku users |
-| **Key problems** | Frequent leadership changes, server crashes, funding shortages, management instability |
-| **Major turning point** | In 2018, Kuaishou (快手) acquired AcFun to use as a complementary content platform |
-| **Current status** | Still operating under Kuaishou, but with a much smaller user base; loyal niche community |
+|                         | Details                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------- |
+| **Founded**             | 2007                                                                                     |
+| **Founder**             | Xilin (西林), a college student                                                            |
+| **Original concept**    | China's first video platform with danmaku (弹幕) comments, modeled after Japan's Niconico  |
+| **Early community**     | ACG (Anime, Comics, Games) enthusiasts — China's earliest danmaku users                  |
+| **Key problems**        | Frequent leadership changes, server crashes, funding shortages, management instability   |
+| **Major turning point** | In 2018, Kuaishou (快手) acquired AcFun to use as a complementary content platform         |
+| **Current status**      | Still operating under Kuaishou, but with a much smaller user base; loyal niche community |
 
 ### Bilibili (B站)
 
-| | Details |
-|---|---|
-| **Founded** | 2009 |
-| **Founder** | Xu Yi (徐逸, username "⑨bishi"), a former AcFun user |
-| **Original concept** | A more stable alternative to AcFun — same danmaku system, but with better servers and fewer crashes |
-| **Early community** | ACG enthusiasts who left AcFun due to technical problems |
-| **Key milestones** | 2014: Chen Rui (陈睿) became CEO, brought professional management and investment. 2018: IPO on NASDAQ. 2021: Secondary listing on Hong Kong Stock Exchange. |
-| **Major turning point** | Expanded from ACG-only to mainstream content (education, science, lifestyle, vlogs, documentaries) while keeping its community culture |
-| **Current status** | 300M+ monthly active users; one of China's top video platforms; diversified revenue (advertising, gaming, e-commerce, live streaming, premium memberships) |
+|                         | Details                                                                                                                                                    |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Founded**             | 2009                                                                                                                                                       |
+| **Founder**             | Xu Yi (徐逸, username "⑨bishi"), a former AcFun user                                                                                                         |
+| **Original concept**    | A more stable alternative to AcFun — same danmaku system, but with better servers and fewer crashes                                                        |
+| **Early community**     | ACG enthusiasts who left AcFun due to technical problems                                                                                                   |
+| **Key milestones**      | 2014: Chen Rui (陈睿) became CEO, brought professional management and investment. 2018: IPO on NASDAQ. 2021: Secondary listing on Hong Kong Stock Exchange.  |
+| **Major turning point** | Expanded from ACG-only to mainstream content (education, science, lifestyle, vlogs, documentaries) while keeping its community culture                     |
+| **Current status**      | 300M+ monthly active users; one of China's top video platforms; diversified revenue (advertising, gaming, e-commerce, live streaming, premium memberships) |
 
 ---
 
 ## Key Events Timeline
 
-| Year | AcFun | Bilibili |
-|---|---|---|
-| **2007** | Founded — China's first danmaku video site | — |
-| **2009** | Experiencing server crashes and management issues | Founded by Xu Yi as a "more stable AcFun" |
-| **2010–2012** | Struggles with funding; multiple leadership changes | Growing ACG community; improving technology |
-| **2014** | Losing users to Bilibili | Chen Rui becomes CEO → professional management, outside investment |
-| **2016–2017** | Near-shutdown; servers go offline for extended periods | Expanding content categories beyond ACG |
-| **2018** | Acquired by Kuaishou (快手) | IPO on NASDAQ — raised $483 million |
-| **2019–2020** | Operating under Kuaishou with limited resources | Launched premium membership; expanded into e-commerce and education |
-| **2021** | Small but loyal community; limited growth | Secondary listing on Hong Kong Stock Exchange; 200M+ MAU |
+| Year             | AcFun                                                         | Bilibili                                                             |
+| ---------------- | ------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **2007**         | Founded — China's first danmaku video site                    | —                                                                    |
+| **2009**         | Experiencing server crashes and management issues             | Founded by Xu Yi as a "more stable AcFun"                            |
+| **2010–2012**    | Struggles with funding; multiple leadership changes           | Growing ACG community; improving technology                          |
+| **2014**         | Losing users to Bilibili                                      | Chen Rui becomes CEO → professional management, outside investment   |
+| **2016–2017**    | Near-shutdown; servers go offline for extended periods        | Expanding content categories beyond ACG                              |
+| **2018**         | Acquired by Kuaishou (快手)                                     | IPO on NASDAQ — raised $483 million                                  |
+| **2019–2020**    | Operating under Kuaishou with limited resources               | Launched premium membership; expanded into e-commerce and education  |
+| **2021**         | Small but loyal community; limited growth                     | Secondary listing on Hong Kong Stock Exchange; 200M+ MAU             |
 | **2022–present** | Niche platform; content focused on ACG and Kuaishou ecosystem | 300M+ MAU; mainstream video platform competing with Douyin and iQiyi |
 
 ---
@@ -117,6 +115,7 @@ Answer the following questions **using specific concepts from the course**. Each
 **(a)** Bilibili's founding is a clear example of a business idea originating from a **gap**. Describe the gap that Xu Yi identified, and explain why AcFun's own users were the ones who saw it. [3 marks]
 
 **(b)** Compare the **risk–return tradeoff** faced by each founder:
+
 - Xu Yi (starting Bilibili in 2009 with limited resources)
 - AcFun's leadership (accepting Kuaishou's acquisition offer in 2018)
 
@@ -138,12 +137,12 @@ Which decision involved higher risk? Which had higher potential return? Justify 
 
 ## Grading Rubric
 
-| Criteria | Excellent (A) | Good (B) | Developing (C) | Needs Work (D/F) |
-|---|---|---|---|---|
-| **Concept application** | Correctly names and applies 1.1–1.4 concepts with precision | Names concepts correctly; application is mostly accurate | Names some concepts; application is vague or partially incorrect | Concepts missing or incorrectly applied |
-| **Evidence** | Uses specific facts from the case to support every claim | Uses some evidence; most claims supported | Limited evidence; claims not well supported | Assertions without evidence |
-| **Connected reasoning** | Shows how concepts link together (e.g., PESTEL → viability → risk–return) | Some connections between concepts | Concepts listed but not connected | No integration of concepts |
-| **Critical thinking** | Evaluates both sides; acknowledges complexity; makes a judgement | Some evaluation; mostly one-sided | Descriptive rather than analytical | Purely descriptive; no analysis |
+| Criteria                | Excellent (A)                                                             | Good (B)                                                 | Developing (C)                                                   | Needs Work (D/F)                        |
+| ----------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------- |
+| **Concept application** | Correctly names and applies 1.1–1.4 concepts with precision               | Names concepts correctly; application is mostly accurate | Names some concepts; application is vague or partially incorrect | Concepts missing or incorrectly applied |
+| **Evidence**            | Uses specific facts from the case to support every claim                  | Uses some evidence; most claims supported                | Limited evidence; claims not well supported                      | Assertions without evidence             |
+| **Connected reasoning** | Shows how concepts link together (e.g., PESTEL → viability → risk–return) | Some connections between concepts                        | Concepts listed but not connected                                | No integration of concepts              |
+| **Critical thinking**   | Evaluates both sides; acknowledges complexity; makes a judgement          | Some evaluation; mostly one-sided                        | Descriptive rather than analytical                               | Purely descriptive; no analysis         |
 
 ---
 
@@ -151,26 +150,26 @@ Which decision involved higher risk? Which had higher potential return? Justify 
 
 Before submitting, verify that your analysis addresses **at least 8** of the following:
 
-| # | Topic | Knowledge Point | ✓ |
-|---|---|---|---|
-| 1 | 1.1 | What is a business? (types of business) | |
-| 2 | 1.1 | Value creation — responding to customer problems, needs, or wants | |
-| 3 | 1.1 | Value capture — charging more than it costs to produce | |
-| 4 | 1.1 | Revenue vs. profit | |
-| 5 | 1.2 | Target market and market segmentation | |
-| 6 | 1.2 | Competitive advantage — differentiation, cost leadership, niche | |
-| 7 | 1.2 | Barriers to entry | |
-| 8 | 1.2 | Market share | |
-| 9 | 1.2 | Viability — surviving and staying successful over time | |
-| 10 | 1.3 | PESTEL factors (identify specific factors from the case) | |
-| 11 | 1.3 | How external factors create opportunities or problems | |
-| 12 | 1.4 | Gap — an unmet need that a business can address | |
-| 13 | 1.4 | Opportunity — a new or better way triggered by change | |
-| 14 | 1.4 | Existing business — replication or adaptation of a model | |
-| 15 | 1.4 | Risk — the chance that things will not go as planned | |
-| 16 | 1.4 | Return — the gain an entrepreneur hopes to earn | |
-| 17 | 1.4 | Risk–return tradeoff — higher potential return usually means higher risk | |
-| 18 | 1.4 | Matching strengths to opportunities | |
+| #   | Topic | Knowledge Point                                                          | ✓   |
+| --- | ----- | ------------------------------------------------------------------------ | --- |
+| 1   | 1.1   | What is a business? (types of business)                                  |     |
+| 2   | 1.1   | Value creation — responding to customer problems, needs, or wants        |     |
+| 3   | 1.1   | Value capture — charging more than it costs to produce                   |     |
+| 4   | 1.1   | Revenue vs. profit                                                       |     |
+| 5   | 1.2   | Target market and market segmentation                                    |     |
+| 6   | 1.2   | Competitive advantage — differentiation, cost leadership, niche          |     |
+| 7   | 1.2   | Barriers to entry                                                        |     |
+| 8   | 1.2   | Market share                                                             |     |
+| 9   | 1.2   | Viability — surviving and staying successful over time                   |     |
+| 10  | 1.3   | PESTEL factors (identify specific factors from the case)                 |     |
+| 11  | 1.3   | How external factors create opportunities or problems                    |     |
+| 12  | 1.4   | Gap — an unmet need that a business can address                          |     |
+| 13  | 1.4   | Opportunity — a new or better way triggered by change                    |     |
+| 14  | 1.4   | Existing business — replication or adaptation of a model                 |     |
+| 15  | 1.4   | Risk — the chance that things will not go as planned                     |     |
+| 16  | 1.4   | Return — the gain an entrepreneur hopes to earn                          |     |
+| 17  | 1.4   | Risk–return tradeoff — higher potential return usually means higher risk |     |
+| 18  | 1.4   | Matching strengths to opportunities                                      |     |
 
 ---
 
