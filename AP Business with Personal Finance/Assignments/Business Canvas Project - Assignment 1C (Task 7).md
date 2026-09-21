@@ -6,7 +6,7 @@
 > **Team size:** Same team as Assignments 1A and 1B
 > **Submission:** Completed supply chain design for your business idea
 >
-> This is the **third part** of the Business Canvas Project. In Assignments 1A and 1B, you identified a customer problem, validated it, designed a product, analyzed the market, and defined your vision. Now design the **production process and supply chain** that deliver your product.
+> This is the **fourth checkpoint** of the Business Canvas Project. In Assignments 1A, 1.3, and 1.4-1.5, you identified a customer problem, validated it, designed a product, analyzed the market, and defined your vision. Now design the **production process and supply chain** that deliver your product.
 >
 > **CED Task 7:** "Develop a production process and a supply chain plan."
 >
@@ -189,7 +189,7 @@ If your business grows, the supply chain must adapt (EK 1.8.C.3):
 
 ## Important Notes
 
-1. **Build on Assignments 1A and 1B.** Your competitive strategy (cost leadership, differentiation, or niche) from Assignment 1A should drive every supply chain decision here. Your core competencies from Assignment 1B inform your production approach.
+1. **Build on Assignments 1A, 1.3, and 1.4-1.5.** Your competitive strategy (cost leadership, differentiation, or niche) from Assignment 1A should drive every supply chain decision here. Your core competencies from Assignment 1.4-1.5 inform your production approach.
 
 2. **After this assignment**, complete Task 8 in the **Unit 1 Final Canvas** — commit to your business idea and revise your market analysis with everything you've learned.
 

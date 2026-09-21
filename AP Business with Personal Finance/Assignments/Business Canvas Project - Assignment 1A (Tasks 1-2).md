@@ -6,7 +6,7 @@
 > **Team size:** Individual or teams of up to 3
 > **Submission:** Completed Business Canvas sections (Customer Problem + Market) + supporting documents
 >
-> This is the **first part** of your Business Canvas Project checkpoint. In this assignment, you identify a customer problem and analyze the market around it. In Assignment 1B, you will validate the problem through interviews, develop a product, test a hypothesis, and define your vision — all building on the **same business idea** you start here.
+> This is the **first part** of your Business Canvas Project checkpoint. In this assignment, you identify a customer problem and analyze the market around it. In Assignment 1.3 you will analyze the outside forces around it (PESTEL), and in Assignment 1.4-1.5 you will validate the problem through interviews, develop a product, test a hypothesis, and define your vision and mission — all building on the **same business idea** you start here.
 >
 > **CED Tasks covered:**
 > - **Task 1:** "Identify and describe a customer's problem, need, or want."
@@ -41,7 +41,7 @@ Describe the customer problem, need, or want that your business will address.
 >
 > **Problem, need, or want:** (What is the problem? What do they currently do about it? Why is the current solution unsatisfactory?)
 >
-> **How I identified this problem:** (What strategy did you use — observation, personal experience, conversations, research? This will be expanded in Assignment 1B with formal interviews.)
+> **How I identified this problem:** (What strategy did you use — observation, personal experience, conversations, research? This will be expanded in Assignment 1.4-1.5 with formal validation interviews.)
 >
 > **Evidence this problem exists:** (What have you observed or heard that confirms this problem is real?)
 
@@ -124,10 +124,10 @@ Describe the customer problem, need, or want that your business will address.
 
 ## Important Notes
 
-1. **Same business idea across both assignments.** The business idea you choose here will carry forward into Assignment 1B (validation, product, PESTEL). Choose something you're genuinely interested in.
+1. **Same business idea across all assignments.** The business idea you choose here will carry forward into every later assignment — PESTEL (1.3), validation and product (1.4-1.5), supply chain (1C), and the final canvas. Choose something you're genuinely interested in.
 
 2. **Team size:** Individual or teams of up to 3. All members must contribute. Each team submits one set of deliverables.
 
-3. **You may refine later.** This is a first draft of your Customer and Market sections. After Assignment 1B (interviews + hypothesis testing), you may revise based on what you learn.
+3. **You may refine later.** This is a first draft of your Customer and Market sections. After Assignment 1.4-1.5 (interviews + hypothesis testing), you may revise based on what you learn.
 
 4. **This is not a business plan.** You are not expected to launch a real business. You are expected to **demonstrate the essential knowledge and skills** from Topics 1.1–1.2.

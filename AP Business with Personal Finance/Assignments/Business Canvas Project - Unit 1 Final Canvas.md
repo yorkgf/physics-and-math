@@ -3,10 +3,10 @@
 ## Business Foundation: All 8 CED Canvas Tasks
 
 > **Due:** _______________
-> **Team size:** Same team as Assignments 1A, 1B, and 1C
+> **Team size:** Same team as Assignments 1A, 1.3, 1.4-1.5, and 1C
 > **Submission:** One integrated Business Canvas document with all 8 CED tasks completed
 >
-> **What is this?** The CED assigns 8 Business Canvas tasks across Topics 1.1–1.5 and 1.8. Your team completed them across Assignments 1A, 1B, and 1C. Now **integrate everything** into one cohesive document and make your **final commitment** to a business idea.
+> **What is this?** The CED assigns 8 Business Canvas tasks across Topics 1.1–1.5 and 1.8. Your team completed them across Assignments 1A, 1.3 (PESTEL), 1.4-1.5, and 1C. Now **integrate everything** into one cohesive document and make your **final commitment** to a business idea.
 >
 > **On exam day**, FRQ 1 (15% of your score, 25 minutes) will ask you to write about your own canvas project. This integrated document is what you'll draw from.
 
@@ -17,11 +17,11 @@
 | CED Task | Canvas Section | AP Topics | Assignment |
 |---|---|---|---|
 | **Task 1** — Identify and describe a customer's problem, need, or want | Customer | 1.4 | 1A |
-| **Task 2** — Develop a plan to seek competitive advantage + Apply PESTEL | Market | 1.2, 1.3 | 1A + 1B |
-| **Task 3** — Conduct customer interviews to validate the problem | Customer (validation) | 1.4 | 1B |
-| **Task 4** — Develop a solution to address the customer's problem | Product | 1.1 | 1A + 1B |
-| **Task 5** — Formulate and test a business hypothesis (problem-solution fit) | Customer (hypothesis) | 1.4 | 1B |
-| **Task 6** — Develop a vision statement and a mission statement | Organization | 1.5 | 1B |
+| **Task 2** — Develop a plan to seek competitive advantage + Apply PESTEL | Market | 1.2, 1.3 | 1A + 1.3 |
+| **Task 3** — Conduct customer interviews to validate the problem | Customer (validation) | 1.4 | 1.4-1.5 |
+| **Task 4** — Develop a solution to address the customer's problem | Product | 1.4 | 1.4-1.5 |
+| **Task 5** — Formulate and test a business hypothesis (problem-solution fit) | Customer (hypothesis) | 1.4 | 1.4-1.5 |
+| **Task 6** — Develop a vision statement and a mission statement | Organization | 1.5 | 1.4-1.5 |
 | **Task 7** — Develop a production process and a supply chain plan | Operations | 1.8 | 1C |
 | **Task 8** — Commit to a business idea and revise the market analysis | Final Commitment | 1.2, 1.3 | This document |
 
@@ -59,7 +59,7 @@ From Assignment 1A, Section 1.
 
 *AP Topics 1.2 & 1.3 · LO 1.2.A, 1.2.B, 1.2.C, 1.3.A, 1.3.B*
 
-From Assignment 1A, Sections 2B and 3, plus Assignment 1B, Section 3.
+From Assignment 1A, Section 2B, plus Assignment 1.3 (PESTEL).
 
 ### Competitive Advantage Plan
 
@@ -125,9 +125,9 @@ From Assignment 1A, Sections 2B and 3, plus Assignment 1B, Section 3.
 
 ## TASK 3: CUSTOMER VALIDATION — Interviews
 
-*AP Topic 1.4 · LO 1.4.B · EK 1.4.B.1, 1.4.B.2*
+*AP Topic 1.4 · LO 1.4.C · EK 1.4.C.1, EK 1.4.A.2*
 
-From Assignment 1B, Section 1.
+From Assignment 1.4-1.5, Section 2.
 
 > **Discovery method used:** (Interviews, observation, surveys…)
 >
@@ -148,17 +148,17 @@ From Assignment 1B, Section 1.
 > ______________
 
 **Self-check:**
-- [ ] A specific discovery method is described — LO 1.4.B
-- [ ] The process is explained (what was asked/observed) — EK 1.4.B.1
-- [ ] A clear insight is stated — EK 1.4.B.2
+- [ ] A specific discovery method is described — EK 1.4.A.2
+- [ ] The process is explained (what was asked/observed) — EK 1.4.C.1
+- [ ] Evidence covers all three validation bars — exists, clearly defined, multiple customers — EK 1.4.C.1
 
 ---
 
 ## TASK 4: PRODUCT — Solution to the Customer's Problem
 
-*AP Topic 1.1 · LO 1.1.A, 1.1.B · EK 1.1.A.1, 1.1.A.2, 1.1.A.3, 1.1.B.1, 1.1.B.2*
+*AP Topics 1.1, 1.4 · LO 1.1.A, 1.1.B, 1.4.C · EK 1.1.A.1, 1.1.A.3, 1.1.B.1, 1.1.B.2, 1.4.C.2*
 
-From Assignment 1A, Section 2A, plus Assignment 1B, Section 2.
+From Assignment 1.4-1.5, Section 3.
 
 **Value proposition** (LO 1.1.A):
 
@@ -193,7 +193,7 @@ From Assignment 1A, Section 2A, plus Assignment 1B, Section 2.
 
 *AP Topic 1.4 · LO 1.4.C · EK 1.4.C.1, 1.4.C.2, 1.4.C.3*
 
-From Assignment 1B, Section 5.
+From Assignment 1.4-1.5, Section 4.
 
 **The hypothesis:**
 
@@ -238,7 +238,7 @@ From Assignment 1B, Section 5.
 
 *AP Topic 1.5 · LO 1.5.A, 1.5.B, 1.5.C · EK 1.5.A.1, 1.5.A.2, 1.5.B.1, 1.5.B.2, 1.5.C.1*
 
-From Assignment 1B, Section 4.
+From Assignment 1.4-1.5, Section 5.
 
 **Core values & core competencies** (LO 1.5.A):
 
