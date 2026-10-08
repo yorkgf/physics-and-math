@@ -6,7 +6,7 @@ tags: [学习, 进度追踪, 微积分, 数学]
 progress: 13.4
 total: 13
 created: 2026-09-20
-updated: 2026-10-07
+updated: 2026-10-08
 上次学到: §13.4 Motion in Space + Ch 13 复习题 1–22（Ch 13 结课）
 下次起点: Ch 14 Partial Derivatives（偏导数）
 教材: Calculus: Early Transcendentals (Stewart)
@@ -34,7 +34,7 @@ updated: 2026-10-07
 | **📝 已用预习稿** | [[学习进度/§13.4 Motion in Space 预习要点]] ← §13.4 已完成，此稿归档 |
 | **🧭 超纲延伸** | [[经典力学/科里奥利力]]、[[经典力学/旋转参考系]]、[[经典力学/旋转系中的牛顿第二定律]] |
 
-> ⚠️ **Ch 13 已结课**，但旋转参考系那一块（科里奥利）**超出 Stewart 范围**，是主动延伸的内容，**尚未完全消化** —— 见下方日志与易忘点。
+> ⚠️ **Ch 13 已结课**。旋转参考系那一块（科里奥利）**超出 Stewart 范围**，属主动延伸 —— 其中**旋转系曲率已于 2026-10-08 打通**（✅），其余部分（$\mathbf{a}'$ 各项的物理身份、点乘投影的适用边界）仍标 🔵 待巩固。
 
 ---
 
@@ -85,6 +85,19 @@ updated: 2026-10-07
 ## 📝 学习日志
 
 > 每次学完追加一条，倒序（最新在最上面）。
+
+### 2026-10-08 —— ✅ 补上「旋转参考系中的曲率」完整推导（还 10-07 留的缺口）
+
+- **起点**：从 $\kappa = \dfrac{\lvert\mathbf{v}'\times\mathbf{a}'\rvert}{\lvert\mathbf{v}'\rvert^3}$ 出发，用**旋转木马抛球**走完整条链
+- **打通的四个卡点**：
+  1. **公式为什么能用** —— 它就是 §13.3 的 $\kappa=\frac{\lvert\mathbf{r}'\times\mathbf{r}''\rvert}{\lvert\mathbf{r}'\rvert^3}$ 换输入；$\{\mathbf{e}_1,\mathbf{e}_2\}$ 正交归一 ⇒ 旋转系坐标平面与真实平面**等距同构**，故算出的就是几何曲率
+  2. **$\mathbf{a}'$ 的正确形式** —— $\mathbf{a}' = \mathbf{a}_S - 2\boldsymbol\omega\times\mathbf{v}' + \omega^2\mathbf{r}_\perp - \dot{\boldsymbol\omega}\times\mathbf{r}$。自己推时曾把 $+\omega^2\mathbf{r}_\perp$ 误写成 $-\omega^2\mathbf{r}$（漏掉二重叉乘自带的负号 —— **负负得正**）。判据：离心力必须**指向外侧**
+  3. **叉乘两条路** —— ①分量展开 ②矢量恒等式（BAC-CAB）。后者能解释 $(2+\omega^2t^2)$ 的结构：科里奥利贡献 $-2\omega v^2-2\omega^3v^2t^2$，离心贡献 $+\omega^3v^2t^2$，两个 $\omega^3v^2t^2$ **抵掉一个**
+  4. **$\lvert\mathbf{v}'\rvert^2 = v^2(1+\omega^2t^2)$ 的几何来源** —— 径向分量 $v$ 与切向分量 $\omega vt$ **互相垂直**，故用勾股相加
+- **结果**：$\kappa(t) = \dfrac{\omega(2+\omega^2t^2)}{v\,(1+\omega^2t^2)^{3/2}}$；$t=0$ 时 $\kappa=\frac{2\omega}{v}$（纯科里奥利），$t\to\infty$ 时 $\kappa\sim\frac{1}{vt}\to 0$（越走越直）
+- **关键区别**：惯性系里是**直线**（$\kappa=0$），旋转系里是**螺线**（$\kappa\neq 0$）—— 不矛盾，因为这是**两条不同的曲线**
+- **状态**：10-07 标 ⬜ 的「旋转系中的曲率」→ ✅ **基本掌握**
+- **📌 下次起点**：仍是 **Ch 14 Partial Derivatives（偏导数）**
 
 ### 2026-10-07 —— ✅ **Stewart Ch 13 结课**：§13.4 补上 + 复习题 1–22 全做完 + 超纲延伸旋转参考系
 
@@ -155,7 +168,8 @@ updated: 2026-10-07
 
 | 日期 | 知识点 | 我的问题 | 复习后是否掌握 |
 | --- | --- | --- | --- |
-| 2026-10-07 | **旋转系中的曲率** | 分不清该用旋转系的 $\mathbf{v}',\mathbf{a}'$ 还是惯性系的 $\mathbf{v}_S,\mathbf{a}_S$；两种算法（叉乘 / 垂直分量）尚未吃透 | ⬜ |
+| 2026-10-08 | 旋转系中的曲率 | 分不清该用旋转系的 $\mathbf{v}',\mathbf{a}'$ 还是惯性系的 $\mathbf{v}_S,\mathbf{a}_S$；两条算法路径未吃透 → 已用木马题走通全链 | ✅ |
+| 2026-10-08 | $\mathbf{a}'$ 里离心项的符号 | 把 $+\omega^2\mathbf{r}_\perp$ 写成 $-\omega^2\mathbf{r}$ —— 漏掉二重叉乘 $\boldsymbol\omega\times(\boldsymbol\omega\times\mathbf{r})=-\omega^2\mathbf{r}_\perp$ 自带的负号。判据：离心力必须指向外侧 | ✅ |
 | 2026-10-07 | 矢量在 S 中求导 vs $\mathbf{a}_S$ | 一度以为"$\mathbf{v}'$ 在 S 中求导"就等于 $\mathbf{a}_S$。反例：物体静止在旋转系时前者为 $\mathbf{0}$、后者为 $-\omega^2\mathbf{r}_\perp$ | 🔵 |
 | 2026-10-07 | 科里奥利项的 $\dot{\mathbf{r}}$ vs $\mathbf{v}'$ | 投影路线自然给出 $-2\boldsymbol{\omega}\times\dot{\mathbf{r}}$，须经 $\dot{\mathbf{r}}=\mathbf{v}'+\boldsymbol{\omega}\times\mathbf{r}$ 才化成标准形 $-2\boldsymbol{\omega}\times\mathbf{v}'$；两式对"科里奥利/离心"的分配不同 | 🔵 |
 | 2026-10-07 | 点乘投影 + 求导 | 位置可直接投影；速度**必须**先变换再投影。顺序反了就算错 | 🔵 |
