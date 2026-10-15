@@ -278,7 +278,7 @@ From Assignment 1.4-1.5, Section 5.
 
 ## TASK 7: OPERATIONS — Production Process & Supply Chain Plan
 
-*AP Topic 1.8 · LO 1.8.A, 1.8.B, 1.8.C · EK 1.8.A.1, 1.8.A.2, 1.8.B.1, 1.8.B.2, 1.8.B.3, 1.8.B.4, 1.8.B.5, 1.8.C.1, 1.8.C.2, 1.8.C.3*
+*AP Topic 1.8 · LO 1.8.A, 1.8.B, 1.8.C · EK 1.8.A.1, 1.8.A.2, 1.8.B.1, 1.8.B.2, 1.8.B.3, 1.8.B.4, 1.8.C.1, 1.8.C.2, 1.8.C.3*
 
 From Assignment 1C.
 
@@ -340,7 +340,7 @@ From Assignment 1C.
 
 > **My choice:** ______________ because ______________
 >
-> **Backup plan:** ______________ (EK 1.8.B.5 — risk is the factor most often ignored)
+> **Backup plan:** ______________ (EK 1.8.B.4 — risk is the factor most often ignored)
 
 ### 7D. Strategy → Supply Chain Alignment
 

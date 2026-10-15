@@ -3,14 +3,14 @@
 ## CED Task 7: Production Process & Supply Chain Plan · AP Topic 1.8
 
 > **Due:** _______________
-> **Team size:** Same team as Assignments 1A and 1B
+> **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5
 > **Submission:** Completed supply chain design for your business idea
 >
 > This is the **fourth checkpoint** of the Business Canvas Project. In Assignments 1A, 1.3, and 1.4-1.5, you identified a customer problem, validated it, designed a product, analyzed the market, and defined your vision. Now design the **production process and supply chain** that deliver your product.
 >
 > **CED Task 7:** "Develop a production process and a supply chain plan."
 >
-> **You must build on the same business idea from Assignments 1A and 1B.**
+> **You must build on the same business idea from Assignments 1A, 1.3, and 1.4-1.5.**
 
 ---
 
@@ -18,9 +18,9 @@
 
 | LO | Description | Sections |
 |---|---|---|
-| **1.8.A** | Compare artisan vs. mass production | 1A |
-| **1.8.B** | Design a supply chain (stages, suppliers, distributors) | 1B, 1C |
-| **1.8.C** | Explain how strategy shapes supply chain + scaling | 1D |
+| **1.8.A** | Compare artisan vs. mass production | Section 1 |
+| **1.8.B** | Design a supply chain (stages, suppliers, distributors) | Sections 2–3 |
+| **1.8.C** | Explain how strategy shapes supply chain + scaling | Section 4 |
 
 ---
 
@@ -105,7 +105,7 @@ Identify the three parts that bring a service to the customer (EK 1.8.B.1):
 
 ## SECTION 3: SUPPLIER SELECTION
 
-*LO 1.8.B · EK 1.8.B.4, 1.8.B.5*
+*LO 1.8.B · EK 1.8.B.4*
 
 Choose at least **two potential suppliers** for a key input and evaluate them across all five factors (EK 1.8.B.4):
 
@@ -117,18 +117,20 @@ Choose at least **two potential suppliers** for a key input and evaluate them ac
 | **Convenience** (location, ease of ordering) | | |
 | **Risk** (reliability, backup options) | | |
 
+> **The five risks the CED names (EK 1.8.B.4):** natural disasters · political instability · resource shortages · production errors · supplier reputation. Any one of them can **delay delivery or raise costs** — and either outcome threatens competitive advantage and profits.
+
 > **My choice:** Supplier ______________
 >
 > **Why:** ______________
 >
-> **Risk assessment:** (EK 1.8.B.5 — Risk is the factor that business owners are most likely to ignore. What happens if your primary supplier fails? What is your backup plan?)
+> **Risk assessment:** (EK 1.8.B.4 — Risk is the factor that business owners are most likely to ignore. What happens if your primary supplier fails? What is your backup plan?)
 >
 > **Backup plan:** ______________
 
 **Self-check:**
 - [ ] I evaluated **all five** factors for each supplier — EK 1.8.B.4
-- [ ] **Risk** is included and not ignored — EK 1.8.B.5
-- [ ] I have a **backup plan** if the primary supplier fails — EK 1.8.B.5
+- [ ] **Risk** is included and not ignored — EK 1.8.B.4
+- [ ] I have a **backup plan** if the primary supplier fails — EK 1.8.B.4
 
 ---
 
@@ -195,4 +197,4 @@ If your business grows, the supply chain must adapt (EK 1.8.C.3):
 
 3. **The Business Canvas Project is not submitted to College Board.** But on exam day, FRQ 1 (15% of your score) will ask you to write about your own canvas project. The work you do here directly prepares you for that question.
 
-4. **Team size:** Same team as Assignments 1A and 1B. All members must contribute. Each team submits one document.
+4. **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5. All members must contribute. Each team submits one document.
