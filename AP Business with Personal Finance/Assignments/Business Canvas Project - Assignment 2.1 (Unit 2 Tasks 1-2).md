@@ -36,8 +36,8 @@
 | 4 | Production process + supply chain plan | 1.8 | Assignment 1C | ✅ Done |
 | 5 | Commit to the idea + revised market analysis + integrated canvas | 1.1–1.8 | Unit 1 Final Canvas | ✅ Done |
 | **6** | **Target customer profile + plan to build customer relationships** | **2.1** | **This assignment** | 🔵 Current |
-| 7 | Sales tactic drawing on principles of persuasion | 2.2 | Next assignment | ⬜ |
-| 8 | Primary + secondary research, competitive landscape, data visualization | 2.3 | | ⬜ |
+| 7 | Sales tactic drawing on principles of persuasion | 2.2 | Assignment 2.2 | ⬜ |
+| 8 | Primary + secondary research, competitive landscape, data visualization | 2.3 | Assignment 2.3 | ⬜ |
 | 9 | MVP, value proposition, branding | 2.4 | | ⬜ |
 | 10 | Pricing strategy | 2.5 | | ⬜ |
 | 11 | Marketing channel(s) | 2.6 | | ⬜ |
