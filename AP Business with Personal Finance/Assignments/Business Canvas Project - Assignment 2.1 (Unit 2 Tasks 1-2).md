@@ -393,13 +393,29 @@ Classify by **content**, not by label. These rehearse the classification questio
 | **4 — Data-risk audit** (2.1.D) | Collection mapped with awareness/disclosure flagged; all four terms distinguished and located in own business; benefits balanced against the three named business risks; tied to own stated core values | Terms distinguished, some located; balance stated | Terms confused; risks not connected to the business | Not addressed |
 | **5 — Exam drill** | All correct with tell-based reasoning | Most correct | Several errors | Mostly incorrect |
 
+### Four standing clauses (applied on top of the bands above)
+
+1. **The asterisked test must be able to fail.** `"At least 1 of 2"` interviewed with a single person is not a test — any outcome passes it. Write a numeric threshold you could actually miss (e.g. *"≥3 of 5 who match the profile name the problem unprompted **and** ≥2 state a price"*), record date / initials / screening answers / verbatim quotes, and **state one concrete change** the evidence forced. `"Profile kept as-is, no revision needed"` and `"we tested it and everyone loved it"` are the weak answers the CED names. **Attitude is not evidence**: "would pay ¥9.9" is weaker than filling a pre-order form or paying.
+   **If you have not run it, say so.** Mark it PENDING and list what you will record — an honest PENDING earns the design credit; a verdict with no quotes behind it earns nothing.
+2. **Concept application, not metaphor.** A **distributor** is a separate business moving your finished good or service toward the customer. Your own app, your own WeChat group, Xiaohongshu and Discord are **promotion/place channels (2.6, 2.7)**, not a distributor. If you self-deliver, write "no external distributor — we perform that stage ourselves," and if the same platform is both your supplier and your delivery channel, **say that this dual role is your single point of failure.**
+3. **Numbers must be checkable, and "free" is not zero.** CAC divides by **all** acquisition costs — and your own hours are an acquisition cost; CAC = $0 makes LTV − CAC meaningless. LTV is in **margin**, needs a **time horizon** ("how many visits over how many months"), a **per-SKU margin table** if you have more than one price, and a stated **convention for referral value** (the referred friend's margin sits inside *their* LTV too). Always write **LTV/CAC** and interpret it: a very high ratio usually means the binding constraint is elsewhere — reach, conversion, or your own capacity, not acquisition cost.
+4. **Self-check integrity + one identity for your business.** Tick a box only if you can point at the sentence that satisfies it. And keep **one product, one customer name, one currency** across 1A, 1.3, 1.4-1.5, 1.8, 2.1 and beyond — the same business cannot be ¥35 in one file and \$25 in another without you saying which is right.
+
+---
+
+## Before You Submit — Three Checks
+
+1. **Search your own PDF.** After exporting, Ctrl/Cmd+F for a word you typed. Not found = the embedded font layer is broken and some answers may not even render — re-export (Word → Save as PDF → Options → ISO 19030-3 / PDF/A, embed all fonts) or submit the `.docx`.
+2. **Point at every tick.** Read each self-check item and locate its evidence in your own document; untick what you cannot find. Never submit template text (`"Insert real interview answer here"`, `"a certain amount"`, `"Due: ___"`).
+3. **Tables must not clip text, and no screenshots.** Paste real tables; put long answers in a paragraph under the table. Check the exported file with your own eyes before you hand it in.
+
 ---
 
 ## Important Notes
 
 1. **Same business idea as every prior assignment.** Same customer, same market, same product. The Unit 1 Final Canvas committed you to this idea — Section 2 is where you find out whether the *customer* you wrote down is the customer who actually shows up. If your interview says no, **document the revision**; that is the design-thinking loop working, not failing.
 
-2. **The profile is asterisked — it needs testing.** The CED marks *Customer – Target customer profile* as requiring hypothesis testing. One interview with someone who matches the profile is the minimum; more is better, and a mismatch you recorded is worth more than a match you assumed.
+2. **The profile is asterisked — it needs testing.** The CED marks *Customer – Target customer profile* as requiring hypothesis testing. One interview with someone who matches the profile is the minimum; more is better, and a mismatch you recorded is worth more than a match you assumed. **Reusing Unit 1 data is legitimate only if you label it as re-reading old data about a person — you cannot retrofit a criterion onto interviews you had already done and call it pre-registered.**
 
 3. **The relationship plan carries into Topic 2.2.** Unit 2 Task 2 is a single task spanning two topics: **2.1 covers relationships** (tactics, CAC, LTV), **2.2 adds the sales tactic** drawing on principles of persuasion. Keep this worksheet — you will extend Section 3 rather than replace it.
 
@@ -408,3 +424,5 @@ Classify by **content**, not by label. These rehearse the classification questio
 5. **Team size:** same team as Assignments 1A, 1.3, 1.4-1.5, and 1C. Interviews may be split among members — but every member must be able to explain the profile and the test result, because the exam-day FRQ is written **individually**, about the project you all know.
 
 6. **AP Exam connection:** the Business Canvas Project Exam-Day Validation FRQ (15% of your score) asks how you used **hypothesis testing** to inform decision making in your project. Section 2, Step 4 is exactly that — and the data-risk reasoning in Section 4 is Managing Risk 12-11 content the personal-finance questions draw on.
+
+7. **Section 4 also covers the people who are not your buyer.** If a third party's data passes through your order form — a **gift recipient**, a **parent who pays**, a **minor under 18**, an **account owner whose credentials you hold** — they are data subjects too, and they never consented. Put them in the 4A table.

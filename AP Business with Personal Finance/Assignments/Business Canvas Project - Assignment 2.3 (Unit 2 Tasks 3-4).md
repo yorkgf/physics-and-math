@@ -42,7 +42,7 @@
 | 6 | Target customer profile + plan to build customer relationships | 2.1 | Assignment 2.1 | ✅ Done |
 | 7 | Sales tactic drawing on principles of persuasion | 2.2 | Assignment 2.2 | ✅ Done |
 | **8** | **Primary + secondary research, competitive landscape, data visualization** | **2.3** | **This assignment** | 🔵 Current |
-| 9 | MVP, value proposition, branding | 2.4 | | ⬜ |
+| 9 | MVP, value proposition, branding | 2.4 | Assignment 2.4 | ⬜ |
 | 10 | Pricing strategy | 2.5 | | ⬜ |
 | 11 | Marketing channel(s) | 2.6 | | ⬜ |
 | 12 | Marketing campaign + digital marketing tools | 2.7 | | ⬜ |

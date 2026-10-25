@@ -187,6 +187,21 @@ If your business grows, the supply chain must adapt (EK 1.8.C.3):
 | **3 — Supplier selection** (1.8) | All 5 factors for 2+ suppliers, risk addressed, backup plan included | Most factors evaluated, partial backup | Incomplete factors, no backup | Not addressed |
 | **4 — Strategy → chain** (1.8) | Strategy clearly shapes chain, specific example, barriers analyzed, scaling with numbers | Connection shown, some examples | Weak connection | Not addressed |
 
+### Four standing clauses (applied on top of the bands above)
+
+1. **Concept application, not metaphor.** Stretching a CED distinction onto something it does not cover is graded as a **misconception**, not as creativity. Declaring it inapplicable **with a reason** is an **A-band move** — e.g. *"No manufacturing; cards are already produced by the manufacturer, my operation performs inspection instead"* or *"the warehouse/DC distinction does not apply to a pure digital service — N/A."* If you build a functional analogy, mark it as an analogy (*"in effect"*).
+2. **Numbers must be checkable and consistent across the project.** State the unit price, unit variable cost and fixed cost somewhere; **hold the price constant unless you say why you changed it**; never let the same business carry two different unit economies in two assignments. A scaling table must expose the fixed/variable split, not hide it.
+3. **Self-check integrity.** Tick a box only if you can point at the sentence in your own document that satisfies it. Blank sections with every box ticked are graded as a **credibility problem** and cost more than an honest "not done — will add by ___".
+4. **Risk coverage and a backup that works on day one.** Name the CED's five risks, **rank them for your business**, and it is creditable to dismiss one with a reason (*"natural disasters have almost no effect for a fully online service"*). A backup is only a backup if it is already qualified: state the second source, its capacity, its fill time, and what you pay to keep it usable.
+
+---
+
+## Before You Submit — Three Checks
+
+1. **Search your own PDF.** After exporting, press Ctrl/Cmd+F and search for a word *you* typed. If it is not found, the font layer is broken — re-export with all fonts embedded (Word → Save as PDF → Options → ISO 19030-3 / PDF/A), or submit the `.docx`.
+2. **One business, one currency.** One product name, one customer, one currency throughout — and the unit price/cost must match what you used in 1A, 1.4-1.5 and 2.x.
+3. **Tables must not clip text.** Long answers go in a paragraph under the table, not into a cell too narrow to hold them.
+
 ---
 
 ## Important Notes
@@ -197,4 +212,6 @@ If your business grows, the supply chain must adapt (EK 1.8.C.3):
 
 3. **The Business Canvas Project is not submitted to College Board.** But on exam day, FRQ 1 (15% of your score) will ask you to write about your own canvas project. The work you do here directly prepares you for that question.
 
-4. **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5. All members must contribute. Each team submits one document.
+4. **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5. All members must contribute. Each team submits one document, **with every member's name and contribution stated in the file** — the exam-day FRQ is written individually.
+
+5. **Your 1.3 PESTEL is an input, not a separate assignment.** The force you ranked first in 1.3 has to show up here: if regulation, licensing or a platform's rules decide your fate, they belong in Section 3's risk row and Section 4's scaling gate. Leaving them out is the most common way this task loses marks.
