@@ -415,35 +415,55 @@ A complete vocabulary reference for Units 1–5. Terms are organized by topic an
 
 | # | Term | Definition |
 |---|---|---|
-| 1 | Idea Generation | The first stage of product development where businesses brainstorm new concepts or gather suggestions from customers. |
-| 2 | Idea Screening | Evaluating potential product ideas by analyzing market size, competition, costs, and regulatory barriers before moving forward. |
-| 3 | Prototype | A preliminary model of a product that can range from a simple visual mockup to a functional working version. |
-| 4 | Concept Testing | Sharing a product idea with potential customers to confirm it solves a real problem they actually have. |
-| 5 | Minimum Viable Product (MVP) | The most basic version of a product that includes only core features and that customers are willing to pay for. |
-| 6 | Value Proposition | A statement that explains why a target customer should choose your product instead of a competitor's. |
-| 7 | Manufacturing Planning | Deciding how and where a product will be produced, which begins after the MVP is validated through customer feedback. |
-| 8 | Market Research | The process of gathering and analyzing data about customers, competitors, and market conditions to guide product decisions. |
-| 9 | Brand | A name, term, design, symbol, or combination that identifies and differentiates a company's products from those of competitors. |
-| 10 | Branding | The ongoing process of building a brand's identity so that customers develop trust and loyalty over time. |
-| 11 | Brand Equity | The added financial and competitive value a product earns because customers recognize, trust, and prefer the brand. |
-| 12 | Product Life Cycle (PLC) | A model describing the four stages every product passes through: introduction, growth, maturity, and decline. |
-| 13 | Introduction Stage | The first PLC stage, marked by low sales, high costs, and a strategic focus on building customer awareness. |
-| 14 | Maturity Stage | The PLC stage where sales peak, growth slows, the market is saturated, and competition is heaviest. |
-| 15 | Product Portfolio Management | The practice of managing multiple products at different life cycle stages to balance risk and maintain steady revenue. |
-| 16 | Product Messaging | The stage of product development focused on crafting the value proposition and product-positioning strategy to communicate the product's unique value to target customers |
-| 17 | Generic Product | A product sold without branding or a distinctive brand identity, targeting customers who prioritize cost savings over brand recognition |
+| 1 | Ideation (Stage 1) | Generating new or improved product ideas through market research, technical R&D, and brainstorming. |
+| 2 | Idea Screening | An internal filter on ideas — market size, competition, costs, regulations — before further investment (part of Ideation/Validation, not a stage of its own). |
+| 3 | Validation (Stage 2) | Testing product ideas with potential customers; the stage where an MVP is used to assess product-market fit. |
+| 4 | Concept Testing | Showing an idea to potential customers to confirm the problem is real and they want a solution (happens in Validation). |
+| 5 | Minimum Viable Product (MVP) | The simplest version of a product with only core features that customers are willing to pay for; may be a sketch, description, or model. |
+| 6 | Product-market fit | The condition in which customer demand is sufficient to generate profit. |
+| 7 | Design (Stage 3) | Sourcing materials, building prototypes, estimating production and delivery costs; sets functionality, user experience, and basic attributes. |
+| 8 | Prototype | A preliminary model built to explore and test design ideas (built in the Design stage). |
+| 9 | Messaging (Stage 4) | Creating the product's overall marketing strategy — value proposition, branding, and positioning. |
+| 10 | Value Proposition | Who the product serves, what problem or need it addresses, and how it is superior to alternatives, based on research insights. |
+| 11 | Production (Stage 5) | Building the product with design-stage feedback, determining the production process and supply chain, and matching output to demand. |
+| 12 | Manufacturing Planning | Deciding how and where the product will be produced (grows out of the Production stage). |
+| 13 | Launch (Stage 6) | Taking orders and distributing the final product to customers, with marketing aimed at the target segment. |
+| 14 | Market Research | Gathering and analyzing data about customers, competitors, and market conditions to guide product decisions. |
+| 15 | Brand | A name, idea, term, symbol, design, or combination that identifies and differentiates a business's products; often trademarked. |
+| 16 | Branding | Developing a brand identity that distinguishes the product, raises awareness, and generates loyalty; consistent with vision and value proposition. |
+| 17 | Brand Equity | The added financial and competitive value a product earns because customers recognize, trust, and prefer the brand. |
+| 18 | Generic Product | A product sold without branding, targeting customers who prioritize cost savings over brand recognition. |
+| 19 | Product Life Cycle (PLC) | Four stages every product passes through: introduction → growth → maturity → decline, driven by changes in customer demand. |
+| 20 | Introduction Stage | Low sales and revenue; strategy focuses on raising brand awareness and generating initial demand. |
+| 21 | Growth Stage | Sales and revenue grow at an increasing rate; rivals enter, so strategy focuses on differentiation, quality, and promotion. |
+| 22 | Maturity Stage | Sales and revenue flatten in a saturated market; strategy defends market share through loyalty, differentiation, lower prices, and innovation. |
+| 23 | Decline Stage | Sales and revenue fall; strategy cuts costs or redesigns the product, and the product may be discontinued. |
+| 24 | Product Portfolio Management | Managing multiple products at different life-cycle stages to balance risk and maintain steady revenue. |
 
 **Additional Terms**
 
 | # | Term | Definition |
 |---|---|---|
-| 1 | Growth Stage | The PLC stage where sales rise rapidly, profits begin to appear, and new competitors enter the market. |
-| 2 | Decline Stage | The final PLC stage where sales drop and businesses must decide whether to reduce investment, discontinue, or reinvent the product. |
-| 3 | Product Features | The specific attributes or functions of a product that deliver value to the customer. |
-| 4 | Customer Feedback | Information collected from users about their experience with a product, used to guide refinements and improvements. |
-| 5 | Target Market | The specific group of consumers a product is designed and marketed to serve (cross-topic: 2.1). |
-| 6 | Market Saturation | A condition in which most potential customers already own or use a product, making further sales growth difficult. |
-| 7 | Price Wars | Aggressive rounds of price cutting among competitors, most common during the maturity stage of the PLC. |
+| 1 | Product Features | The specific attributes or functions of a product that deliver value to the customer. |
+| 2 | Customer Feedback | Information collected from users about their experience with a product, used to guide refinements and improvements. |
+| 3 | Target Market | The specific group of consumers a product is designed and marketed to serve (cross-topic: 2.1). |
+| 4 | Market Saturation | A condition in which most potential customers already own or use a product, making further sales growth difficult. |
+| 5 | Price Wars | Aggressive rounds of price cutting among competitors, most common during the maturity stage of the PLC. |
+| 6 | Brand Awareness | How well customers recognize and recall a brand — the main objective of the introduction stage. |
+| 7 | User Experience | How a product feels and works for the user; set during the design stage. |
+
+**Product Development Flow (CED six stages — do not memorize any other list)**
+
+| Stage | Key question | Output |
+|-------|--------------|--------|
+| 1. Ideation | What customer problem could we solve? | List of product concepts |
+| 2. Validation | Does a real customer actually want this? | MVP + product-market fit evidence |
+| 3. Design | What will it look like and how will it work? | Prototype, features, cost estimate |
+| 4. Messaging | How will we talk about it? | Value proposition + brand identity |
+| 5. Production | How do we build it and get it to customers? | Production process + supply chain plan |
+| 6. Launch | How do we sell and deliver it? | Orders, distribution, launch marketing |
+
+**Where the extra terms fit**: Idea Generation → Ideation · Idea Screening → Ideation/Validation (internal filter) · Concept Testing → Validation · Prototype → Design · MVP → Validation · Value Proposition & Branding → Messaging · Manufacturing Planning → Production
 
 ---
 

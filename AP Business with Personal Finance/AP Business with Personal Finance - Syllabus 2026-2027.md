@@ -73,7 +73,7 @@ Upon completion of this course, students will be able to:
 ---
 
 ### **UNIT 2: Marketing**
-**Timeline:** Weeks 7–11 (October 19 – November 20, 2026)
+**Timeline:** Weeks 7–11 (October 19 – November 27, 2026)
 **Class Periods:** ~28 periods
 **AP Exam Weight:** 20–30%
 
@@ -83,17 +83,25 @@ Upon completion of this course, students will be able to:
 |------|-------|--------|---------------|---------------------------|
 | 7 | Oct 19–23 | 2.1 Marketing to Customers | HEYTEA; Luckin Coffee | Marketing strategy analysis |
 | 8 | Oct 26–30 | 2.2 Consumer Behavior | Tea Yan Yue Se (茶颜悦色) | Consumer behavior study |
-| 9 | Nov 2–6 | 2.3 Market Research | New Coke | Market research design, survey development |
-| | Nov 6–11 | **📝 Midterm Exam Week** | | |
+| 9 | Nov 2–4 | 2.3 Market Research | New Coke | Market research design, survey development |
+| | Nov 5–6 | **2.4 Product** | Dyson; Genki Forest/元气森林 | Six stages of product development, MVP, value proposition, branding |
+| | **Nov 9–11** | **📝 Midterm Exam**（Midterm Exam Week: Nov 6–11） | | **120 min / 100 pts**：Section A 选择题 30 题 45 min / 45 分（1.8–2.4）+ Section B Business Canvas 简答 4 题 45 min / 35 分（1.8–2.3）+ Section C Patagonia 案例简答 2 题 30 min / 20 分（1.1、1.2、1.5、1.6、1.7 中案例适用者）→ 卷 [[Mid-Term Exam (Sections A + B + C)]]（C 题目并入卷面）+ 阅读材料 [[Patagonia Case (Section C)]] |
 | | Nov 12 | **🍂 Autumn Outing** | | |
-| 10 | Nov 16–20 | 2.4 Product; 2.5 Price | Dyson; Genki Forest; Costco | Product development, pricing strategy |
-| 11 | Nov 23–27 | 2.6 Place and Channels; 2.7 Promotion and Marketing Communications | Stanley; Florasis/花西子 | Distribution channels, marketing campaign, **Unit 2 Assessment** |
+| 10 | Nov 16–20 | 2.5 Price; 2.6 Place and Channels | Costco; Stanley | Pricing strategy, distribution channels |
+| 11 | Nov 23–27 | 2.7 Promotion and Marketing Communications | Florasis/花西子 | Marketing campaign, **Unit 2 Assessment** |
+
+> 📌 **Midterm Exam scope (Nov 9–11)** — 一张卷三部分，共 120 分钟 / 100 分：
+> **Section A** 选择题 30 题（Topics **1.8–2.4**）· 45 分钟 · 45 分（每题 1.5 分）
+> **Section B** Business Canvas 简答 4 题（Topics **1.8–2.3**）· 45 分钟 · 35 分（2.4 Product 只在选择题考）
+> **Section C** Patagonia 案例简答 2 题（Topics **1.1、1.2、1.5、1.6、1.7 中案例适用的点**）· 30 分钟 · 20 分（案例现场阅读约 2 分钟）
+> Topic 2.5–2.7 不考。卷：[[Mid-Term Exam (Sections A + B + C)]]（C 题目并入卷面）+ 阅读材料 [[Patagonia Case (Section C)]]，答案：[[Mid-Term Exam Answer Key]]
 
 #### Business Canvas Project – Unit 2 Deliverables
-- Develop marketing mix (4Ps)
-- Design market research for branding/pricing hypotheses
-- Conduct customer interviews/surveys
-- Marketing campaign concept
+- **Target customer profile** (Assignment 2.1) — market segmentation, demographic + psychographic traits
+- **Customer relationships & sales tactic** (Assignment 2.2) — relationship plan built on Cialdini's principles
+- **Primary & secondary research + data visualization** (Assignment 2.3) — hypothesis, method, sample, bias control, chart
+- **MVP, value proposition & branding** (Assignment 2.4) — product-market fit test, value proposition, brand identity
+- **Price & pricing strategy; marketing channel(s)** (Unit 2 assessment)
 
 ---
 
@@ -322,7 +330,7 @@ Upon completion of this course, students will be able to:
 | **Oct 16** | **Unit 1 completed** |
 | Oct 8–9 | Monthly Exam |
 | **Nov 27** | **Unit 2 completed** |
-| Nov 6–11 | Midterm Exam Week |
+| Nov 6–11 | Midterm Exam Week — 考试 **Nov 9–11**（MCQ 45 min/45 分 + Business Canvas FRQ 45 min/35 分 + Patagonia 案例 FRQ 30 min/20 分；覆盖 1.1–2.4） |
 | Nov 12 | Autumn Outing |
 | Dec 14–18 | Monthly Exam Week |
 | **Dec 31** | **Unit 3 completed** |
@@ -416,4 +424,4 @@ For questions or concerns about this course, please contact:
 
 *This syllabus is subject to modification at the instructor's discretion. Students will be notified of any changes in advance.*
 
-**Last Updated:** August 19, 2026
+**Last Updated:** October 26, 2026
