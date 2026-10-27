@@ -1,9 +1,5 @@
 # Patagonia Case — Reading Material
 
-> **Section C 阅读材料（现场发卷，阅读约 2 分钟）。** 题目与答题区见主卷 Section C：[[Mid-Term Exam (Sections A + B + C)]]。
-
----
-
 ## Case: Patagonia — A Business That Sells the Environment
 
 **Patagonia, Inc.** sells outdoor clothing and gear at prices far above the industry average — a fleece jacket that costs ¥1,500 at a discount retailer costs ¥3,500 at a Patagonia store. Most businesses could not survive on that premium. Patagonia has built a company where the price, the environmental mission and the growth story all sit on top of each other.

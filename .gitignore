@@ -37,3 +37,7 @@ GEMINI.md
 
 # Claudian configuration
 .claudian/
+
+# Python 缓存（构建脚本产生的）
+__pycache__/
+*.pyc
