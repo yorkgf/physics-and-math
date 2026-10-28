@@ -3,22 +3,22 @@ tags: [学习, 进度追踪, 微积分, 数学]
 科目: 微积分 (Calculus ET)
 平台: 自学 / Stewart 教材
 状态: 🔵 进行中
-progress: 14.3
+progress: 14.4
 total: 17
 created: 2026-09-20
-updated: 2026-10-12
-上次学到: §14.3 Partial Derivatives（偏导数）：Clairaut 定理、拉普拉斯方程、波动方程
-下次起点: §14.3 剩余练习 → §14.4 Tangent Planes and Linear Approximations
+updated: 2026-10-28
+上次学到: §14.3 Partial Derivatives 节后练习完成（偏导数、Clairaut 定理、拉普拉斯/波动方程）
+下次起点: §14.4 Tangent Planes and Linear Approximations
 教材: Calculus: Early Transcendentals (Stewart)
 书: Calculus ET
-最后学习日期: 2026-10-12
+最后学习日期: 2026-10-28
 ---
 
 # 📐 微积分 Calculus: Early Transcendentals
 
 > 教材：**Stewart, Calculus: Early Transcendentals**
-> 上次学习：**2026-10-12**，学 **§14.3 偏导数**（Clairaut 定理、拉普拉斯方程、波动方程）+ §14.2/§14.3 多元极限与连续练习
-> 📍 **下次从这里开始：§14.3 剩余练习 → §14.4 Tangent Planes and Linear Approximations**
+> 上次学习：**2026-10-28**，做完 **§14.3 节后练习**（§14.3 偏导数结课）
+> 📍 **下次从这里开始：§14.4 Tangent Planes and Linear Approximations**
 
 ---
 
@@ -27,9 +27,9 @@ updated: 2026-10-12
 | 项目 | 内容 |
 | --- | --- |
 | **当前状态** | 🔵 进行中 |
-| **当前章节** | **Ch 14 Partial Derivatives → §14.3 偏导数** |
-| **📍 下次从这里开始** | **§14.3 剩余练习 → §14.4 Tangent Planes and Linear Approximations** |
-| **⏱ 上次学习日期** | 2026-10-12 |
+| **当前章节** | **Ch 14 Partial Derivatives → §14.4 切平面与线性近似（§14.3 已结课）** |
+| **📍 下次从这里开始** | **§14.4 Tangent Planes and Linear Approximations** |
+| **⏱ 上次学习日期** | 2026-10-28 |
 | **本课笔记** | [[矢量分析/矢量分析索引]]、[[矢量分析/曲率]]、[[矢量分析/弗雷内标架]]、[[矢量分析/挠率]] |
 | **📝 已用预习稿** | [[学习进度/§13.4 Motion in Space 预习要点]] ← §13.4 已完成，此稿归档 |
 | **🧭 超纲延伸** | [[经典力学/科里奥利力]]、[[经典力学/旋转参考系]]、[[经典力学/旋转系中的牛顿第二定律]] |
@@ -44,14 +44,14 @@ updated: 2026-10-12
 | --- | --- | --- | --- |
 | 14.1 | Functions of Several Variables | ✅ 已学 | 多元函数、定义域、图像、等值线 |
 | 14.2 | Limits and Continuity | ✅ 已学 | 二重极限、路径判定、连续 |
-| **14.3** | **Partial Derivatives** | 🔵 **进行中（2026-10-12）** | $f_x,f_y$、高阶偏导、**Clairaut 定理**、拉普拉斯方程、波动方程 · **练习进行中** |
+| **14.3** | **Partial Derivatives** | ✅ **已学（2026-10-28 结课）** | $f_x,f_y$、高阶偏导、**Clairaut 定理**、拉普拉斯方程、波动方程 · **节后练习已完成** |
 | 14.4 | Tangent Planes and Linear Approximations | ⬜ 未学 | 下一节 |
 | 14.5 | The Chain Rule | ⬜ 未学 | |
 | 14.6 | Directional Derivatives and the Gradient Vector | ⬜ 未学 | ⚠️ 3b1b 已预习；练习表 0/9 待做 |
 | 14.7 | Maximum and Minimum Values | ⬜ 未学 | |
 | 14.8 | Lagrange Multipliers | ⬜ 未学 | |
 
-> ⚠️ **§14.3 尚未结课**：Clairaut / 拉普拉斯 / 波动方程已过，但**节后练习仍在进行中**，做完并自评掌握度后才能打 ✅。
+> ✅ **§14.3 已结课（2026-10-28）**：Clairaut / 拉普拉斯 / 波动方程 + 节后练习全部完成。
 
 ---
 
@@ -89,20 +89,26 @@ updated: 2026-10-12
 
 | § | 习题范围 | 状态 | 完成日期 | 错题数 | 备注 |
 | --- | --- | --- | --- | --- | --- |
-| 14.2–14.3 | §14.3 节后练习（极限/连续 + 偏导/Clairaut） | 🔵 进行中 | 2026-10-12（进行中） | — | 多元极限 5–22（路径判定 + 夹逼/化简）；Clairaut、Laplace/波动方程 |
+| 14.2–14.3 | §14.3 节后练习（极限/连续 + 偏导/Clairaut） | ✅ 已完成 | 2026-10-28 | — | 多元极限 5–22（路径判定 + 夹逼/化简）；Clairaut、Laplace/波动方程 |
 | 13.1–13.4 | **Ch 13 复习题 1–22** | ✅ 已完成 | 2026-10-07 | — | 1–7 向量函数/弧长/Simpson；8–15 曲率/密切圆/密切平面；16–20 运动学/抛体/$a_T,a_N$；21–22 旋转盘 + 铁路过渡曲线 |
 | 13.1–13.3 | 各节后奇数题 | ⬜ 未做 |  |  | 复习题已覆盖同样题型，优先级低 |
 | 13.4 | 各节后奇数题 | ⬜ 未做 |  |  | 同上 |
 
 **状态**：⬜ 未做 · 🔵 进行中 · ✅ 已完成 · 🔁 需重做
 
-> **📌 下一步建议**：现在做到 **§14.3 练习**，先把这节节后题做完并自评掌握度，再进 **§14.4 切平面与线性近似**；同时在有空时**还「旋转参考系巩固」那笔旧账**（10-08 标 🔵，见易忘点）。
+> **📌 下一步建议**：§14.3 练习已清完，直接进 **§14.4 Tangent Planes and Linear Approximations（切平面与线性近似）**；同时在有空时**还「旋转参考系巩固」那笔旧账**（10-08 标 🔵，见易忘点）。
 
 ---
 
 ## 📝 学习日志
 
 > 每次学完追加一条，倒序（最新在最上面）。
+
+### 2026-10-28 —— ✅ §14.3 节后练习完成，**§14.3 偏导数结课**
+
+- **做题**：**§14.3 节后练习全部完成** —— 10-12 挂着的「练习进行中」缺口已清
+- **结果**：**§14.3 Partial Derivatives**（一阶/二阶偏导、Clairaut 定理、拉普拉斯/波动方程）正式 ✅ **结课**，概念与练习双清
+- **📌 下次起点**：**§14.4 Tangent Planes and Linear Approximations**（切平面与线性近似）
 
 ### 2026-10-12 —— 🔵 进入 Ch 14，做到 **§14.3 偏导数**练习
 
