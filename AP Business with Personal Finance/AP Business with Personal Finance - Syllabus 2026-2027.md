@@ -106,8 +106,8 @@ Upon completion of this course, students will be able to:
 ---
 
 ### **UNIT 3: Personal Saving, Borrowing, and Business Finance**
-**Timeline:** Weeks 12–16 (November 30 – December 31, 2026)
-**Class Periods:** ~28 periods
+**Timeline:** Weeks 12–17 (November 30, 2026 – January 8, 2027)
+**Class Periods:** ~30 periods
 **AP Exam Weight:** 25–35%
 
 #### Part 1: Personal Saving and Borrowing
@@ -124,8 +124,9 @@ Upon completion of this course, students will be able to:
 | | Dec 14–18 | **📝 Monthly Exam Week** | | |
 | 14 | Dec 14–18 | 3.3 Accounting and Financial Management; 3.4 Business Expenses | DK Coffee Lab, Part 1 | Financial record keeping, startup cost identification |
 | 15 | Dec 21–25 | 3.5 Financial Capital; 3.6 The Income Statement | DK Coffee Lab, Part 2; Hershey | Funding sources, income statement preparation |
-| 16 | Dec 28–31 | 3.7 The Balance Sheet and Net Worth; 3.8 The Cash Flow Statement | DK Coffee Lab, Part 3; AANE | Balance sheet, cash flow analysis, **Unit 3 Assessment** |
+| 16 | Dec 28–31 | 3.7 The Balance Sheet and Net Worth; 3.8 The Cash Flow Statement | DK Coffee Lab, Part 3; AANE | Balance sheet, cash flow analysis |
 | | Jan 1 | **🎄 New Year Holiday** | | |
+| 17 | Jan 4–5 | **3.9 Ethics and Financial Reporting** | Yardley | GAAP disclosure, financial fraud case analysis, **Unit 3 Assessment** |
 
 #### Business Canvas Project – Unit 3 Deliverables
 - Identify startup costs and funding sources
@@ -136,7 +137,7 @@ Upon completion of this course, students will be able to:
 ---
 
 ### **UNIT 4: Management and Strategy (Part 1)**
-**Timeline:** Weeks 17–18 (January 4–8, 2027)
+**Timeline:** Weeks 17–18 (January 6–8, 2027)
 **Class Periods:** ~12 periods
 **AP Exam Weight:** 15–20%
 
@@ -144,7 +145,7 @@ Upon completion of this course, students will be able to:
 
 | Week | Dates | Topics | Business Case | Activities & Deliverables |
 |------|-------|--------|---------------|---------------------------|
-| 17 | Jan 4–8 | 4.1 Management and Leadership | Canva | Leadership styles analysis |
+| 17 | Jan 6–8 | 4.1 Management and Leadership | Canva | Leadership styles analysis |
 | 18 | Jan 11–15 | **📝 Final Exam Week** | | |
 
 ---
@@ -154,9 +155,9 @@ Upon completion of this course, students will be able to:
 
 | Day | Focus | Activities |
 |-----|-------|------------|
-| Mon–Wed | Unit 4.1 Instruction | Management and leadership concepts |
-| Thu | Units 1–3 Review | Key concepts review |
-| Friday | Mixed Practice | MCQ practice, FRQ strategies |
+| Mon–Tue | 3.9 Ethics and Financial Reporting | Financial fraud case analysis, **Unit 3 Assessment** |
+| Wed–Thu | Unit 4.1 Instruction | Management and leadership concepts |
+| Friday | Units 1–3 Review + Mixed Practice | Key concepts review, MCQ practice, FRQ strategies |
 
 ---
 
@@ -333,7 +334,7 @@ Upon completion of this course, students will be able to:
 | Nov 6–11 | Midterm Exam Week — 考试 **Nov 9–11**（MCQ 45 min/45 分 + Business Canvas FRQ 45 min/35 分 + Patagonia 案例 FRQ 30 min/20 分；覆盖 1.1–2.4） |
 | Nov 12 | Autumn Outing |
 | Dec 14–18 | Monthly Exam Week |
-| **Dec 31** | **Unit 3 completed** |
+| **Jan 5, 2027** | **Unit 3 completed**（含 3.9） |
 | **Jan 8, 2027** | **Unit 4 Part 1 completed** |
 | Jan 11–15 | Final Exams |
 | Jan 16 | Winter Break begins |
@@ -402,8 +403,10 @@ This syllabus meets all College Board curricular requirements including:
 
 ### Unit 3: Business Finance and Accounting
 - DK Coffee Lab, Parts 1, 2, 3 (College Board)
-- Hershey (Supplementary)
-- AANE (Supplementary)
+- Hershey (College Board) — 3.6
+- DCH (College Board) — 3.7
+- AANE (College Board) — 3.8
+- Yardley (College Board) — 3.9 Ethics and Financial Reporting
 
 ### Unit 4: Management and Strategy
 - Canva (College Board)
@@ -424,4 +427,4 @@ For questions or concerns about this course, please contact:
 
 *This syllabus is subject to modification at the instructor's discretion. Students will be notified of any changes in advance.*
 
-**Last Updated:** October 26, 2026
+**Last Updated:** October 29, 2026
