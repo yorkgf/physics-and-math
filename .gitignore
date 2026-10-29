@@ -41,3 +41,6 @@ GEMINI.md
 # Python 缓存（构建脚本产生的）
 __pycache__/
 *.pyc
+
+# Script auto-backup of Cover.pdf (original is preserved in git history)
+AP Business with Personal Finance/Mid-Term Exam/Cover.original.pdf
