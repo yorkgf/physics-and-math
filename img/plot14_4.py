@@ -101,18 +101,21 @@ P = math.pi
 
 problems = [
  ("7",  lambda x,y: x*x + x*y + 3*y*y,
-        lambda x,y: 3*x + 7*y - 5,           1.0, 1.0, 1.30),
+        lambda x,y: 3*x + 7*y - 5,           1.0, 1.0, 1.30, True),
  ("8",  lambda x,y: math.atan(x*y*y),
-        lambda x,y: x/2 + y + P/4 - 1.5,     1.0, 1.0, 1.20),
+        lambda x,y: x/2 + y + P/4 - 1.5,     1.0, 1.0, 1.20, True),
  ("9",  lambda x,y: x*y*math.sin(x-y)/(1+x*x+y*y),
-        lambda x,y: (x-y)/3,                 1.0, 1.0, 0.90),
+        lambda x,y: (x-y)/3,                 1.0, 1.0, 0.90, True),
  ("10", lambda x,y: math.exp(-x*y/10)*(math.sqrt(x)+math.sqrt(y)+math.sqrt(x*y)),
-        lambda x,y: math.exp(-0.1)*(0.7*x+0.7*y+1.6), 1.0, 1.0, 0.60),
+        lambda x,y: math.exp(-0.1)*(0.7*x+0.7*y+1.6), 1.0, 1.0, 0.60, True),
+ ("20", lambda x,y: 1 - x*y*math.cos(P*y),
+        lambda x,y: x + y,                   1.0, 1.0, 0.90, False),
 ]
 
 outdir = "/home/feng/文档/Obsidian Vault/img"
 os.makedirs(outdir, exist_ok=True)
-for name, f, T, a, b, hw in problems:
+for name, f, T, a, b, hw, with_zoom in problems:
     render(f, T, a, b, hw, os.path.join(outdir, "14.4_ex%s.svg" % name))
-    z = hw/12.0      # zoom: window shrunk 12x
-    render(f, T, a, b, z, os.path.join(outdir, "14.4_ex%s_zoom.svg" % name))
+    if with_zoom:
+        z = hw/12.0      # zoom: window shrunk 12x
+        render(f, T, a, b, z, os.path.join(outdir, "14.4_ex%s_zoom.svg" % name))
