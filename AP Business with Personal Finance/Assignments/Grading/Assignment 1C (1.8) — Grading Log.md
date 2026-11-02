@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 1C (CED Task 7)
 AP Topic: 1.8 Production Process & Supply Chain Plan
-Graded: 2026-10-25
-Submissions: 10 groups
+Graded: 2026-10-25（#11 于 2026-11-02 补评）
+Submissions: 11 groups
 Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/completeness adjustment
 ---
 
@@ -26,6 +26,7 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 | 8 | **章妍 / 雍一凡 / 蔡璐茜** | StudyFuel 学生零食盒 | 23 | 21 | 16 | 20 | −2 | **78 (C+)** | ~~79~~ |
 | 9 | **王梓镛 / 曹正 / 张懿** | 折叠电脑支架 | 21 | 20 | **4** | 22 | — | **67 (C+)** | 67 |
 | 10 | **Chloe & Heting（王钰嘉 组）** | K-pop 签名小卡礼盒 | **13** | 19 | 14 | 15 | −2 | **59 (C)** | 59 |
+| 11 | **傅皓祥 / 胡皓禹**（11-02 补交） | Adapt-Fit 迷你篮球套装（实物） | 23 | 23 | 17 | 20 | −2 | **81 (B)** | — |
 
 ### ⚠️ 复核更正（3 处，均为求和笔误，非重新评分）
 | 组 | 原报 | 复核 | 说明 |
@@ -258,9 +259,37 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 
 ---
 
+## 11. 傅皓祥 / 胡皓禹 — Adapt-Fit 迷你篮球套装 · **81 (B)**（2026-11-02 补交）
+
+**§1 23 · §2 23 · §3 17 · §4 20 · 完成度 −2**
+
+> 成员用字：来件写作「胡镐禹」，Quiz 1 归档为「胡皓禹」，待确认。项目与本组 1A / 1.4-1.5 / Quiz 1（感官友好篮球套装）一致，无断链。
+
+**做对了什么**
+- **§1 三输入顺序正确**（First/Second/Third 显式标注），落到 **Hybrid** 并逐步推理：顾客要安全定制而非低价 → 自家强项是教具设计与用户测试、不是制造 → 对手只做普通器材。`Relies on`（skilled labor 设计训练卡/指南 + 外协组装线）与 `Output`（中批量；教材高度定制、实物件标准化）两问答形标准。
+- **§2 概念零错误**：五阶段全映射 + 逐段 reach（全 Regional，与 2.1 的杭州口径一致）；**DC 判据用的是真判据**（`stores finished kits and forwards goods directly… A warehouse only stores inventory`）；**supplier 与 distributor 都是外部主体**（区域泡沫原料厂 / 特教用品零售商），没把自家网店硬套成 distributor。
+- **§3 五因子 × 两家矩阵完整**，选择锚在战略上（`Safety is the top priority for our target niche customers`——宁贵也要无毒低刺激泡沫），与 §4 niche 直接咬合。
+- **§4 战略→链条因果成立** + 具体例子回指 §3；**scaling 算术全对**（5000/3000/2000 → 9500/5200/4300），且隐含固定/变动拆解反解成立（固定 $800 + 变动 $22/件，单位成本 $30→$26），机制句（固定分摊、不建新厂只加单）写对。
+
+**失分与改法**
+1. **§3 全节零数字**（主失分）：`Medium price / Low price` 是形容词——两家的单价、MOQ、起订量、交期一个没有；高分卷都在这里放真实条款。
+2. **CED 五种风险覆盖 ≈ 1/5**：仅 B 家 customs/trade 擦到 political instability；**production errors（泡沫异味/未达儿童安全标准 = 自家致命自伤项）、supplier reputation、resource shortages、natural disasters 全未点名排序**。
+3. **备份未经合格化**：`pre-contacted` 第二源无名字、无产能、无补位时限；`small emergency stock` 无数量——day one 用不了的备份不算备份。
+4. **§4 缺 barriers to entry 整块**：1A/Quiz 1 现成的"与本地自闭症公益组织独家合作渠道"没搬过来。
+5. **规模表隐含降价 $50→$47.50 未说明**；固定/变动拆解应显式写进表，而不是让人反解。
+6. 无 Due、无成员署名与分工（−2）；标题残留模板字样 `(GOOD)`。
+
+**卷面短评**：*Conceptually the cleanest goods chain in this batch — warehouse, supplier and distributor all called on the real criterion, and your scaling arithmetic quietly works out to $800 fixed plus $22 a kit — but Section 3 is all adjectives and no numbers, your backup has no name or fill time, and the barriers your own public-welfare channel could build never appear.*
+
+**口头追问题**：1) 两家泡沫各多少钱/公斤，MOQ 多少？2) 泡沫抽检不合格（production error）发生在谁身上，退给谁？3) `pre-contacted` 第二源的产能与补位时间？4) 翻倍到 200 件，单价为什么从 $50 变成 $47.50？
+
+**关联**：本组 2.1 = **19（暂定，只交了四分之一）**，见 [[Assignment 2.1 — Grading Log]] #11——1.8 完整扎实、2.1 大面积缺交，讲评时点出这个反差。
+
+---
+
 ## 本份归档的使用说明
 
-- **不要把这 10 个分数直接录成正式成绩**：第 4/7/8 行含复核更正，建议先与学生确认（尤其吴凌轩组的 +9）。
+- **不要把前 10 个分数直接录成正式成绩**：第 4/7/8 行含复核更正，建议先与学生确认（尤其吴凌轩组的 +9）。#11（傅皓祥组 81）为 11-02 补交，无复核更正问题。
 - **每组口头追问题**用于 FRQ 个人写作前的抽查（FRQ 1 占 15%，个人作答）。
 - 跨作业共性错误与正反例句见 [[Grading — Cross-Assignment Findings]]。
 - 关联：[[Business Canvas Project - Assignment 1C (Task 7)]] · [[Assignment 2.1 — Grading Log]] · [[Grading — Cross-Assignment Findings]]

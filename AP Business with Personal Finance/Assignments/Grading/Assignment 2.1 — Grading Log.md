@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 2.1
 AP Topic: 2.1 Marketing to Customers · CED Unit 2 Tasks 1–2
-Graded: 2026-10-25
-Submissions: 10
+Graded: 2026-10-25（#11 于 2026-11-02 补评）
+Submissions: 11
 Rubric: Assignment 2.1 Grading Rubric — 5 sections × 20 + presentation/completeness adjustment
 ---
 
@@ -26,6 +26,7 @@ Rubric: Assignment 2.1 Grading Rubric — 5 sections × 20 + presentation/comple
 | 8 | **封欣怡 / 徐嘉璐** | 上门宠物照护 | 17 | 13 | 16 | 15 | 19 | −1 | **79 (C+/B−)** |
 | 9 | **叶晨文 / 刘怡辰**（归属待确认） | 文件自称"学生便宜好看的"；与前序 1.8 不符 | 15 | 11 | **4** | 14 | 14 | −4 | **54 (F)** |
 | 10 | **吴凌轩 / 宋皓阳 / 陆骏毅** | 学生健康零食（资质厨房） | 13 | **4** | 7 | 8 | 19 | −6 | **45（暂定，待重交）** |
+| 11 | **傅皓祥 / 胡皓禹**（11-02 补交） | Adapt-Fit 感官友好篮球套装 | 0 | 12 | 9 | 0 | 0 | −2 | **19（F，暂定）** |
 
 ### 归档时要处理的两个悬案
 1. **同一创意出现两份高分卷**：第 1 行（陈昭宇/章博涵）与第 3 行（章妍/雍一凡/蔡璐茜）描述的**是同一个 StudyFuel 类零食盒项目**（¥15 标准 + ¥10 mini、¥35/¥8 单位口径、11/20 预售）。**请确认这两对成员的项目归属关系**（同一大组的两份提交？还是两组共用创意？）。FRQ 1 要求每人写**自己的** canvas，两组共用会把两边的答案同时变成风险。
@@ -210,8 +211,38 @@ Rubric: Assignment 2.1 Grading Rubric — 5 sections × 20 + presentation/comple
 
 ---
 
+## 11. 傅皓祥 / 胡皓禹 — Adapt-Fit 感官友好篮球套装 · **19（F，暂定）**（2026-11-02 补交）
+
+**§1 0 · §2 12 · §3 9 · §4 0 · §5 0 · 完成度 −2**
+
+> 成员用字：来件写作「胡镐禹」，Quiz 1 归档为「胡皓禹」，待确认。
+> **暂定原因**：提交（2 页 PDF）只含 Step 2 → Step 3 → Step 4（画像检验）→ Step 4（关系计划），**§1、§4、§5 三整章与 Step 1 细分表整块缺席**——已按"整份只有约四分之一内容"计分。若另有完整版，收到后重评。
+> 项目与本组 1A / Quiz 1（Adapt-Fit）一致，1.8 也完整（81 分）——**本分是缺交，不是跑题，也不是能力**。
+
+**做对了什么**（在已交的部分里）
+- **Step 3 画像接近范文形状**：Lily，37，特教老师，年收入 12 万，杭州——demographic / psychographic 分栏干净；**有预算（¥600/班）、有 job to be done（安静的篮球活动）、有排序（安全 > 低价）**。
+- **成功标准是示范形状**："2 out of 3 特教老师**不提示**主动说出运动课感官超载"——可失败、数值化、访谈前设定 ✓（正是作业给的 example shape）。
+- 两个访谈问题中立、问对方的生活（"你遇到什么困难""你现在用什么材料"），不是"你会买吗"；两条原话真实可用（`loud bouncing sounds and complicated multi-step rules`）。
+- Step 2 靶向论证指向事实（感官超载 + 教练缺材料）；"Broad 浪费预算 / Targeted 转化更高"命中 EK 2.1.B.4 的成本与效率论证。
+- 关系计划三问都有内容（季节性训练卡→学期复购替换软球；特教老师/家长群口碑→零广告获客；不复购则 LTV 崩塌不可持续）；算术正确（$60 − $12 = $48 ✓）。
+
+**失分与改法**
+1. **§1、§4、§5 三整章空白（−60，主因）**：census test、四术语数据风险、Exam Drill 一题未答。补交才能脱离 F 段。
+2. **§2 Step 1 三个细分表空缺**：评分表 A 档要求 3+ segment（demographic + psychographic 两列）——三级缩放里最底一级没交。
+3. **Step 4 的判定栏（评分点）整段缺失**："What the evidence said / What we changed as a result" 没写——检验跑了却没下结论、**无任何改动记录**，正是"跑了也不给分"的位置。
+4. **预设标准未被评估**：标准 "2 of 3"，实际只访谈 1 人 → 逐题答 "Yes" 不能代替 2/3 达标；要么补足 3 位，要么如实标 PENDING。
+5. **§3 只有 Step 4**：三类战术家族表、CAC 成本行（除的是不是全部获客成本无法核对）、LTV 毛利拆分与时间口径、**LTV/CAC = 5 及解读**全缺；币种 $ 与全项目 ¥ 口径漂移未声明。
+6. 无 Due、无成员署名（−2）。
+
+**卷面短评**：*The best hypothesis criterion in the cohort and a model-shaped profile — but Sections 1, 4 and 5 were never submitted, the segments table is missing, the asterisked test has no verdict, and $60/$12 arrive with no arithmetic behind them.*
+
+**口头追问题**：1) Step 1 的三个细分是什么，为什么只交了 Step 2 起？2) 访谈了 1 人，"2 of 3" 达标了吗——那两个 "Yes" 是在答什么？3) $12 怎么算的，含不含你们自己的时间成本？4) 家长联系方式、学生记录这类数据风险一个字没写，你们打算收集什么？
+
+---
+
 ## 归档说明
 
 - **§2 星号任务的五档**（用于讲评）：不可能失败的标准（PTCG / 学生零食）→ 未做且交回占位符（宠物）→ 标准可失败但未跑、诚实标 PENDING（AutoRide）→ 跑了 3 人 + 改了一处（陈昭宇）→ **跑了 + 如实报告失败 + 画像降级 + 条件化**（傅铭暄，满档）。
 - **§4 的四档**：全 Y/Y 无发现（宠物 / PTCG / K-pop）→ 找到 N 并承诺改 → **改变设计**（EcoGlow 关掉工具、StudyFuel 不收电话号）→ **发现自己违反自家价值**（傅铭暄）。
+- **#11（傅皓祥组 19）为 2026-11-02 补交的暂定分**：只交了 Step 2–4，三整章空白；完整版若收到则重评。该组 1.8 = 81，见 [[Assignment 1C (1.8) — Grading Log]] #11。
 - 与 1.8 的分数对应关系与共性错误清单见 [[Grading — Cross-Assignment Findings]]。
