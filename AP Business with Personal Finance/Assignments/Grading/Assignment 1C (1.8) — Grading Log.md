@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 1C (CED Task 7)
 AP Topic: 1.8 Production Process & Supply Chain Plan
-Graded: 2026-10-25（#11 于 2026-11-02 补评）
-Submissions: 11 groups
+Graded: 2026-10-25（#11 于 11-02 补评；#12、#13 于 11-03 补评）
+Submissions: 13 groups
 Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/completeness adjustment
 ---
 
@@ -27,6 +27,8 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 | 9 | **王梓镛 / 曹正 / 张懿** | 折叠电脑支架 | 21 | 20 | **4** | 22 | — | **67 (C+)** | 67 |
 | 10 | **Chloe & Heting（王钰嘉 组）** | K-pop 签名小卡礼盒 | **13** | 19 | 14 | 15 | −2 | **59 (C)** | 59 |
 | 11 | **傅皓祥 / 胡皓禹**（11-02 补交） | Adapt-Fit 迷你篮球套装（实物） | 23 | 23 | 17 | 20 | −2 | **81 (B)** | — |
+| 12 | **张皓诚 / 徐镜舟**（11-03 补交） | 便携电动意式咖啡机（实物） | 21 | 16 | 20 | 17 | −2 | **72 (B−/C+)** | — |
+| 13 | **陈昭宇小组**（来件仅写组名）（11-03 补交） | AI 智能膳食健康分析系统（服务） | 24 | 21 | 24 | 24 | −1 | **92 (A)** | — |
 
 ### ⚠️ 复核更正（3 处，均为求和笔误，非重新评分）
 | 组 | 原报 | 复核 | 说明 |
@@ -284,6 +286,65 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 **口头追问题**：1) 两家泡沫各多少钱/公斤，MOQ 多少？2) 泡沫抽检不合格（production error）发生在谁身上，退给谁？3) `pre-contacted` 第二源的产能与补位时间？4) 翻倍到 200 件，单价为什么从 $50 变成 $47.50？
 
 **关联**：本组 2.1 = **19（暂定，只交了四分之一）**，见 [[Assignment 2.1 — Grading Log]] #11——1.8 完整扎实、2.1 大面积缺交，讲评时点出这个反差。
+
+---
+
+## 12. 张皓诚 / 徐镜舟 — 便携电动意式咖啡机（$120）· **72 (B−/C+)**（2026-11-03 补交）
+
+**§1 21 · §2 16 · §3 20 · §4 17 · 完成度 −2**
+
+> 项目与其 Quiz 1（徐镜舟 75 / 张皓诚 83）及 2.2 #5 的便携电动意式咖啡机一致，**无漂移**。**本组 2.1 仍缺交**（见 [[Assignment 2.1 — Grading Log]] 未收卷），2.2 #5 的 Step 4 因此无法对账——补交 1C 并不解除那个悬案。
+> 文件为 5 页 PDF、纯文本层有错位（早期抽取把表格答案混进页眉），已用 PDF 文字流二次解析复核；作答存在，非空卷。
+
+**做对了什么**
+- **三输入判断顺序正确且结论是 Hybrid**（`we mass-produce standardized hardware but use artisan-like quality control for brewing`），三行理由各写一句，`Relies on` 也确实是 labor + technology 双边，Output 给了量级与定制度 ✓。
+- **供应链五段全部填了 + reach 标注**（Global 原料 / Global 合同制造商 / **regional** 分销 / local 客户）；Stage 3 直接写了 `distribution center`，且正表里没有把它叫成仓库。
+- **§3 是本份最强的一节，20/25**：五因素 × 两供应商**全填**，比第二好的还多出**各自的风险等级**（`Medium: reliable but concentrated` vs `Higher: quality/political risk`）；选 A 的理由接在 differentiation 上（`café-quality brewing`）；备份是**当场能用的**——`Qualify Supplier B as secondary + 80/20 dual-sourcing + 4 weeks of safety stock + a backup bean supplier`，并在 risk assessment 里点名会盯 CED 五风险。
+- **Scaling 有数字且算术自洽**：5,000→10,000 台、$500,000→$1,000,000、成本 $400,000→$750,000、利润 $100,000→$250,000；`Yes — revenue +100% vs costs +87.5%` 算术对（还顺手写出了单价未变、靠固定成本摊薄）。
+
+**失分与改法**
+1. **三个区分格整块空着（§2 的主失分，−7）**：`My storage facility is a ___ because ___`（EK 1.8.B.2）、`My key supplier is ___ / My key distributor is ___`（EK 1.8.B.3）**一行没写**——第 4/6 段判断题拿不到，rubric 的 `warehouse vs. DC distinguished / supplier vs. distributor identified` 直接掉到 Developing。表格里写了 DC 与供应商名，但**没有"因为"那一句**，而这正是 1.8 要考的判断过程。改法：三句话各补一行，DC 要写 `stores AND forwards to the next stage`，distributor 要指明是 1–2 那段（合同制造商出货给分销中心）——**不是把引流渠道叫 distributor**。
+2. **两张 service 表没动（−1）**：`People / Resources / Delivery system` 三格空白。你们的产品是实物、服务那半张表对你们**不适用**，正确做法是写一行 `N/A — goods, supply-chain stages above apply`（判别线 #1 的满分动作），留空既丢分又显得没读题。
+3. **`My specific example` 内容没放对位置（−2）**：`I chose a regional distribution center so products reach customers fast, supporting the convenience promise` 这句本该在 `How does my strategy shape my supply chain?` 下面，现在它占了 specific example 的格子，而策略那一格只有一句 `High quality means better components and careful quality control`——**等于一处内容、两格都答不完整**。另外具体例子要"Section 2 的某个链条选择"，regional DC 是 Stage 4 的选择，够格；把两格分开写就行。
+4. **`Barriers to entry → Exclusive or restrictive supplier agreements` 那一行是模板原文，没有替换成自家做法（−3）**：正文全篇没有一处说清"我们链条的哪一项限制了新进入者"（候选：4 周合同期 + 80/20 双源的 B 资格、工厂的调试与测试能力、`established export process`）。self-check 却勾了 `I have analyzed barriers to entry` ——**声称与文义不符**（与 2.1 K-pop 组、本组 2.2 同类问题）。
+5. **Scaling 只答了增长比较，没答"What would need to change"（−2）**：要先写再翻倍要换什么（新设备/更大厂房、合同制造商产能、备料与安全库存），再给两栏数字；现在直接跳表。
+6. **风险只给了等级、没有点名 CED 五条**（`quality/political risk` 是两个，未按 natural disasters · political instability · resource shortages · production errors · supplier reputation 排序并排除一条）——判别线 #4 的半分动作没做（−1）。
+7. 无 Due、无成员署名（−2）；`PrecisionBrew Manufacturing` / `supply coffee beans` 挤进了 service 表的格子，读起来像填错行（卷面）。
+
+**卷面短评**：*The supplier-selection table is the best part — five factors for two suppliers, each with its own risk grade, and a backup that is already qualified (80/20 dual sourcing plus four weeks of safety stock); the scaling arithmetic all checks out. What costs you is that the three blank sentences are exactly the three sentences 1.8 exists to test — warehouse vs. distribution centre, supplier vs. distributor, and why your own chain raises a barrier to entry — and two of your self-checks claim you wrote them.*
+
+**口头追问题**：1) 你们的仓储是仓库还是配送中心——"因为"那句话是什么？2) 谁是 distributor，它具体把货从哪一段搬到哪一段（不是"小红书引流"吧）？3) 合同制造商的 4 周合同期 + B 需重新资格认证，这为什么拦得住一个新进入者？4) 产量翻倍要先换什么设备、谁的产能？5) service 那三格是没填还是不适用？
+
+**关联**：1.8 #12 = 72 · 2.1 **未收到** · 2.2 #5 = 66（`Original CAC $32 / LTV $145` 仍无 2.1 可对账）· Quiz 1 徐镜舟 75 / 张皓诚 83。
+
+---
+
+## 13. 陈昭宇小组 — AI 智能膳食健康分析系统（服务）· **92 (A)**（2026-11-03 补交）
+
+**§1 24 · §2 21 · §3 24 · §4 24 · 完成度 −1**
+
+> **⚠️ 悬案（文件只标组名，成员待确认，见 [[Assignment 2.1 — Grading Log]] 悬案）**：本份自称 1.8 的生意是 **AI 智能膳食健康分析系统**（餐前拍照 → 风险报告 → 纠偏建议，¥18/月、¥98/年、¥9.9 首份，Lin 画像），与 **2.1（94 分）自称的"学生便携健康零食（¥9.9 预售）"和 1.4-1.5 的口径**对不上——**同一批里第三次出现"1.8 ≠ 后续作业"的断链**（前两次：2.2 #3 的 Study Café→EcoGlow→饮品摊、2.2 #1 的画像三处漂移）。内容本身完整，按内容计 **92**；**归属与项目线确认后定稿**。
+> 交叉核对抓到一处**口径修正**：本份 scaling 用 `收入 ¥15,000 = 1,000 用户 × ¥15`，而 2.1 记的是 `¥15/¥8/¥7 与 1.4-1.5 一致`——**1.4-1.5 原文里查不到 ¥15/¥8/¥7**（该文件是空模板，未见学生作答）。所以那条"跨作业数字一致"的正面记录，**目前唯一能自证的只有 1.8 这一份**；请把 1.4-1.5 的实际提交补进来对账。
+
+**做对了什么**
+- **§1 是本批最完整的三输入论证**：每行都带判据与数（`5/8 愿付 ¥9.9`、`¥18/月或 ¥98/年`），推理段把三步串成一句结论（`三者共同指向 Hybrid：AI 做规模，人做质量`）；`Relies on` 写明技术 + 技能劳动的分工，`Output` 明确"中等偏大数量 + 较高个性化"，并解释**为什么不是纯 artisan 也不是纯 mass**。
+- **§2 对服务链路的处理是本批最好的之一**：三部分全填且每项都是真实角色（营养师写规则+抽检、食物成分表、识别模型、App/小程序/支付）；**判别线 #1 的加分动作做到位**——`云端数据仓库 + CDN…因为它既存储又转发…而不是静态存放。→ 存储 + 腍送一体`（给的是机制，不是"云=配送中心"这种硬套）。
+- **§3 是全批最高分之一（24）**：五因素 × 两供应商全填、差异清晰（DeepSeek 便宜且无绑定 / 通义一站式但深度绑定阿里）；**CED 五条风险全部点名并各自给了对应情形**（数据中心故障、政策合规、算力紧缺、模型输出错误、供应商舆论）——判别线 #4 的满分动作，AutoRide 是先例，这是第二次；**风险评估把"最容易被忽视的"点准**（单一供应商依赖，产品大脑押在一家）；**备份当场能用**：多模型自动路由切换 + 中长期自托管开源权重模型 + 双云部署（判别线 #5）。
+- **§4 的进入壁垒是自己的**：三条（纠偏规则库 / 中文饮食图像+营养数据 / 用户画像与切换成本），并把"独家资产"映射到 CED 的 `Exclusive or restrictive supplier agreements`，**用实际做法替换了模板那行**；specific example 也确实指回 §2（`People 含营养师审核`这一环存在的战略原因）。
+- **Scaling 是本批算得最细的一张表**：30,000→60,000 份、收入 ¥15,000→¥30,000、成本 ¥11,500→¥15,500、利润 ¥3,500→¥14,500；**固定成本逐项拆开**（内容 2,500 + 研发 5,000 + 基础审核 1,500 = 9,000 ✓），`+100% vs +35%` 算术对，还主动写出**翻倍要新增的固定投入**（+1 名兼职审核、更大算力）——正是"What would need to change"那一问。
+- Self-check 六项与正文**逐条对得上**（声明与文义一致，判别线 #6 的正面例）。
+
+**失分与改法**
+1. **`How does my strategy shape my supply chain?` 那格是模板原句，没有落成自家链条的判据（−2，§4 主失分）**：模板三行（低价→、高质量→、进入壁垒→）照抄，正文只在 `My competitive strategy` 下面答了"因为要可信所以保留 artisan 层"。作业问的是**这条链怎么被战略塑形**——应写成"高质量 → 高质量资源 + 严谨方法 → 我们保留注册营养师审核、采用中国食物成分表这个权威数据源"，把模板句变成自家句。
+2. **Scaling 缺"为什么"的经营归因（−1）**：`+35%` 已拆出固定/变动，但没点明**变动成本只翻了 1 倍而单价未变、增量全是毛利**（10,000 份 × ¥3.5）；也没写翻倍后的**触及率/质量抽检比会不会下滑**（1 名兼职审核管 60,000 份，恰好是你们 artisan 层的瓶颈）——这是数字背后的判断，本可以再加一分。
+3. **复用了 2.1 的证词（−1，卷面）**：`小林式`、`5/8 愿付 ¥9.9`、`11/20 预售`、`Cal AI` 都来自 2.1；1.8 里应当注明"证据来自 Assignment 2.1"或改写成 1.8 自己的论证，否则读起来像提前写好了后面那份。
+4. **文件只写"陈昭宇小组"，无成员署名、无 Due（−1）**；且 `Cal AI` 这类外部基准与 2.1 一样没有来源与日期（判别线 #2 老问题）。
+
+**卷面短评**：*The most complete supplier analysis in this batch — five factors for two providers, all five CED risks mapped to real failure modes, and a fallback that already exists (model routing, self-hosted weights, dual cloud); the scaling table is the only one that breaks fixed costs into line items and still names what a doubling would demand. Two things stop it at 92: the "how does my strategy shape the chain" cell is the template's sentence rather than yours, and the file carries only a team name — which matters, because the business it describes is not the one your 2.1 submitted.*
+
+**口头追问题**：1) 你们 1.8 是膳食分析系统、2.1 是学生零食——哪个是你们的 canvas？2) 高质量这条战略，落到链条上具体是哪一个选择？3) 翻倍到 60,000 份，一名兼职能审完吗、抽检比怎么定？4) ¥15 单价是哪份作业定的，1.4-1.5 里那行是什么？5) 营养师审核的执业编号怎么核验——这就是你们 §3 的 supplier 风险反面吗？
+
+**关联**：1.8 #13 = 92 · **2.1 #1 = 94（自称零食盒，项目待确认）** · 2.2 **未见该组提交**（2.2 批次 10 份中无陈昭宇/章博涵）。
 
 ---
 
