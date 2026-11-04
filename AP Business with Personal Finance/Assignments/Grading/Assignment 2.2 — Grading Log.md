@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 2.2
 AP Topic: 2.2 Consumer Behavior · CED Unit 2 Task 2 (persuasion half)
-Graded: 2026-11-02（#2、#5、#6、#7、#8、#9、#10 于 2026-11-03 补评）
-Submissions: 10
+Graded: 2026-11-02（#2、#5–#10 于 11-03 补评；#11、#12、#13 于 11-04 补评）
+Submissions: 13
 Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/completeness adjustment
 ---
 
@@ -12,7 +12,7 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 > **Central requirement**: the **persuasion half of Unit 2 Task 2** — one acquisition + one retention tactic, each named to a Cialdini principle **by mechanism** (EK cited), written in the customer's exact words, **face-tested** against the three killer questions, and **CAC/LTV carried forward from Assignment 2.1** — plus the seven-principle manipulation audit (evaluate half of LO 2.2.C).
 > **Not asterisked**: this deliverable needs reasoning, mechanism and numbers, not a market test (the asterisked research arrives in 2.3).
 > **§5 口径（2026-11-03 教师确认）**: 考试 drill 为**可选**，未交**不扣分**；未交者 §5 记 `—`，总分按 **§1+§2+§3+§4 = 80 分**折算百分比后再做完成度调整。
-> **Batch status**: 10 submissions graded（#1、#3、#4 于 2026-11-02，新增 #2、#5、#6、#7、#8、#9、#10 于 11-03 补评）；**#2 项目存疑、#3 身份待确认、#5/#6 缺 2.1 记录、#8 的 2.1 仅 19 分（四分之一内容）**。More expected.
+> **Batch status**: 13 submissions graded（#1、#3、#4 于 2026-11-02，#2、#5–#10 于 11-03 补评，**#11、#12、#13 于 11-04 补评**）；**#2 项目存疑、#3 身份待确认、#5/#6 缺 2.1 记录、#8 的 2.1 仅 19 分（四分之一内容）**。**李言蹊 / 刘泽霖 / 黄芷萱（AutoRide）的 2.2 已于 11-04 收到并评 94**（见 #12）——该组 1.8 = 90、2.1 = 91、2.2 = 94、2.3 = 76，**四份齐了，最弱一环是 2.3 的研究执行**。**#11 是本批第一份「业务身份无争议 + 数字真的从 2.1 结转」的卷子**（#12 同样如此），且它的 Step 4 首行顺带确认了 11-03 那两份自行车 PDF（`1.8.pdf` / `2.1.pdf`）属 **杨珺怡组**、与本组无关。
 
 ## Score summary
 
@@ -28,6 +28,11 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 | 8 | **傅皓祥 / 胡皓禹**（来件作「胡镐禹」） | Adapt-Fit 感官友好迷你篮球套装 | 17 | 14 | 13 | 16 | 17（含 FRQ） | −2 | **75 (C+)** |
 | 9 | **傅铭暄** | Delta Action Run-Knife Club（代练中介·服务） | 19 | 19 | **18** | 19 | **20**（含 FRQ + 每题的自家用法） | −1 | **94 (A)** |
 | 10 | **王钰嘉（Chloe）/ 王和廷（Heting）** | K-pop 签名小卡公司（签名专辑/小卡/拍立得 + 定制） | 19 | 19 | 17 | 18 | 18（含 FRQ） | −2 | **89 (B+)** |
+| 11 | **朱稼棋 / 郑歆妮**（11-04 补评） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | 18 | 17 | 17 | 18 | 19（含 FRQ） | −2 | **87 (B+)** |
+| 12 | **李言蹊 / 刘泽霖 / 黄芷萱**（11-04 补交） | AutoRide AI 无人驾驶网约车（概念期） | 19 | **20** | 17 | **20** | **20**（16/16 + FRQ） | −2 | **94 (A)** |
+| 13 | **王子轩 / 袁翌宸**（Sean / Ethan）（11-04 补交） | PTCG 散卡转售（宝可梦集换式卡牌） | 19 | 17 | 16 | **20** | 19（16/16 + FRQ） | −1 | **90 (A−)** |
+
+> 第 11 行按分数应排在第 2（85）与第 4（75）之间；同样**追加在表尾**以避免打乱既有 #编号与跨文件引用。
 
 ### 为什么扣分 · 每份两句话（讲评速查）
 
@@ -43,6 +48,9 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 | 10 | 王钰嘉 / 王和廷 | 89 | **Step 4 交上来的仍是占位符**：表上写着「2.1 的 spreadsheet 当时拿不到，以下为估算，**交前请替换**」——而你们 2.1 明明白白交了 `CAC $8 / LTV $46.60`（LTV/CAC **5.8**），这里却写成 `¥50 / ¥150 / ¥100`，连币种都从 $ 换成 ¥；另一处是留存话术的 `Order now and your set stays complete`，**正是你们 §4 自己拒绝的「invented last-chance window」**。 |
 | 9 | 傅铭暄 | 94 | 唯一实质的缺口是 **Step 3**：两条策略的挑战栏都把 `Who?` / `How many?` / `Certificate number?` 三个提示词原样抄下，**没有一条是真人实际问出口的话**，而这项生意真正的杀手问题（「这不符合游戏服务条款吗？你会不会收钱跑掉？」）从头到尾没被测；其余失分是 §2B 把 **ToS 当法条**（ToS 不是法律，等于承认整门生意坐在灰区却没说怎么处理）与 1D 缺 habitual 一侧（在 2A 与 §5#13 补上了）。 |
 | 8 | 傅皓祥 / 胡皓禹 | 75 | Step 4 的 **¥42 / ¥160 标成 2.1 值，可你们 2.1（19 分、只交 Step 2–4）根本没有 CAC/LTV 拆解**，1C 里也只有 $50 / $30→$26；2A 明明写了「1–3 年一次」却没判「这维不稳 ⇒ 留存必须走 referral」，于是 retention 押在一个三年才动一次的杠杆上，2B/2C 也各少一问。 |
+| 11 | 朱稼棋 / 郑歆妮 | 87 | Step 4 把 `Cost of running the tactic $1.60 per customer` **单列成一行、然后一格都没扣**，所以头条的 +$2.80 其实是 **+$1.20**，而 self-check 恰恰勾了「with the tactic's own cost included」；CAC −$0.60 与 LTV +$2.20 都只给机制不给转换率/复购率，$180 那个实验室报价也买不到一份真报告——但 1B/1C/§5 是本批最干净的几张表之一。 |
+| 12 | 李言蹊 / 刘泽霖 / 黄芷萱 | 94 | 三格决胜**如实判输**、法条**引到条文并附核查日期**、Step 4 的 `30 / 75.60 / 45.60` 与自家 2.1 **逐字对上**、16 题 + FRQ 全对——唯一没做的正是作业那句 `Do not skip M3`：**脸测两格写着 `pending`、`Desk check only`**，Jimmy 质疑之后改的新话术，还从没在 Jimmy 身上试过。 |
+| 13 | 王子轩 / 袁翌宸 | 90 | Step 4 写 `Baseline from Assignment 2.1: CAC = $18`——**可你们的 2.1 记的是 CAC = $0（工时未计价）**，改数就要照作业原文写「我们改了哪个、为什么」；其次 2A 三行都给了具体值，却**把讲义的 Theo 例子留在「你的模式」那一列**，全节没判哪一维稳、哪一维破——rubric 的 A 档就写在这一句。其余是全批最好的 §4 与真问出口的 Step 3。 |
 
 > 一句话总纲：**这一批的失分几乎不在「不懂心理学」，而在三处 repeated 位置——Step 4 的数字没有出处、Step 3 的 face test 没问对杀手问题、以及§2 的模式读完没有落到「所以留存该打哪一维」。**
 
@@ -50,11 +58,11 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 1. **第 3 行的项目身份（暂定的唯一原因）**：该组 1A/Quiz 1 = Study Café 付费自习室，1.8/2.1 = EcoGlow 大豆蜡烛（91 / 93 分），本份 = 校园饮品摊（早高峰 ¥6–8/杯）——**三个互不相同的生意**，且 Step 4 声称 CAC ¥2 / LTV ¥18 来自"我们 2.1 算的"，而其 2.1（EcoGlow）实际口径为美元、LTV/CAC = 1.85。**请确认：换项目了（需补"为什么换"），还是交错文件？** 确认前 82 不录正式成绩。
 2. 第 1 行叶晨文/刘怡辰的 2.1 为 54（F，归属存疑）；本份回到 1.8 的 StarWhisper 身份且质量跃升——**若 2.1 确系交错/损坏，重交后两份一起重评**。
-3. **第 2 行 杨珺怡 / 励景宽 / 孙良熙 的项目存疑**：三人在 [[Assignment 1C (1.8) — Grading Log]] 与 [[Assignment 2.1 — Grading Log]] 里**均无任何记录**；Quiz 1 三人的项目都是**学生健康轻食/早餐配送**（杨珺怡 83、励景宽 78、孙良熙 72），本份却是**二手儿童自行车**——且这份生意**逐格等于作业讲义里的示范公司 Trued Cycles（Theo）**：21 点签字检查标签、橙色吊牌、30 天免费调校、免费打气上油、两个对手（新车零售店 / 私家车库卖家）、2A 三行答案与讲义 `Your model, from the lesson` 一栏逐字对应、连 §5 的 16 道题都是围着自行车摊写的。**请确认：① 2.1 交的是哪个项目、有没有交；② 这是正式项目（须补 1A–2.1）还是拿范例练手。** §3 Step 4 自称 $32 / $96 / $64 出自 2.1，无法核对。
+3. **第 2 行 杨珺怡 / 励景宽 / 孙良熙 的项目存疑**：**11-04 更新——1.8 已收到并评 82（见 [[Assignment 1C (1.8) — Grading Log]] #14，生意同样是二手童车、同样存疑），「1.8 无记录」已解除**；同一分钟还到达一份无署名的 `2.1.pdf`（同为二手童车，含 CAC $31.43 / LTV $88），**疑为该组迟到的 2.1**，归属确认后补评。原记录：三人在两份日志里**当时均无任何记录**；Quiz 1 三人的项目都是**学生健康轻食/早餐配送**（杨珺怡 83、励景宽 78、孙良熙 72），本份却是**二手儿童自行车**——且这份生意**逐格等于作业讲义里的示范公司 Trued Cycles（Theo）**：21 点签字检查标签、橙色吊牌、30 天免费调校、免费打气上油、两个对手（新车零售店 / 私家车库卖家）、2A 三行答案与讲义 `Your model, from the lesson` 一栏逐字对应、连 §5 的 16 道题都是围着自行车摊写的。**请确认：① 2.1 交的是哪个项目、有没有交；② 这是正式项目（须补 1A–2.1）还是拿范例练手。** §3 Step 4 自称 $32 / $96 / $64 出自 2.1，当时无法核对；同批 `2.1.pdf` 的实测值为 **CAC $31.43 / LTV $88 / LTV−CAC $56.57**——$32 可视为 $31.43 的四舍五入，**$96 / $64 仍无出处**（且该份 LTV 表 $38+$24+$26=$88 与讲义 Renee 示范逐字相同），待归属确认后一并核。**→ 11-04 后续：教师已确认该 `2.1.pdf` 归属本组并评 82（见 [[Assignment 2.1 — Grading Log]] #12）——①已答：交了，仍是自行车 / 示范公司；②仍待学生自证；对账结论不变：只有 CAC $32 能对上，`$96 / $64` 在 2.1 中不存在（实为 $88 / $56.57）。**
 4. **第 6 行 王梓镛 / 曹正 / 张懿 缺 2.1 记录**：项目与 1C(1.8) 一致（折叠电脑支架，67 分），**无漂移**；但三人同样不在 [[Assignment 2.1 — Grading Log]] 里，本份 §3 Step 4 **一个数字都没有**（无 2.1 值、无变化量、无算术）——"carried forward from 2.1" 对他们无处可 carry。若确未交 2.1，这是 §3 崩掉的根因，不是笔误。
 5. **第 5 行 徐镜舟 / 张皓诚 缺 1C/2.1 记录**：项目本身与 Quiz 1 一致（便携咖啡机，徐镜舟 75 / 张皓诚 83），无漂移问题。**1.8 已于 11-03 补交并评 72 分**（见 [[Assignment 1C (1.8) — Grading Log]] #12，供应链五段齐、供应商表最扎实、但三个区分句整块空）；2.1 仍然**没有记录**（见该日志「待收」），§3 Step 4 的 `Original CAC is $32` / `Original LTV is $145` 无法与 2.1 对账（好在**没有**像其他组那样谎称出自 2.1）。请补 2.1 §3 后定稿；本分按内容计。**1.8 补交不解除本悬案。**
 7. **第 8 行 傅皓祥 / 胡皓禹 的 2.1 仍是 19 分（暂定，仅四分之一内容）**：本份 §3 Step 4 声称 `Assignment 2.1 value = CAC ¥42 / LTV ¥160`，但该组 2.1（只交了 Step 2–4）**没有 CAC/LTV 拆解**，1C 里也只有 `$50 单价 / $30→$26 成本`。**要么补交完整 2.1，要么把 Step 4 的基线值标成假设并说明来源**——目前是这一批里唯一「2.1 值无处可查、且平移到人民币口径」的卷子。
-6. **第 7 行 章妍 / 雍一凡 / 蔡璐茜 的项目归属仍未裁决（11-03 进展：又多一条线索）**：本份 StudyFuel（¥15 / mini ¥10、11/20 预售）与 [[Assignment 2.1 — Grading Log]] 悬案 #1 提到的 **陈昭宇 / 章博涵**（2.1 94 分）**描述的是同一个零食盒项目**，两份用同一组预售数字。**11-03 线索**：另一对声称 1.8 = **AI 智能膳食健康分析系统**、2.1 = **本组零食盒** 的高分组（1.8 = 92、2.1 = 94，见 [[Assignment 1C (1.8) — Grading Log]] #13）也在同一片区域——**「零食」这条线上现在挤着三份高分卷（2.1 两份 + 本份）**，而三份互相、跟自己的 1.8 都对不齐。本份文件**无成员署名**（元数据显示由 python-docx 于 2026-10-29 导出表单，非学生本人 Word），无法自证归属。**请一次性裁决这三份的成员关系**——是「同一大组的三份提交」还是「多组共用一个创意」；若为后者，两边的 Section 3 都不能算个人产出。本分按内容计 93，归属确认后录正式成绩。
+6. **第 7 行 章妍 / 雍一凡 / 蔡璐茜 的项目归属——11-04 更正，悬案基本解除**：此前认为「第 1 行（陈昭宇组 2.1）与本份是同一个零食项目」，**该前提不成立**——陈昭宇组 2.1 的正式文件是 **AI 智能膳食健康分析系统**（与 1.8 #13 一致，见 [[Assignment 2.1 — Grading Log]] #1），全文没有零食内容，当时串进来的 `¥35 / 11-20 预售` 属本组。**本组三份（1.8 = 78、2.1 = 92、2.2 = 93）均为 StudyFuel、项目身份自洽**，"多组共用创意 / 同一大组三份提交"的风险不存在。**仅剩一项待学生自证**：本份文件由 python-docx 于 2026-10-29 导出、**无成员署名**——补署名即可录正式成绩。（⚠️ 另记：本组 1.8 用 ¥、2.1 用 $，属数字口径漂移，见 [[Grading — Cross-Assignment Findings]] #4，与本悬案是两件事。）
 
 ---
 
@@ -111,6 +119,8 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 **卷面短评**：*Numerically the most disciplined paper in this batch — every EK right, all four Step 4 lines arithmetically clean, the acquisition tactic face-tested with the exact killer question — but the business is the lesson's own model company, so nothing here was ever transferred; and your own table shows the tactic costs $4.20 to save $5, a net $0.80 a customer, which you never read out loud.*
 
 **口头追问题**：1) 这份自行车和你们 Quiz 1 的轻食是什么关系？2) $4.20 怎么算出来的、算在 $27 里面了吗——净赚多少？3) 免费调校「买了才给」，跟你们 §4 拒绝的「带条件的免费礼物」差在哪？4) 站在摊前用手机查到隔壁新车半价，你的标签还剩什么？
+
+**关联**：1.8 #14 = **82**（2026-11-04 补交，项目同样存疑，见 [[Assignment 1C (1.8) — Grading Log]] #14）· 2.1 已确认归属并评 **82**（11-04，见 [[Assignment 2.1 — Grading Log]] #12）· Quiz 1 杨珺怡 83 / 励景宽 78 / 孙良熙 72。
 
 ---
 
@@ -291,7 +301,7 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 **§1 19 · §2 19 · §3 18 · §4 19 · §5 20（十六题全对 + 每题加写自家诚实用法 + FRQ 齐全）· 完成度 −1**
 
-> 项目贯穿 1A → 1.3 → 1.4-1.5 → 1C(94) → **2.1(91)** → 本份 → 2.3，**零漂移、零换题**。§3 Step 4 的 `$6 / $17.40` 与其 2.1 完全一致（17.40 ÷ 6 = **2.9**，正是 2.1 里算出的 LTV/CAC），是本批**唯一一个"carried forward"真的能对上账**的卷子。**可录正式成绩。**
+> 项目贯穿 1A → 1.3 → 1.4-1.5 → 1C(94) → **2.1(91)** → 本份 → 2.3，**零漂移、零换题**。§3 Step 4 的 `$6 / $17.40` 与其 2.1 完全一致（17.40 ÷ 6 = **2.9**，正是 2.1 里算出的 LTV/CAC），与 **#11 / #12 并列本批三条真结转线**。**可录正式成绩。**
 
 **做对了什么**
 - **1B 是全班最好的一次家族判定**：四行里**只标了一个 Primary**（psychological：怕被骗/怕封号 = 态度与感知风险），其余全 secondary；并紧跟一段 **sorting discipline 自检**——`does it change when the shopper walks out the door?` 逐行过一遍，把"封号风险披露"判为**feature**（`it travels home with the order`）、把"赛季末紧迫"判为 situational。这道题全班最大的坑，这里是自己拆的。
@@ -353,14 +363,113 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 ---
 
+## 11. 朱稼棋 / 郑歆妮 — ECOECHO 重组蛋白（毕赤酵母）植物肉 · **87 (B+/A−)**（2026-11-04 补评）
+
+**§1 18 · §2 17 · §3 17 · §4 18 · §5 19 · 完成度 −2**
+
+> **这份顺手解掉两处悬案**：① 本组自己的 2.1 是那份 `Business Canvas Project Assignment 1-1.docx` 里的 2.1 段（`CAC=$6.00 / LTV=$11.90 / LTV−CAC=$5.90`）——本份 Step 4 首行**逐字回引** ✓，**不是** 11-03 到达的 `2.1.pdf`（`$31.43 / $88 / $56.57`）；② 那两份自行车 PDF 已归 **杨珺怡 / 励景宽 / 孙良熙**（见 [[Assignment 2.1 — Grading Log]] #12、[[Assignment 1C (1.8) — Grading Log]] #14），与本组无关。
+> **本组三份**：1.8 **未提交（0）** · 2.1 **70** · 本份 **87**。这是这条项目线上第一份业务身份无争议（与 Quiz 1 / 1.4-1.5 的 ECOECHO 一致）、且**数字真的从 2.1 结转**的卷子——#1 / #3 / #8 的「声称出自 2.1 但查不到」问题在这里不存在。
+
+**做对了什么**
+- **1B 是本批最干净的一张影响家族表**：四行齐、**选定唯一 primary = Psychological**（`Values sustainable diet; frustrated by bad texture & too many additives`），并附 sorting note —— `Product features (fibrous texture, low-additive formula) are product attributes, not situational factors. Situational only describes temporary shopping environment that vanishes once they close the browser.` self-check 那句 `kept product features out of the situational row` 与文义对得上（判别线 #6 正面例；#10 Chloe 在同一处被判 two primaries）。
+- **1C 每个对手单独判、三条输赢如实写**：Price 写 `Tie vs Rival2；Lose vs Rival1`，Availability `Lose`，Advertising `Lose`，只有 Differentiated features `Win`；对手价格给了真数（`$4.5` / `$8.2` vs 我们 `$7.00`），末尾 `Our persuasion tactics will build on this strength instead of competing on price, availability or advertising which we currently lose` —— 与 #7 章妍、#10 Chloe 同级，比只写「我们赢了」的卷子多一层战略后果。
+- **2A 三维全是数，且把模式读成了对自己的含义**：`Every 2–4 weeks`、`2–4 frozen portions per online order`、`Evening weekday online grocery ordering; stock-up on weekends` → `Purchase cycle is weeks-scale, not one-off multi-year purchase. So both acquisition … and retention … tactics matter`。这是 §2 最易漏的一步（#2 杨珺怡组三行填满却没写这句），#2 在本日志的原始失分句就是它。
+- **2B 三问都答在自家生意上，且法条真的接上了钱**：新型食品原料审批（`We cannot legally sell before completing regulatory safety review`）+ 标签法与虚假宣称（`Food-labeling law requires full truthful disclosure of microbial-protein source, allergen statements, additive list`）+ 被限制后的替代（回落高端豌豆蛋白）。三问齐、无一条是背景装饰（对比 #9 傅铭暄把 ToS 当法条）。
+- **§3 两条策略是自己设计的，不是范文搬的**：Authority 用**可核验的独立实验室报告 + 证书编号**（对「消费者陌生的微生物蛋白」这个具体风险点，机制选对了，不是「专家推荐」这种空话）；Reciprocity 用**不附条件的迷你试用装**，并在 Step 2 就写死 `This sample is complimentary whether you place another order or not` —— 正是讲义「免费打气 vs 买了才给的免费调校」分水岭的**正确一侧**（#2 杨珺怡组站在错的一侧）。
+- **face test 用的是杀手问题本身**：`"Who ran this lab test? Can I see certificate number?"` / `"Do I have to buy something to keep this sample?"`，两条都 ✅ 存活并附答复原话 —— 比 #9 傅铭暄把提示词 `Who? / How many?` 原样抄进挑战栏进了一档。
+- **§4 结构全批最完整之一，且红线接回了自己的价值观**：七条原则 × 诚实版 × 操控版三栏并排；4A 三个问句各配自家例子（都用「如果我们编了这个，被问 X 就死」的写法：`If we lied about limited stock, "How many units remain?" exposes manipulation`）；4B 红线三条 + `Transparency（信息透明） and Food safety first（食品安全优先）` —— **与那份 2.1 docx 的价值观一格逐字一致 ✓**；并点名最诱惑的一项（fake scarcity）给出替代动作（`Use real seasonal limited-batch flavour when production run is genuinely limited; clearly state real quantity available`）。
+- **§5 十六题全对，且难点题的判据写对了**：#5（`Free tire air no matter who you buy from` → Reciprocity，理由写的是「无购买要求」这个判据本身）、#9（`Changes only while shopping on-site; disappears once shopper leaves`）、#10（`travels home with them after purchase`）——两条测试句都用对了；FRQ 四问齐，(a) 引 Step 2 原句、(d) 落到 `$6.00 → $5.40` 的数字。
+
+**失分与改法**
+1. **`$1.60` 从来没有进入任何一格（主失分，−2）**：Step 4 把 `Cost of running the tactic $1.60 per customer` 单列成一行，然后 LTV−CAC 写 `$5.90 → $8.70 (+$2.80)`。可这份试用装发生在交付包裹里，**必须落进 LTV 的毛利（留存动作）或 CAC（获客动作）**。真实改善 = **+$2.80 − $1.60 = +$1.20**。更麻烦的是 self-check 勾了 `My CAC/LTV change is explained by a mechanism, with the tactic's own cost included` —— **与文义相反**（判别线 #6）。改法：LTV 行写 `$14.10 毛利 − $1.60 = $12.50`，再算 `$12.50 − $5.40 = $7.10`（净增 $1.20）。
+2. **两个增量都没有推导（−1.5）**：CAC 只给机制（「转化率更高」）不给数——`$6.00 → $5.40` 需要 `140 位 → 155.6 位`这类分母变化；且它写 `One-time lab cost is spread over many customers`，但 **$180 并不在 2.1 的 $840 里**，所以这句解释不成立（不进 CAC 就不可能摊薄 CAC）。LTV 的 `+$2.20` 只写「部分顾客会再下单」，没写比例；按自家 $2.8/份的毛利，$2.20 连一份都不到，却用「复购率提高」解释。两处都改成「改动前 X → 改动后 Y」。
+3. **`$180` 这个价格不可信（−1）**：独立实验室对「纤维口感 + 添加剂 + 过敏原」三项出可公开验证的报告，$180 买不到（通常 $1,000+）。若真实是四位数，「零边际成本、摊到很多顾客」与 CAC 的降幅**同时失效**。至少标为 planning assumption 并给量级来源。
+4. **LTV 仍无时间口径（−1）**：`$11.90` / `$14.10` 是几个月、几次复购？2A 自己写了 `every 2–4 weeks`，正好可以算「12 个月内 15–26 次」——**手里有尺子没用**。2.1 的老问题原样带过来，而 Step 4 的全部结论都挂在这个口径上。
+5. **1D 把一份 $7 的食品购买判成 consequential（−1）**：`Consequential (moderate risk: new unfamiliar microbial-protein food; customer worries whether texture lives up to claims)`。作业自己的对比是「每天同一杯咖啡 = habitual / 全家周末比三款婴儿车 = rational」，$7 一份、每 2–4 周买一次，**金额维度上更接近 habitual**，是「陌生蛋白」这层风险把它推到中间。结论可留，但要写明**是风险而非金额使它 consequential**，否则与 §5#13/#14 的判据不自洽。
+6. **self-check 第二处越界**：`costed the search` 勾了 ✓，可 1D 的 search cost 是 `Time reading ingredient lists, watching reviews` —— **时间没有折成钱**（#2 杨珺怡组的同一条）。
+7. **2.1 的集点卡整张消失了（−0.5）**：2.1 §3 写了三类客户关系手段（个性化过敏原答疑 / 消费积分兑换免费产品 / 公开反馈表单），本份只留了免费样品、换掉集点卡却**没说明为什么**。而那张卡（消费 5 次换 1 份）在自家生命周期里根本触发不了——正好是 §4 `Reciprocity` 那栏「带条件的免费礼物」的证据。要么保留并改口径，要么明写「废弃，因为条件性馈赠 + 生命周期不足 5 次」。
+8. **§4 的 `Is the honest version actually true for me?` 七格全 Y（−1）**：这份生意**审批还没拿到、一个客户都还没有**，于是 `Seasonal limited-run flavour batches with real fixed production volume`、`Publish real unfiltered customer reviews including negative feedback`、`Voluntary online community` 现在都只是**计划**，不是事实。七格全 Y = 审计零证伪压力（本批第 4 份，与 #2 / #4 / #10 同病），而他们其实最接近写得出「什么时候会变成真的」。
+9. **无成员署名、无 Due、标题未署组名（−2）**；另 §3 把获客策略挂到 `Timing` 上——Authority 改的是**决策那一刻的转化**，不是购买时间，挂 `Features`/`Buyer information` 才准（留存那条挂 `Frequency` ✓ 是对的）。
+
+**卷面短评**：*The strongest influence and tiebreaker tables in the batch — one primary family actually chosen, product features explicitly kept out of the situational row, three losses written down, and the pattern read through to "so both acquisition and retention matter." Two self-designed tactics whose killer questions are the lesson's own, and a drill that is 16 for 16 with the mechanism named. What holds it at 87: the $1.60 sample cost is printed on its own row and then never subtracted, so the headline +$2.80 is really +$1.20 — while your own self-check claims the tactic's cost was included; the $6.00 → $5.40 move needs a conversion rate, $180 is not a real price for an independent lab report, and the LTV you inherited still has no time window even though 2A just handed you one.*
+
+**口头追问题**：1) $1.60 落在哪一格？扣掉之后 LTV−CAC 是多少？self-check 为什么勾了「included」？2) $6.00 → $5.40：转化率从多少到多少？$180 既然不在 2.1 的 $840 里，凭什么说「摊薄了 CAC」？3) 独立实验室报一次价多少？你们付钱的报告，还「独立」吗？4) 2A 写了每 2–4 周一次：12 个月复购几次？LTV $14.10 是几个月的钱？5) 2.1 的集点卡（5 次送 1）现在算什么——砍了，还是被免费样品替代，为什么？6) 一份 $7 的植物肉，凭什么算 consequential 而不是像咖啡一样 habitual？7) 审批还没下来，§4 那七个 Y 里有几个其实现在还写不成 Y？
+
+**关联**：1.8 **未提交（0）**，见 [[Assignment 1C (1.8) — Grading Log]] #15 · [[Assignment 2.1 — Grading Log]] #13 = **70**（本份逐字回引的 `$6.00 / $11.90` 即出自该条 ✓，全班少见的真结转）· Quiz 1 朱稼棋 73 / 郑歆妮 83。
+
+---
+
+## 12. 李言蹊 / 刘泽霖 / 黄芷萱 — AutoRide AI 无人驾驶网约车 · **94 (A)**（2026-11-04 补交）
+
+**§1 19 · §2 20 · §3 17 · §4 20 · §5 20 · 完成度 −2**
+**折算**：96 −2 = **94**（若按 §5 不计的 80 分制：76/80 = 95 −2 = **93**——与全批口径待办一并处理）
+
+> 项目与 **1.8 = 90、2.1 = 91、2.3 = 76** 完全一致（AutoRide AI），**零漂移**；Step 4 的 `30 / 75.60 / 45.60` 与随卷附上的 **2.1 Section 3 原文逐字对得上**（`CAC = (2,000+3,000+1,000)/200 = RMB 30`、`LTV = 13 + 60 + 2.60 = 75.60`）——这是本批**第三条真正闭环的结转线**（#9 / #11 / #12）。**可录正式成绩**（补署名 + Due 更佳）。
+> 抽取说明：本 PDF 分两层文字（模板层 + 学生层），已按页对象逐一解压复核，16 页全覆盖，非空卷。
+
+**做对了什么**
+- **§2 满分，也是全批最好的一次法律作业**：2B 引的是**具体到条文**的官方法规——`浦东新区智能网联汽车创新示范应用条例 第 2、14–16、23 条`，附官方来源与**核查日期（checked 3 November 2026）**，并如实写 `AutoRide has no approval yet`；替身链条完整（区域限制 + 天气停运 → 需求转向地铁/公交/持牌网约车）。2A 三维给值并**自己判了稳/破**（`Quantity is fairly steady; timing/frequency vary`），还回答了作业的战略追问（acquisition 打第一次选择、reward 打复购）；2C 两侧齐，且点明 `The acquisition message targets buyer information`——**rubric 要的 "the tactic's target row stated" 就是这一句**。
+- **§4 满分**：七条诚实版/拒绝版全填，Y/N 的判据自己立成一条纪律——`Y = usable honestly now; N = not established now, so not a current promotional claim`（没有车队就不许说稀缺、没有审批就不许暗示权威、没有评价就不许用共识、没有骑手社群就不许用 Unity），Authority / Consensus / Reciprocity / Unity / Scarcity 全判 **N**并各给理由；4A 三问**应用到自家**（`"Certificate?" We have no operating approval and must not imply one`），还补了一句模板没有的诚实话——**这三问查不出所有滥用**（礼物条款与退订权要另外披露）。红线紧扣 1.4-1.5 的价值（safety before expansion / fair transparent pricing / passenger privacy），最诱惑项 `Everyone is joining` 的替代动作**点名到人**（`Do not pressure Fiona to leave a metro trip that works`）。
+- **§5 满分**：16/16 全对 + 逐题 tell + **四段 FRQ 完整**（`RMB 5 off ride six` → reciprocity **C.6** → 公开仍有效（`rider sees all terms and owes us no purchase`）→ `LTV 75.60 → 88.60`，带数、带 EK，并声明 `This is a prediction, not a measured result`）。
+- **§3 Step 4 是本批第二条真结转线**：基线 `30 / 75.60 / 45.60` 原样带入，战术后 `(6,000+300)/250 = 25.20`、`13 + (6×13−5) + 2.60 = 88.60`、`63.40` **算术全对**，并**主动写了反向情形**（`仍为 200 付费、复购不涨 → CAC 31.50、LTV−CAC 44.10`）与成本口径（`10 小时 × RMB 30 = 300，不重复计类目`、`RMB 5 已在 LTV 内、不可扣两次`）；卷首声明 `All amounts are RMB, despite printed dollar signs. Scenario only, not results`——**把模板的美元符号当成待改项，而不是既成事实**。
+- **诚实是这份卷子的主线**：三个决胜项如实判输（`Lose now: no operating fleet` / `Lose now: no proven audience` / `No proven feature advantage`），再用**第五因子 informed choice** 接住（模板明文允许 `a fifth factor you can defend`，且你们注明 `not a proven advantage over both rivals`）；Step 5 `not run, no A/B counts claimed`；search cost 写 `5 min at RMB 60/hour = RMB 5, **not measured**`；1A 注明 `Chen Yu is fictional`；画像证据老实交代 Jimmy 是学生、不匹配成年画像。
+
+**失分与改法**
+1. **Step 3 的脸测没有真的说出口（−3，本节主失分）**：两格分别写 `Revised test pending` / `Peer test pending`，下方注明 `Desk check only`，页面明写 `This is a prepared reply, not a new participant response`。三道杀手问题是**书面自答**的（Who / How many / Certificate 都答得对，含"我们没有审批、不许暗示"这句），且**有真实来源**——Jimmy 早前访谈里"早高峰要等 10–20 分钟接单"的质疑，逼你们**删掉了"两分钟接驾"的承诺**（这一改是对的）；但新措辞 `He has not tested these new lines`。作业原文明写 `Do not skip M3's peer challenge — a tactic that only survives your reading of it is not face-tested`。改法：找一个人把 `Watching your budget? Compare the full fare, then choose.` 念一遍，把他问的话原样记进那一格。
+2. **1C 有两格没给胜负判语（−1）**：price 格只写了 `35/10 km*`、features 格只写 `No proven feature advantage`，而表头那列要的是 **win / lose / tie**；你们用文字补了判词（`A 35 is a proposed fare, not proof that we beat every rival`），但**表本身缺词**——判语要落在格子里。
+3. **完成度（−2）**：16 个 self-check **一个都没勾**、`Due` 空、三名成员只在首页页脚署了 `Li Yanxi` 一人（刘泽霖、黄芷萱未出现，也无分工说明）。
+4. （提示，不扣分）Step 2 写 `RMB 300/campaign; RMB 1.20 per 250 payers`，Step 4 才说 `RMB 5 已计入 LTV、不重复计`——两处口径其实一致，但**"不重复计"那句应该早写在 Step 2**，否则读者会先算两遍。
+
+**卷面短评**：*The most honest paper in this batch: three tiebreaker cells marked as outright losses, a fifth factor defended instead of claimed, a Pudong regulation cited to its article numbers with the date you checked it, and a Step 4 whose 30 / 75.60 / 45.60 you literally carried over from your own 2.1 with the arithmetic intact and a downside case written down beside it. The one thing you did not do is the one thing the worksheet says not to skip — say the line out loud to somebody: both face-test cells still read "pending", and the wording you rewrote after Jimmy's challenge has never been tested on Jimmy.*
+
+**口头追问题**：1) 把 `Watching your budget? Compare the full fare, then choose.` 念给一个人听，他第一句会问什么？2) 四项决胜你们全输或打平，凭什么让人选你们——`informed choice` 打得过 Apollo Go 的品牌认知吗？3) 没车队就不许提稀缺、没审批就不许提权威，**那你们现在唯一真正能用的说服手段是哪一条**？4) 250 个付费用户是 `6,000 + 300` 换来的，这个 250 从哪来（基线 200 的依据是什么）？5) `RMB 60/hour` 的人力单价是假设还是上海实价？
+
+**关联**：1.8 = **90** · 2.1 = **91** · 2.2 = **94** · 2.3 = **76**。四份里 2.2 最高，2.3 最低——**方法与数字强、研究执行弱**，与 2.3 那份（§4 示例数据）互为印证。
+
+---
+
+## 13. 王子轩 / 袁翌宸 — PTCG 散卡转售（宝可梦集换式卡牌）· **90 (A−)**（2026-11-04 补交）
+
+**§1 19 · §2 17 · §3 16 · §4 20 · §5 19 · 完成度 −1**
+**折算**：91 −1 = **90**（若按 §5 不计的 80 分制：72/80 = 90 −1 = **89**——两套口径在本份上几乎无差）
+
+> 项目与 **1.8 = 90、2.1 = 83** 完全一致（PTCG 散卡），**无漂移**；文件名为 `Sean Ethan 2.2.docx`，作者元数据 `子轩 王`，文档内无抬头、无 Due。
+> **⚠️ 悬案（Step 4 基线待对账）**：本份写 `Baseline from Assignment 2.1: CAC = $18; LTV = $62; LTV − CAC = $44`，而 [[Assignment 2.1 — Grading Log]] #6 记的是 **CAC = $0**（时间未计价，§3 = 14/20，且未算 LTV/CAC 比值）。**若这是按反馈补了工时后的重算，就该照作业原文声明**（`If your Step 4 numbers contradict your 2.1 numbers, that is a finding — write which one you are changing and why`）；$62 也要能在 2.1 里指到。**声明后本分可再议。**
+
+**做对了什么**
+- **§4 满分，全批最好的一份审计**：七条诚实版/拒绝版**全落在自家库存的具体物上**——稀缺的诚实版绑定真实存货（`our very last physical copy in stock right now`），拒绝版直接点出数字怎么骗（`Claim "Only 2 left!" while holding 8 copies`）；**三问以 `Killed by question` 落到行内**（How many / Show me the check records / Who are these reviewers），4B 最诱惑项 = `用假稀缺清滞销库存` → 替代动作具体（**公开打折 + 报真实库存数**），核心价值 `Honesty and respect toward our fellow collector hobby community` 对得上。
+- **§1 家族判定干净**：四行里**只标一个 Primary**（Psychological：怕买到假卡 + 收藏者自我认同）；situational 行**自己写了判据**（`situational effects end once shopper leaves`）；**1C 四项 × 两个具名对手、四个胜负判语齐全**（Tie / Win / Win / Lose，**Advertising 如实判输**）；**1D 两侧都写**——高价单卡 = rational、补充包冲动 = habitual（Keep 式拆分），search cost 也点名了（`20–40 minutes validating sellers`）。
+- **Step 3 是真脸测**：挑战栏是**两句像真人问出口的话**——`What exact checks are these? May I look at your verification logs? How many total cards have you verified?` / `Are there hidden terms? Am I forced to buy something the next time I come?`——不是抄模板的三个提示词，两问都有回答且判了存活。
+- **Step 2 原话具体到可照抄执行**：验真（`If you want, I can walk you through three quick authenticity checks right now while you look at this card`）、免费卡套（`there is no extra purchase requirement for this perk`——直接命中讲义的 no-purchase-required 标准），成本 $0.12 / $0.40 带价，决胜项挂 **Features（自己赢的那一项）**，模式维度 Timing / Frequency 与 2A 对应。
+- **§5 十六题全对 + 四段 FRQ 齐**（机制命名、公开后仍有效、CAC/LTV 方向都说清），逐题 reason 都写了一句话。
+- §4 的 `Step 4` 算术自洽：73 − 16.20 = 56.80 ✓、+11 + 1.80 = 12.80 ✓。
+
+**失分与改法**
+1. **Step 4 的基线说不清出处（−2，主失分）**：`CAC = $18` 与本组 2.1 的 **$0** 对不上（$18 看起来正是按 2.1 反馈「补工时换算」后的结果——那就更要写出来）。改法：在表下加一行 `我们把 2.1 的 CAC 从 $0 改为 $18，因为把获客工时按 $__/小时计入；LTV $62 出自 2.1 的 §3 第 __ 行`。同理，**$1.90 的人工只给了分钟数**（1.5 + 2 分钟），时薪多少没写，所以这个数看不出来是怎么加的。
+2. **§2 没有「稳 / 破」判断（−2，本节主失分）**：2A 三行给的是具体值（`Every 1–4 weeks; sharp spikes at new-product launches` ✓），但**第 4 列原样留着讲义的 Theo 例子**，全节没有一句「哪几维稳、哪几维破」——rubric A 档第二项就写在这一句；也因此 2A 下面那个战略问题（**哪条战术打哪一维**）只在 Step 2 的表格里顺带出现，没有在 §2 自己回答。
+3. **2B 的法条太泛（−1）**：写的是 `consumer-protection and intellectual/copyright laws`——**没点名法域、哪部法、何时核过**（对照 #12：浦东条例第 2、14–16、23 条 + `checked 3 November 2026`），也没说这条法**怎么改变了你们自己的 when/where**；替身给的是「别的卡牌 TCG」，可封掉仿冒后需求第一站其实是**正版高价卡**（或者官方补印），不是换游戏。
+4. **Step 4 的成本没有真正进数（−1）**：CAC 侧写了「清单成本摊到更多付费客户」✓，但 **LTV 的 +$11 没扣每次返还都要给的 $0.40 卡套**，也没有任何转化率/复购率支撑 `18 → 16.20` 与 `62 → 73`。
+5. **1D 的 search cost 只有分钟数（−1）**：`20–40 minutes` 没折成钱（rubric 要 `search costed`；而这正是你们 2.1 被扣的同一个点「时间即成本」）——你们的公开验真正好省掉它，**却没在 1D 写出这句话**。
+6. **Step 5 的「成功标准」不是标准**（可选段，不扣分）：`Record intended purchase behaviour, not only subjective positive feedback` 是方法说明、**没有阈值**（应写 `≥6/12 选 A`），因此这条假设不可能失败。
+7. 完成度（−1）：文档内**无抬头、无成员署名、无 Due、self-check 一格未填**（两个名字只出现在文件名里）。
+
+**卷面短评**：*The audit is the best in this batch — seven honest/manipulative pairs written in your own inventory's language, the killer question attached to three of them, and a red line whose alternative is "discount the slow stock and state the real count". Your face test asks questions a person would actually ask. Two things keep this at 90: the CAC you call "from Assignment 2.1" is $0 in the 2.1 we graded, and Section 2 never says which of your three dimensions are steady — you left Theo's example sitting in the column where your own judgment should be.*
+
+**口头追问题**：1) 你 2.1 的 CAC 是 $0，$18 是哪一次算的——为什么不按作业要求写「我们改了、因为……」？2) 每 1–4 周买一次，哪一维是稳的？那留存战术为什么挂在频率上、而不是转介？3) 哪个法域、哪部法？封掉仿冒后，需求第一站是 Yu-Gi-Oh! 还是正版官方卡？4) $1.90 = $0.12 + $0.40 + 3.5 分钟人工——时薪多少？5) `20–40 分钟` 换成钱是多少，你们的公开验真省下的正是它，为什么没写？
+
+**关联**：1.8 = **90** · 2.1 = **83** · 2.2 = **90** · 2.3 **未收到**。1.8/2.2 两端同为 90，2.1 是低谷（CAC = $0 + 星号测试不可能失败）。
+
+---
+
 ## 归档说明
 
 - **§5 口径**：#5（未交）、#6（16 题全对但无 FRQ）按 **80 分制**折算，§5 不计；#1–#4 仍是 §5 计入的 100 分制。**同一批里两套口径不能并存**——若 §5 一律可选，#1–#4 需一并折算，见下方待办。
-- **本批 10 份仅 #1、#4、#7、#9、#10 可录正式成绩**（#10 需先补 Step 4 真值，现按 89 暂定）；#6 只缺 2.1（§3 Step 4 无数字），项目与 1C 一致，可按内容录 59。
+- **本批 13 份仅 #1、#4、#7、#9、#10、#11、#12、#13 可录正式成绩**（#13 需先声明 Step 4 的 $18/$62 与 2.1（$0）的出入）（#10 需先补 Step 4 真值，现按 89 暂定；**#11、#12 均需补成员署名与 Due**）；#6 只缺 2.1（§3 Step 4 无数字），项目与 1C 一致，可按内容录 59。
 - **#8（傅皓祥 / 胡皓禹，75）**：§5 + FRQ 齐、Step 3 问对了 authority 的杀手问题，但 Step 4 的 ¥42 / ¥160 在自家 2.1 里查不到（2.1 只有 19 分、无 CAC/LTV），且 retention 押在 1–3 年才动一次的杠杆上。
-- **#9（傅铭暄，94）是本批第一**，且是**唯一 Step 4 能与自家 2.1 对上账**的卷子（$6 / $17.40 ⇒ LTV/CAC 2.9，与 2.1 一致）；1C 94 + 2.1 91 + 2.2 94 是全班最稳定的一条线。
+- **#9（傅铭暄，94）与 #12（AutoRide，94）并列第一**；**#13（PTCG，90）与 #10（K-pop，89）构成 B+ 档的上沿**——两份都是「表格全填、审计算真，但对账差一口气」。；**三份「Step 4 真能与自家 2.1 对上账」的卷子是 #9 / #11 / #12**（#9：$6 / $17.40 ⇒ LTV/CAC 2.9；#11：$6.00 / $11.90；#12：30 / 75.60 / 45.60 逐字回引）。两条最稳的线：**傅铭暄 1C 94 → 2.1 91 → 2.2 94**，**AutoRide 1C 90 → 2.1 91 → 2.2 94 → 2.3 76**。
 - **#7（章妍 / 雍一凡 / 蔡璐茜，93）是本批第二**，也是唯一 §5 满分 + FRQ 齐全的卷子；与 1C 78、2.1 92 连成一条稳定上升线。
 - **#6（王梓镛 / 曹正 / 张懿，59）的病是「大纲代替作答」**：§1/§4 全班最好、§2 三行、§3 五行；该组 1C(1.8) 的 §3 也是 4/20——**同一个学生在需要写论证的地方反复留白**，值得当堂点名——与 #5 是同一个病（有骨架、没论证）。
+- **#11（朱稼棋 / 郑歆妮，87）为 2026-11-04 补评**：本批唯一「业务身份无争议 + 数字真的从 2.1 结转」的卷子（`$6.00 / $11.90` 与 2.1 #13 逐字一致）。同时**解除两处悬案**：本组 2.1 = 那份 `Assignment 1-1.docx` 里的 2.1 段（70 分）；11-03 的 `1.8.pdf` / `2.1.pdf`（二手童车 = 讲义示范公司）**属杨珺怡组**。**本组 1.8 未提交**（同一份文件里没有任何 1.8 内容）。若补 Step 4（把 $1.60 扣进 LTV、给转化率与时间窗）＋ 署名与 Due，本份可回到 **90–91**。
 - **#2 等项目来源确认（Quiz 1 轻食 → 本份自行车，且等于讲义示范公司）；#3 等身份确认（Study Café → EcoGlow → 饮品摊三重漂移）；#5 等 2.1 §3 补齐（$32 / $145 无出处，但项目本身与 Quiz 1 一致）。
 - **#2（杨珺怡 / 励景宽 / 孙良熙，85）为 2026-11-03 补评**：本批**唯一一份 §3 十格全填满 + 16 题全对 + EK 全对**的卷子；但生意是讲义示范公司，且没读出「$4.20 成本换 $5 降本 = 净 $0.80」这个结论。若确系正式项目，补 1A–2.1 后把 85 转正。
 - 叶晨文/刘怡辰的 2.1（54，归属存疑）与本份 92 反差极大——若 2.1 确系交错或损坏，**重交后 2.1 重评**。

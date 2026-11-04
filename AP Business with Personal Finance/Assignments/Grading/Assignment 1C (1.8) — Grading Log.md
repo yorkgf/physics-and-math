@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 1C (CED Task 7)
 AP Topic: 1.8 Production Process & Supply Chain Plan
-Graded: 2026-10-25（#11 于 11-02 补评；#12、#13 于 11-03 补评）
-Submissions: 13 groups
+Graded: 2026-10-25（#11 于 11-02 补评；#12、#13 于 11-03 补评；#14 于 11-04 补评；#15 于 11-04 登记为未提交）
+Submissions: 15 groups（其中 1 组未提交 1.8：朱稼棋 / 郑歆妮）
 Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/completeness adjustment
 ---
 
@@ -29,6 +29,10 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 | 11 | **傅皓祥 / 胡皓禹**（11-02 补交） | Adapt-Fit 迷你篮球套装（实物） | 23 | 23 | 17 | 20 | −2 | **81 (B)** | — |
 | 12 | **张皓诚 / 徐镜舟**（11-03 补交） | 便携电动意式咖啡机（实物） | 21 | 16 | 20 | 17 | −2 | **72 (B−/C+)** | — |
 | 13 | **陈昭宇小组**（来件仅写组名）（11-03 补交） | AI 智能膳食健康分析系统（服务） | 24 | 21 | 24 | 24 | −1 | **92 (A)** | — |
+| 14 | **杨珺怡 / 励景宽 / 孙良熙**（11-04 补交） | 二手儿童自行车（⚠️ 与 Quiz 1/1A 项目不符 · 骨架为讲义贯穿故事 Theo） | 23 | 22 | 18 | 21 | −2 | **82 (B)** | — |
+| 15 | **朱稼棋 / 郑歆妮**（11-04 登记） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | — | — | — | — | — | **0（未提交）** | — |
+
+> 第 15 行**不计入评分分布**（不是低分卷，是整章缺席），它的出现使本批从 14 份变为 14 份评分 + 1 份未交。
 
 ### ⚠️ 复核更正（3 处，均为求和笔误，非重新评分）
 | 组 | 原报 | 复核 | 说明 |
@@ -348,9 +352,61 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 
 ---
 
+## 14. 杨珺怡 / 励景宽 / 孙良熙 — 二手儿童自行车（⚠️ 项目存疑）· **82 (B)**（2026-11-04 补交）
+
+**§1 23 · §2 22 · §3 18 · §4 21 · 完成度 −2**
+
+> **项目存疑（承接 [[Assignment 2.2 — Grading Log]] 悬案 #3）**：三人在 Quiz 1 的项目是**学生健康轻食**（杨珺怡 83 / 励景宽 78 / 孙良熙 72），Quiz 1 评语还引用过「你们 1A 的护城河 = 稳定平价食材供应商」；本份却是**二手儿童自行车**——即课程贯穿故事 Theo / Trued Cycles（21 点签字检查、街边摊位、两个对手：新车零售店 / 私家车库卖家）。**1.8 ↔ 2.2 #2（85）↔ 同批到达的 `2.1.pdf` 三份自洽，与 1A / Quiz 1 断链**；1A / 1.3 / 1.4-1.5 至今无归档。**按内容计 82，项目线确认后定稿。**
+> **公道话**：1.8 讲义的示范链是 cookie parent / food delivery / Zara / Copper Kettle，**没有自行车供应链示范**——§2–§4 的判断与填空是他们自己写的，不是抄答案；被继承的是「生意设定」这一层。比 2.2 那份也少了几处逐字对应（无橙吊牌、无 30 天调校），且把客群改成了低龄儿童+家长，算有一点自己的加工。
+
+**做对了什么**
+- **§1 三输入顺序显式标注 First / Second / Third**，Hybrid 走了三步推理；`Relies on: Skilled labor + attention to detail… basic hand-tool technology support` 与 `Output: Moderate smaller quantities… units are standardized on safety requirements but each bicycle is unique second-hand inventory` 两问答形标准（EK 1.8.A.2 两问都命中）。
+- **§2 warehouse 判据用的是真判据**：`we do not actively forward large batches onward to other retailers, we sell directly to end customers`——与傅铭暄、PTCG 同一条判据，不是「想要更高级的答案」。五阶段 + 逐段 reach 全填；Stage 2 填自家翻新工坊而非硬套（这门生意的「生产过程」本来就是翻新）；§2 的 supplier（本地零件零售商）与 §3 的 Supplier A **同一主体，内部一致** ✓。
+- **§3 五因子 × 两供应商全填**，选择锚在战略上（`slightly higher unit cost is justified for reliable child-safe replacement components`）；risk assessment 写出了**后果链**而不只是「有风险」：断供 → 翻新变慢 → 延迟交付 → 伤客户信任。
+- **§4 三格都是自己的句子**（对比 #13 被扣的模板句）：`How does my strategy shape my supply chain?` 写成「差异化 → 高质量件 + 手工检修 → 不为压供应链成本让步」；specific example 指回 §3 的 Supplier A；barriers 一行**替换了模板原文**。
+- **Scaling 算术全对**：24→48、2,160→4,320、1,128→1,968、1,032→2,352；单价 $90 全程恒定；`+100% vs +74.4%` 的结论对，机制句（固定 overhead 摊薄）也对；「翻倍要先换什么」答了（兼职技师 + 场地 + 采购量）——#12 漏掉的那一问答上了。
+- **self-check 一个没勾**：与「勾了却没写」的组相反，这份是诚实的（虽然也没起到自证作用）。
+
+**失分与改法**
+1. **§3 全节零价格（主失分，−3）**：`Moderate cost / Lower unit cost` 是形容词；讲义的示范恰恰是把风险算成钱（`saves $88/month, carries a $3,600 accident`）。A 比 B 贵几块、B 的运费加回来还剩多少便宜、emergency stock 值多少钱——一个数都没有，`slightly higher unit cost` 无法核。
+2. **CED 五风险 ≈ 1/5 且未排序（−2）**：`local inventory shortage / business closure / supply-delivery disruption` 最多擦到 resource shortages 一条；**production errors 没点名**——你们卖的是给孩子的二手童车，**刹车失灵就是你们的致命自伤项**；supplier reputation 也没提，而「信任即卖点」正是你们的差异化（判别线 #4）。
+3. **1.3 的 force 没接进来（−1，计入 §3 风险行）**：头盔强制令 / 二手商品与儿童用品合规——你们在 2.2 的 2B 里用过——在 §3 风险行与 §4 scaling 闸门里一次都没出现（作业 Note 5 要的就是这个）。
+4. **备份缺数量与合格化（−1）**：`limited emergency safety-part inventory` 没有数量、没有补位时限、没有养它的成本；B 的 3–5 天交期只藏在矩阵里，没写成「断供后第几天能顶上」。讲义给的满分动作是 split the order；你们选单源 + 少量库存可以，但要把账算出来。（§3：25−3−2−1−1 = **18**）
+5. **distributor 写成二手平台（−2，§2）**：平台搬的是 listing，不是货——你们自己在摊位/当面交货；且它与你自家 Stage 4 的零售格**是同一件事**，等于把渠道再说一遍，**supplier / distributor 这个区分没有被演示出来**（EK 1.8.B.3 要的就是这一步）。正确写法：**自有交付，无外部 distributor**；或点出「平台同时掌握流量 = 单点依赖」。与判别线 #1 的「自家 App 当 distributor」同族，程度轻些。
+6. **service 表留空（−1，§2）**：实物生意应写一行 `N/A — goods, supply-chain stages above apply`（与 #12 同一处理），留白既丢分又像没读题。（§2：25−2−1 = **22**）
+7. **Scaling 表与正文互相矛盾（−2，§4）**：表反解出来是**固定 $288 + 变动 $35/辆**（48×35+288 = 1,968，固定成本一分没涨），可正文一边说「要新增存储空间的固定投入」、一边说「要加一名兼职技师」——**这些钱在表里没有位置**。要么把固定/变动两行显式写进表（clause 2），要么承认翻倍后固定成本会跳档。
+8. **barrier 有一半被自家 §3 推翻（−2，§4）**：`established relationship with local quality-focused parts supplier`——可你们 §3 写的是「街对面的零售店、当面就能买」，**新进入者走进同一家店就拿到同样的件**，这不构成壁垒；站得住的是后半句（熟练检修工艺 + 21 点标准的人力）。把前半句换成排他/优先供货协议这类真有限制，或删掉。（§4：25−2−2 = **21**）
+9. **数字跨作业对不上**：1.8 反解单位成本 $47、每辆「利润」$43，**Total costs 里没有营销**；同批到达的 `2.1.pdf` 算的是 CAC **$31.43/人**、first-purchase margin $38。两份必须统一口径（clause 2）。顺带：`2.1.pdf` 的 LTV 表（$38+$24+$26=$88）与讲义 **Renee 示范答案逐字相同**，那份要单独查。
+10. **无成员署名与分工、无 Due、无产品名（−2）**：文件直接从 `SECTION 1` 开始，连作业抬头都没有（Note 4）。
+11. **§1 标签与论证有一处张力（−2）**：`Relies on` 与 `Output` 两问给的都是 artisan 答案（skilled labor、smaller quantities），标签却是 Hybrid——「混合」只落在「安全标准统一」上，没说明**工艺**哪里是 mass 的（21 点流程的标准化 vs 每辆车的独占处理，这正是你们该讲清的那一步）；全节无任何量化（每辆工时、月产量、custom/standard 比例）。（§1：25−2 = **23**）
+
+**卷面短评**：*Every distinction here is answered on the real criterion — warehouse not DC because you don't forward, the strategy cell and the barrier cell are your own sentences, and the scaling arithmetic all checks out — but Section 3 has no prices while the lesson's model does nothing but price things, your table's implied $288 fixed cost leaves no room for the storage and the technician you say you need, and that profit is computed before the $31.43 CAC your own 2.1 charges.*
+
+**口头追问题**：1) 这份自行车与你们 Quiz 1 / 1A 的健康轻食是什么关系——换项目，还是拿讲义示范练手？1A / 1.3 / 1.4-1.5 补不补？2) A 比 B 贵几块钱？把 emergency stock 与 B 的 3–5 天算成钱，你还会选 A 吗？3) 刹车失灵（production errors）发生在你们身上谁负责？这条为什么不在 §3 风险行？4) 表里固定成本翻倍后仍是 $288——新场地和兼职技师的钱从哪来？5) 新对手明天走进同一家零件店，你的 `established relationship` 还剩什么？
+
+**关联**：1.8 #14 = **82（项目待确认）** · 同批到达的 `2.1.pdf`（11-04 09:53、同为二手童车、无署名）**已由教师确认归属本组，并于 11-04 评 82**（见 [[Assignment 2.1 — Grading Log]] #12）· 2.2 #2 = 85 · Quiz 1 杨珺怡 83 / 励景宽 78 / 孙良熙 72。
+
+---
+
+## 15. 朱稼棋 / 郑歆妮 — 重组蛋白植物肉 · **未提交（0）**（2026-11-04 登记）
+
+**§1 — · §2 — · §3 — · §4 — · 完成度 —**
+
+> **为什么是 0 而不是低分**：交件 `Business Canvas Project Assignment 1-1.docx` 已逐段核过——骨架是 **1.4-1.5 工作纸**（IDEA AUDIT 1A/1B/1C、TASK3–TASK6、`SECTION6 EXAM DRILL`），2.1 的答案贴在 TASK3/4/5 下面，`SECTION6` 交的是 1.4-1.5 的五题 drill。**§1 生产流程、§2 供应链五段、§3 供应商五因子、§4 战略与 scaling 四格，一格都没有。** 这不是“写了但写得不好”，是**整章缺席**，4×25 的四个维度无法给任何一格记分。
+> **不是交错文件**：同一份文件里那段 2.1（ECOECHO、`$7 / $4.2 / $2.8`、CAC `$6.00`、LTV `$11.90`）与 [[Assignment 2.1 — Grading Log]] #13 **完全一致**，其 2.2（87）又逐字回引这两个数 —— **这条项目线只缺 1.8 这一环**。11-03 到达的 `1.8.pdf` / `2.1.pdf`（二手童车 = 讲义示范公司）**属 杨珺怡组**（本日志 #14、2.1 日志 #12），与本组无关；不用再猜“是不是交了两份”。
+> **11-04 16:28 第二次收到文件 `Business Canvas Project Assignment.docx`（WPS，creator `哄哄`，created 2026-11-03 19:07Z）——仍不是 1.8**：逐段核过，内容是 **1.4-1.5 的 Tasks 3–6 + 2.1 §1**：`Section 1 Idea Audit`（Gap/Why now/Team strengths + **Identify / Promote / Sell / Deliver 四项营销活动与 Weakest activity**）、`Section 2 Task 3 Customer Interviews`（三个受访者、三组客群、Lily、假设与成功标准）、`Section 3 Task4 Solution`（MVP 三特点、`$7 / $4.2 / $2.8`、关系策略、**CAC $6 / LTV $11.9**）、`Section 4 Task5 Risk & Return`（$28,000 启动 / $75,000 收入 / $47,000 净利）、`Section 5 Task6 Organisation Definition`（核心价值、数据管理、四种数据风险）。**1.8 四节一格仍没有**：`artisan` / `mass production` / `three inputs` / `warehouse` / `supplier` / `distributor` / `scaling` / `barriers to entry` 全文命中 **0**，唯一一处 `supply chain` 出现在 2.1 §1 的 Deliver 行（`we do not have massproduction supply chain`）；作业单四节标题 `SECTION 1 PRODUCTION PROCESS` / `SECTION 2 SUPPLY CHAIN DESIGN` / `SECTION 3 SUPPLIER SELECTION` / `SECTION 4 STRATEGY → SUPPLY CHAIN ALIGNMENT` 一个都没出现。**0 维持。** 若此件本意是 **1.4-1.5 补交**，请另立日志按 1.4-1.5 作业单评（vault 中尚无 1.4-1.5 评分日志），不要记进 1.8。
+> **建议**：1.8 是独立章节（供应链五段、五因子 × 两供应商、scaling 表），**无法从 2.1 / 2.2 推得**——请补交后再评。本组现有记录 **1.8 = 0 · 2.1 = 70 · 2.2 = 87**：后两份都在 B 上下，而 1.8 的缺席会把整条线的观感拉到底，**值得当堂催一次**（最好当场问一句“你们知道自己少交了一份吗”）。
+
+**口头追问题**：1) 1.8 那份在哪——是交了但交错文件，还是没做？2) 你们 2.2 的 Authority 建立在“独立实验室报告”上，那份报告要外部供应商才能出——用 1.8 的五因子（价格/交期/可靠性/产能/技术）描述一下这个 supplier，你们选得出来吗？3) 产品还是实验室样品（2.1 自己写的 `仅有实验室样品，缺少渠道与量产物流`），那供应链五段里你们能控哪一段？4) 发酵扩产需要什么原料、什么设备、断供了怎么办——2.1 里的两个风险（审批周期、消费者顾虑）为何都不是供应链风险？
+
+**关联**：[[Assignment 2.1 — Grading Log]] #13 = **70** · [[Assignment 2.2 — Grading Log]] #11 = **87**（本批唯一“数字真的从 2.1 结转”的卷子）· Quiz 1 朱稼棋 73 / 郑歆妮 83。
+
+---
+
 ## 本份归档的使用说明
 
 - **不要把前 10 个分数直接录成正式成绩**：第 4/7/8 行含复核更正，建议先与学生确认（尤其吴凌轩组的 +9）。#11（傅皓祥组 81）为 11-02 补交，无复核更正问题。
 - **每组口头追问题**用于 FRQ 个人写作前的抽查（FRQ 1 占 15%，个人作答）。
 - 跨作业共性错误与正反例句见 [[Grading — Cross-Assignment Findings]]。
 - 关联：[[Business Canvas Project - Assignment 1C (Task 7)]] · [[Assignment 2.1 — Grading Log]] · [[Grading — Cross-Assignment Findings]]
+- **#15（朱稼棋 / 郑歆妮，未提交）为 11-04 登记**：交件是 1.4-1.5 骨架 + 2.1 内容，**1.8 四章全空**；同一组的 2.1（70）与 2.2（87）都在 B 段，说明**缺的是这一份，不是能力**——建议当堂催交，补交后按 4×25 重评。
