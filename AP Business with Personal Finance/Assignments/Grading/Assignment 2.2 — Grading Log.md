@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 2.2
 AP Topic: 2.2 Consumer Behavior · CED Unit 2 Task 2 (persuasion half)
-Graded: 2026-11-02（#2、#5–#10 于 11-03 补评；#11、#12、#13 于 11-04 补评）
-Submissions: 13
+Graded: 2026-11-02（#2、#5–#10 于 11-03 补评；#11、#12、#13 于 11-04 补评；#14、#15 于 11-05 补交）
+Submissions: 15
 Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/completeness adjustment
 ---
 
@@ -11,8 +11,9 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 > **Reference**: [[Business Canvas Project - Assignment 2.2 (Unit 2 Task 2 - Sales Tactic)]].
 > **Central requirement**: the **persuasion half of Unit 2 Task 2** — one acquisition + one retention tactic, each named to a Cialdini principle **by mechanism** (EK cited), written in the customer's exact words, **face-tested** against the three killer questions, and **CAC/LTV carried forward from Assignment 2.1** — plus the seven-principle manipulation audit (evaluate half of LO 2.2.C).
 > **Not asterisked**: this deliverable needs reasoning, mechanism and numbers, not a market test (the asterisked research arrives in 2.3).
+> **交件卫生警告（11-05，第三次）**: **#14（吴凌轩 / 宋皓阳 / 陆骏毅）交来的是平台导出的 PDF**，§1B / 1C / 2A / 2C / Step 1–5 / §4 七原则的答案**全部被转成 10 张纯黑打字文本条图片**，文字层是空的（本份据教师另附的 MinerU OCR 版判读）；同组的 2.1 也是字体层损坏。**§1D / §4B / §5 三处经文字层与 OCR 版双重确认为真空。** 今后请直接交源 `.docx`。
 > **§5 口径（2026-11-03 教师确认）**: 考试 drill 为**可选**，未交**不扣分**；未交者 §5 记 `—`，总分按 **§1+§2+§3+§4 = 80 分**折算百分比后再做完成度调整。
-> **Batch status**: 13 submissions graded（#1、#3、#4 于 2026-11-02，#2、#5–#10 于 11-03 补评，**#11、#12、#13 于 11-04 补评**）；**#2 项目存疑、#3 身份待确认、#5/#6 缺 2.1 记录、#8 的 2.1 仅 19 分（四分之一内容）**。**李言蹊 / 刘泽霖 / 黄芷萱（AutoRide）的 2.2 已于 11-04 收到并评 94**（见 #12）——该组 1.8 = 90、2.1 = 91、2.2 = 94、2.3 = 76，**四份齐了，最弱一环是 2.3 的研究执行**。**#11 是本批第一份「业务身份无争议 + 数字真的从 2.1 结转」的卷子**（#12 同样如此），且它的 Step 4 首行顺带确认了 11-03 那两份自行车 PDF（`1.8.pdf` / `2.1.pdf`）属 **杨珺怡组**、与本组无关。
+> **Batch status**: **15 submissions graded**（#1、#3、#4 于 2026-11-02，#2、#5–#10 于 11-03 补评，**#11、#12、#13 于 11-04 补评，#14、#15 于 11-05 补交**）；**#2 项目存疑、#3 身份待确认、#5/#6 缺 2.1 记录、#8 的 2.1 仅 19 分（四分之一内容）**。**李言蹊 / 刘泽霖 / 黄芷萱（AutoRide）的 2.2 已于 11-04 收到并评 94**（见 #12）——该组 1.8 = 90、2.1 = 91、2.2 = 94、2.3 = 76，**四份齐了，最弱一环是 2.3 的研究执行**。**#11 是本批第一份「业务身份无争议 + 数字真的从 2.1 结转」的卷子**（#12 同样如此），且它的 Step 4 首行顺带确认了 11-03 那两份自行车 PDF（`1.8.pdf` / `2.1.pdf`）属 **杨珺怡组**、与本组无关。
 
 ## Score summary
 
@@ -31,6 +32,8 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 | 11 | **朱稼棋 / 郑歆妮**（11-04 补评） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | 18 | 17 | 17 | 18 | 19（含 FRQ） | −2 | **87 (B+)** |
 | 12 | **李言蹊 / 刘泽霖 / 黄芷萱**（11-04 补交） | AutoRide AI 无人驾驶网约车（概念期） | 19 | **20** | 17 | **20** | **20**（16/16 + FRQ） | −2 | **94 (A)** |
 | 13 | **王子轩 / 袁翌宸**（Sean / Ethan）（11-04 补交） | PTCG 散卡转售（宝可梦集换式卡牌） | 19 | 17 | 16 | **20** | 19（16/16 + FRQ） | −1 | **90 (A−)** |
+| 14 | **吴凌轩 / 宋皓阳 / 陆骏毅**（11-05 补交） | 学生健康零食（校园手作零售 · $3–7/份） | 13 | 15 | 15 | 14 | —（可选未交） | −2 | **69 (D+)** |
+| 15 | **陈昭宇 / 章博涵**（11-05 补交） | AI 智能膳食健康分析系统（¥18/月 · ¥98/年） | **20** | 19 | 17 | 19 | **20**（16/16 + FRQ） | −2 | **93 (A)** |
 
 > 第 11 行按分数应排在第 2（85）与第 4（75）之间；同样**追加在表尾**以避免打乱既有 #编号与跨文件引用。
 
@@ -51,6 +54,8 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 | 11 | 朱稼棋 / 郑歆妮 | 87 | Step 4 把 `Cost of running the tactic $1.60 per customer` **单列成一行、然后一格都没扣**，所以头条的 +$2.80 其实是 **+$1.20**，而 self-check 恰恰勾了「with the tactic's own cost included」；CAC −$0.60 与 LTV +$2.20 都只给机制不给转换率/复购率，$180 那个实验室报价也买不到一份真报告——但 1B/1C/§5 是本批最干净的几张表之一。 |
 | 12 | 李言蹊 / 刘泽霖 / 黄芷萱 | 94 | 三格决胜**如实判输**、法条**引到条文并附核查日期**、Step 4 的 `30 / 75.60 / 45.60` 与自家 2.1 **逐字对上**、16 题 + FRQ 全对——唯一没做的正是作业那句 `Do not skip M3`：**脸测两格写着 `pending`、`Desk check only`**，Jimmy 质疑之后改的新话术，还从没在 Jimmy 身上试过。 |
 | 13 | 王子轩 / 袁翌宸 | 90 | Step 4 写 `Baseline from Assignment 2.1: CAC = $18`——**可你们的 2.1 记的是 CAC = $0（工时未计价）**，改数就要照作业原文写「我们改了哪个、为什么」；其次 2A 三行都给了具体值，却**把讲义的 Theo 例子留在「你的模式」那一列**，全节没判哪一维稳、哪一维破——rubric 的 A 档就写在这一句。其余是全批最好的 §4 与真问出口的 Step 3。 |
+| 14 | 吴凌轩 / 宋皓阳 / 陆骏毅 | 69 | 两条话术写得像真人会听见的话、成本精确到角（$0.1 打印 + $0.4 样品），这是本批最扎实的 Step 2——但 **2B 自己写的「校内禁售未注册手作食品」把 §3 的整个手作战术判死了，卷上没有一个字处理**，配料表还被当成 Authority（机制是专家/凭证背书）；加上 **§1D 与 4B 红线两处整节空白**、两条脸测问的都是自己必然能过的题、Step 4 的 CAC 是升的而旁边的字写着 `cuts CAC`。 |
+| 15 | 陈昭宇 / 章博涵 | 93 | 方法论是全批最高：唯一在 1B 里写明「产品特征不是 situational」的障眼法纪律、把 1D 拆成「订阅=rational / 使用=habitual」两行、Step 4 的 `57 / 68.6 / 1.20 → 45 / 82 / 1.82` 全部可复算且诚实承认「仍 <2」，16 题全对。扣分在**交付那一节**：脸测五格全「存活」（真问题问对了，但没有一条破）、`注册营养师 XXX，执业编号 XXXXX` 仍是占位符、`摊到每份 ¥0.05–0.5` 与自己的 `¥1,500/月` 差 3–30 倍，且「首份免费」压在你们 1C 判**输**的 Price 上。
 
 > 一句话总纲：**这一批的失分几乎不在「不懂心理学」，而在三处 repeated 位置——Step 4 的数字没有出处、Step 3 的 face test 没问对杀手问题、以及§2 的模式读完没有落到「所以留存该打哪一维」。**
 
@@ -129,6 +134,7 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 **§1 16 · §2 18 · §3 15 · §4 18 · §5 17 · 完成度 −2**
 
 > **暂定原因见上文悬案 #1**：本份生意（校园饮品摊）与其 1A/1.3（Study Café）、1.8/2.1（EcoGlow 蜡烛）均不符，且 CAC/LTV 自称出自 2.1 而 2.1 实际为美元蜡烛口径。内容本身言之有理、内部自洽，先按内容质量计分；**确认换项目或收到正确文件后定稿**。
+> **11-05 更新：悬案升级**——本组 2.3 已收（**自习咖啡馆，84**，见 [[Assignment 2.3 — Grading Log]] #12），等于把项目**拉回 1A / 1.3**。四个检查点三个生意（自习咖啡馆 → EcoGlow 蜡烛 → 饮品摊 → 自习咖啡馆），本条 82 的效力取决于他们最终选哪门生意：若选自习咖啡馆，**本条与 1.8 / 2.1 都需重交**。
 
 **做对了什么**
 - **§1 家庭排得干净**：主驱动 **situational**（早高峰赶路、只买顺路摊位），次级 psychological（低糖）+ social（同学买什么）——**没把产品特征塞进 situational 行**；四决胜项 × 两个具名对手（校园便利店：价格平、赢差异化；奶茶店：赢价格和地段、输广告）基本齐。
@@ -234,6 +240,10 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 **卷面短评**：*Section 1 and Section 4 are the best two sections anyone in this class wrote — a full four-tiebreaker grid, the product-feature trap named and disarmed, and a manipulation audit where every "Y" carries a reason and the fake countdown is replaced by a real single-batch scarcity. Then Section 2 is three lines and Section 3 is five, with no mechanism, no face test and not a single number in Step 4. The thinking is there; the answering is not.*
 
 **口头追问题**：1) 你们 2A 的"八月开学、几年一次、一次一个"是从哪来的——笔记本支架的客户真的如此吗？2) 校园限制摊位和你们的快闪摊位渠道怎么并存？3) `Both survive full disclosure` 是谁问了你什么，你原话怎么答的？4) consistency 的 EK 是 C.6 还是 C.7？5) Step 4 的 CAC 原来是多少，策略之后是多少？
+
+**关联**：[[Assignment 1C (1.8) — Grading Log]] #9 = **67** · **2.1 无记录**（唯一像 2.1 的内容误装在 1.8 里：`CAC $10 / LTV $33`）· 本份 **59** · [[Assignment 2.3 — Grading Log]] #15 = **82**。
+> **11-05 补记 —— 这条线第一次上 80，而且问题不是能力**：2.3 的 §3 = 18（两条假设带判据与 if-fails、方法表拒掉 interview 并给理由）、§4 = 16（`14/40 = 35%` 判 H1 不成立，4D 七格全齐）、§7 = 20/20。**同一组人，2.2 的 §2/§3 只剩大纲是因为没写，不是因为不会写。**
+> ⚠️ **价格三份三价**：1.8 `$16→$15` · 2.2 `$15–30` · 2.3 `$25–35`（测 `$25–32`，H2 判 Supported）——**2.3 的 claim #1 把 `$25–35` 的出处写成 `2.1 profile`，而 2.1 日志里没有这组**；涨价 60% 无一句解释，1.8 的 `LTV $33 / CAC $10` 全部作废。
 
 ---
 
@@ -358,7 +368,8 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 **口头追问题**：1) 你 2.1 的 CAC 是 $8、LTV 是 $46.60——为什么这里变成 ¥50 和 ¥150，是币种问题还是换了假设？2) `Order now and your set stays complete` 和你们 §4 拒绝的 "invented last-chance window" 差在哪？3) 集章卡 5 赠 1 用的是哪个机制——consistency 还是 reciprocity？§4 拒绝的"带条件的免费礼物"跟它有什么不同？4) 你们的买家 14 岁，用同伴压力（"real fans buy"）对这年龄说话，红线画在哪？5) 一条留存策略里塞了两个动作，你到底在测哪一个？
 
-**关联**：1C #10 = 59 (C)（§1 仅 13）；2.1 #7 = 81 (B)（§2 三段表全空、标准 `1 of 2` 不可能失败、CAC/LTV 两表空白）；本份是本组第二次大幅上升。
+**关联**：[[Assignment 1C (1.8) — Grading Log]] #8 = **78 (C+)**（§1 仅 13）· [[Assignment 2.1 — Grading Log]] #3 = **92 (A−)**（§1 全班第一个满分）· [[Assignment 2.3 — Grading Log]] #14 = **92 (A)**。**轨迹：78 → 92 → 93 → 92，本批最稳的一条上升线。**
+> **⚠️ 11-05 记录校正**：本行原写作「1C #10 = 59 / 2.1 #7 = 81」——**那是王钰嘉组（1.8）与别组（2.1）的数字，串到了章妍组名下**。现按本表 #7 = 93 对应的真实编号改正。
 **⚠️ 悬案 #9**：Step 4 若用 2.1 真值（$8 / $46.60）重算，本份可回到 **92–93**——建议允许补交一版 Step 4 再定最终成绩。
 
 ---
@@ -368,7 +379,7 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 **§1 18 · §2 17 · §3 17 · §4 18 · §5 19 · 完成度 −2**
 
 > **这份顺手解掉两处悬案**：① 本组自己的 2.1 是那份 `Business Canvas Project Assignment 1-1.docx` 里的 2.1 段（`CAC=$6.00 / LTV=$11.90 / LTV−CAC=$5.90`）——本份 Step 4 首行**逐字回引** ✓，**不是** 11-03 到达的 `2.1.pdf`（`$31.43 / $88 / $56.57`）；② 那两份自行车 PDF 已归 **杨珺怡 / 励景宽 / 孙良熙**（见 [[Assignment 2.1 — Grading Log]] #12、[[Assignment 1C (1.8) — Grading Log]] #14），与本组无关。
-> **本组三份**：1.8 **未提交（0）** · 2.1 **70** · 本份 **87**。这是这条项目线上第一份业务身份无争议（与 Quiz 1 / 1.4-1.5 的 ECOECHO 一致）、且**数字真的从 2.1 结转**的卷子——#1 / #3 / #8 的「声称出自 2.1 但查不到」问题在这里不存在。
+> **本组**：1.8 **84**（11-05 补交，原登记 0）· 2.1 **70** · 本份 **87**（另有 2.3 = 86）。这是这条项目线上第一份业务身份无争议（与 Quiz 1 / 1.4-1.5 的 ECOECHO 一致）、且**数字真的从 2.1 结转**的卷子——#1 / #3 / #8 的「声称出自 2.1 但查不到」问题在这里不存在。
 
 **做对了什么**
 - **1B 是本批最干净的一张影响家族表**：四行齐、**选定唯一 primary = Psychological**（`Values sustainable diet; frustrated by bad texture & too many additives`），并附 sorting note —— `Product features (fibrous texture, low-additive formula) are product attributes, not situational factors. Situational only describes temporary shopping environment that vanishes once they close the browser.` self-check 那句 `kept product features out of the situational row` 与文义对得上（判别线 #6 正面例；#10 Chloe 在同一处被判 two primaries）。
@@ -395,7 +406,7 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 **口头追问题**：1) $1.60 落在哪一格？扣掉之后 LTV−CAC 是多少？self-check 为什么勾了「included」？2) $6.00 → $5.40：转化率从多少到多少？$180 既然不在 2.1 的 $840 里，凭什么说「摊薄了 CAC」？3) 独立实验室报一次价多少？你们付钱的报告，还「独立」吗？4) 2A 写了每 2–4 周一次：12 个月复购几次？LTV $14.10 是几个月的钱？5) 2.1 的集点卡（5 次送 1）现在算什么——砍了，还是被免费样品替代，为什么？6) 一份 $7 的植物肉，凭什么算 consequential 而不是像咖啡一样 habitual？7) 审批还没下来，§4 那七个 Y 里有几个其实现在还写不成 Y？
 
-**关联**：1.8 **未提交（0）**，见 [[Assignment 1C (1.8) — Grading Log]] #15 · [[Assignment 2.1 — Grading Log]] #13 = **70**（本份逐字回引的 `$6.00 / $11.90` 即出自该条 ✓，全班少见的真结转）· Quiz 1 朱稼棋 73 / 郑歆妮 83。
+**关联**：1.8 = **84**（11-05 补交，原登记未提交；其 `140 × $7 = $980`、`$588 ÷ 140 = $4.20` 与本组 2.1 的 `$7 / $4.2 / $2.8` 及本份 `$6.00 / $11.90` 同源可复算），见 [[Assignment 1C (1.8) — Grading Log]] #15 · [[Assignment 2.1 — Grading Log]] #13 = **70**（本份逐字回引的 `$6.00 / $11.90` 即出自该条 ✓，全班少见的真结转）· Quiz 1 朱稼棋 73 / 郑歆妮 83。
 
 ---
 
@@ -457,17 +468,115 @@ Rubric: Assignment 2.2 Grading Rubric — 5 sections × 20 + presentation/comple
 
 **口头追问题**：1) 你 2.1 的 CAC 是 $0，$18 是哪一次算的——为什么不按作业要求写「我们改了、因为……」？2) 每 1–4 周买一次，哪一维是稳的？那留存战术为什么挂在频率上、而不是转介？3) 哪个法域、哪部法？封掉仿冒后，需求第一站是 Yu-Gi-Oh! 还是正版官方卡？4) $1.90 = $0.12 + $0.40 + 3.5 分钟人工——时薪多少？5) `20–40 分钟` 换成钱是多少，你们的公开验真省下的正是它，为什么没写？
 
-**关联**：1.8 = **90** · 2.1 = **83** · 2.2 = **90** · 2.3 **未收到**。1.8/2.2 两端同为 90，2.1 是低谷（CAC = $0 + 星号测试不可能失败）。
+**关联**：1.8 = **90** · 2.1 = **83** · 2.2 = **90** · 2.3 = **84**（11-05 收卷，[[Assignment 2.3 — Grading Log]] #13）。1.8/2.2 两端同为 90，2.1 是低谷（CAC = $0 + 星号测试不可能失败）。
+> **⚠️ 本份 §3 的 Authority 战术已被 2.3 的数据推翻**：2.3 的 H1 实测 `13 of 28 = 46.4%` 愿为验真多付 10%（判据 `≥55%`）→ **Not supported**，学生据此把验真从「溢价卖点」降为「免费基础服务 + 公开清单做信任工具」。因此本条 §3 里的「验真溢价」定价逻辑已不成立，**CAC/LTV 若要重算，§3 的 16/20 需复核**。这是本批唯一“自己下一步的实验否掉自己上一份战术”的完整闭环，讲评时两份并排读。
+
+---
+
+## 14. 吴凌轩 / 宋皓阳 / 陆骏毅 — 学生健康零食（校园手作零售）· **69 (D+)**（2026-11-05 补交）
+
+**§1 13 · §2 15 · §3 15 · §4 14 · §5 —（可选未交）· 完成度 −2**
+**折算**：57/80 = 71.25 ⇒ 71 − 2 = **69**
+**扣分去向**：§1 = 1D −4 / 1B −1 / 1C −2；§2 = 2A −3 / 2B −2；§3 = Step 1 −2 / Step 3 −2 / Step 4 −1；§4 = 全 Y 未验 −2 / 4B 空 −4。
+
+> **读卷限制（务必先看）**：来件为平台导出的 PDF，**答案被转成 10 张图片**（纯黑打字文本条、非手写；分布在 §1B / 1C / 2A / 2C / Step 1–5 / §4 七原则的答案区），文字层只剩标题与 §1A / 2B。本份据教师另附的 MinerU OCR 版判读。**§1D 整节、§4B 红线三格、§5 全节 = 文字层与 OCR 版双重确认为空**，故按"未作答"计，不按"读不到"计。
+> 项目与 1.8 #7（学生健康零食 · 78）、2.3 #10（62）一致，**无身份漂移**；币种 $ 与本组前几份一致。
+
+**做对了什么**（在已交的部分里）
+- **1B 每行都带 wording note**（`Highlight hand-made, no artificial preservatives` / `Keep sales lines short, stress campus pickup`），把家族判定直接翻译成话术——正是 rubric A 档 `What it means for your wording` 那一列，全批做得出来的不超过三份。
+- **避开了本节最大的陷阱**：situational 行填的是"短课间"（真的随出门而变），没有把产品属性塞进去。
+- **1C 的 Price 如实判 Lose**（`Slightly higher` 对手 `Lower / Similar`）——与 #12、#13 同一档的诚实；四格都给了胜负判语，没有一格是空的。
+- **2B 抓到一条真法条、且与自己生意直接相关**：`Campus food-safety rules. Cannot sell unregistered homemade food on campus` → 替代是"学生转买商业化包装零食"。这是本批少见的"法条不是装饰"。
+- **2C 两侧都写，并把 buyer-information 那侧接回战术存活**（`Students can ask ingredient list on spot; our tactic works with open inquiry`）——正面回应了作业那句 `design for that, not against it`。
+- **Step 2 是全卷最强的一段**：两条话术具体到可照抄执行，成本**带价**（配料表打印 `$0.1/人`、样品 `$0.4/人`），决胜项挂在 **Features（自己判赢的那项）**，模式维度分别挂 **Timing / Frequency**——这恰好补上了 2A 欠的那句"哪条战术打哪一维"。
+- **Step 4 表内算术自洽**：`4.6 − 4.2 = +$0.4`、`14.0 − 11.5 = +$2.5`、`14.0 − 4.6 = 9.4` ✓；成本栏 `$0.5 = $0.1 + $0.4` ✓。
+- **§4 七条全部填满**，且诚实版 / 拒绝版都是**自家库存里的具体动作**（`Post real student feedback screenshots` vs `Create fake positive reviews`），不是抄讲义那一列。
+
+**扣分点明细（逐格对到卷面位置）**
+
+| # | 扣分点（在卷子哪里） | 扣 | 判定依据 | 为什么扣 | 改法 |
+|---|---|---|---|---|---|
+| 1 | **§1D 整张表**（PDF 第 6 页：`Your purchase` / `Consequential or small?` / `Rational or habitual?` / `Search cost` / `Do they pay it?`） | **−4** | rubric §1 A 档 `rational/habitual split with search costed`；EK 2.2.A.2 | 一格未填。缺的不是常识，而是本节唯一的量化动作：**把「比对配料表」折成分钟 / 钱**。没有这一步，§3 为什么值得做配料表就断了论证起点 | 填一行：`买 1–2 份 → small → habitual（课间自动走向摊位）；但首次仍理性 → search cost 3–5 分钟 → 会付，因为吃到添加剂更贵` |
+| 2 | **§1B `Driver` 列第 1、2 行**（第 5 页） | **−1** | rubric `profile's primary family correctly identified`；作业 `Mark each factor … as the primary driver` | psychological（低糖）与 situational（课间短）**同时写 Primary** ＝ 没回答「哪个家族在做决定」，而这是本节标题问的唯一问题 | 只留 situational 为 Primary（课间十分钟是硬约束），低糖降 secondary；并写明两条战术各打哪一个 |
+| 3 | **§1C `Rival 1 / Rival 2` 两列 + `Availability`、`Advertising` 两个判定格**（第 6 页） | **−2** | rubric `all four tiebreakers compared against two named rivals`；作业 `Compare against your two real rivals` | ① 对手全程是占位符，四格比较等于没有对象；② 一个摊位对遍地便利店判 **Tie**、学生口碑对 `Big brand ads` 判 **Tie**，与事实不符——**判输不丢分，判平才丢分**（战术必须挂在"你赢"的那一项上） | 点名 1A / 2.3 里的两个真对手（便利店预包装、校门小卖部）；Availability / Advertising 改判 **Lose**，战术只挂在 Features（你们 §3 本来就挂在这里 ✓） |
+| 4 | **§2A `Quantity` 行**（第 7 页） | **−2** | rubric `All three dimensions specific`；EK 2.2.B.1 | Quantity 格空着，而 `1-2 snack portions each time` 被塞进 Frequency 行——三维只答了两维半 | `1–2 portions` 移回 Quantity，Frequency 只留 `2–4 times per week` |
+| 5 | **§2A 表下那段**（`All three steady = a habitual pattern` 之后） | **−1** | rubric A 档 `steady-vs-broken identified`；作业 `Which of your two tactics is doing which job?` | 全节没有一句"哪维稳、哪维破"。这句是本节结论，缺它 §2 就只是抄了三个值 | 补一句：`Timing 与 Frequency 都稳 ⇒ 高频 ⇒ 留存打频率；Quantity 无增长空间 ⇒ 别指望加购`（你们 Step 2 已经这么做了，只是没在 §2 说出来） |
+| 6 | **§2B 第 2、3 问**（第 7 页，消费者保护问 / 替代品谁来卖） | **−2** | rubric `one law traced to the substitute it creates`；EK 2.2.B.2 | 三问只答第一问；且**没有落到自己生意上**——见下「三个重点」①，这才是本节真正的失分 | 补两句 + 一句处理方案：`→ 改预包装代工 / 只在校门外卖 / 由 __ 去办备案，约 __ 元 __ 天` |
+| 7 | **Step 1 `Acquisition` 行**（第 8 页） | **−2** | EK 2.2.C.3 的机制是**专家 / 凭证背书**；作业 `Seven principles; sort by mechanism, never by keyword`；rubric A 档 `named to a principle by mechanism` | 把"自己打印的配料表"叫 Authority。配料表的机制是**信息透明**（谁都能自己看），不是权威（谁的背书）；按机制它归 Consistency（我只吃干净配料的人）或干脆算产品属性 | 二选一：补第三方检测报告 / 营养师·校医背书，话术改 `校医 __ 老师逐条看过这份配料表`；或改标 Consistency，话术 `for students who check every label, like you`。**§4 的 Authority 行是同一个错，一起改** |
+| 8 | **Step 3 全表**（第 9 页） | **−2** | 作业 M3 `Have a teammate try to break it, and write down what broke`（`A tactic that only survives your reading of it is not face-tested`） | 两条「挑战」都是你们必然能过的题：`Show me your ingredient list?` 的答案在 Step 2；`Do I have to buy to get sample?` 的答案也在 Step 2。**什么也没破**。表格还错位（Retention 行掉到表外、话术只写一次） | 换成真能杀死它的问题并**如实写下破在哪**：`这配料表谁验的？`／`摊位有食品经营许可吗？`／`上周说两点卖完，现在怎么还有？` |
+| 9 | **Step 4 `CAC` 行 + `LTV` 行**（第 10 页） | **−1** | 作业 `a mechanism, not a wish`；rubric A 档 `LTV/CAC change explained mechanistically` | ① CAC 写 **+$0.4（上升）**，同一格却写 `cuts effective CAC long-term`——方向自相矛盾；② `LTV +$2.5` 没有一行算式；③ **LTV/CAC 比值（2.74 → 3.04）没写**；④ 战术成本 $0.5 只让 CAC 涨 $0.4，差的 $0.1 没解释 | ① 改写成 `CAC 升 $0.4，但转化率 __% → __%，每位付费客的总获客成本 __ → __`；② 补 `每周多买 0.5 份 × 毛利 $5 = +$2.5`；③ 加一行 `LTV/CAC 2.74 → 3.04` |
+| 10 | **§4 表最后一列**（`Is the honest version actually true for me?`，第 11 页） | **−2** | 作业 `must be true`；4A 的三问正是为此设计 | 七条**全标 Y，一条未验**。典型是 Scarcity：`Today's hand-made batch is limited and will sell out`——按单做凭什么一定卖完？这正是 `How many?` 要杀的句子，标了 Y 却没测 | 逐条给"真的"的证据；不能证的就删战术（作业原文 `if N, delete the tactic`）；Scarcity 改成 `今天只做 __ 份，卖完为止`（上限可数） |
+| 11 | **§4B 三格**（第 12 页） | **−4** | rubric §4 A 档 `red line tied to a stated core value`；C 档即 `red line absent` | 三格全空：不用的战术清单 / 保护哪条核心价值观（1.4-1.5 的）/ 最诱惑的那条 + 替代动作。**装饰性检验（钱真的摆上桌时那条价值还在不在）整段没做** | Unity 的诚实版（`make a group for regular snack buyers`）最容易被做成同侪压力，正好拿它立红线：`不做：把复购群做成"不买就掉队"`，保护 `__` 价值观，替代动作 `群里只发批次与学生反馈，不发倒计时` |
+| 12 | **§5 全节**（第 12–13 页，16 题 + 四段 FRQ） | **0** | §5 可选口径（2026-11-03 教师确认） | 一题未答 → 记 `—`，总分按 80 分制折算，**不扣分** | 仍建议自己补做：这批 drill 最容易错的正是 Authority 与 Scarcity 的辨别，你们 §4 两处误判就在其中 |
+| 13 | **全卷抬头 / 文件名** | **−2** | 完成度 | 无组名、无成员署名、无 Due；文件名 `…Sales Tactics.pdf` 无人名；self-check 一格未填 | 抬头加 `Group __ · 成员三名 · Due 11-05 2026` |
+
+**加总核对**：20 −7（1D 4 + 1B 1 + 1C 2）= **§1 13**；20 −5（2A 3 + 2B 2）= **§2 15**；20 −5（Step 1 2 + Step 3 2 + Step 4 1）= **§3 15**；20 −6（全 Y 2 + 4B 4）= **§4 14**；→ 57/80 = 71.25 ⇒ 71，再 −2 完成度 = **69**。
+
+**三个重点（表里放不下的部分）**
+
+1. **2B 的法条把 §3 的战术判死了，而卷上没有一个字处理它（本卷最关键的失分，落在 #6）**。你们自己写下 `Cannot sell unregistered homemade food on campus`，随后 §3 的两条战术全部建立在"手作 + 无人工防腐剂 + 可读配料表"上——**配料表越细，越证明这是自制食品**。这不是论证瑕疵，是**生意在校园里发不出去**：怎么办（谁去注册 / 要多久 / 多少钱 / 改预包装代工 / 只在校门外卖），一个字都没有。与 2.3 里"数据把自己的战术判死"是同一类毛病，区别是那次是数据，这次是你们自己写的法条。
+2. **Authority 误标穿了两节（#7 与 §4 Authority 行）**。这一单元反复讲的就是 `sort by mechanism, never by keyword`：`"Experts recommend it" is authority even if the sentence also says "everyone agrees"`。配料表是**买家自己能验的信息**，机制上属于透明度 / 一致性（我是个看成分表的人），不属于权威。误标不只是一个字的错——它让人以为"自制"就是卖点，而真正能当凭证的是**第三方检测或校医背书**，那正好也是 2B 那条法条的解法之一。
+3. **脸测放水（#8）**。作业把这节设成 M3 检查点，写明 `Do not skip M3's peer challenge … write down what broke`。你们问的两句在 Step 2 里已经写好了答案，所以"存活"是设计出来的、不是测出来的。**这一项本批反复扣分**（章妍组漏掉"那我拿了就走呢"、王子轩组的挑战抄了三个提示词），是全批共同的病。
+
+**卷面短评**：*Two tactics written as sentences a person could actually hear, costed to the cent, attached to the tiebreaker you win — that part is better than most of this batch. What holds it at 69: Section 1D and the 4B red line are simply absent, your own 2B says you cannot sell unregistered homemade food on campus and then Section 3 sells exactly that with nothing said about it, the ingredient list is filed under Authority when it is transparency, both face-test questions are ones you were certain to pass, and the CAC row goes up while the words beside it say it goes down.*
+
+**口头追问题**：1) 1B 你标了 psychological 和 situational 两个 Primary——如果只能留一个，是哪个？两条战术分别打它哪一面？2) 2B 你们自己写了"校内不能卖未注册手作食品"，那 §3 的手作零食在摊位上怎么发出去？谁去注册、要多久、多少钱，还是改预包装？3) 配料表为什么是 Authority 而不是 Consistency？有第三方检测还是校医背书？4) Step 3 里哪一句是队友真的想打破你们的？他打破了吗？5) CAC 从 $4.2 到 $4.6 是升了，为什么同一格写 `cuts CAC`？$11.5 → $14.0 的 +$2.5 怎么算出来的？6) §4 的 Scarcity 你标了 Y——"今天的批次有限、会卖完"，如果我 4:50 到摊位还有货，这句话还算真的吗？7) 你们的 LTV/CAC 是 2.74，加了战术变 3.04，这个比值算健康吗？
+
+**关联**：1.8 = **78**（[[Assignment 1C (1.8) — Grading Log]] #7）· 2.1 = **45（暂定，待重交）**（[[Assignment 2.1 — Grading Log]] #10）· 2.2 = **69** · 2.3 = **62**（[[Assignment 2.3 — Grading Log]] #10）。**四份齐了**；这条线是本批最低的一条之一，2.1 是谷底（CAC/LTV 表空白、22 项 self-check 全勾却与文义矛盾）。
+> **⚠️ 三份卷子同一个交件病**：2.1 是字体层损坏、**2.2 是答案被转成图片**、2.3 是 §4 只交了前两节——本组的分数**有一块是格式损失，不是能力损失**。若把 2.1 重交、2.2 交源 .docx、2.3 补齐，按现结构可到 **2.1 ≈ 75 / 2.2 ≈ 75 / 2.3 ≈ 80–83**。讲评时值得单列：**提交格式也是作业的一部分**。
+
+---
+
+## 15. 陈昭宇 / 章博涵 — AI 智能膳食健康分析系统 · **93 (A)**（11-05 补交）
+
+**§1 20 · §2 19 · §3 17 · §4 19 · §5 20（16/16 + FRQ）· 完成度 −2**
+
+> **补交交代**：本组此前在 2.2 一直是空的（2.3 #1 的追问题第 6 条就是「你们的 2.2 呢」）。这份 `Business Canvas Project - Assignment 2.2 - Submission.docx`（14 张表、无图、中文作答、`dcterms:created 2026-11-03 11:25Z`）把整条线接上了：**1.8 = 92 · 2.1 = 94 · 2.2 = 93 · 2.3 = 80**。
+> **两条旧缺口同时闭合**：① 2.1 那次扣分写着「**LTV/CAC = 1.20 没写成一句判断**」「自指最脆弱环节 = 年订阅存活率」——本份 Step 4 把 `1.20 → 1.82` 算出来，并明说「这正是 2.1 自己指出的『必须把 1.2 拉到 2 以上』的机制答案：靠一致性留存，而不是更便宜获客」；② 2.3 #1 的 H2（权威 vs 共识的 A/B）声称源自 2.2——本份 **Step 5 里那套 A/B 就是它的原型**（Version A 权威署名 / Version B 共识 10,000+，8 人，≥5/8 判据），且此刻表里**如实空着**，只写「8 人是 hint 不是 finding，结论仅供 2.3 形成正式假设」。**先预注册、后收数据，顺序是对的。**
+> **数字结转 ✓**：`CAC ¥57 / LTV ¥68.6 / LTV÷CAC 1.20` 与 [[Assignment 2.1 — Grading Log]] #1 逐字一致；本份 `68.6 ÷ 57 = 1.203` ✓、`68.6 − 57 = 11.6` ✓、`82 − 45 = 37` ✓、`82 ÷ 45 = 1.822` ✓，`5.2 → 6.3 个月` 与 2.1 的 `31% 存活率 ⇒ 5.2 个月` 同源，`13.19 × 6.3 ≈ 82` ✓。**全批唯一一份「Step 4 每一格都能被外部复算」的卷子。**
+
+**做对了什么**
+- **§1 是本批唯一的 20 分（全批此前最高 19）**，靠的不是写得多，是四道判别全部踩准：1A 画像带 `≤10 秒` 的 JTBD 与三个价位；1B 五因素 × 家族 × 主/次 × 「对措辞意味着什么」，并主动写下 **`排序纪律：产品特征（营养规则库、权威数据源）是 feature，不是 situational；只有"餐前那一刻"这种会随离开而改变的才是 situational（离店测试）`** —— 这正是作业反复设的障眼法，全批只有这一份把它写成纪律；1C 两个**点名**的真实对手（薄荷健康、Cal AI），四个决胜项里 **`Price 输（薄荷免费）`** 与 `Availability 输（未上线）` 都如实判输，并写下 `把说服叠加在一个输的位置上只会被拒绝得更快`；1D **把决策拆成两行**（订阅 ¥98/年 = 重要 + rational + 搜索成本高；餐前拍照 = 小事 + habitual + 近乎零），搜索成本单独计价。
+- **§2 的 2A 直接收成了战略**：三维全填并逐行标「稳定/易碎」（三行皆稳定），结论不是「很稳定」而是 **`购买（订阅）是一次性的 rational 决定，但使用是每日 habitual` ⇒ acquisition 赢那一次、retention 抓每天每餐** —— 这句话给了 §3 两条战术各自的合法性，本批多数卷子读到模式就停下了。
+- **2B 走完了法条 → 替代品的完整链**：《广告法》/《医疗广告管理办法》→ 消费者保护问（暗示疗效即虚假宣传）→ **替代品由谁承接**（付费营养师咨询 / 医院营养科 / 体检机构）→ `法律改变可获得性，需求不变`。
+- **2C 自己指出哪一侧伤人**：卖家侧（推荐算法 + 大模型，边际触达近零）vs 买家侧（餐桌边随手搜、可秒比价），然后写 **`伤人的是第二行`**——所以 tactic 必须在「当面对比」里活下去，靠判断而不是更便宜。这一步是本批 2C 里少见的「读完技术就改设计」。
+- **Step 3 问对了真问题（本批最大的一处进步）**：挑战栏用的是 `Who？` / `Certificate number？` / `How many？` 这些**实际会问出口的追问**，而不是把提示词原样抄一遍（对照 #9 傅铭暄、#7 章妍：两处还是抄提示词）。`How many？` 那格的处理尤其干净：**`我们不编造该数字；若报，只报真实用户数`**，retention 一侧则答 `不是别人，是你自己的 7 天记录`。
+- **Step 4 是全批模板级**：四行齐全、机制写在「为什么」列（`权威背书消除信任阻力 ⇒ 转化率上升` / `一致性把身份承诺做成留存机制，5.2 → 6.3 个月`）、**tactic 自身成本单列一行**（`≈ ¥0 边际，已含在 ¥1,500 审核 + ¥800 rewards`）、并诚实收尾 `朝健康区间（>2）逼近` —— 没有假装已经达标。
+- **§4 是全批唯一「诚实版是否真为真」列里敢写 N 的卷子**：Consensus = `上线后有真实数据才报（当前 N，未上线）`、Unity = `当前 N（尚无社区）`，其余五条 Y；4B 的红线绑到 1.4-1.5 的明确价值观（**「不制造焦虑」这一条**），点名最诱惑的是焦虑营销（疾病恐惧），改做「确定性 + 可核实事实」，并自己写下 `money-on-the-table 检验`。
+- **§5 16/16 全对且每题给出机制**，FRQ (c)（完全披露后 tactic 是否仍成立）正面回答且给出四个条件（资质真、数据源真、免责诚实、披露不改变说服力）。
+
+**扣分点明细（逐格对到卷面位置）**
+
+| # | 扣分点（在卷子哪里） | 扣 | 判定依据 | 为什么扣 | 改法 |
+|---|---|---|---|---|---|
+| 1 | **Step 2 `运行成本` 与自家基础成本差 3–30 倍**（Acquisition 行：`边际 ¥0 … 摊到每份报告约 ¥0.05–0.5`） | −1 | 作业要求 `what it costs you to run`；判别线 #2（数字必须可核） | `¥1,500/月 ÷ ¥0.05 = 30,000 份/月`、`÷ ¥0.5 = 3,000 份/月`——按 1,000 用户算实际是 **¥1.50/份**（`1,500 ÷ 1,000`）。一个营养师月审 3,000 份报告不成立。这是全卷唯一算错的数，而它偏偏长在「成本」这一格 | 改成 `¥1,500 ÷ 1,000 用户 ≈ ¥1.5/份`；若只对「首份免费报告」计价，就写 `每月 1,000 份 × ¥1.5 = ¥1,500`，与本组 2.1 的三项成本对齐 |
+| 2 | **Step 3 五格全是「存活」，没有一条破** | −1 | 作业 M3 `Have a teammate try to break it, and write down what broke` | 问的问题是对的（比抄提示词强得多），但**没有任何一条记录「破在哪」**。真正会杀它的三问写在下面「口头追问」里——尤其 `营养师已离职 / 执业编号过期时你怎么说`、`用户查编号发现查不到` | 补一行 `破了一次：问"证书编号呢"，我们答不出真实编号（尚未签约营养师）→ 上线前必须先签约并把编号印在报告上，否则整条战术作废` |
+| 3 | **「首份免费」压在你们自己判「输」的决胜项上** | −1 | 1C 自己的纪律：`我的 tactic 必须挂靠"差异化功能"这个我们赢的 tiebreaker`；EK 2.2.C.4（Reciprocity） | 战术句子的钩子是 `首份报告免费`——那是**互惠**，而且它落在 `Price`（你们判输给薄荷的免费）。权威只负责「可信」，负责「让他现在就试」的其实是这一句。命名 Authority 不算错（说服力确实来自资质），但**两个原则叠在一句话里只报了一个** | 要么把免费首份改标为辅助的 Reciprocity 并说明「它不和薄荷比价格，而是把"验证可信度"的成本降到零」；要么删掉免费、只留可查资质（更贴 1C 的纪律） |
+| 4 | **§4 Authority 一行标 Y，而执业编号仍是占位符** | −1 | 作业 `Is the honest version actually true for me? — must be true`；4A `Show me the certificate.` | 该行写 `真实注册营养师 + 可查执业编号 → Y`，可 Step 2/3 里是 `注册营养师 XXX，执业编号 XXXXX`——**现在还不为真**，是"签约后为真"。（Consensus / Unity 标 N 的做法说明你们懂这条规则，Authority 只是没套到自己头上） | 改成 `N（当前）：已在预算内（¥1,500/月），上线前签约并公示编号；未签约前只用"数据来自《中国食物成分表》"这一半` |
+| 5 | **2B 的法条停在通用层面** | −1 | EK 2.2.B.2；作业 `one law traced to the substitute it creates` | `《广告法》禁止虚假/夸大宣传` 是全行业的常识层，没有落到具体条款；`若产品被限制（如 AI 健康建议需备案/受限）` 是**假设句**而不是查过的结论——而这恰是 1.3 PESTEL 排第一的那条力量（作业 Notes 5） | 引到条（如《广告法》第二十八条虚假广告的认定、《互联网诊疗管理办法》对"健康建议"的边界），并写一句 `AI 膳食建议目前属__（已查：__，__月__日）→ 我们据此只做"非诊断性饮食建议"` |
+| 6 | **第三次不署名** | −2 | 完成度；作业 `Important Notes 4`（`every member's name and contribution stated in the file`） | 文件只有 `团队：陈昭宇小组`，**`章博涵` 三个字全卷没有**；无 Due、无分工。1.8 #13 扣 1、2.3 #1 扣 2，本次仍照旧——三次同一种缺法 | 抬头写 `陈昭宇（§1/§3）· 章博涵（§2/§4/§5）· Due 11-05`。FRQ 1 是个人作答，署名不是形式 |
+
+**加总核对**：§1 20（无扣）；§2 19（2B −1）；§3 17（成本 −1、脸测 −1、决胜项错位 −1）；§4 19（Authority 真值 −1）；§5 20；合计 **95** −2 完成度 = **93**。
+
+**卷面短评**：*The best method on the assignment and the first Section 1 that gets a full 20 — you wrote the rule most teams needed: product features are not situational. The subscription-versus-usage split, the honest two losses in Section 1C, and a Step 4 that can be recomputed cell by cell ($57 / $68.6 / 1.20 → $45 / $82 / 1.82) are the standard for the batch. What is still not true: the registered dietitian's number is a placeholder, ¥0.05 a report cannot come out of ¥1,500 a month, and nothing broke in the face test — so the tactic looks unbeatable only because it has not been hit yet.*
+
+**口头追问题**：1) `注册营养师 XXX，执业编号 XXXXX` —— 那位营养师签约了吗？名字和编号现在能填吗？签不起时这条战术还剩什么？2) `¥1,500/月 ÷ 1,000 用户` 是多少？`¥0.05/份` 是几位营养师审多少份？3) 脸测里如果对方问「你怎么证明这份报告不是 AI 随便生成的」，你们怎么答？如果问「这编号我查了，查不到」呢？4) 战术句子的第一句是「首份免费」——那是互惠，而 Price 你们自己判了输给薄荷的免费。免费首份到底是 Authority 还是 Reciprocity？删掉免费，这条战术还站得住吗？5) 你们 §4 敢给 Consensus 和 Unity 标 N，为什么 Authority 标 Y——真值那一列的标准，对自己也适用吗？6) 2.3 的 H2 说来自 2.2——Step 5 现在空着，那 2.3 的 `A=77.8% vs B=37.5%` 是哪天、问了几个人跑出来的？
+
+**关联**：1.8 #13 = **92** · [[Assignment 2.1 — Grading Log]] #1 = **94**（`¥57 / ¥68.6 / 1.20` 与本份逐字一致 ✓，本份并把 2.1 自己指出的两处缺口补上了）· 2.2 = **93** · [[Assignment 2.3 — Grading Log]] #1 = **80**（H2 的 A/B 原型即本份 Step 5 的预注册 ✓）。
+> **项目线**：92 · 94 · 93 · 80 —— **四份同一生意、同一价格口径（`¥9.9 / ¥18 / ¥98`），是本批「项目不漂移」的正面样本**。80 那份低的唯一原因是 2.3 的 §4 田野数据仍是【示例】+ §6 图空着，与本份的方法无关。
 
 ---
 
 ## 归档说明
+
+- **#15（陈昭宇 / 章博涵，93）为 11-05 补交**：§1 是本批唯一 20 分（写出「产品特征不是 situational」的障眼法纪律、1C 两个决胜项如实判输、1D 拆成 rational/habitual 两行）；**Step 4 是全批唯一每格可被外部复算**（`68.6 ÷ 57 = 1.203`、`82 ÷ 45 = 1.822`、`13.19 × 6.3 ≈ 82`）且诚实承认「仍 <2」；§5 16/16。扣分集中在**交付节**：脸测五格全存活（无一条破）、`执业编号 XXXXX` 占位、`¥0.05/份` 与 `¥1,500/月` 差 3–30 倍、「首份免费」压在自判输的 Price 上；加上**第三次不署名**（`章博涵` 全卷未出现）。
 
 - **§5 口径**：#5（未交）、#6（16 题全对但无 FRQ）按 **80 分制**折算，§5 不计；#1–#4 仍是 §5 计入的 100 分制。**同一批里两套口径不能并存**——若 §5 一律可选，#1–#4 需一并折算，见下方待办。
 - **本批 13 份仅 #1、#4、#7、#9、#10、#11、#12、#13 可录正式成绩**（#13 需先声明 Step 4 的 $18/$62 与 2.1（$0）的出入）（#10 需先补 Step 4 真值，现按 89 暂定；**#11、#12 均需补成员署名与 Due**）；#6 只缺 2.1（§3 Step 4 无数字），项目与 1C 一致，可按内容录 59。
 - **#8（傅皓祥 / 胡皓禹，75）**：§5 + FRQ 齐、Step 3 问对了 authority 的杀手问题，但 Step 4 的 ¥42 / ¥160 在自家 2.1 里查不到（2.1 只有 19 分、无 CAC/LTV），且 retention 押在 1–3 年才动一次的杠杆上。
 - **#9（傅铭暄，94）与 #12（AutoRide，94）并列第一**；**#13（PTCG，90）与 #10（K-pop，89）构成 B+ 档的上沿**——两份都是「表格全填、审计算真，但对账差一口气」。；**三份「Step 4 真能与自家 2.1 对上账」的卷子是 #9 / #11 / #12**（#9：$6 / $17.40 ⇒ LTV/CAC 2.9；#11：$6.00 / $11.90；#12：30 / 75.60 / 45.60 逐字回引）。两条最稳的线：**傅铭暄 1C 94 → 2.1 91 → 2.2 94**，**AutoRide 1C 90 → 2.1 91 → 2.2 94 → 2.3 76**。
 - **#7（章妍 / 雍一凡 / 蔡璐茜，93）是本批第二**，也是唯一 §5 满分 + FRQ 齐全的卷子；与 1C 78、2.1 92 连成一条稳定上升线。
+- **#14（吴凌轩 / 宋皓阳 / 陆骏毅，69）是本批唯一一份"格式吃掉内容"的卷子**：1B / 1C / 2A / 2C / Step 1–5 / §4 全部答案被导出成图片，文字层只剩标题与 1A / 2B（教师另附 MinerU OCR 版方得判读）；**§1D、§4B、§5 三处双重确认为真空**。内容上真正的硬伤只有两处——**2B 自己写的"校内禁售未注册手作食品"直接判死了 §3 的整个手作战术而卷上无一字处理**，以及**配料表被当成 Authority**（机制是专家/凭证背书）；其余失分是留白与脸测放水。本组三份（2.1 字体层损坏、2.2 图片化、2.3 半节）**都带交件病**，讲评时可单列一条：提交格式也是作业的一部分。
 - **#6（王梓镛 / 曹正 / 张懿，59）的病是「大纲代替作答」**：§1/§4 全班最好、§2 三行、§3 五行；该组 1C(1.8) 的 §3 也是 4/20——**同一个学生在需要写论证的地方反复留白**，值得当堂点名——与 #5 是同一个病（有骨架、没论证）。
 - **#11（朱稼棋 / 郑歆妮，87）为 2026-11-04 补评**：本批唯一「业务身份无争议 + 数字真的从 2.1 结转」的卷子（`$6.00 / $11.90` 与 2.1 #13 逐字一致）。同时**解除两处悬案**：本组 2.1 = 那份 `Assignment 1-1.docx` 里的 2.1 段（70 分）；11-03 的 `1.8.pdf` / `2.1.pdf`（二手童车 = 讲义示范公司）**属杨珺怡组**。**本组 1.8 未提交**（同一份文件里没有任何 1.8 内容）。若补 Step 4（把 $1.60 扣进 LTV、给转化率与时间窗）＋ 署名与 Due，本份可回到 **90–91**。
 - **#2 等项目来源确认（Quiz 1 轻食 → 本份自行车，且等于讲义示范公司）；#3 等身份确认（Study Café → EcoGlow → 饮品摊三重漂移）；#5 等 2.1 §3 补齐（$32 / $145 无出处，但项目本身与 Quiz 1 一致）。

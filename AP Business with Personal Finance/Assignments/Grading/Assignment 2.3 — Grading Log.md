@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 2.3 (Unit 2 Tasks 3-4)
 AP Topic: 2.3 Primary Research on Customer Preferences + Secondary Research on the Competitive Landscape + Appendix Data Visualization
-Graded: 2026-11-04（#1 首份；#2、#3、#4 于 11-04 同日补入；#5、#6、#7 于 11-04 收卷；#8 于 11-04 收卷；#9、#10 于 11-04 收卷；#11 于 11-04 收卷）
-Submissions: 11
+Graded: 2026-11-04（#1 首份；#2、#3、#4 于 11-04 同日补入；#5、#6、#7 于 11-04 收卷；#8 于 11-04 收卷；#9、#10 于 11-04 收卷；#11 于 11-04 收卷；#12、#13、#14 于 11-05 收卷；#15 于 11-05 收卷）
+Submissions: 15
 Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/completeness adjustment（换算：各节合计 /140 → ×100 取整 → 完成度加减）
 ---
 
@@ -27,6 +27,10 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
 | 9 | **朱稼棋 / 郑歆妮**（11-04 收卷） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | 17 | 17 | **19** | **19** ✓ 仿* | **19** | 14 | 18 | −2 | **86 (B+)** |
 | 10 | **宋皓阳 / 陆骏毅 / 吴凌轩**（11-04 收卷） | 学生健康零食（校门口零售） | 17 | 12 | 13 | **12** ✓ | 13 | 9 | 15 | −3 | **62 (D)** |
 | 11 | **徐镜舟 / 张皓诚**（11-04 收卷） | 便携电动意式咖啡机（5 秒便携咖啡机） | 13 | 14 | 15 | 14 | **20** | 11 | 17 | −3 | **71 (C)** |
+| 12 | **应与睿 / 邓子凡 / 孙昊楠**（⚠️ 项目归属待确认 · 悬案 #3） | 自习咖啡馆（会员制学习空间 · ¥300→¥200/月） | 17 | 18 | 18 | 16 | 19 | 12 | **20** | −2 | **84 (B)** |
+| 13 | **王子轩 / 袁翌宸**（Sean / Ethan）（11-05 收卷） | PTCG 散卡转售（宝可梦集换式卡牌） | 18 | 17 | **19** | 17 | 19 | 12 | 19 | −2 | **84 (B)** |
+| 14 | **章妍 / 雍一凡 / 蔡璐茜**（11-05 收卷） | StudyFuel 学生便携健康零食盒（¥15 / mini ¥10） | **20** | **20** | **20** | **15** 🔍 | **20** | **18** ✓ | 18 | −2 | **92 (A)** |
+| 15 | **王梓镛 / 曹正 / 张懿**（11-05 收卷） | 折叠笔记本电脑支架（$25–35 · 实测价 $25–32） | 17 | 15 | 18 | **16** ✓ | 18 | 13 | **20** | −2 | **82 (B)** |
 
 > **折算**：(20+19+19+6+20+11+20) = 115 / 140 = 82.1 ⇒ 82，完成度 −2 ⇒ **80**。
 > **若 §4 按真实数据做到 A（18）、§6 补上真图（16）**：131/140 = 94 −2 = **92** —— 这份卷子的骨架值 90+，缺的只是证据。
@@ -49,6 +53,9 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
 > **#10 若填 2B（+8）、4D 五格（+6）、4C 三场访谈（+3）、3A 补全假设句（+3）、3C 写出问卷（+3）、6B 画图（+6）**：120/140 = 85.7 ⇒ 86 −3 = **83** —— **数据已经做对，六张表没填**。
 > **#11 折算**：(13+14+15+14+20+11+17) = 104 / 140 = 74.3 ⇒ 74，完成度 −3 ⇒ **71**。
 > **#11 若补 3B 三行（→18）、4A 日期与原始导出（→17）、1A 的 status 与否证（→16）、6B 画图（→16）、FRQ 四句（→20）**：123/140 = 87.9 ⇒ 88 −3 = **85** ——**§5 满分、§7 十九题几乎全对，空的全是「填空格」那一类。**
+> **#15 折算**：(17+15+18+16+18+13+20) = 117 / 140 = 83.6 ⇒ 84，完成度 −2 ⇒ **82**。
+> **#15 若补 §4 附件（把声称的那份逐人计分表真的附上，→18）+ 画出 §6 图（→18）+ 四条来源落到报告名与页码（→18）**：127/140 = 90.7 ⇒ 91 −2 = **89** ——**和前两份（67、59）相比，这是这一组第一次把七节全部答满；剩下的三点都是"把已经做出来的东西交上来"。**
+
 > **§4 的水平分层（本批讲评主线）**：无数据 / 假数据（#1 示例 6、#2 讲义原数 6、#7 整节「将来完成」5）→ **有数据但没有设计与结果表**（#5，10）→ **真数据但只做了前半节**（**#10，12**：4A/4B 齐、4C/4D 全空）→ **真数据但判据在事后**（#4，16；#6，16）→ **真数据 + 判据先定**（#3，18；#8，17——**#8 是唯一把 30 行逐人计分表与 6 段逐字引语整份附上来的**）→ **标注过的仿真数据 + 判据先定 + 四格全满**（**#9，19**——**本批内容质量最高的一格，且它是唯一四格全写满的**）。
 > **十份里 #3、#6、#8、#9、#10 五份的 §4 记的是真数据**（#9 按 11-04 政策计入）；其中 **#10 是唯一「自洽到能被交叉验算」的一份**（40−38 = 2、60−49 = 11，合计 = 拒访 13；17/38 = 44.7%、19/49 = 38.8%），却也把 §4 后半（4C/4D）整块留空。
 > **`simulated` 这一行现在值 11 分**（2026-11-04 裁定后）：同一份 #9，标注在 → §4 = 19、总分 86；**假设这行被删掉，4D/§5/§6 self-check 全按真数据说话，就是作业页写的 `fabricated`，§4 = 4、总分 75**。**这是本批唯一一组能把「标注」的价格算出来的对照**，讲评时把这两行数字并排投影即可。
@@ -79,9 +86,9 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
 
 **卷面短评**：*The best-designed paper on this assignment and the least evidenced: six claims each with a falsifier, two hypotheses with pre-set criteria and if-fails actions, a rejected-method justification for each, four leading questions defanged, twenty drill items right — and then Section 4, the asterisked core, still filled with 【示例】 data: no dates in the fieldwork log, a tally sheet that says "示例", an Appendix chart that says "paste here". Design is what earns marks in Sections 1–3; evidence is what the CED is asking for in Section 4, and right now there is none. Run the ten people, replace the brackets, and this is a 90+ paper.*
 
-**口头追问题**：1) 10 个人到底访了没有——日期那一格为什么是 `【日期】`？2) `7/10` 和 `6/10` 是谁数的、数在哪张表上，那张表在哪？3) 四版报告给同一个人看，顺序怎么排的？4) H2 问"愿不愿付"——你们 2.1 就栽在"意愿≠行为"，为什么不改成当场付？5) CNNIC 那份报告是哪一年第几期？6) **你们的 2.2 呢？** 2.2 日志现有 10 份里没有你们这一组，可本份的 H2 说它来自 2.2 的 tactic。
+**口头追问题**：1) 10 个人到底访了没有——日期那一格为什么是 `【日期】`？2) `7/10` 和 `6/10` 是谁数的、数在哪张表上，那张表在哪？3) 四版报告给同一个人看，顺序怎么排的？4) H2 问"愿不愿付"——你们 2.1 就栽在"意愿≠行为"，为什么不改成当场付？5) CNNIC 那份报告是哪一年第几期？6) 2.2 已于 11-05 收到（93）——那么本份 H2 的 `A=77.8% vs B=37.5%` 是哪天、问了几个人跑出来的？2.2 的 Step 5 当时表里是空的。
 
-**关联**：1.8 #13 = **92** · 2.1 #1 = **94** · 2.2 **未收到** · 本份 **80**。
+**关联**：1.8 #13 = **92** · 2.1 #1 = **94** · **2.2 #15 = 93（11-05 补交 ✓，其 Step 5 的 Authority vs Consensus A/B 即本份 H2 的原型，且当时如实空着——先预注册后收数据的顺序是对的）** · 本份 **80**。
 **重评条件**：补交真实 §4（田野日志 + 原始数据 + 判定）与 §6 真图 → 按现结构 **92 左右**；同时补 2.2。
 
 ---
@@ -500,7 +507,170 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
 
 ---
 
+## 12. 应与睿 / 邓子凡 / 孙昊楠 — 自习咖啡馆（会员制学习空间 · ¥300→¥200/月）· **84 (B)**（2026-11-05 收卷）
+
+**§1 17 · §2 18 · §3 18 · §4 16 · §5 19 · §6 12 · §7 20 · 完成度 −2**
+**折算**：(17+18+18+16+19+12+20) = 120 / 140 = 85.7 ⇒ 86，完成度 −2 ⇒ **84 (B)**
+
+> **⚠️ 悬案 #3 升级——本组第四次换项目**：1A / 1.3 = **自习咖啡馆**；1.8 = **91**、2.1 = **93** = **EcoGlow 大豆蜡烛**；2.2 = **82（暂定）** = **校园饮品摊**；2.3 又回到**自习咖啡馆**。四个检查点、三个生意，CED 的 `same business idea` 在这条线上已经不成立。本条按内容质量计分（与 2.2 #3 同口径），**项目归属确认后定稿**。
+> **对账断点**：§1A 第 1 条 claim 的来源写 `2.1 customer profile / assumption`——本组 2.1 交的是 EcoGlow 蜡烛（美元口径、首单毛利 $17），**里面没有 300 元月卡**；这条真正指向的是他们的 **1A / 1.3** 画像。作业要的是 `carried forward from 2.1, not re-invented`。
+
+**做对了什么**
+- **§3 是本批实验设计最完整的两份之一**：两条假设**都写了「若失败怎么办」**（H1 失败 → 降到 ¥200 + 加 ¥15 日卡；H2 失败 → 宣传重心转向打印与饮品）；3B **逐条交代为什么不用别的方法**（`访谈给不出可推广的百分比`、`未开业无法测真实到店行为，故不用 A/B`）；3D 六行含 `Target n = 30`、便利抽样的**偏差红旗 + 缓解**——这四行是很多组直接空着的。
+- **§4 是真数据 + 带分母 + 用预设判据判输**：`12 of 30 = 40%` 对预先写好的 `≥50%` 判 **Not supported**——结果不如期望而如实报告，正是本节要看的东西；H2 `18/30 = 60%` 对 `9/30 = 30%`**逐格自洽**（余下 3 人 = 10%「其他」，与 §6A 的 10% 对得上）。
+- **4C 真做了定性追问**：5 个说「不」的人按主题归档并带频次（4/5 嫌贵、3/5 嫌远、2/5 用不上打印），引语是「他们的话」而不是自己的总结。
+- **4D 五栏齐全，且 self-aware 到 A 档**：`This is stated preference, not actual paid behavior, so real conversion may be lower`——**这句是全场最值钱的一句自评**；`Unexpected result`（以为打印是卖点，实际只有 30%）与 `Next question`（200 元月卡的接受率）也都写了。
+- **§5 三行全部落到自家**：问卷意向 ≠ 真付月卡（sip ≠ can）、误判打印为关键变量、领导想看「需求强」会写出引导性问题——并回答了「偷偷希望的结果」与「不舒服的结果照报了吗」。
+- **§7 二十题全对 + FRQ 四段**（a 只测了意愿 / b 缺定性动机 + 缺真实购买行为 / c 现场 A/B / d 研究降低不确定性但不保证结果）——本批满分 drill 之一，且四段是**针对本案例**而不是模板。
+
+**失分与改法**
+1. **§6 只有标签、没有图（12/20，主失分）**：6A 的图型推导、6B 的五个要素（标题、x 轴、y 轴、来源、一句结论）、6C 的三行替代图审计**全都写了**，但 6B 那句 `Paste or attach the chart here` 下面**一张图都没有**（文件 `word/media` = 0 个）。写清坐标轴不等于画出来——`n = 30` 的 18 / 9 / 3 三根柱，画出来两分钟。
+2. **原始数据「已附」而未附（§4 16/20）**：4A 写 `Survey response tally sheet is attached`，实际**附件 0 个**。这不是格式问题——作业原文 `Findings without raw data are claims wearing a lab coat`，30 份问卷的逐人计分表正是本节最该交的物证。对照 #8 王钰嘉 / 王和廷：30 行逐人表整份附上，代价只是多打一页，可核查性直接跳到本批第一。
+3. **§1 五条 claim 全是「顾客会不会买」（17/20）**：没有一条关于**成本 / 盈亏**——而你们的方案就是 ¥300 月卡，月卡能不能盖住房租 + 人工是这门生意的第一风险；1B 只列了 2 条**别人的观察**（图书馆排队、咖啡店自习人数），不是「我们自己现有的证据」；1C 把「现有证据」并进了理由栏，作业那三列少了一列。
+4. **§2 四家对手全是品类名（18/20）**：公立图书馆 / 校图书馆 / 星巴克 / 其他付费自习室——**没有一家真实店名**。而 2A 的第 4 条来源正是大众点评（`Monthly passes cost 200–350 RMB`）；既然点开了，就该点名 2–3 家同城店的价格与位置，「连锁咖啡缺插座」这类判断也要能指到页面。
+5. **§2 的外部数字没有页码 / 链接 / 访问日期**：`1.5 million students`、`12% yearly growth`、`45% have paid`——给出机构 + 年份是对的（1 政府 + 1 学术 ✓ 达标），但 `iResearch, 2024` 后面还缺报告全名与链接。
+6. **H2 的判据刚好卡在门槛上（不扣分，必须问）**：`60%` 对 `30%`，差**正好 30.0 点 = 门槛**；一位受访者改口就差 3.3 点。方向大概没错，但「刚好等于判据」应补一句置信说明，或把门槛定成「≥25 点」。
+7. **降价与日卡都没测过（不扣分，4D 已自认）**：¥300 → ¥200、加 ¥15 日卡，而 H1 只测了 300。4D 末尾 `Next question: What share would buy a 200 RMB monthly pass?` 是正确写法——把这条直接写进下一份的 3A 即可。
+8. **未成年受访者的同意（不扣分，但必须问）**：样本 `Students aged 15–22`，30 人里必然有 15–17 岁；问卷没有监护人同意 / 匿名声明，而你们自己的 1A 与 2.1 都写过 minors 那一行。
+9. **完成度 −2**：卷内**无组名、无成员姓名、无 Due**（元数据作者 `Y&R～`），文件名是题目名而非组名；原始数据未附（已在 §4 计）。
+
+**卷面短评**：*The experiment design is the best in this batch — both hypotheses come with their own "if it fails, we do this instead", the method section explains why interviews and A/B tests were rejected, and the sample plan names its own sampling bias before anyone else can. Then the survey was actually run: 12 of 30 = 40% against your pre-set 50%, reported as "Not supported", with five follow-up interviews explaining why. Two things hold it at 84: the tally sheet you say is attached is not, and Section 6 is a chart specification with no chart in it. A bar chart of 18 / 9 / 3 would take two minutes and would be the only picture in your whole canvas.*
+
+**口头追问题**：1) 你说原始计分表已附——30 份问卷的逐人表在哪？2) `18 vs 9` 差正好 30 点，一位受访者改口就变成 26.7 点，这个「supported」有多稳？3) ¥300 降到 ¥200 的依据是什么？¥15 的日卡对应的是「一周来 2–3 次」那 4 个人吗？4) 五条 claim 里没有一条讲房租和人工——¥200 × 多少张月卡才能不亏？5) 大众点评上同城的付费自习室，点得出 2 家名字和价格吗？6) 15–17 岁的受访者，谁给的同意？7) 这份 2.3 是自习咖啡馆，可你们 1.8 和 2.1 交的是蜡烛、2.2 交的是饮品摊——最终要带走哪一门生意进 2.4 / Canvas？
+
+**关联**：1.8 = **91（EcoGlow）** · 2.1 = **93（EcoGlow）** · 2.2 = **82 暂定（饮品摊）** · 2.3 = **84（自习咖啡馆）**——**四份三项目，拼不成一条线**。1A / 1.3 的项目是自习咖啡馆，与本色**同族**；若确认本组以自习咖啡馆为准，则 1.8 / 2.1 需重交，2.2 的 82 应作废重评。
+
+---
+
+## 13. 王子轩 / 袁翌宸 — PTCG 散卡转售（宝可梦集换式卡牌）· **84 (B)**（2026-11-05 收卷）
+
+**§1 18 · §2 17 · §3 19 · §4 17 · §5 19 · §6 12 · §7 19 · 完成度 −2**
+**折算**：(18+17+19+17+19+12+19) = 121 / 140 = 86.4 ⇒ 86，完成度 −2 ⇒ **84 (B)**
+
+> **项目身份 ✓ 零漂移**：1.8 = **90** · 2.1 = **83** · 2.2 = **90** · 2.3 = **84**，四份同一个 PTCG 散卡生意，**且本节的两条假设分别点名出自 2.2 的 `Authority` 战术与 `Reciprocity` 留存战术** —— 这是全批承接关系写得最清楚的一份。
+> **⚠️ 但结果是坏消息，而且是真的**：H1 判 **Not supported**（13/28 = 46.4% 愿为验真多付 10%），于是 4D 把 **2.2 的 Authority 战术从"溢价卖验真"改成"验真作为免费基础服务 + 公开清单做信任工具"**——**自己 2.2 的战术被自己的数据推翻**，这正是 `what changed` 要的东西。**2.2 §3 的 Authority 那一格现已被本份作废，讲评时两份要并排读。**
+
+**做对了什么**
+- **§3B 是全批最完整的方法表**：六种方法逐行给 `数据类型 / 最适合 / 弱点 / 是否适合 H1-H2`，连 Experiment 与 A/B test 都写了并说明**为什么不用**（`库存量不足，做不了真实销售的 A/B`、`摊位容量有限`）——作业要的是"从数据需要反推方法"，这份把反推过程全留痕了。
+- **两条假设都带"若失败怎么办"，且两条的失败方案都是**产品动作**而非措辞动作**：H1 → 去掉溢价、验真降为免费基础服务、竞争焦点转向品相与选品；H2 → 停发袖套样品、改用数字社群赛事通知。
+- **§4 是全批唯一把"不能声称什么"写成五条**的：便利抽样不外推到纯线上收藏者、意愿≠真实消费、相关性未证因果、未做真实销售 A/B —— 加上 `Confidence ladder: moderate for our sample / low for broader population`，**自我设限写得比结论还严谨**。
+- **4C 的追访直接解释了 4B 的数字**：`"I check authenticity myself using online guides; I don't want to pay extra for what I can already do."`（3/4）——**把 46.4% 从"一个低数"变成"一个可解释的机制"**，这是本节 A 档的标志动作。
+- **§1A 五条 claim 逐条注明出处到 2.1/2.2 的哪一节**（`2.2 Authority sales tactic`、`2.2 Reciprocity retention tactic`、`2.1 customer profile`、`2.2 purchasing-pattern analysis`）——全班把"画布现在靠什么撑着"写得最具体的一份。
+- **3C 四组「偏 → 中性」改写全部改对**（含把 `Wouldn't you pay extra` 改成带价的双选项），并且都用在自己的四个真问题上，不是抄讲义。
+- **§7 二十题全对**（第 15 题甚至写全 `40.3 percentage-point`）。
+
+**失分与改法**
+1. **§6 仍是一份"图纸"而不是图（12/20，主失分）**：6B 的标题自己就写着 `written chart specification (ready to make in Google Sheets / Excel)`——作业原文是 `Paste or attach the chart here`。五要素（标题含 `n = 28`、x 两格、y、来源带日期 `Oct 11 2026`、一句结论）**全齐、连柱高 46.4% / 64.3% 都写好了**，只差真的画两根柱。这份和 #12 病在一处：**把"我知道怎么画"当成了"画出来了"**。
+2. **原始 tally sheet 说附而未附（§4 17/20）**：`Survey response tally sheet attached as project appendix`——**十六张表里没有附录，文件 `word/media` = 0**。28 人的逐人计分表是本节唯一的物证；对照 #8 王钰嘉 / 王和廷把 30 行逐人表整份附上，可核查性立刻拉开一个档。
+3. **§2 的 `Where (URL / call number)` 四格填的不是地址（−1）**：`Industry-report database` / `Official corporate website` / `Marketplace public insights portal` / `Public statistical archive`——**老师点不开，等于没给**。这一列作业专门留出来就是要能核到原文。
+4. **§2 的来源分级偏软（−1）**：`Grand View Research` 标成 `academic-industry`（它是商业调研公司，不算学术）；NEA 标 `government-adjacent`（它本身就是联邦机构，不必降级）。作业要 1 政府 + 1 学术/行业——**把厂商报告升格、把政府机构降格，两个方向的错刚好抵消，但分级就不作数了**。
+5. **§2D 的 gap list 缺"方法"列（−1）**：作业那张表是三列（`缺口 / 一手研究必须回答的问题 / 方法`），这里写成两句问句，**没有把缺口挂到方法上**——而 §3B 正好有一整张方法表可以对接。
+6. **§1B 只有一行（−1）**：`2.1-2.2 team-built customer profile & drafted sales tactics`——这不是"已有证据"，是**自家草稿**；且只有 qualitative 一侧，作业要的是把证据**按数据类型分开**（quantitative 那一侧哪怕写"2.1 的 $60 预算/$12 单价上限"也算一条）。
+7. **FRQ 的 (c) 与 (a) 没接上（−1）**：(a) 判病因是 `reliance only on stated-preference survey data without real-behaviour measurement`，可 (c) 开的药是**再做 1 对 1 访谈**——访谈测的仍是说法，**治不了 (a) 说的病**。(c) 该答"在摊位做两版报价的 A/B 或试销，数实际成交"。另有 `qualitative qualitative-motivation` 重复词。
+8. **H1 的措辞决定了它只能测说法（不扣分，但要问）**：`will state they are willing to pay a 10 % price premium`——**动词是 state**。4D 自己写 `stated willingness to pay may overpredict real transaction choices`，说明知道；那下一步就该把 H1 改成"以 110% 标价在摊位实际成交 ≥ x%"。
+9. **完成度 −2**：卷内**无组名、无成员姓名、无 Due**（元数据作者 `子轩 王`），文件名是 `Sean Ethan 2.3.docx` 而不是组名。
+
+**卷面短评**：*The most honest verdict in the batch, and the only one that kills its own tactic: your 2.2 sold authenticity verification as a premium, and 13 of 28 = 46.4% against your pre-set 55% says the market treats it as a basic obligation — you wrote that down and rewrote the tactic. Section 3's method table (six methods, each with its weakness and a reason for rejection) and Section 4's five "what this test cannot claim" lines are the strongest in the class. What keeps it at 84 is that Section 6 is still a drawing instruction with no chart, and the 28-row tally sheet you say is attached is not.*
+
+**口头追问题**：1) `ready to make in Google Sheets`——为什么最后没做？两根柱子的图对 Appendix 是永久交付物，2.4 还要带走。2) 28 人的逐人表在哪？没有它，46.4% 与 64.3% 都只是两个数。3) H1 的动词是 `state`——如果改成"以 110% 标价真卖出 15/28"，判据该怎么写？4) 验真降为免费之后，2.2 的 Authority 战术靠什么收回获客成本？（这直接改写你们 2.2 的 §3）5) `Where` 那四格，随便挑一个，能把原文翻出来吗？6) Grand View Research 为什么算 `academic-industry`，NEA 为什么要降成 `government-adjacent`？7) FRQ 的 (a) 说病是"只测说法"，(c) 却开访谈——访谈能治这个病吗？
+
+**关联**：1.8 = **90** · 2.1 = **83** · 2.2 = **90** · 2.3 = **84**（**四份零漂移，本批承接关系最完整的一条线**）。**跨作业影响**：本份 4D 把 [[Assignment 2.2 — Grading Log]] #13 的 §3 Authority 战术从"溢价"改为"免费基础服务"，**2.2 那一格需按本份修订**；其 2.2 的 Step 4 基线（`CAC $18` / `LTV $62`）与 2.1 的 `CAC $0` 仍需对账。
+
+---
+
+## 14. 章妍 / 雍一凡 / 蔡璐茜 — StudyFuel 学生便携健康零食盒 · **92 (A)**（2026-11-05 收卷）
+
+**§1 20 · §2 20 · §3 20 · §4 15 🔍 · §5 20 · §6 18 ✓ · §7 18 · 完成度 −2**
+**折算**：(20+20+20+15+20+18+18) = 131 / 140 = 93.6 ⇒ 94，完成度 −2 ⇒ **92 (A)**
+**这是本批唯一三节满分的卷子**（§1 / §2 / §3 各 20），也是**唯一把 §2B 做成自己计数**的一份。
+
+> **项目身份 ✓ 零漂移，且卷首自己声明承接**：`Business idea (carried forward): StudyFuel…` —— 1.8 = 78 · 2.1 = 92 · 2.2 = 93 · 2.3 = 92，四份同一门生意。
+> **🔍 §4 = 15 的理由（本份唯一硬伤，且是"可核查性"而非"内容"）**：4A 的日期写成 `Day 1 / Day 2–3 / Day 4` 而不是日期；`Raw data attached (survey export + A/B tally sheet + interview notes)` 但**三个附件一个都没有**（全文只有 §6 那一张图）；卷首还留着一段写给自己的话——`Before submitting: the primary-research figures in Sections 3–4 are this team's field sample and must be verified against your own raw data`；加上元数据 `dc:creator = python-docx`、`dcterms:created = 2013-12-23`（生成器默认值）。**内容本身挑不出错，缺的是"这份数据真的发生过"的书证。原始数据一到，§4 15→18、总分 92→96。**
+> **⚠️ 本份推翻的是这门生意自己的卖点**：H1 判 **NOT SUPPORTED**（`14 of 30 = 47%` 把"低糖"排进前二，判据 `≥70%`），而 `ready fast / near my classroom` 拿到 `25 of 30 = 83%` 的第一。4D 的处理是**保留低糖产品、把话术从"低糖优先"改成"快、近，顺带低糖"** —— 这门生意的价值主张因此改写，**直接改到 2.4 的 value proposition**。
+
+**做对了什么**
+- **§2B 是全批唯一把对手表做成自己的计数的**：`两个晚上扫 20 个校园/校园周边选项（1 台售货机 + 2 家便利店 + 1 个超市货架），三个固定字段：价格、定位、是否低糖` → `只有 3/20 同时做到单份装 + 低糖，而没有一个既是低糖又按"课间"定位`。这就是讲义里 Theo 的 `60 listings` 那条动作，**本批只有这一份真的做了**。
+- **§1B 把 New Coke 那一行套到自己身上，而且是全批最准的一次**：`我的 11/20 预购是关于"承诺"的定量数据，却从没问过为什么买——低糖、方便还是价格？我可能正像 Coke 误读口味一样误读了驱动力`。这不是复述讲义，是**在为 §4 的失败提前埋好解释**。
+- **§3C 把 A/B 的控制变量清单写死了**：`一个变量变的是 offer（免费样品 vs ¥3 立减）；保持不变的是同一产品、同一 ¥15 标价语境、同一地点、同一周窗口、同一招募者；决定成败的指标是一周内的付费订单`——两版中文文案也逐字写出（含 reciprocity 的 `不买也没关系`）。**这是本批唯一达到"可照抄执行"级别的 instrument。**
+- **§4C 有一行全批没有的自觉**：`CAUTION — praise is not data: I recorded actions (ordered = 7 vs 4), not just "sounds good". Polite agreement was not counted as a yes.` —— **把"礼貌性同意"从数据里剔出去**，正是讲义里 sip ≠ can 的正确落地。
+- **§4C 为两条假设各做一组追访**（H1 的 3 位 convenience-first + H2 的 3 位 A 版买家），两组都带频次与引语；H2 组的 `"They gave me one for free, so I felt I should give it a try"` 直接验到了 2.2 的互惠机制。
+- **§4D 的改动是"留产品、改话术"而不是"改产品"**，并写明理由（`~50% 仍看重低糖，所以保留它作为差异点，但不再当标题`）+ 引出 2.4 的 MVP 成功线（`必须在速度/可得性上赢`）。
+- **§2C 的逐项信心分级全批最好**：法规/收入 = HIGH（官方源）、市场规模 = MEDIUM（商业估算、有年份）、对手扫描 = HIGH 但是本地的、趋势帖 = LOW（轶事）——四项四项都给了理由。
+- **§2A 的 `Honesty note` 主动降级自己的第 5 条来源**（`source 5 is a trend signal, NOT evidence of market size`），并把五个 CED 用途逐一映射到来源编号——这是"知道每条来源能干什么、不能干什么"的写法。
+- **§7 二十题中 18 题对**（第 15 题连 `78% − 38% = 40 percentage points` 都写全），FRQ 四段完整。
+- **§6 的图是真的画了**（1200×840 PNG，内嵌在 6B 位置）：6A 的图型推导、6B 的五要素、6C 三行替代图审计，加上一个**可选延伸**（低糖排名 × 愿付 ¥15 的散点图，指向 2.5 定价）——本批唯一交了真图的满分档候选。
+
+**失分与改法**
+1. **§4 的书证全部缺席（15/20，主失分）**：`Raw data attached (survey export + A/B tally sheet + interview notes)` —— 三个附件一个都没有。30 份问卷导出、24 行 A/B 计分行、6 份访谈记录**在哪？** 作业原话是 `Findings without raw data are claims wearing a lab coat`，而这句话正好印在 4A 下面那一行。对照 #8 王钰嘉 / 王和廷：30 行逐人表整份附上，代价一页纸。
+2. **4A 的日期不是日期**：`Day 1 / Day 2–3 / Day 4` —— 作业那一列的表头是 `Date`。写下 `11-01 / 11-02–11-03 / 11-04` 才能被问"那天几点、在哪、谁招的人"。
+3. **卷首那段"提交前自检"没删**：`Before submitting: the primary-research figures in Sections 3–4 … must be verified against your own raw data` —— 这句话是**写给提交前的自己**的，留在文件里就等于在卷面上写"§4 的数还需核"。它与元数据 `python-docx / 2013-12-23` 叠加，会让任何人先怀疑数据来源，再读内容——**这份卷子吃亏全吃在这一处**。
+4. **§7 第 9 题的改写没改掉病根（−1）**：原文的病是"把『你家孩子已经有了』当既定事实埋进问句"，而中性版 `"Does your kid already have one? (yes/no)"` **把这个事实又埋了一遍**（自己在理由里写"removes the planted 'already have one'"，其实没去掉）。正解：`What share of kids your child's age own this one?`
+5. **§7 第 10 题把分母和比率混了（−1）**：`Base = 22/200 = 11%` —— **分母是 200**，22 是分子；应写 `base = 200（22 of 200 = 11%）`。这一迷糊正是作业整章在打的那个靶子。
+6. **§6 的图还要目视一遍（不扣分，留待确认）**：图上确认有标题（两行）、y 轴标签与 x 类目；**底部只检出一行文字**，而 `Source` 与 `takeaway` 是两行要求——正文五要素都列了，图上可能少画了一行。
+7. **完成度 −2**：卷内**无组名、无成员姓名、无 Due**（元数据作者 `python-docx`），文件名是系统导出名（`…_17930818080910267_FILLED.docx`），卷首自检段未删。
+
+**卷面短评**：*The best-designed study in this batch and the only one that counted its own competitive landscape — 20 shelf options in two evenings, three fixed fields, "only 3 of 20 were both single-serve and low-sugar". Then you ran both tests properly: the ranking survey killed your own headline (47% against your pre-set 70%, while "ready fast" took 83%), and the A/B converted 7 of 12 with the free sample against 4 of 12 with the discount — with a line I am going to project in class: "praise is not data; polite agreement was not counted as a yes." Two things keep this at 92: the raw data you say is attached is not, and the pre-submission note telling yourself to verify the figures is still in the file.*
+
+**口头追问题**：1) 三个附件（问卷导出、A/B 计分、访谈记录）在哪？现在 47%/83%/58%/33% 四个数都没有底稿。2) `Day 1 / Day 2–3` 是哪几天？那天几点、在哪、谁招的人？3) 卷首那句 `must be verified against your own raw data` 是你写给自己的——为什么交上来时还在？4) 低糖从"标题"降级为"证明点"之后，你们 2.1 里 `low-sugar 是心理核心` 那条判断还成立吗？2.2 的话术要不要跟着改？5) 20 个选项的扫描表能贴出来吗（价格/定位/是否低糖三列）——那是你们最硬的一手数据。6) 第 9 题的改写里为什么还留着 `already have one`？
+
+**关联**：1.8 = **78** · 2.1 = **92** · 2.2 = **93** · 2.3 = **92**（**四份零漂移，卷首自己声明 carried forward**）。**跨作业影响**：本份 H1 把"低糖"从价值主张的标题降为证明点 → 直接改写 **2.2 的话术主线**与 **2.1 的心理核心判断**，并成为 **2.4 value proposition 的输入**；H2 则**正面确认了 2.2 的互惠战术**（`7/12 = 58%` vs 折扣 `4/12 = 33%`）——与 PTCG 组（战术被自己数据判死）恰好构成一对讲评素材。
+
+---
+
+## 15. 王梓镛 / 曹正 / 张懿 — 折叠笔记本电脑支架 · **82 (B)**（2026-11-05 收卷）
+
+**§1 17 · §2 15 · §3 18 · §4 16 ✓ · §5 18 · §6 13 · §7 20 · 完成度 −2**
+
+> **折算**：17+15+18+16+18+13+20 = **117 / 140 = 83.6** ⇒ 84，完成度 −2 ⇒ **82**。
+> **一句话定位：这一次终于把七节全答满了——而且答得比前两份好得多。** 1C(1.8) 的 §3 交了别的作业（4/25）、2.2 的 §2 只剩三行 §3 只剩五行（59 分），本份却有：两条带 %／n／成功判据／**失败则做什么**的假设、把 interview 拒掉并写出理由的方法表、六格填满的样本计划（含 convenience sampling 红旗）、**七个格子全写的 4D**、一次诚实判输的 H1。**82 是这条线（67 → 59 → 82）的最高分，而且高得不是"格式分"——§3 的 18 分是真设计。**
+> **先验条件**：`Portable Foldable Laptop Stand`、18–24 大学生、与 1.8 #9（折叠电脑支架，67）和 2.2 #6（$15–30）**项目一致、无漂移**；文件 21 个部件、`<w:tbl>` = **0**、`word/media` **0 张**、14,195 字符，`dc:creator = iPad`、创建与修改相距 35 秒（11-05 14:06 → 14:07），是**在 iPad 上一次性手打成形**的一份——这也解释了它为什么没有一张表格和一张图。
+
+**做对了什么**
+- **§3 是本份最强的一节（18/20）**：两条假设都写成了严格形式——`If presented with feature trade-offs, then at least 60% of local undergraduates (18‑24) will rank portability above maximum height adjustment, n=40`，**每条都带成功判据（≥60% / ≥45%）和失败则做什么（重做原型优先高度 / 转全塑料降目标价）**；3B 的方法表把 `Survey ✅H1 & H2 / 1‑on‑1 Interview ❌` 判了并写出理由（`small sample size cannot test percentage-driven hypotheses`）；3D 六格全满，**自己点出 `Convenience sampling; over-represent library frequent users` 这个红旗并给了缓解办法（跨楼栋采集）**。这三样（if-fails、拒绝理由、样本偏差自陈）是本批多数卷子缺的。
+- **§4 四个小节都写全了，而且 H1 是诚实判输的**：4B 两个数都带 base——`14 out of 40 = 35%`、`19 out of 40 = 47.5%`（**算术全对**），与 3A 预设的 60% / 45% 逐一对得上；`H1 Not supported` 没被美化；4C 的 8 人短访**三条主题都带频次且都写了「它解释了 4B 的什么」**（`6 of 8 "I need better height to fix my neck pain"` → 直接解释了 35% 这个结果）；**4D 七格全齐**（数字带 base / 改了什么 / 没料到的 / 不能主张什么 / 下一个问题 / 信心阶梯 / 弱在哪），是这批少数把 4D 写满的卷子。
+- **H1 判输之后画布真的动了**：`shift primary feature focus from ultra-thin foldable portability toward multi-step height adjustment` —— 这是作业 4D 那一格的实质答案（对照 #13 PTCG 把改动做到上一份作业、#14 章妍把低糖从标题降为证明点，三种改法都算对）。
+- **§7 二十题全对**，逐题给 tell：`#3 Theo 的旧台账 = secondary（为别的目的收集的既有数据）`、`#10 Base: 22/200；voluntary-response bias`、`#15 A 7/9 = 77.8% vs B 3/8 = 37.5% ≈ 40 个百分点`（算对了）、`#17 漏掉关键定性变量`、`#18/19 分别落 feasibility / viability`、`#20 相关 ≠ 因果（同一季、同一个摊位）`。FRQ 四段齐，**(d) 那句说得比多数卷子准：`research lowers unknown risk but cannot perfectly predict… stated preference often diverges from real purchase`**。
+- **§5 三条自查都落在自己身上，且敢答最后一问**：`The answer we secretly hoped for: Over 60% students rank portability` + `Low 35% portability-preference result; fully reported without modification` —— 这两格是本批最容易被写成空话的地方，你们写的是实数。
+
+**扣分点明细（逐格对到卷面位置）**
+
+| # | 扣分点（在卷子哪里） | 扣 | 判定依据 | 为什么扣 | 改法 |
+|---|---|---|---|---|---|
+| 1 | **§1B 只排了 1 条既有证据**（`n=8 early student interviews (1.4-1.5)` Qual 一行） | −2 | 作业 1B `Sort what you already have`；判别线（已有证据要按定量/定性分开，并写"它不能回答什么"） | 你们**自己在 1A 里引了三处别的既有来源**——`1A competitor work`（claim 3）、`2.1 consumer notes`（claim 4）、`2.2 messaging draft`（claim 5）——可 1B 一个字都没排。于是这五条主张里**有四条的验证状态无从追起**，`Cannot answer` 那一列也只对一条证据成立 | 1B 至少四行：`n=8 采访 / 竞品拆解 / 2.1 消费者笔记 / 2.2 文案`，逐行写 Quant‑Qual、能回答什么、不能回答什么 |
+| 2 | **claim #1 的出处 `2.1 profile` 指向一份不存在的作业** | −1 | 判别线 #2（数字必须可核且**跨作业一致**） | 2.1 日志里现有 13 份，**没有王梓镛／曹正／张懿**（唯一像 2.1 的内容是误装在你们 1.8 里的那三节，而它把支架定在 **$16→$15**）。本份主张 `$25‑35`，2.2 抬头写 `$15–30`，1.8 是 `$16→$15`——**三份三个价，只有本份往上涨了 60%，且没有一句解释**。价格一动，你们 1.8 里那套 `CAC $10 / LTV $33 / 无复购则仅剩 $15` 就全部作废 | 要么把价格改回 $15–20 并重算 LTV，要么在 1A 写一行 `我们从 $15 提到 $25–35，因为__（材料换成金属+塑料混合），成本从 $7.75 升到 $__` |
+| 3 | **§2 的四条来源没有一条可核**（`statista.com` / `university.edu/research` / `census.gov` / `amazon.com/insights`） | −3 | 判别线 #2；作业 2A 要 `Publisher & Date` 与 `URL` | 四个 URL 全是**网站首页**，不是文献；`Statista, 2025` 没有报告名；`71% neck strain`、`62% carry tech daily`、`$18‑40` 三个数字**追不到任何一份具体报告**。§2 的全部价值就在出处——这一节的形状是满分（4 条、3 个层级：商业/学术/政府/商业），可信度是零 | 每条补 `报告全名 + 发布年月 + 页码或表格编号`；查不到就把该条降级为 `trade blog`（2A 允许分级，但不允许把首页当文献） |
+| 4 | **2D 只有 2 个缺口、没有映射列** | −2 | 作业 2D `Gap list (for primary Task 3 research)` | 本批其他卷子（章妍 / 陈昭宇 / PTCG）的 2D 是三列：缺口 → 由哪条假设补 → 用什么方法。你们只有两个问句，没有一行说明 H1/H2 各自接哪个缺口、2.4 还缺什么 | 加两列：`缺口 1 → H1（Survey 排序题）`、`缺口 2 → H2（Survey 价格题）`；再补第三个缺口指向 2.4（真实付费） |
+| 5 | **3C 只改写了 2 题，且排序题没有计分口径** | −1 | 作业 3C `neutral-question rewrite`（要 3–4 题） | 两道题的改写本身是对的（`Don't you think…` → `rank these factors` ✓、`Wouldn't you pay more…` → `maximum acceptable price` ✓）。但 H1 的因变量是「谁排在前面」，你们没有写**怎么记分**（排第 1 = 2 分？还是只要 portability 在 height 前面就算 1？），所以 4B 那个 `14/40` 无法被第三个人复算 | 补一行计分规则：`portability 排序号 < height 排序号 ⇒ 记 1，否则 0`；再加两题（材料/重量权衡、使用场景） |
+| 6 | **3B 的方法表只列了 Survey / Interview 两种** | −1 | 作业 3B `Method table` | 你们 4C 实际用了**一对一短访**，方法表里却没有它（Interview 被标成 `❌ not main test; for follow-up only`——那正好就是 4C 的用法，本该写成一行 `follow-up`）；observation / A/B 两种本批必列的方法都没出现 | 加一行 `1‑on‑1 short interview — follow‑up only（解释 4B 的反常结果）`，并说明为什么不用 A/B（原型还没有两版） |
+| 7 | **§4 `Raw survey response sheets attached as appendix` —— 附件不在文件里** | −3 | 作业 §4 asterisked 核心：`The numbers in Section 4 and 6 must be your own real data`；原文对 `not collected / fabricated` 判 D/F | docx 内 **`word/media` = 0、`<w:tbl>` = 0、全文没有一张原始计分表或问卷**。你们把 40 个人的答案变成了两个百分比，却没有任何一份可以被数一遍的底稿——**3C 的问卷（2 题）也没交**。这是这一节唯一的失分点，却是最贵的那一格（与 #14 章妍的 3 个附件缺失、#12 应与睿的「原表与图都没交」同类型，本批第四次） | 附三样：① 3C 问卷（2 题 + 计分规则）② 40 行逐人计分表（`# / 排序 / 最高价`）③ 8 场短访的原话记录（日期 + 引语） |
+| 8 | **4C 的 8 场短访没有进 4A 的田野日志** | −1 | 作业 4A `Fieldwork log`（日期 / 方法 / 单位 / 完成拒绝 / 条件） | 4A 只有一行 survey（`Oct 14‑16, 2025 / 52 approached / 40 completed / 12 refused`——这一行本身很规范 ✓）。可 4C 报了 8 场访谈、三条主题、六个频次，**日志里没有第二行**：哪天做的？问了谁？拒了几个？ | 4A 加一行：`Oct 17, 2025 / 1‑on‑1 short interview / 8 recruited from survey respondents / 0 refused / 图书馆出口` |
+| 9 | **§5 第 2 条说"开放题抓住了动机"，但问卷里没有开放题** | −2 | 作业 5 `What we did about it` 必须是真的做了 | 原话：`Open-ended survey and follow-up interviews capture unanticipated ergonomic motivations`。可 3C 只有两道封闭题（一道排序、一道最高价），**问卷里没有开放题**。真正抓住颈部酸痛动机的是 4C 的短访（`6 of 8 "I need better height to fix my neck pain"`）——你们把功劳记在了问卷头上 | 改成 `follow-up interviews（4C）抓住了我们没预料到的颈部酸痛动机；问卷没有开放题，这是设计缺陷` |
+| 10 | **§6 的图没画** | −7 | 作业 6B `Your chart (paste it here)`；§6 的交付物是那张图 | 6A 四问全答（finding / viewer question / bar / 另三种为何更差）、6B **六个要素全齐**（陈述式标题带 `n=40`、x 轴、y 轴带 `%`、两根柱 `35% / 65%` 且**加起来正好 100**、caption 带 `n + Source + Oct 14‑16 2025`、一句 takeaway）、6C 三种错图逐个自查——**规格写得比大多数交了图的卷子还完整，就是没有图**。文件里 0 张图片 | 用 Excel/Sheets 画一张两柱图导成 PNG 贴进 6B；这张图会跟着 canvas 进 2.4/2.5/Unit 3 |
+| 11 | **完成度：三个人的名字一个都没有** | −2 | 作业 `Important Notes`：`every member's name and contribution stated in the file` | 抬头只有 `Team: 3 members`——**王梓镛、曹正、张懿三个字全卷没有**；无 Due、无分工。另外整份**没有一张表格**（题目给的是表格式工作表，全被压成横线分隔的散文，`<w:tbl>` = 0），条目读起来密但定位困难 | 抬头写 `王梓镛（§1/§2）· 曹正（§3/§4）· 张懿（§5/§6）· Due 11-05`，并把 1A / 2B / 3B / 4B / 6B 恢复成表格 |
+
+**加总核对**：§1 20 − 3（1B 单行 −2、假出处 −1）= **17**；§2 20 − 5（来源 −3、2D −2）= **15**；§3 20 − 2（3C −1、3B −1）= **18**；§4 20 − 4（附件 −3、访谈未入日志 −1）= **16**；§5 20 − 2 = **18**；§6 20 − 7 = **13**；§7 20（20/20 + FRQ 四段）= **20**。
+**合计 117 / 140 = 83.57 ⇒ 84**，完成度 −2 ⇒ **82 (B)**。
+**扣分总额**：满卷 140 − 23 = **117**（§1 −3 · §2 −5 · §3 −2 · §4 −4 · §5 −2 · §6 −7 · §7 0），再 −2 完成度 ⇒ 折算后 **84 − 2 = 82**。
+
+**三个重点（表里放不下的部分）**
+
+1. **附件是空头支票，而它是这一节唯一的凭据。** `Raw survey response sheets attached as appendix.` 这句话在这门课上已经第四次出现了——#14 章妍（声称附了 3 份）、#12 应与睿（声称附了逐人计分表）、#2 杨珺怡（声称附了 17 页计分表，实际图片 0 张），加上你们这一份。**四次都是"写了一句声明、什么都没附"**。这不是偷懒的问题：§4 是 CED 的 asterisked 核心，作业页明写 `not collected / fabricated = D/F`；一个不能被数一遍的 40 人样本，和"没做过"在评分上只差一分诚实。**补这一格只要半小时（把 40 行抄成表、把 8 段引语打出来），能把 §4 从 16 拉到 18、总分从 82 到 85。**
+2. **价格在三份作业里漂了 60%，而引用的那份 2.1 不存在。** 1.8：`$16 → $15`（成本 `$9.00 → $7.75`、单台利润 `$7.00 → $7.25`）；2.2 抬头：`$15–30`；本份：`$25–35`，并把 `$25–32` 拿去测（H2 `19/40 = 47.5%` 判 Supported）——而 claim #1 的出处写的是 `2.1 profile`，**2.1 日志 13 份里没有你们这组**。听起来是"涨价后 47.5% 的人愿意付，好消息"，实际上：① 47.5% 里那 4 个人说的是 `$25‑32 is reasonable **if build quality feels solid**`（4C 里你们自己记的）——条件是"手感像金属"，而 claim #5 又写"塑料外壳就行、金属外观不必要"；**这两句互相打架**。② 价格从 $15 翻到 $25–35，1.8 那套 `CAC $10 / LTV $33 / LTV−CAC $23 / 无复购则仅剩 $15` 全部要重算。**H2 判了 Supported，可它支持的是一个你们还没定下来的价格。**
+3. **会答的题全对，要交的东西没交——这和 2.2 得 59 是同一个病。** 那一次是 §2 三行、§3 五行（`§1 18 / §4 19`，理解力在 A 段、作答在 D 段）；这一次七节全答满了（§3 = 18 是真设计），但 **§6 的图没画、§4 的附件没附、§2 的来源是四个首页、三个人的名字没写**。四件事加起来的代价是 **19 分**（117 → 136），而且四件事没有一件需要重新想问题，只需要把已经做出来的东西交上来。**这一组的能力曲线是稳定的 A−，交付曲线是稳定的 D——82 这个分是两条曲线相加的结果，不是能力的上限。**
+
+**卷面短评**：*A real step up — two hypotheses with percentages, pre-set criteria and if-fails actions, a method table that rejects interviews for a stated reason, a sample plan that flags its own convenience bias, and a Section 4 where H1 is honestly killed at 14 of 40 while the follow-up interviews explain why. What is still missing is everything that would let someone else check it: the appendix you say is attached (there is no appendix), the chart you specified perfectly but did not draw, the four sources that are website home pages rather than reports, and three names that never appear in the file. Your answers are A-grade; your submissions are still D-grade.*
+
+**口头追问题**：1) `Raw survey response sheets attached as appendix` —— 附件在哪？40 行逐人计分表能现在拿出来吗？2) H1 的 `14/40` 是怎么数出来的：portability 排第 1 才算，还是排在 height 前面就算？计分规则写在哪？3) 价格从 1.8 的 `$16→$15` 涨到没到 `$25–35`？**涨价的理由是材料**——那成本从 `$7.75` 变成多少？LTV $33 / CAC $10 还能成立吗？4) claim #1 的出处写 `2.1 profile`，可 2.1 里没有你们这组，那份 profile 在哪？5) 4C 里 4 个人说 `$25–32 is reasonable **if build quality feels solid**`，claim #5 又写"塑料外壳就行、金属外观不必要"——**要卖 $25–32 的是塑料的还是金属的？** 6) `statista.com` 那份报告叫什么名字？`71%` 是哪个国家哪一年的样本？7) 短访 8 场是哪天做的，4A 为什么只有一行？
+
+**关联**：[[Assignment 1C (1.8) — Grading Log]] #9 = **67**（`§1 21 · §2 20 · §3 4 · §4 22`，§3 交了 2.1）· **2.1 无记录**（唯一像 2.1 的内容误装在 1.8 里：`CAC $10 / LTV $33`）· [[Assignment 2.2 — Grading Log]] #6 = **59**（`§2 6 · §3 6`，大纲代替作答）· 本份 **82**。
+> **项目线**：67 · — · 59 · **82** —— **这是这条线第一次上 80**，而且不是靠格式分：§3 的 18 分、§4 的 16 分都是实打实的设计与数据。**从 59 到 82 的 23 分里，有 19 分只要"把已经做出来的东西交上来"。**
+> **待收**：本组的 **2.1** 至今没有任何记录（2.2 日志第 4 条待确认同样记着这件事）；本份 claim #1 与 H2 都引用了它，**建议让这组把 2.1 补交一份**，否则这条项目线在"价格与单位经济"上是断的。
+
+---
+
 ## 归档说明
+
+- **#15（王梓镛 / 曹正 / 张懿，82）是这条线第一次上 80**：1.8 的 §3 交了别的作业（4/25）、2.2 的 §2/§3 只剩大纲（59），本份七节全答满——§3 = 18（两条假设带 %／n／判据／**失败则做什么**，方法表拒掉 interview 并给理由，样本计划自陈 convenience 红旗）、§4 = 16（H1 诚实判输 `14/40 = 35%`，4C 三条主题带频次并解释结果，**4D 七格全齐**）。四点失分全部是"已经做出来但没交上来"：**`Raw survey response sheets attached as appendix` 而文件内 0 附件 0 表 0 图**、§6 的图没画（6B 六要素却写得比多数交了图的卷子还全）、§2 四条来源是四个**网站首页**（`statista.com` / `census.gov` / `.edu/research` / `amazon.com/insights`）、三个人的名字没出现。**新增悬案：claim #1 的出处 `2.1 profile` 不存在（2.1 日志 13 份无此组），且价格三份三价（1.8 `$16→$15`、2.2 `$15–30`、本份 `$25–35` 测 `$25–32`），H2 判 Supported 的那个价与 claim #5「塑料外壳就行」互相打架。**
 
 - **§4 的水平分层是本批讲评主线（同一节，十种水平）**：
   - **① 诚实空着** — #1 陈昭宇（6）：自己标 `【示例】` 括号，日期写 `【日期】`。
@@ -511,6 +681,9 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
   - **⑥ 真数据 + 判据先定 + 假设真的被推翻、画布随之改动** — #6 傅皓祥（16）：24 人实测 `11 of 24 = 46% < 60%`，if-fails 的「学校 → 家长」**真的执行了**，4D 五栏与信心封顶齐；代价是 instrument 不可见、原件未附、4 场访谈无日期无原话——**这一档在「证据质量」上已到 A，在「可核查性」上还在 C。**
   - **⑦ 整节「将来完成」** — #7 徐嘉璐（5）：4A/4B/4C/4D 全部 `This will be completed after the survey`，第一行还是作业原文的改写；**设计（§3 = 16）与 4D 的 limit 句都是 A 档，唯独没跑**。与 ① 的区别：① 诚实标了「示例」，⑦ 标的是「排期」。
   - **⑧ 真数据 + 判据先定 + 30 行逐人计分表整份附上，但数字与表对不上** — #8 王钰嘉 / 王和廷（17）：**本批可核查性最高的一份**（逐行可数、日期具体到 10-28/10-29、逐字引语 6 段），H1 的 `21/9` 逐行全对 ✓，**但 4B 报的 H2 `23/30` 逐行数出来是 `24/30`**，且 4C 的 `5 of 6` / `4 of 6` 从所附 6 句里复原不出来（P13 明说不在乎包装）。**它把「附了原始数据」从可选变成了能被当场核对——这正是这一节要的效果，也是它必须答对的原因。**
+  - **⑫ 三节满分 + 两条假设一杀一立 + 只有图没有底稿** — #14 章妍 / 雍一凡 / 蔡璐茜（15 + 18）：§1 / §2 / §3 全 20；H1 `14/30 = 47% < 70%` 判 NOT SUPPORTED（把自家「低糖」卖点从标题降为证明点），H2 `7/12 = 58% > 4/12 = 33%` 判 SUPPORTED（正面确认 2.2 的互惠战术）；**§6 是全批唯一交了真图的**。代价仍是同一处：**4A 的日期写成 `Day 1/Day 2–3`、三个原始附件一个没附、卷首「提交前自检」那段没删**——本批「内容 A、书证 D」的极致样本。
+  - **⑪ 数据把自己的战术判死，且改动动到了上一份作业** — #13 王子轩 / 袁翌宸（17 + 12）：H1 `13/28 = 46.4% < 55%` 判 Not supported，4D 据此把 **2.2 的 Authority 战术从溢价改成免费基础服务**；五条 `what this test cannot claim` + `confidence ladder` 是全批最严的自我设限。**与 ⑩ 同一处缺口：原始 tally 与图都没交**——两批数据最硬、形式最软，说明「会不会贴原始数据、会不会真画一张图」是这批唯一没被教到的手艺。
+  - **⑩ 真数据 + 判据先定 + 假设被判输、画布随之改动，但原始表与图都没交** — #12 应与睿 / 邓子凡 / 孙昊楠（16 + 12）：H1 `12/30 = 40% < 50%` 判 Not supported，降价与日卡的改动写进了 4D；**4A 声称附了逐人计分表、实际 0 个附件；6B 的五个标签齐而图 0 张**——这一档是「证据在脑子里，不在文件里」，与 ⑧（表交了、数与表对不上）互为镜像。
   - **⑨ 标注过的仿真数据、四格全写满** — #9 朱稼棋 / 郑歆妮（19）：§4 第一行 `Simulated realistic primary-research dataset (common for course project; raw survey tally sheet attached as appendix)`，**2026-11-04 教师裁定可用 → 按真实数据计分**。4A 日志 / 4B 两结果带底数 / 4C 六场主题带频次 / 4D 五格与信心封顶**四格全满**，是本批唯一。扣的 1 分在两处：`raw tally sheet attached` 无附件、H2 自写的 `control ≤20%` 实测 25% 仍判 Supported。
     **这一格的教学价值不在「编造」，在「标注」**：同一份卷子，标注在 → **86**；把这行删掉（4D / §5 / §6 self-check / 6B 的来源行四处仍按真数据说话，年份还错一年）→ 就是作业页写的 `fabricated`，**§4 = 4、总分 75**。**11 分就是这一行的价格**，讲评时把两个数字并排写在黑板上即可。
   - **⑩ 真数据但只交了前半节** — #10 宋皓阳 / 陆骏毅 / 吴凌轩（12）：4A 八要素齐（日期 / 纸质 / 100 目标 / 87 完成 / 13 拒访 / 晴 / 主出口 / 16:20–17:40），4B 两个百分比带 base 且**与 4A 交叉验算闭合**（40−38 = 2、60−49 = 11，合计 = 13；17/38 = 44.7%、19/49 = 38.8%）；**但 4C 与 4D 五格全空、6B 无图**——**证据是真的，结论没写**。它是 ④ 的反面：④ 把后半节写满，⑩ 只交前半节。
@@ -521,7 +694,7 @@ Rubric: Assignment 2.3 Grading Rubric — 7 sections × 20 + presentation/comple
   - **最贵那一格连续三份空着** — #7 徐嘉璐 / 封欣怡：2.1 §2 星号访谈（`Insert real interview answer here` ×4，13/20）→ 2.2 §5 只答 4/16（8/20）→ 2.3 §4 全节未跑（5/20）；**81 → 79 → 75 → 68，四份单向下滑**。**三张「空着的那一格」并排投影，问「这三格加起来值多少分」**——本班唯一一组能用三张截图讲完「交付卫生就是分数」。
 - **正例可讲评**：陈昭宇组 1.8(92) / 2.1(94) / 2.3(80) 三份**同一生意、同一价格口径**，是「项目不漂移」的正面样本；**傅铭暄 1.8(94) / 2.1(91) / 2.2(94) / 2.3(90) 四份全 90+，且 1C 的 `LTV−CAC $11.40` 能回算 2.1 的 `$17.40 − $6.00`**——全班最稳的一条结转线；反面见 2.2 悬案 #1/#3（Study Café→EcoGlow→饮品摊），以及**杨珺怡组的「讲义示范公司线」**（Quiz 1 轻食 → 1.8/2.1/2.2/2.3 四份二手童车 = Trued Cycles，连 2.1 的 Renee 画像、$88 LTV 与 2.3 的 7/9 都是讲义原数）；**王钰嘉 / 王和廷组是第二个正例**：1.8(59) / 2.1(81) / 2.2(89) / 2.3(81) **四份同为 K-pop 签名小卡、与 Quiz 1 也对得上，零漂移**（唯一遗留是毛利三口径 $17 / $22 / $15，见 findings #4）。
 - **§6 是全批失分最集中的一格**：**十一份里只有 #4 傅铭暄（PNG 1600×919）与 #5 李言蹊（第 19 页图）交了真图**，caption 五要素齐；#1（11）、#2（12）、#3（10）、#6（13）、#7（10）、**#8（13，数据表与标题/来源/takeaway 都齐、就是没画图）**、**#9（14，五要素全写成文字、明说「text-based description for assignment submission」）**、**#10（9，6B 连文字规格都没有）**、**#11（11，6A 与 6C 都写全了、`Your chart, drawn:` 空着）**仍无图。**图是永久附录件，会跟 canvas 进 2.4/2.5 与 Unit 3**，下一轮应把「文件里必须有图」写进提交须知。
-- **待收**：① 陈昭宇组的 **2.2**（2.3 的 H2 声称源自它）；② **李言蹊 / 刘泽霖 / 黄芷萱（AutoRide）的 2.2**（其 1.8=90、2.1=91、2.3=76 已评，2.2 至 11-04 未收到）；③ **宋皓阳 / 陆骏毅 / 吴凌轩的 2.2**（2.2 十一份里无此组，若确未交，其 2.3 §3 没有 2.2 策略可接）；④ 2.3 其余各组（**已收 11 份**）；⑤ **徐镜舟 / 张皓诚的 2.1 仍未交**——本份 1A 与 3D 都引用了它，2.2 #5 的 `Original CAC $32 / LTV $145 出自 2.1` 仍无从对账。
+- **待收**：① ~~陈昭宇组的 2.2~~ **已收（11-05，93）**——其 Step 5 正是本份 H2 的预注册原型，但当时表内为空，故 H2 的 `7 of 10 / 77.8% vs 37.5%` 仍属「声称源自 2.2」而 2.2 无对应数据，见 #1 追问题 6；② **李言蹊 / 刘泽霖 / 黄芷萱（AutoRide）的 2.2**（其 1.8=90、2.1=91、2.3=76 已评，2.2 至 11-04 未收到）；③ **宋皓阳 / 陆骏毅 / 吴凌轩的 2.2**（2.2 十一份里无此组，若确未交，其 2.3 §3 没有 2.2 策略可接）；④ 2.3 其余各组（**已收 11 份**）；⑤ **徐镜舟 / 张皓诚的 2.1 仍未交**——本份 1A 与 3D 都引用了它，2.2 #5 的 `Original CAC $32 / LTV $145 出自 2.1` 仍无从对账。
 - **[已裁定 2026-11-04] 朱稼棋 / 郑歆妮组 · 「标注过的仿真数据」可用**：§4 自述 `Simulated realistic primary-research dataset (common for course project)`，教师裁定**允许** → §4 按真实数据计 **19**、总分 **86 (B+)**（裁定前按作业页 `Not collected / fabricated` 计的 4 分 / 75 分作废，保留为对照）。**由此形成本批唯一的量化对照：同一份卷子，标注值 11 分。**残留待问（不扣分）：① 4C 的六场访谈与「their exact words」是否也为生成数据——现行 note 只写了 `dataset`，未覆盖 4C；② `Oct-14-2025` 的来源；③ H2 的 control 实测 25% > 自定 20% 为何仍判 Supported；**④ §2 的学术引用 DOI 对不上论文（11-04 在线核验：`10.1111/17503841.14672` 无连字符时 doi.org/Crossref 均 404，补回连字符后指向 2019 年 sourdough/Phaseolus 论文，而非所引的 2024 消费者感知论文，按标题反查亦无此文）**。**分数影响**：若据此把 §2 由 17 调至 16，总分 85（仍 B+，档不变）——是否调分请定夺，本条只记录核验事实。
 - **[政策待补]** 作业页现在仍写着 `Not collected / fabricated` 属 D/F，与 11-04 裁定不一致：**建议在 [[Business Canvas Project - Assignment 2.3 (Unit 2 Tasks 3-4)]] 的 Section 4 说明里加一句「使用仿真数据须在 §4 第一行标明 `simulated`，并复制到 4D 的 cannot-claim 栏、§5 与 §6 的图注；未标注按 fabricated 计」**——否则下一个学生去掉那行，同样内容会判 4 分。
 - **2.3 追加悬案（宋皓阳 / 陆骏毅 / 吴凌轩组）**：① 87 份问卷的**原卷在哪**（3C 空 ⇒ instrument 不可见）；② 2A 的 `11 nearby sellers` 清点表在哪（2B 空）；③ 本组 2.2 是否真的没交；④ 2.1 的「45 暂定」源 .docx 重交后需一并重评（其 §2/§4 当时全空但 22 项 self-check 全勾）。

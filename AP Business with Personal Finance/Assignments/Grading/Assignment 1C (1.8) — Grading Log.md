@@ -1,8 +1,8 @@
 ---
 Assignment: Business Canvas Project — Assignment 1C (CED Task 7)
 AP Topic: 1.8 Production Process & Supply Chain Plan
-Graded: 2026-10-25（#11 于 11-02 补评；#12、#13 于 11-03 补评；#14 于 11-04 补评；#15 于 11-04 登记为未提交）
-Submissions: 15 groups（其中 1 组未提交 1.8：朱稼棋 / 郑歆妮）
+Graded: 2026-10-25（#11 于 11-02 补评；#12、#13 于 11-03 补评；#14 于 11-04 补评；#15 于 11-04 登记为未提交、**11-05 补交并重评 84**）
+Submissions: 15 groups（**15 份已全部评分，无缺席卷**）
 Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/completeness adjustment
 ---
 
@@ -30,9 +30,9 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 | 12 | **张皓诚 / 徐镜舟**（11-03 补交） | 便携电动意式咖啡机（实物） | 21 | 16 | 20 | 17 | −2 | **72 (B−/C+)** | — |
 | 13 | **陈昭宇小组**（来件仅写组名）（11-03 补交） | AI 智能膳食健康分析系统（服务） | 24 | 21 | 24 | 24 | −1 | **92 (A)** | — |
 | 14 | **杨珺怡 / 励景宽 / 孙良熙**（11-04 补交） | 二手儿童自行车（⚠️ 与 Quiz 1/1A 项目不符 · 骨架为讲义贯穿故事 Theo） | 23 | 22 | 18 | 21 | −2 | **82 (B)** | — |
-| 15 | **朱稼棋 / 郑歆妮**（11-04 登记） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | — | — | — | — | — | **0（未提交）** | — |
+| 15 | **朱稼棋 / 郑歆妮**（11-05 补交，原登记未提交） | ECOECHO 重组蛋白（毕赤酵母）植物肉（$7/份） | 23 | 23 | 18 | 22 | −2 | **84 (B)** | ~~0~~ |
 
-> 第 15 行**不计入评分分布**（不是低分卷，是整章缺席），它的出现使本批从 14 份变为 14 份评分 + 1 份未交。
+> 第 15 行 **11-05 已补交真 1.8 并重评 84**（原「未提交 0」作废）；本批 **15 份全部有分**，均值 **81.9** / 中位 **82**。补交件同时回答了「是不是交错文件」的老问题：他们不是没做，是**同一周里连发三份不同章节的文件**，1.8 这份最后到。
 
 ### ⚠️ 复核更正（3 处，均为求和笔误，非重新评分）
 | 组 | 原报 | 复核 | 说明 |
@@ -242,6 +242,9 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 
 **口头追问题**：1) 两家原料供应商五因子比较？2) $16→$15 从哪来？3) 单台利润为何反升？
 
+**关联**：1.8 #9 = **67** · **2.1 无记录** · [[Assignment 2.2 — Grading Log]] #6 = **59** · [[Assignment 2.3 — Grading Log]] #15 = **82**（11-05 收卷，这条线第一次上 80）。
+> ⚠️ **价格三份三价（11-05 记）**：本份 `$16→$15` · 2.2 `$15–30` · 2.3 `$25–35`（测 `$25–32`）。2.3 把贵一倍的价说成"2.1 profile 暗示"——**2.1 里没有这组**；且 2.3 claim #5 写"塑料外壳就行"，与 `$25–32 is reasonable **if build quality feels solid**`（4C 里 4/8 人）互相打架。
+
 ---
 
 ## 10. Chloe & Heting（王钰嘉 组）— K-pop 签名小卡礼盒 · **59 (C)**
@@ -348,7 +351,7 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 
 **口头追问题**：1) 你们 1.8 是膳食分析系统、2.1 是学生零食——哪个是你们的 canvas？2) 高质量这条战略，落到链条上具体是哪一个选择？3) 翻倍到 60,000 份，一名兼职能审完吗、抽检比怎么定？4) ¥15 单价是哪份作业定的，1.4-1.5 里那行是什么？5) 营养师审核的执业编号怎么核验——这就是你们 §3 的 supplier 风险反面吗？
 
-**关联**：1.8 #13 = 92 · **2.1 #1 = 94（自称零食盒，项目待确认）** · 2.2 **未见该组提交**（2.2 批次 10 份中无陈昭宇/章博涵）。
+**关联**：1.8 #13 = 92 · [[Assignment 2.1 — Grading Log]] #1 = 94（项目已于 11-04 确认为 AI 膳食系统 ✓）· [[Assignment 2.2 — Grading Log]] #15 = **93**（11-05 补交）· [[Assignment 2.3 — Grading Log]] #1 = 80。**四份同一生意、同一价格口径 `¥9.9 / ¥18 / ¥98`，是本批「项目不漂移」的正面样本。**
 
 ---
 
@@ -388,18 +391,41 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 
 ---
 
-## 15. 朱稼棋 / 郑歆妮 — 重组蛋白植物肉 · **未提交（0）**（2026-11-04 登记）
+## 15. 朱稼棋 / 郑歆妮 — ECOECHO 重组蛋白（毕赤酵母）植物肉 · **84 (B)**（11-05 补交）
 
-**§1 — · §2 — · §3 — · §4 — · 完成度 —**
+**§1 23 · §2 23 · §3 18 · §4 22 · 完成度 −2**
 
-> **为什么是 0 而不是低分**：交件 `Business Canvas Project Assignment 1-1.docx` 已逐段核过——骨架是 **1.4-1.5 工作纸**（IDEA AUDIT 1A/1B/1C、TASK3–TASK6、`SECTION6 EXAM DRILL`），2.1 的答案贴在 TASK3/4/5 下面，`SECTION6` 交的是 1.4-1.5 的五题 drill。**§1 生产流程、§2 供应链五段、§3 供应商五因子、§4 战略与 scaling 四格，一格都没有。** 这不是“写了但写得不好”，是**整章缺席**，4×25 的四个维度无法给任何一格记分。
-> **不是交错文件**：同一份文件里那段 2.1（ECOECHO、`$7 / $4.2 / $2.8`、CAC `$6.00`、LTV `$11.90`）与 [[Assignment 2.1 — Grading Log]] #13 **完全一致**，其 2.2（87）又逐字回引这两个数 —— **这条项目线只缺 1.8 这一环**。11-03 到达的 `1.8.pdf` / `2.1.pdf`（二手童车 = 讲义示范公司）**属 杨珺怡组**（本日志 #14、2.1 日志 #12），与本组无关；不用再猜“是不是交了两份”。
-> **11-04 16:28 第二次收到文件 `Business Canvas Project Assignment.docx`（WPS，creator `哄哄`，created 2026-11-03 19:07Z）——仍不是 1.8**：逐段核过，内容是 **1.4-1.5 的 Tasks 3–6 + 2.1 §1**：`Section 1 Idea Audit`（Gap/Why now/Team strengths + **Identify / Promote / Sell / Deliver 四项营销活动与 Weakest activity**）、`Section 2 Task 3 Customer Interviews`（三个受访者、三组客群、Lily、假设与成功标准）、`Section 3 Task4 Solution`（MVP 三特点、`$7 / $4.2 / $2.8`、关系策略、**CAC $6 / LTV $11.9**）、`Section 4 Task5 Risk & Return`（$28,000 启动 / $75,000 收入 / $47,000 净利）、`Section 5 Task6 Organisation Definition`（核心价值、数据管理、四种数据风险）。**1.8 四节一格仍没有**：`artisan` / `mass production` / `three inputs` / `warehouse` / `supplier` / `distributor` / `scaling` / `barriers to entry` 全文命中 **0**，唯一一处 `supply chain` 出现在 2.1 §1 的 Deliver 行（`we do not have massproduction supply chain`）；作业单四节标题 `SECTION 1 PRODUCTION PROCESS` / `SECTION 2 SUPPLY CHAIN DESIGN` / `SECTION 3 SUPPLIER SELECTION` / `SECTION 4 STRATEGY → SUPPLY CHAIN ALIGNMENT` 一个都没出现。**0 维持。** 若此件本意是 **1.4-1.5 补交**，请另立日志按 1.4-1.5 作业单评（vault 中尚无 1.4-1.5 评分日志），不要记进 1.8。
-> **建议**：1.8 是独立章节（供应链五段、五因子 × 两供应商、scaling 表），**无法从 2.1 / 2.2 推得**——请补交后再评。本组现有记录 **1.8 = 0 · 2.1 = 70 · 2.2 = 87**：后两份都在 B 上下，而 1.8 的缺席会把整条线的观感拉到底，**值得当堂催一次**（最好当场问一句“你们知道自己少交了一份吗”）。
+> **补交交代（原「未提交 0」作废）**：本组 11-04 登记为整章缺席。11-05 收到的 `Business Canvas Project Assignment.docx`（WPS，`dc:creator = 哄哄`，created 2026-11-03 19:07Z、modified 2026-11-05 09:39，`<w:tbl>` = 0、无图、4,376 字符）**终于是真 1.8**：四节标题全在（`Section 1: Production Process` / `Supply Chain Design` / `Supplier Selection` / `Strategy - Supply Chain Alignment`），`artisan` / `mass production` / `three inputs` / `warehouse` / `supplier` / `distributor` / `scaling` 全部命中。**15 份至此全部有分。**
+> **数字自证（本批最强的一处）**：`140 份 × $7 = $980` ✓、`$588 ÷ 140 = $4.20/份` **与 2.1 的 `$7 / $4.2 / $2.8` 逐字对上**、`$980 − $588 = $392` ✓；翻倍后 `280 × $7 = $1960` ✓、成本 `$1064`、`$1960 − $1064 = $896` ✓，且单价**没有偷偷改**（判别线 #2）。反推 `v = $3.40/份、F = $112`（`588 − 476 = 112`、`476 ÷ 140 = 3.40`），**固定成本每份 $0.80 → $0.40 恰好腰斩**——他们说的机制和表里的数是同一个数，不是凑的。2.1 的 `$840 ÷ 140 = $6.00 CAC` 用的也是这个 140。全批只有两份做到「1.8 ↔ 2.1 双向可复算」（另一份是 #13 陈昭宇），这是第二份。
 
-**口头追问题**：1) 1.8 那份在哪——是交了但交错文件，还是没做？2) 你们 2.2 的 Authority 建立在“独立实验室报告”上，那份报告要外部供应商才能出——用 1.8 的五因子（价格/交期/可靠性/产能/技术）描述一下这个 supplier，你们选得出来吗？3) 产品还是实验室样品（2.1 自己写的 `仅有实验室样品，缺少渠道与量产物流`），那供应链五段里你们能控哪一段？4) 发酵扩产需要什么原料、什么设备、断供了怎么办——2.1 里的两个风险（审批周期、消费者顾虑）为何都不是供应链风险？
+**做对了什么**
+- **§1 三输入按顺序走完，并收成一句结论**：customer first（`not the cheapest price`，要 clean / low-allergy）→ competencies（`know how to design bacteria strain and make protein formula`，但 `don't own big factory machines`）→ landscape（对手全走量产）→ **Hybrid**；理由写成 `First… Second… Third…` 三步，且第三步把前两步合成一句（`This hybrid way lets us keep our unique recipe, and also make more goods later`）。`Relies on` 两头都给（`Skilled lab people + fermentation machine technology`，EK 1.8.A.2 的 labor vs tech），`Output` 给了批量与定制度两端（`Standard medium batches … but not one-of-a-kind custom food`）。
+- **§2 五段全填、四段带 reach**：raw materials（`Regional + Global`：木薯粉 / 发酵饲料 / 食品级试剂 / 包装膜）→ manufacturing（校本实验室做菌种与种子培养 + 外协工厂发酵成型）→ storage（`Cold-chain distribution center`）→ distribution（冷链 + 自营网店 + 合作咖啡店）→ customer（flexitarian 低敏人群）。
+- **两处判别线一次过**：`distribution center because it stores frozen plant meat, and also sends out goods to online buyers and cafe partners` —— 给的是「存 + 转」的机制，不是硬套名词（判别线 #1 的满分动作）；`key supplier = cassava raw material producer` / `key distributor = cold-chain logistics company` 各带一句角色说明 ✓（判别线 #3）。
+- **§3 五因子 × 两供应商全填，且两家的差异是真实差异**：A 本地加工商（中价、每批可做过敏检测、交期稳、近、低风险）vs B 海外（单价更便宜但海运加价、批次质量波动、慢、远、`import policy problem`）。`My choice` 的理由挂回定位（`Quality and stable supply are more important for our niche product`），**没有倒向便宜的那家**——这正是差异化战略该做的选择。
+- **§4 的 strategy → chain 是真的连成一条线**：differentiation（niche / clean label / low-allergy）→ `we do not chase the cheapest raw material` → 具体到 `local cassava supplier with allergy test report` → 说明它为何支撑定位（`proves our product is soy-free and low-allergy, which other plant meat brands cannot easily copy`）。EK 1.8.C.2 的 specific example 做到了。
+- **scaling 的机制段说得比表还准**：`fixed cost (lab, checking rule fee) is split on more units` + `raw material cost for each piece stays almost the same` + 主动给出边界（`if we keep growing much larger, we need to pay for bigger factory contracts, which will add new fixed cost`）——第三句是本批只有少数几份写出来的「scaling 的上限」。
 
-**关联**：[[Assignment 2.1 — Grading Log]] #13 = **70** · [[Assignment 2.2 — Grading Log]] #11 = **87**（本批唯一“数字真的从 2.1 结转”的卷子）· Quiz 1 朱稼棋 73 / 郑歆妮 83。
+**扣分点明细（逐格对到卷面位置）**
+
+| # | 扣分点（在卷子哪里） | 扣 | 判定依据 | 为什么扣 | 改法 |
+|---|---|---|---|---|---|
+| 1 | **§1 `Output` 只有形容词、artisan 对比没展开** | −2 | EK 1.8.A.2（output = 数量 + 定制度）；LO 1.8.A（`Compare artisan vs mass`） | `Standard medium batches` 里 **medium 是多少**？全卷唯一出现的产量数字（140）长在 §4 的 scaling 表里，§1 没引用它。而`pure artisan is not fit` 只有结论，没说出 artisan 具体会在哪一步崩（人工品控？批次一致性？） | 写 `首批 140 份/月、每批 20 份`；artisan 那句补成 `artisan 无法保证 20 份之间过敏原检测的一致，学生吃的是安全感不是手作感` |
+| 2 | **§2 的 `Storage facility` 缺 reach；链没有一条流** | −2 | 自检项 `I have noted the reach of my chain`（EK 1.8.B.1） | 五段里四段都标了 `Local/Regional/Global`，只有 storage 那格空着（这是最容易填的一格，反而漏了）；整节是表格平铺，没有从原料到顾客的一条流，读不出「哪一段是瓶颈」 | 补 `Regional`；表下加一行箭头流，并在最慢的一段画个记号（多半是 `外协发酵`） |
+| 3 | **§3 只谈了「供应商会不会断供」，CED 五条风险一条没点名；食品法规风险整体缺席（§3 主失分）** | −5 | EK 1.8.B.4 的五条（自然灾害 / 政治不稳 / 资源短缺 / 生产失误 / 供应商声誉）；判别线 #4；作业 `Important Notes 5`（1.3 排第一的外部力量必须落进 §3 的风险行） | 全文风险判断只有 `Low risk, no customs trouble` 与 `may have shipping delay or import policy problem` 两句。木薯是**农产品**——资源短缺与自然灾害恰恰是这一行的第一风险，而 `food safe reagent` 与 `packaging film` 断供比木薯更难替换（这三样一个都没进风险行）。更要紧的是**法规**：外协工厂有没有食品生产许可（SC）、菌种与发酵工艺要不要报备，一句没问——对一份卖「低敏、无大豆」的植物肉来说，这是能让整个链条停摆的那一条 | 五条逐条判「有 / 无 + 为什么」并**排序**（本行判断：资源短缺 > 自然灾害 > 生产失误 > 政治 > 声誉），再补一行 `外协厂 SC 证 + 菌种备案`；允许按判别线 #4 用理由否掉一条（如 `我方无自有海运，政治风险主要落在 B 上`） |
+| 4 | **§3 的 backup 没有资质，等于没有 backup** | −2 | 判别线 #4：`A backup is only a backup if it is already qualified: state the second source, its capacity, its fill time, and what you pay to keep it usable` | `Keep Supplier B as our backup. We already check its product quality, and we can switch to it quickly` —— 「quickly」是形容词；而 B 自己的风险行写着 `Slow delivery, long wait time by sea ship`，**等于承认这个 backup 在 A 断供时来不及**。起订量、海运天数、维持成本三个数一个没有 | 给三行数：`B 起订 __ kg、海运 __ 天、年维持成本 $__（试单 + 检测）`；若算下来仍然太慢，就老实写 `B 不是 day-one backup，真正的备份是本地第二家加工商 / A 的第二条产线` |
+| 5 | **§4 的进入壁垒只有半句断言** | −2 | 自检项 `I have analyzed barriers to entry created by my chain design`（EK 1.8.C.3） | 只有 `which other plant meat brands cannot easily copy` —— 壁垒**是什么形式**（配方？过敏检测记录？与加工商的优先产能协议？）没说，对手复制要花多少时间多少钱也没说 | 写清载体 + 复制成本：`配方 + 每批过敏检测档案 + 与本地加工商的优先产能协议；对手重建需 __ 个月 / $__` |
+| 6 | **scaling 表没有把固定 / 变动成本拆出来** | −1 | 判别线 #2：`A scaling table must expose the fixed/variable split, not hide it` | 四行数全对、机制段也说对了，但**读者得自己反推**才知道 `v = $3.40、F = $112`。同一份卷子在 2.1 里写过 `$7 / $4.2 / $2.8`，这里却没把 `$4.2` 拆成 `$3.40 变动 + $0.80 固定`——一句话就能把这张表从 B 拉到 A | 表下加一行：`单价 $7.00 · 单位变动成本 $3.40 · 固定成本 $112 · 贡献毛益 $3.60/份`；再补 `翻倍后固定成本每份 $0.80 → $0.40，这就是成本只涨 81%、收入涨 100% 的全部原因` |
+| 7 | **全卷无组名、无成员与分工、无 Due；四张表全被压成散文** | −2 | 完成度；作业 `Important Notes 4`（`every member's name and contribution stated in the file`） | 文件里查不到 `朱稼棋` / `郑歆妮` 任何一个名字，也没有 Group 名与 Due；1C 的四张表（三输入 / 五段 / 五因子 / scaling）改写成 `Label: content` 的散文，scaling 那四行两列连行都没画 | 抬头加 `Group __ · 朱稼棋 / 郑歆妮（各写负责的节） · Due 11-05`；至少把 scaling 还原成表 |
+
+**加总核对**：25 −2（§1 输出与对比）= **23**；25 −2（reach + 链流）= **23**；25 −7（五风险 + 法规 5、backup 2）= **18**；25 −3（壁垒 2、拆分 1）= **22**；→ **86** −2 完成度 = **84**。
+
+**卷面短评**：*A hybrid justified in the right order (customer first, then your own lab skill, then what rivals do), two suppliers scored on all five factors, and a scaling table whose arithmetic matches your 2.1 to the dollar — $7.00 a unit, $4.20 a unit cost, 140 units. The only thing missing is the risk row a food business cannot skip: which of the five CED risks actually threatens a cassava supply, and what your backup costs before the day you need it.*
+
+**口头追问题**：1) §1 写 `Standard medium batches` —— 140 份是最终产量吗？那 §1 为什么不直接用这个数？2) 木薯粉是农产品，资源短缺和自然灾害你们排第几？食品级试剂与包装膜断供时替代方案是什么？3) 外协工厂有没有食品生产许可（SC）？菌种和发酵工艺要不要备案——这条要是断了，你们的链条停在哪一段？4) B 是你们的 backup，但它海运要多久、一年维护这条备用线花多少钱？A 断供当天，B 能出货吗？5) `$4.2` 的成本里，固定与变动各多少？翻倍后每份固定成本怎么变？6) 对手复制你们的「低敏」需要多久——配方、检测档案、优先产能协议，哪一项最难抄？
+
+**关联**：1.8 = **84（11-05 补交，原登记 0）** · [[Assignment 2.1 — Grading Log]] #13 = **70**（`$7 / $4.2 / $2.8` 与本份 `140 × $7 / $588 ÷ 140` 双向可复算 ✓）· [[Assignment 2.2 — Grading Log]] #11 = **87**（`$6.00 / $11.90` 与 2.1 逐字一致，本批唯一「数字真的结转」）· [[Assignment 2.3 — Grading Log]] #3 = **86** · Quiz 1 朱稼棋 73 / 郑歆妮 83。
+> **整条线（补交后）**：84 · 70 · 87 · 86 —— 三次在 B 段顶部到 A−，**唯一偏低的是 2.1（70），而 2.1 的偏低主因是卷面与 CAC/LTV 的自证不足，不是不会**。若 2.1 那份重交一次，这条线会是本批最整齐的之一。
 
 ---
 
@@ -409,4 +435,4 @@ Rubric: Assignment 1C Grading Rubric — 4 sections × 25 + presentation/complet
 - **每组口头追问题**用于 FRQ 个人写作前的抽查（FRQ 1 占 15%，个人作答）。
 - 跨作业共性错误与正反例句见 [[Grading — Cross-Assignment Findings]]。
 - 关联：[[Business Canvas Project - Assignment 1C (Task 7)]] · [[Assignment 2.1 — Grading Log]] · [[Grading — Cross-Assignment Findings]]
-- **#15（朱稼棋 / 郑歆妮，未提交）为 11-04 登记**：交件是 1.4-1.5 骨架 + 2.1 内容，**1.8 四章全空**；同一组的 2.1（70）与 2.2（87）都在 B 段，说明**缺的是这一份，不是能力**——建议当堂催交，补交后按 4×25 重评。
+- **#15（朱稼棋 / 郑歆妮）**：11-04 曾登记为未提交（交件是 1.4-1.5 骨架 + 2.1 内容），**11-05 补交真 1.8 并评 84 (B)**，原 0 作废。判读要点：`140 × $7 = $980`、`$588 ÷ 140 = $4.20` 与 2.1 的 `$7 / $4.2 / $2.8` 双向可复算，反推 `v = $3.40 / F = $112`，固定成本每份 $0.80 → $0.40 恰好腰斩——**scaling 表是本批唯一同时满足「算术自洽 + 跨卷一致 + 机制说明与数字同源」的三项**。§3 的 18 分是全卷唯一明显短板：CED 五条风险未点名、食品生产许可未提、`backup` 只写 `quickly` 而无产能/交期/维持成本。这份也再次印证本批的共性：**内容在 A 段，书证与风险覆盖面在 C 段。**
