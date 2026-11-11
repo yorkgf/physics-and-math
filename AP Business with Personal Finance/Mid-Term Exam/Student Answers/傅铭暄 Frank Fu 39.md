@@ -3,11 +3,11 @@
 | 板块 | 得分 | 满分 | 得分率 |
 |---|---|---|---|
 | A 选择题 | 28.5 | 45 | 63% |
-| B 简答 | 6.5 | 35 | 19% |
-| C 案例 | 4 | 20 | 20% |
+| B 简答 | 7.4 | 40 | 18% |
+| C 案例 | 3.1 | 15 | 21% |
 | **合计** | **39** | **100** | **39%** |
 
-> Section B、C 已按放宽口径重判（见 [[Section B — Relaxed Marking (all 37)]] / [[Section C — Relaxed Marking (all 37)]]）。
+> 权重：A 45 / B 40 / C 15（2026-11 调整，原 B 35 / C 20）。B、C 均按放宽口径重判，见 [[Score Weighting — B 40 C 15]]。
 
 ## Section A — 答题情况
 
@@ -17,12 +17,12 @@
 
 ## B / C — 得分与扣分点
 
-- **B1 = 2.5/9**：只写 "mass production. We can complete task efficiently."；(a) 一句"服务态度好"；(b) "我们没有供应商，8 名员工提供服务"；(c) 未答。
-- **B2 = 1.5/9**：(a) 一句"客户需登录我们的平台"＋"差评说明服务差"；(b)(c) 未答。
-- **B3 = 1.5/9**：(a) 只写 "rational"，无三因素；(b) 空白。
-- **B4 = 1/8**：(a) "Can you get a good service?" 不是假设；(b)(c) 空白。
-- **C1 = 3/10**：(a) 只写 "Hand-forged climbing gear made in his garage…"（value creation 的案例事实），无定义；(b) "很多人有需求、规模大、供应商多" —— 不是差异化路线。
-- **C2 = 1/10**：(a) "business. It has a whole system. They can get much money every year."（**分类错**，无 vision/mission 区分）；(b)(c) 空白。
+- **B1 = 2.8/10**：只写 "mass production. We can complete task efficiently."；(a) 一句"服务态度好"；(b) "我们没有供应商，8 名员工提供服务"；(c) 未答。
+- **B2 = 1.7/10**：(a) 一句"客户需登录我们的平台"＋"差评说明服务差"；(b)(c) 未答。
+- **B3 = 1.7/10**：(a) 只写 "rational"，无三因素；(b) 空白。
+- **B4 = 1.2/10**：(a) "Can you get a good service?" 不是假设；(b)(c) 空白。
+- **C1 = 2.4/8**：(a) 只写 "Hand-forged climbing gear made in his garage…"（value creation 的案例事实），无定义；(b) "很多人有需求、规模大、供应商多" —— 不是差异化路线。
+- **C2 = 0.7/7**：(a) "business. It has a whole system. They can get much money every year."（分类错，无 vision/mission 区分）；(b)(c) 空白。
 
 ## 逐字作答
 
