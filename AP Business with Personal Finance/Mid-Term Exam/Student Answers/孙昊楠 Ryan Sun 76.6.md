@@ -9,6 +9,8 @@
 
 > 权重 A45/B40/C15；B 三轮放宽、C 放宽口径，见 [[Score Weighting — A45 B40 C15]]。
 
+**薄弱点**：选择题错在「定量 vs 定性设计」「Cialdini 互惠」「A/B 测试」等 4 处；最弱是 C2（组织类型与利益相关者，2.6/7.5）——组织类型判错、愿景/使命不分或伦理分析缺失。
+
 ## Section A — 答题情况
 
 **填涂（30 题）**：D D D A C A C B A C D C A A D B C B D D C D C D A C B C D B
