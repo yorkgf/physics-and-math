@@ -85,4 +85,4 @@
 
 ## 重点加强
 
-组织类型判定（social enterprise）＋ vision/mission 区别；概念补：定量 vs 定性设计。
+目前最需要补的是组织类型与利益相关者，目前的问题是把"裁员"当内部、"成立基金"当外部，不是利益相关者分析。案例里先判断组织类型（看利润去向与所有者结构，Patagonia 属 social enterprise 而非 non-profit），再把 vision 与 mission 的定义分清；伦理题要落成两个方案的成本收益对比。概念上把「定量 vs 定性设计」的定义与辨析补上。
