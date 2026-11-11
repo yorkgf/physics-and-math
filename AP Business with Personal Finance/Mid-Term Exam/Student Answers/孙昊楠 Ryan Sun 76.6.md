@@ -83,6 +83,6 @@
 
 **c:** It gained the fame of protecting and nonprofit organization, but it laid off 125 employees without severance. In 2022 the founding family moved its stock into the Patagonia Purpose Trust and Holdfast Collective. Also it created the One Employee Fund after a public backlash.
 
-## 期中评语
+## 重点加强
 
-Quiz 1 90 分 → 期中 76.6 分（-13.4），明显下降。期中主要失分在 组织类型与利益相关者（2.6/7.5），选择题也错在「定量 vs 定性设计」。重点加强：C2 记牢组织类型判定（social enterprise）与 vision/mission 区别，伦理题要写两方案成本收益。此外，Quiz 1 的「你的 Q3 证明你完全理解这个项目——问题出在Q1 和 Q4 的两处…」也要继续跟进。
+组织类型判定（social enterprise）＋ vision/mission 区别；概念补：定量 vs 定性设计。

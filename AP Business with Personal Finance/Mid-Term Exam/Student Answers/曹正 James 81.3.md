@@ -81,6 +81,6 @@
 
 **c:** corporation has less control on a firm. It gained better control as a whole but need to divide it's profits with fellow group corporations. After the transfer, it's only the transfer of ownership which doesn't affect the legal form.
 
-## 期中评语
+## 重点加强
 
-Quiz 1 91 分 → 期中 81.3 分（-9.7），略降。期中主要失分在 组织类型与利益相关者（3.8/7.5），选择题也错在「定量 vs 定性设计」。重点加强：C2 记牢组织类型判定（social enterprise）与 vision/mission 区别，伦理题要写两方案成本收益。此外，Quiz 1 的「你的问题复述能力是全组最强的…」也要继续跟进。
+组织类型判定（social enterprise）＋ vision/mission 区别；概念补：定量 vs 定性设计。

@@ -72,6 +72,6 @@ mass production. We can complete task efficiently.
 **b:** （未作答）
 **c:** （未作答）
 
-## 期中评语
+## 重点加强
 
-Quiz 1 83 分 → 期中 43.5 分（-39.5），明显下降。期中主要失分在 组织类型与利益相关者（0.8/7.5），选择题也错在「Cialdini 互惠」。重点加强：C2 记牢组织类型判定（social enterprise）与 vision/mission 区别，伦理题要写两方案成本收益。此外，Quiz 1 的「两个空缺补上…」也要继续跟进。
+组织类型判定（social enterprise）＋ vision/mission 区别；概念补：Cialdini 互惠。

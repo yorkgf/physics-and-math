@@ -81,6 +81,6 @@
 
 **c:** Patagonia gained a high know. and a customer's ~~t~~trust~~ed~~. But in the same time. it gave up a high profit and the ~~h~~chance to expand fast by the fund ~~and~~ store closed. ~~In the~~ In the 2022 transfer changed~~,~~ the employment funding ~~wa~~was removed by its stock. ~~becaus~~ of ~~tu~~ the founding family moved its stock ~~it~~ ^into the Patagonia Purpose Trust and Holdfast Collective.
 
-## 期中评语
+## 重点加强
 
-Quiz 1 94 分 → 期中 74.7 分（-19.3），明显下降。期中主要失分在 客户数据与画像（6/10.3），选择题也错在「产品生命周期（成熟期）」。重点加强：B2 四栏准备：收什么数据／什么工具／人口与心理各用来做什么／客户画像（2＋2）。此外，Quiz 1 的「你的答案都在项目内、逻辑也通…」也要继续跟进。
+客户数据与画像：工具名、人口/心理分工、2+2 画像；概念补：产品生命周期（成熟期）。
