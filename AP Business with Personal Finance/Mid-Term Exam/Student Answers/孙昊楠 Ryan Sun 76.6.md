@@ -19,12 +19,12 @@
 
 ## B / C — 得分与扣分点
 
-- **B1 = 9.1/10.3**：(a) 2 点名 mass production（服务业用这个词不精准）、客户优先级（要安静、与父母同住被打扰）、理由（长期可用）；核心能力未写；(b) 1.5 供应商写成"城市人口"，链条（场地→装修材料→自习服务→顾客）勉强成立；(c) 2.5 选 price、理由（便宜→回本快），风险＝材料质量不达标、对策＝细化材料标准。
-- **B2 = 6.6/10.3**：(a) 1.5 工具（问卷＋访谈＋会员网站）有，但 demographic/psychographic 只说"帮我们定价"，没分工；(b) 1 只有目标描述，无 2＋2 特征的画像；(c) 1 把"噪音/舒适"当隐私风险（类别错），但有两条措施。
-- **B3 = 7.1/10.3**：(a) 3.5 判 rational，personal / social-cultural / psychological 三因素齐；(b) 1 只写了 "Large-customer principle"（想表达 consensus）且只有一条，另一条讲装修，未达"两个原则"。
-- **B4 = 6.9/9.1**：(a) 1.5 假设（考试季旺、考后空）可测；(b) 2 方法与理由成立，样本量模糊，"不随机选"与"不问引导题"两条防偏差表述混乱；(c) 1 无图表类型，只有"考前 2–3 周"的 insight。
-- **C1 = 5.2/7.5**：(a) 2.5 用 tested and trustworthy＋利润投入环保解释高价，未出现 value creation / capture 术语；(b) 2.5 独特功能＋more effective marketing。
-- **C2 = 2.6/7.5**：(a) 1 判 nonprofit 错，vision/mission 未区分；(b) 1 把"裁员"当内部、"成立基金"当外部，不是利益相关者分析；(c) 0.5 只复述事实，无 gained/gave up 与法理分析。
+- **B1 = 9.1/10.3**：(a) 点名 mass production（服务业用这个词不精准）、客户优先级（要安静、与父母同住被打扰）、理由（长期可用）；核心能力未写；(b) 供应商写成"城市人口"，链条（场地→装修材料→自习服务→顾客）勉强成立；(c) 选 price、理由（便宜→回本快），风险＝材料质量不达标、对策＝细化材料标准。
+- **B2 = 6.6/10.3**：(a) 工具（问卷＋访谈＋会员网站）有，但 demographic/psychographic 只说"帮我们定价"，没分工；(b) 只有目标描述，无 2＋2 特征的画像；(c) 把"噪音/舒适"当隐私风险（类别错），但有两条措施。
+- **B3 = 7.1/10.3**：(a) 判 rational，personal / social-cultural / psychological 三因素齐；(b) 只写了 "Large-customer principle"（想表达 consensus）且只有一条，另一条讲装修，未达"两个原则"。
+- **B4 = 6.9/9.1**：(a) 假设（考试季旺、考后空）可测；(b) 方法与理由成立，样本量模糊，"不随机选"与"不问引导题"两条防偏差表述混乱；(c) 无图表类型，只有"考前 2–3 周"的 insight。
+- **C1 = 5.2/7.5**：(a) 用 tested and trustworthy＋利润投入环保解释高价，未出现 value creation / capture 术语；(b) 独特功能＋more effective marketing。
+- **C2 = 2.7/7.5**：(a) 判 nonprofit 错，vision/mission 未区分；(b) 把"裁员"当内部、"成立基金"当外部，不是利益相关者分析；(c) 只复述事实，无 gained/gave up 与法理分析。
 
 ## 逐字作答
 
@@ -83,4 +83,3 @@
 
 **c:** It gained the fame of protecting and nonprofit organization, but it laid off 125 employees without severance. In 2022 the founding family moved its stock into the Patagonia Purpose Trust and Holdfast Collective. Also it created the One Employee Fund after a public backlash.
 
----

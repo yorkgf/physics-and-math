@@ -21,9 +21,9 @@
 - **B1 = 8.6/10.3**：整段空白或未作答。
 - **B2 = 6/10.3**：整段空白或未作答。
 - **B3 = 6/10.3**：整段空白或未作答。
-- **B4 = 6.9/9.1**：整段空白或未作答。
+- **B4 = 6.8/9.1**：整段空白或未作答。
 - **C1 = 5.2/7.5**：整段空白或未作答。
-- **C2 = 4.5/7.5**：整段空白或未作答。
+- **C2 = 4.6/7.5**：整段空白或未作答。
 
 ## 逐字作答
 
@@ -81,4 +81,3 @@
 
 **c:** Patagonia gained a high know. and a customer's ~~t~~trust~~ed~~. But in the same time. it gave up a high profit and the ~~h~~chance to expand fast by the fund ~~and~~ store closed. ~~In the~~ In the 2022 transfer changed~~,~~ the employment funding ~~wa~~was removed by its stock. ~~becaus~~ of ~~tu~~ the founding family moved its stock ~~it~~ ^into the Patagonia Purpose Trust and Holdfast Collective.
 
----

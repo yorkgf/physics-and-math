@@ -22,7 +22,7 @@
 - **B1 = 4/10.3**：只写 "mass production. We can complete task efficiently."；(a) 一句"服务态度好"；(b) "我们没有供应商，8 名员工提供服务"；(c) 未答。
 - **B2 = 2.9/10.3**：(a) 一句"客户需登录我们的平台"＋"差评说明服务差"；(b)(c) 未答。
 - **B3 = 2.9/10.3**：(a) 只写 "rational"，无三因素；(b) 空白。
-- **B4 = 2.3/9.1**：(a) "Can you get a good service?" 不是假设；(b)(c) 空白。
+- **B4 = 2.2/9.1**：(a) "Can you get a good service?" 不是假设；(b)(c) 空白。
 - **C1 = 2.2/7.5**：(a) 只写 "Hand-forged climbing gear made in his garage…"（value creation 的案例事实），无定义；(b) "很多人有需求、规模大、供应商多" —— 不是差异化路线。
 - **C2 = 0.8/7.5**：(a) "business. It has a whole system. They can get much money every year."（分类错，无 vision/mission 区分）；(b)(c) 空白。
 
@@ -72,4 +72,3 @@ mass production. We can complete task efficiently.
 **b:** （未作答）
 **c:** （未作答）
 
----

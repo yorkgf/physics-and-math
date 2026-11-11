@@ -19,12 +19,12 @@
 
 ## B / C — 得分与扣分点
 
-- **B1 = 10/10.3**：(a) 3 mass production ＋ 核心能力＝便宜 ＋ 客户优先级＝价格（学生无稳定收入），三段齐；(b) 2.5 供应商 metal industries、环节完整（原料→代工厂→成品→线下店＋线上）；(c) 2.5 选 price、风险＝金属涨价、应对＝减少线下运输转线上。
-- **B2 = 9.1/10.3**：(a) 2.5 数据（年龄＋对游戏设备类型/价格的偏好）、两类分开说明；(b) 2 分割＋画像 25–35 岁中国玩家（psychographic 偏薄）；(c) 2 风险（姓名/年龄/位置泄露）＋措施（仅在自有库内）。
-- **B3 = 7.1/10.3**：(a) 3.5 rational ＋ personal / social / cultural-situational，逻辑完整；(b) 0.5 —— 只有"用利润打广告"，没有任何 Cialdini 原则名称。
-- **B4 = 7.4/9.1**：(a) 1.5 假设＝价格区间 23–35 元；(b) 1.5 问卷法＋理由（样本量大），但样本量缺失、仅一条防偏差（填空题形式）；(c) 1 有结论（25–32 元）但没点图表类型。
-- **C1 = 4.9/7.5**：(a) 2.5 两个概念都试着定义（略反）并套"创始人自己攀岩"；(b) 2 先说 competitive advantage 定义，再讲"产品与环境的紧密关系＋Worn Wear"，路线未点名。
-- **C2 = 3.8/7.5**：(a) 1 vision/mission 有事例但分类判成"a business with large scale"（错，应为 social enterprise）；(b) 1 把"裁员"当内部、把"关店"当外部，不是利益相关者分析，无两方案；(c) 1.5 有"控制权变小／利润要分给关联方／转移所有权不改法律形式"。
+- **B1 = 10/10.3**：(a) mass production ＋ 核心能力＝便宜 ＋ 客户优先级＝价格（学生无稳定收入），三段齐；(b) 供应商 metal industries、环节完整（原料→代工厂→成品→线下店＋线上）；(c) 选 price、风险＝金属涨价、应对＝减少线下运输转线上。
+- **B2 = 9.1/10.3**：(a) 数据（年龄＋对游戏设备类型/价格的偏好）、两类分开说明；(b) 分割＋画像 25–35 岁中国玩家（psychographic 偏薄）；(c) 风险（姓名/年龄/位置泄露）＋措施（仅在自有库内）。
+- **B3 = 7.1/10.3**：(a) rational ＋ personal / social / cultural-situational，逻辑完整；(b) 只有"用利润打广告"，没有任何 Cialdini 原则名称。
+- **B4 = 7.5/9.1**：(a) 假设＝价格区间 23–35 元；(b) 问卷法＋理由（样本量大），但样本量缺失、仅一条防偏差（填空题形式）；(c) 有结论（25–32 元）但没点图表类型。
+- **C1 = 4.9/7.5**：(a) 两个概念都试着定义（略反）并套"创始人自己攀岩"；(b) 先说 competitive advantage 定义，再讲"产品与环境的紧密关系＋Worn Wear"，路线未点名。
+- **C2 = 3.7/7.5**：(a) vision/mission 有事例但分类判成"a business with large scale"（错，应为 social enterprise）；(b) 把"裁员"当内部、把"关店"当外部，不是利益相关者分析，无两方案；(c) 有"控制权变小／利润要分给关联方／转移所有权不改法律形式"。
 
 ## 逐字作答
 
@@ -81,4 +81,3 @@
 
 **c:** corporation has less control on a firm. It gained better control as a whole but need to divide it's profits with fellow group corporations. After the transfer, it's only the transfer of ownership which doesn't affect the legal form.
 
----
