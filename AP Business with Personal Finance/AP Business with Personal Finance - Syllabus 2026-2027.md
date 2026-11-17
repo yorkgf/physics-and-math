@@ -40,7 +40,7 @@ Upon completion of this course, students will be able to:
 
 ### **First Semester (August 31, 2026 – January 15, 2027)**
 
-> **Goal:** Complete Units 1–3 and begin Unit 4, with time for final review and exams before winter break
+> **Goal:** Complete Units 1–2, Unit 3 Part 2 (Topics 3.3–3.9), and begin Unit 4, with time for final review and exams before winter break. Topics 3.1–3.2 are **deferred to March** (taught immediately before Unit 5) — the CED permits teaching topics out of the printed unit sequence as long as all topics are covered.
 
 ---
 
@@ -73,7 +73,7 @@ Upon completion of this course, students will be able to:
 ---
 
 ### **UNIT 2: Marketing**
-**Timeline:** Weeks 7–11 (October 19 – November 27, 2026)
+**Timeline:** Weeks 7–10 (October 19 – November 20, 2026)
 **Class Periods:** ~28 periods
 **AP Exam Weight:** 20–30%
 
@@ -87,8 +87,9 @@ Upon completion of this course, students will be able to:
 | | Nov 5–6 | **2.4 Product** | Dyson; Genki Forest/元气森林 | Six stages of product development, MVP, value proposition, branding |
 | | **Nov 9–11** | **📝 Midterm Exam**（Midterm Exam Week: Nov 6–11） | | **120 min / 100 pts**：Section A 选择题 30 题 45 min / 45 分（1.8–2.4）+ Section B Business Canvas 简答 4 题 45 min / 35 分（1.8–2.3）+ Section C Patagonia 案例简答 2 题 30 min / 20 分（1.1、1.2、1.5、1.6、1.7 中案例适用者）→ 卷 [[Mid-Term Exam (Sections A + B + C)]]（C 题目并入卷面）+ 阅读材料 [[Patagonia Case (Section C)]] |
 | | Nov 12 | **🍂 Autumn Outing** | | |
-| 10 | Nov 16–20 | 2.5 Price; 2.6 Place and Channels | Costco; Stanley | Pricing strategy, distribution channels |
-| 11 | Nov 23–27 | 2.7 Promotion and Marketing Communications | Florasis/花西子 | Marketing campaign, **Unit 2 Assessment** |
+| 10 | Nov 16–20 | 2.5 Price; 2.6 Place and Channels; 2.7 Promotion and Marketing Communications | Costco; Stanley; Florasis/花西子 | Pricing strategy, distribution channels, marketing campaign — **Unit 2 teaching complete; Unit 2 Assessment** |
+
+> **Unit 2 closes in the week of Nov 16–20** (2.7 Promotion + Unit 2 Assessment included). Unit 3 begins Nov 23 — see below.
 
 > 📌 **Midterm Exam scope (Nov 9–11)** — 一张卷三部分，共 120 分钟 / 100 分：
 > **Section A** 选择题 30 题（Topics **1.8–2.4**）· 45 分钟 · 45 分（每题 1.5 分）
@@ -101,32 +102,39 @@ Upon completion of this course, students will be able to:
 - **Customer relationships & sales tactic** (Assignment 2.2) — relationship plan built on Cialdini's principles
 - **Primary & secondary research + data visualization** (Assignment 2.3) — hypothesis, method, sample, bias control, chart
 - **MVP, value proposition & branding** (Assignment 2.4) — product-market fit test, value proposition, brand identity
-- **Price & pricing strategy; marketing channel(s)** (Unit 2 assessment)
+- **Price & pricing strategy\*** (Assignment 2.5) — cost floor, six strategies, pricing power & elasticity, pricing hypothesis test
+- **Marketing channel(s)** (Assignment 2.6) — direct/indirect, the three selection criteria, access barriers, channel mix
+- **Marketing campaign, including digital marketing tools\*** (Assignment 2.7) — promotional mix, funnel & CAC, digital-tool hypothesis test
+
+> \* = asterisked in the CED: requires hypothesis testing (along with the profile, customer preferences, MVP and branding). Each Unit 2 assignment is one file: due date, deliverables, framework, fill-in sections, self-checks, rubric — designed to be handed out as-is.
 
 ---
 
 ### **UNIT 3: Personal Saving, Borrowing, and Business Finance**
-**Timeline:** Weeks 12–17 (November 30, 2026 – January 8, 2027)
-**Class Periods:** ~30 periods
+**Timeline:** Part 2 (3.3–3.9): Weeks 11–16 (November 23 – December 31, 2026) · Part 1 (3.1–3.2): deferred to Week 21 (March 15–19, 2027, immediately before Unit 5)
+**Class Periods:** ~26 periods for 3.3–3.9 (CED: 2+4+4+5+5+3+3) + Unit 3 Assessment; 3.1–3.2 ≈ 6 periods in March
 **AP Exam Weight:** 25–35%
 
-#### Part 1: Personal Saving and Borrowing
+> 📌 **Sequencing note (2026–2027):** Unit 3 is taught **Part 2 first** — the business finance strand (3.3–3.9) runs Nov 23 – Dec 31, so the finance/accounting block closes before winter break and Unit 4 opens in January. The personal saving/borrowing strand (**3.1–3.2**) is deferred to **March, immediately before Unit 5**, where it feeds the Financial Advisor Project directly. The CED explicitly permits teaching topics out of the printed unit sequence provided all topics are covered.
+
+#### Part 2 (taught first): Business Finance and Accounting
 
 | Week | Dates | Topics | Business Case | Activities & Deliverables |
 |------|-------|--------|---------------|---------------------------|
-| 12 | Nov 30 – Dec 4 | 3.1 Saving for Future Purchases | - | Budgeting exercises, savings goal setting |
-| 13 | Dec 7–11 | 3.2 Borrowing, Credit, and Debt | - | Credit comparison, debt management strategies |
-
-#### Part 2: Business Finance and Accounting
-
-| Week | Dates | Topics | Business Case | Activities & Deliverables |
-|------|-------|--------|---------------|---------------------------|
+| 11 | Nov 23–27 | 3.3 Accounting and Financial Management; 3.4 Business Expenses | DK Coffee Lab, Part 1 | Financial record keeping, startup cost identification |
+| 12 | Nov 30 – Dec 4 | 3.5 Financial Capital; 3.6 The Income Statement (begins) | DK Coffee Lab, Part 2; Hershey | Funding sources, income statement preparation |
+| 13 | Dec 7–11 | 3.6 The Income Statement (completed); 3.7 The Balance Sheet and Net Worth (begins) | Hershey; DCH | Income statement, balance sheet |
 | | Dec 14–18 | **📝 Monthly Exam Week** | | |
-| 14 | Dec 14–18 | 3.3 Accounting and Financial Management; 3.4 Business Expenses | DK Coffee Lab, Part 1 | Financial record keeping, startup cost identification |
-| 15 | Dec 21–25 | 3.5 Financial Capital; 3.6 The Income Statement | DK Coffee Lab, Part 2; Hershey | Funding sources, income statement preparation |
-| 16 | Dec 28–31 | 3.7 The Balance Sheet and Net Worth; 3.8 The Cash Flow Statement | DK Coffee Lab, Part 3; AANE | Balance sheet, cash flow analysis |
+| 14 | Dec 14–18 | 3.7 The Balance Sheet and Net Worth (completed) | DK Coffee Lab, Part 3 | Balance sheet and net worth |
+| 15 | Dec 21–25 | 3.8 The Cash Flow Statement; 3.9 Ethics and Financial Reporting (begins) | AANE; Yardley | Cash flow statement, GAAP disclosure |
+| 16 | Dec 28–31 | 3.9 Ethics and Financial Reporting (completed) | Yardley | Financial fraud case analysis, **Unit 3 Assessment — 3.3–3.9 complete** |
 | | Jan 1 | **🎄 New Year Holiday** | | |
-| 17 | Jan 4–5 | **3.9 Ethics and Financial Reporting** | Yardley | GAAP disclosure, financial fraud case analysis, **Unit 3 Assessment** |
+
+#### Part 1 (deferred to March, before Unit 5): Personal Saving and Borrowing
+
+| Week | Dates | Topics | Business Case | Activities & Deliverables |
+|------|-------|--------|---------------|---------------------------|
+| 21 | Mar 15–19 | 3.1 Saving for Future Purchases; 3.2 Borrowing, Credit, and Debt | - | Budgeting exercises, savings goal setting, credit comparison, debt management strategies |
 
 #### Business Canvas Project – Unit 3 Deliverables
 - Identify startup costs and funding sources
@@ -137,7 +145,7 @@ Upon completion of this course, students will be able to:
 ---
 
 ### **UNIT 4: Management and Strategy (Part 1)**
-**Timeline:** Weeks 17–18 (January 6–8, 2027)
+**Timeline:** Week 17 (January 4–8, 2027)
 **Class Periods:** ~12 periods
 **AP Exam Weight:** 15–20%
 
@@ -145,7 +153,7 @@ Upon completion of this course, students will be able to:
 
 | Week | Dates | Topics | Business Case | Activities & Deliverables |
 |------|-------|--------|---------------|---------------------------|
-| 17 | Jan 6–8 | 4.1 Management and Leadership | Canva | Leadership styles analysis |
+| 17 | Jan 4–8 | 4.1 Management and Leadership | Canva | Leadership styles analysis; first-semester review |
 | 18 | Jan 11–15 | **📝 Final Exam Week** | | |
 
 ---
@@ -155,8 +163,7 @@ Upon completion of this course, students will be able to:
 
 | Day | Focus | Activities |
 |-----|-------|------------|
-| Mon–Tue | 3.9 Ethics and Financial Reporting | Financial fraud case analysis, **Unit 3 Assessment** |
-| Wed–Thu | Unit 4.1 Instruction | Management and leadership concepts |
+| Mon–Thu | Unit 4.1 Instruction | Management and leadership concepts |
 | Friday | Units 1–3 Review + Mixed Practice | Key concepts review, MCQ practice, FRQ strategies |
 
 ---
@@ -167,7 +174,7 @@ Upon completion of this course, students will be able to:
 
 ### **Second Semester (March 1 – May 14, 2027)**
 
-> **Goal:** Complete all course instruction by the 3rd week of March; practice and review through mid-April; mock exams and AP Exam
+> **Goal:** Complete all course instruction by late March (including the deferred Topics 3.1–3.2); practice and review through mid-April; mock exams and AP Exam
 
 ---
 
@@ -188,14 +195,27 @@ Upon completion of this course, students will be able to:
 
 ---
 
+### **UNIT 3 Part 1 (deferred): Personal Saving and Borrowing**
+**Timeline:** Week 21 (March 15–19, 2027) — taught immediately before Unit 5
+**Class Periods:** ~5–6 periods
+**AP Exam Weight:** (part of Unit 3's 25–35%)
+
+| Week | Dates | Topics | Activities & Deliverables |
+|------|-------|-------|---------------------------|
+| 21 | Mar 15–19 | 3.1 Saving for Future Purchases; 3.2 Borrowing, Credit, and Debt | Budgeting exercises, savings goal setting, credit comparison, debt management strategies |
+
+> **Why here:** 3.1–3.2 supply the personal finance standards (Saving 12-1–12-9 · Credit 12-1–12-13) that the Financial Advisor Project draws on directly — teaching them immediately before Unit 5 keeps that content fresh for both the unit and the project.
+
+---
+
 ### **UNIT 5: Personal Goals, Budgeting, and Investing**
-**Timeline:** Week 21 (March 15–19, 2027)
-**Class Periods:** ~5 periods
+**Timeline:** Week 22 (March 22–24, 2027)
+**Class Periods:** ~3 periods
 **AP Exam Weight:** Not assessed on exam (personal finance application)
 
 | Week | Dates | Topics | Activities & Deliverables |
 |------|-------|--------|---------------------------|
-| 21 | Mar 15–19 | 5.1 Taxes, Net Income, and Budgeting; 5.2 Managing Personal Risk; 5.3 Saving and Investing for Education, Housing, and Retirement Goals | Pay stub interpretation, budget creation, insurance analysis, investment basics, compound interest, **Unit 5 Assessment** |
+| 22 | Mar 22–24 | 5.1 Taxes, Net Income, and Budgeting; 5.2 Managing Personal Risk; 5.3 Saving and Investing for Education, Housing, and Retirement Goals | Pay stub interpretation, budget creation, insurance analysis, investment basics, compound interest, **Unit 5 Assessment** |
 
 ---
 
@@ -205,15 +225,15 @@ Upon completion of this course, students will be able to:
 
 | Week | Dates | Focus | Activities & Deliverables |
 |------|-------|-------|---------------------------|
-| 22 | Mar 22–24 | Financial Advisor Project Workshop | Project development, peer feedback |
+| 22 | Mar 22–24 | Unit 5 instruction (Mon–Wed); Financial Advisor Project kickoff (Wed) | Pay stub / budget / insurance / investing; project scoping |
 | | Mar 24–26 | **🌿 Spring Outing** | |
 | 23 | Mar 29 – Apr 2 | **📝 Monthly Exam Week**; Project Workshop | Project refinement, MCQ/FRQ practice |
 | | Apr 5 | **🌿 Qingming Festival** | |
 | 24 | Apr 5–9 | Financial Advisor Project Presentations & Comprehensive Review | Final presentations, Units 1–5 review, MCQ/FRQ strategies |
 
 #### Financial Advisor Project
-- **Project Timeline:** March 22 – April 9 (3 weeks)
-- **Dedicated Class Time:** At least 12 periods
+- **Project Timeline:** March 24 – April 9 (≈2.5 weeks)
+- **Dedicated Class Time:** ~9–10 periods (shortened by the deferred 3.1–3.2 insertion — protect workshop days in Weeks 23–24)
 - **Deliverable:** Prepare and communicate financial advice for a fictional household
   - Budget management strategies
   - Education funding recommendations
@@ -330,17 +350,19 @@ Upon completion of this course, students will be able to:
 | Aug 31, 2026 | First day of school |
 | **Oct 16** | **Unit 1 completed** |
 | Oct 8–9 | Monthly Exam |
-| **Nov 27** | **Unit 2 completed** |
+| **Nov 20** | **Unit 2 completed** (2.7 + Unit 2 Assessment) |
+| **Nov 23** | **Unit 3 begins — Part 2 first (3.3–3.9); 3.1–3.2 deferred to March** |
 | Nov 6–11 | Midterm Exam Week — 考试 **Nov 9–11**（MCQ 45 min/45 分 + Business Canvas FRQ 45 min/35 分 + Patagonia 案例 FRQ 30 min/20 分；覆盖 1.1–2.4） |
 | Nov 12 | Autumn Outing |
 | Dec 14–18 | Monthly Exam Week |
-| **Jan 5, 2027** | **Unit 3 completed**（含 3.9） |
+| **Dec 31, 2026** | **Unit 3 Part 2 (3.3–3.9) completed** + Unit 3 Assessment |
 | **Jan 8, 2027** | **Unit 4 Part 1 completed** |
 | Jan 11–15 | Final Exams |
 | Jan 16 | Winter Break begins |
 | Mar 1 | Second semester begins |
 | **Mar 12** | **Unit 4 completed, Final Business Canvas Project due** |
-| **Mar 19** | **Unit 5 completed (all instruction done)** |
+| **Mar 19** | **3.1–3.2 completed** (deferred Unit 3 Part 1) |
+| **Mar 24** | **Unit 5 completed (all instruction done)** |
 | Mar 24–26 | Spring Outing |
 | Mar 29 – Apr 2 | Monthly Exam Week (Practice & Review) |
 | Apr 5 | Qingming Festival |
@@ -401,12 +423,15 @@ This syllabus meets all College Board curricular requirements including:
 - Stanley (College Board)
 - Florasis/花西子 (Supplementary)
 
-### Unit 3: Business Finance and Accounting
+### Unit 3: Business Finance and Accounting (Part 2, taught Nov–Dec)
 - DK Coffee Lab, Parts 1, 2, 3 (College Board)
 - Hershey (College Board) — 3.6
 - DCH (College Board) — 3.7
 - AANE (College Board) — 3.8
 - Yardley (College Board) — 3.9 Ethics and Financial Reporting
+
+### Unit 3 Part 1: Personal Saving and Borrowing (3.1–3.2, deferred to March)
+- No College Board business case — personal finance standards focus (Saving 12-1–12-9 · Credit 12-1–12-13); feeds the Financial Advisor Project
 
 ### Unit 4: Management and Strategy
 - Canva (College Board)
@@ -427,4 +452,4 @@ For questions or concerns about this course, please contact:
 
 *This syllabus is subject to modification at the instructor's discretion. Students will be notified of any changes in advance.*
 
-**Last Updated:** October 29, 2026
+**Last Updated:** November 17, 2026

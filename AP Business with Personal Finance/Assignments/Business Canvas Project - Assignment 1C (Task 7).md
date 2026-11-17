@@ -3,111 +3,101 @@
 ## CED Task 7: Production Process & Supply Chain Plan · AP Topic 1.8
 
 > **Due:** _______________
-> **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5
-> **Submission:** Completed supply chain design for your business idea
->
-> This is the **fourth checkpoint** of the Business Canvas Project. In Assignments 1A, 1.3, and 1.4-1.5, you identified a customer problem, validated it, designed a product, analyzed the market, and defined your vision. Now design the **production process and supply chain** that deliver your product.
->
-> **CED Task 7:** "Develop a production process and a supply chain plan."
->
-> **You must build on the same business idea from Assignments 1A, 1.3, and 1.4-1.5.**
+> **Team:** same team as Assignments 1A, 1.3, and 1.4-1.5
+> **Submit:** completed supply chain design for your business idea
+
+This is the **fourth checkpoint.** In 1A, 1.3 and 1.4-1.5 you identified a customer problem, validated it, designed a product, analyzed the market, and defined your vision. Now design the **production process and supply chain** that deliver your product.
+
+**CED Task 7:** "Develop a production process and a supply chain plan."
+
+**You must build on the same business idea from Assignments 1A, 1.3, and 1.4-1.5.**
+
+**Review first:** [[1.8 Supply Chains - Vocab]] · [[1.8 Supply Chains - Slides]] · [[1.8 Zara Supply Chain - Case Handout]]
 
 ---
 
-## AP Alignment
+## Deliverables
 
-| LO | Description | Sections |
-|---|---|---|
-| **1.8.A** | Compare artisan vs. mass production | Section 1 |
-| **1.8.B** | Design a supply chain (stages, suppliers, distributors) | Sections 2–3 |
-| **1.8.C** | Explain how strategy shapes supply chain + scaling | Section 4 |
+| Canvas section | What you submit | AP topic | CED task |
+|---|---|---|---|
+| Operations | Production process decision (artisan / mass / hybrid) with the three inputs | 1.8 | Task 7 · LO 1.8.A |
+| Operations | Supply chain map — every stage, plus warehouse/DC and supplier/distributor distinctions | 1.8 | Task 7 · LO 1.8.B |
+| Operations | Supplier selection (2 suppliers × 5 factors, risk + backup) and strategy → chain alignment + scaling | 1.8 | Task 7 · LO 1.8.C |
+
+**Progress:** 1A ✅ · 1.3 ✅ · 1.4-1.5 ✅ · **1C (here)** → Unit 1 Final Canvas → Unit 2: 2.1 → 2.2 → 2.3 → 2.4 → 2.5 → 2.6 → 2.7
 
 ---
 
-## SECTION 1: PRODUCTION PROCESS
+## The framework — four rules
 
-*LO 1.8.A · EK 1.8.A.1, 1.8.A.2*
+1. **The three inputs decide your production approach** (EK 1.8.A.1), in order: **customer priorities** (customization + quality vs. low price + convenience) → **core competencies** (what your team can actually do) → **competitive landscape** (what rivals do; can you differentiate through production?). **Artisan** = skilled labour + attention to detail, small quantities + customization; **mass** = technology + assembly lines, large quantities + standardization (EK 1.8.A.2).
+2. **Map every stage** (EK 1.8.B.1). For a **good**: raw materials → manufacturing → storage → distribution/retail → customer. For a **service**: people, resources, delivery system.
+3. **Two distinctions the exam tests** — **warehouse** (stores goods only) vs. **distribution center** (stores **and forwards** goods to the next stage) (EK 1.8.B.2); **supplier** (provides **inputs** to your production) vs. **distributor** (moves your product **toward the customer**) (EK 1.8.B.3).
+4. **Supplier selection weighs five factors** (EK 1.8.B.4): **cost · quality · efficiency · convenience · risk.** The CED's five risks: natural disasters, political instability, resource shortages, production errors, supplier reputation — any one can delay delivery or raise costs. **Risk is the factor owners most often ignore.**
 
-### Artisan vs. Mass Production
+---
 
-Use the **three inputs** to determine your production approach (EK 1.8.A.1):
+## Section 1 — Production process
 
-| Input | My Assessment |
+*LO 1.8.A · EK 1.8.A.1–A.2*
+
+| Input | My assessment |
 |---|---|
 | **1. Customer priorities** (first) | Do my customers value customization and quality, or low price and convenience? |
-| **2. Core competencies** (second) | What skills and capabilities does my team have? |
+| **2. Core competencies** (second) | What skills and capabilities does my team have? (from 1.4-1.5 Section 5A) |
 | **3. Competitive landscape** (third) | What are my rivals doing? Can I differentiate through production? |
 
-> **My production approach:** Artisan / Mass Production / Hybrid
->
-> **Reasoning:** (Walk through the three inputs — what did you find at each step?)
->
-> **Relies on:** (Skilled labor + attention to detail? Or technology + assembly lines? — EK 1.8.A.2)
->
-> **Output:** (Smaller quantities with higher customization? Or larger quantities with standardization? — EK 1.8.A.2)
+> **My production approach:** artisan / mass / hybrid
+> **Reasoning** (walk through the three inputs): ______________
+> **Relies on:** skilled labour + attention to detail / technology + assembly lines
+> **Output:** smaller quantities + customization / larger quantities + standardization
 
 **Self-check:**
-- [ ] I used the **three inputs** (customer → competencies → landscape) to choose — EK 1.8.A.1
-- [ ] Customer priorities were assessed **first** — EK 1.8.A.1
-- [ ] I identified what my production **relies on** (labor vs. technology) — EK 1.8.A.2
-- [ ] I described the **output scale** (quantity + customization level) — EK 1.8.A.2
+- [ ] The three inputs used **in order, customer first** — EK 1.8.A.1
+- [ ] What my production relies on identified — EK 1.8.A.2
+- [ ] Output scale described (quantity + customization) — EK 1.8.A.2
 
 ---
 
-## SECTION 2: SUPPLY CHAIN DESIGN
+## Section 2 — Supply chain design
 
-*LO 1.8.B · EK 1.8.B.1, 1.8.B.2, 1.8.B.3*
+*LO 1.8.B · EK 1.8.B.1–B.3*
 
-### If Your Product Is a GOOD
+### If your product is a GOOD — map every stage
 
-Map every stage from raw materials to the customer (EK 1.8.B.1):
-
-| Stage | Who or What Fills This Stage? | Local / Regional / Global? |
+| Stage | Who or what fills this stage? | Local / regional / global? |
 |---|---|---|
-| 1. **Raw materials & component parts** | | |
-| 2. **Manufacturing facility** | | |
-| 3. **Storage facility** | Warehouse or distribution center? | |
-| 4. **Distribution / retail** | | |
-| 5. **Customer** | | |
+| 1. Raw materials & component parts | | |
+| 2. Manufacturing | | |
+| 3. Storage | | |
+| 4. Distribution / retail | | |
+| 5. Customer | | |
 
-### If Your Product Is a SERVICE
+### If your product is a SERVICE — the three parts
 
-Identify the three parts that bring a service to the customer (EK 1.8.B.1):
-
-| Part | What Fills This Role? |
+| Part | What fills this role? |
 |---|---|
 | **People** (employees delivering the service) | |
 | **Resources** (equipment, materials, tools) | |
 | **Delivery system** (how the service reaches the customer) | |
 
-### Key Distinctions
+### Key distinctions
 
-> **Warehouse or distribution center?** (EK 1.8.B.2)
->
-> My storage facility is a **______________** because ______________
-> *(Warehouse = stores goods only. Distribution center = stores AND forwards goods to the next stage.)*
-
-> **Supplier or distributor?** (EK 1.8.B.3)
->
-> My key **supplier** is: ______________ (provides inputs to my production)
->
-> My key **distributor** is: ______________ (moves my product toward the customer)
->
-> *(Supplier = provides inputs. Distributor = moves goods forward in the chain.)*
+> **My storage facility is a** warehouse / distribution center **because** ______________ (EK 1.8.B.2)
+> **My key supplier is** ______________ (provides inputs to my production)
+> **My key distributor is** ______________ (moves my product toward the customer)
 
 **Self-check:**
-- [ ] I have mapped **every stage** of my supply chain — EK 1.8.B.1
-- [ ] I can distinguish **warehouse vs. distribution center** with a clear reason — EK 1.8.B.2
-- [ ] I have identified at least one **supplier** and one **distributor** — EK 1.8.B.3
-- [ ] I have noted the **reach** of my chain (local / regional / global) — EK 1.8.B.1
+- [ ] Every stage of my supply chain mapped — EK 1.8.B.1
+- [ ] Warehouse vs. distribution center distinguished with a reason — EK 1.8.B.2
+- [ ] ≥1 supplier and ≥1 distributor identified — EK 1.8.B.3
+- [ ] The **reach** of my chain noted (local / regional / global) — EK 1.8.B.1
 
 ---
 
-## SECTION 3: SUPPLIER SELECTION
+## Section 3 — Supplier selection
 
-*LO 1.8.B · EK 1.8.B.4*
-
-Choose at least **two potential suppliers** for a key input and evaluate them across all five factors (EK 1.8.B.4):
+*LO 1.8.B · EK 1.8.B.4 · evaluate at least two suppliers for a key input across all five factors*
 
 | Factor | Supplier A | Supplier B |
 |---|---|---|
@@ -117,101 +107,81 @@ Choose at least **two potential suppliers** for a key input and evaluate them ac
 | **Convenience** (location, ease of ordering) | | |
 | **Risk** (reliability, backup options) | | |
 
-> **The five risks the CED names (EK 1.8.B.4):** natural disasters · political instability · resource shortages · production errors · supplier reputation. Any one of them can **delay delivery or raise costs** — and either outcome threatens competitive advantage and profits.
-
-> **My choice:** Supplier ______________
->
-> **Why:** ______________
->
-> **Risk assessment:** (EK 1.8.B.4 — Risk is the factor that business owners are most likely to ignore. What happens if your primary supplier fails? What is your backup plan?)
->
-> **Backup plan:** ______________
+> **My choice:** Supplier ______ **because** ______________
+> **Risk assessment** — the five CED risks are natural disasters, political instability, resource shortages, production errors, supplier reputation. **Rank them for your business**; it is creditable to dismiss one with a reason ("natural disasters have almost no effect for a fully online service"). What happens if your primary supplier fails? ______________
+> **Backup plan:** ______________ — a backup is only a backup if it is already qualified: name the second source, its capacity, its fill time, and what you pay to keep it usable.
 
 **Self-check:**
-- [ ] I evaluated **all five** factors for each supplier — EK 1.8.B.4
-- [ ] **Risk** is included and not ignored — EK 1.8.B.4
-- [ ] I have a **backup plan** if the primary supplier fails — EK 1.8.B.4
+- [ ] All five factors evaluated for each supplier — EK 1.8.B.4
+- [ ] **Risk** included, not ignored — EK 1.8.B.4
+- [ ] A backup plan that works on day one — EK 1.8.B.4
 
 ---
 
-## SECTION 4: STRATEGY → SUPPLY CHAIN ALIGNMENT
+## Section 4 — Strategy → supply chain alignment
 
-*LO 1.8.C · EK 1.8.C.1, 1.8.C.2, 1.8.C.3*
+*LO 1.8.C · EK 1.8.C.1–C.3 · your competitive strategy from 1A should directly shape your chain*
 
-Your competitive strategy (from Assignment 1A) should **directly shape** your supply chain design.
+> **My competitive strategy** (from 1A — cost leadership / differentiation / niche): ______________
 
-> **My competitive strategy:** (From Assignment 1A — cost leadership, differentiation, or niche?)
->
-> **How does my strategy shape my supply chain?** (EK 1.8.C.1, 1.8.C.2)
-
-| Strategy | Supply Chain Consequence |
+| Strategy | Supply chain consequence |
 |---|---|
-| Low price → | Mass production + cost-cutting supply chain |
-| High quality → | High-quality resources + careful methods |
-| Barriers to entry → | Exclusive or restrictive supplier agreements |
+| Low price → | mass production + cost-cutting supply chain |
+| High quality → | high-quality resources + careful methods |
+| Barriers to entry → | exclusive or restrictive supplier agreements |
 
-> **My specific example:** How does a particular supply chain choice in Section 2 serve my strategy?
->
-> ______________
+> **My specific example:** how does a particular chain choice in Section 2 serve my strategy? ______________
+> **Barriers to entry created by my chain design** (EK 1.8.C.3): ______________
 
-### Scaling Analysis
+### Scaling analysis (EK 1.8.C.3)
 
-If your business grows, the supply chain must adapt (EK 1.8.C.3):
+| | Current | After scaling (2×) |
+|---|---|---|
+| Units produced | | |
+| Revenue | | |
+| Total costs | | |
+| **Profit** | | |
 
-> **What would need to change to double your production?**
->
-> | | Current | After Scaling |
-> |---|---|---|
-> | Units produced | | |
-> | Revenue | $ | $ |
-> | Total costs | $ | $ |
-> | **Profit** | **$** | **$** |
->
-> **Does revenue growth outpace cost growth?** Why or why not?
-> *(Scaling mechanism: fixed costs are spread across more units, so each unit's share of fixed costs decreases — but you may need new fixed investments like equipment or a larger facility.)*
+> **Does revenue growth outpace cost growth? Why?** ______________
+> *(Scaling mechanism: fixed costs spread across more units, so each unit's share of fixed costs decreases — but you may need new fixed investments like equipment or a larger facility. A scaling table must expose the fixed/variable split, not hide it.)*
 
 **Self-check:**
 - [ ] My supply chain **directly serves** my competitive strategy — EK 1.8.C.1
-- [ ] I have given a **specific example** of how a chain choice supports my strategy — EK 1.8.C.2
-- [ ] I have analyzed **barriers to entry** created by my chain design — EK 1.8.C.3
-- [ ] I have completed a **scaling analysis** with numbers — EK 1.8.C.3
+- [ ] A **specific example** of how a chain choice supports my strategy — EK 1.8.C.2
+- [ ] Barriers to entry created by my chain analyzed — EK 1.8.C.3
+- [ ] Scaling analyzed with numbers — EK 1.8.C.3
 
 ---
 
-## Grading Rubric
+## Grading rubric
 
 | Section | Excellent (A) | Good (B) | Developing (C) | Needs Work (D/F) |
 |---|---|---|---|---|
-| **1 — Production process** (1.8) | Three inputs used correctly (customer first), artisan/mass chosen with clear reasoning, labor vs. tech identified | Choice made with reasoning, some input gaps | Incorrect or unexplained | Not addressed |
-| **2 — Supply chain** (1.8) | All stages mapped, warehouse vs. DC distinguished, supplier vs. distributor identified, reach noted | Chain mapped, some distinctions unclear | Incomplete chain | Not addressed |
-| **3 — Supplier selection** (1.8) | All 5 factors for 2+ suppliers, risk addressed, backup plan included | Most factors evaluated, partial backup | Incomplete factors, no backup | Not addressed |
-| **4 — Strategy → chain** (1.8) | Strategy clearly shapes chain, specific example, barriers analyzed, scaling with numbers | Connection shown, some examples | Weak connection | Not addressed |
-
-### Four standing clauses (applied on top of the bands above)
-
-1. **Concept application, not metaphor.** Stretching a CED distinction onto something it does not cover is graded as a **misconception**, not as creativity. Declaring it inapplicable **with a reason** is an **A-band move** — e.g. *"No manufacturing; cards are already produced by the manufacturer, my operation performs inspection instead"* or *"the warehouse/DC distinction does not apply to a pure digital service — N/A."* If you build a functional analogy, mark it as an analogy (*"in effect"*).
-2. **Numbers must be checkable and consistent across the project.** State the unit price, unit variable cost and fixed cost somewhere; **hold the price constant unless you say why you changed it**; never let the same business carry two different unit economies in two assignments. A scaling table must expose the fixed/variable split, not hide it.
-3. **Self-check integrity.** Tick a box only if you can point at the sentence in your own document that satisfies it. Blank sections with every box ticked are graded as a **credibility problem** and cost more than an honest "not done — will add by ___".
-4. **Risk coverage and a backup that works on day one.** Name the CED's five risks, **rank them for your business**, and it is creditable to dismiss one with a reason (*"natural disasters have almost no effect for a fully online service"*). A backup is only a backup if it is already qualified: state the second source, its capacity, its fill time, and what you pay to keep it usable.
+| 1 — Production process | Three inputs used in order (customer first); artisan/mass chosen with clear reasoning; labour vs. technology identified; output scale described | Choice made with reasoning, some input gaps | Incorrect or unexplained | Not addressed |
+| 2 — Supply chain | All stages mapped; warehouse vs. DC distinguished; supplier vs. distributor identified; reach noted | Chain mapped, some distinctions unclear | Incomplete chain | Not addressed |
+| 3 — Supplier selection | All 5 factors for 2+ suppliers; risks ranked; backup qualified (source, capacity, fill time) | Most factors evaluated, partial backup | Incomplete factors, no backup | Not addressed |
+| 4 — Strategy → chain | Strategy clearly shapes chain; specific example; barriers analyzed; scaling with numbers exposing fixed/variable split | Connection shown, some examples | Weak connection | Not addressed |
 
 ---
 
-## Before You Submit — Three Checks
+## Before you submit — three checks
 
-1. **Search your own PDF.** After exporting, press Ctrl/Cmd+F and search for a word *you* typed. If it is not found, the font layer is broken — re-export with all fonts embedded (Word → Save as PDF → Options → ISO 19030-3 / PDF/A), or submit the `.docx`.
-2. **One business, one currency.** One product name, one customer, one currency throughout — and the unit price/cost must match what you used in 1A, 1.4-1.5 and 2.x.
-3. **Tables must not clip text.** Long answers go in a paragraph under the table, not into a cell too narrow to hold them.
+1. **Search your own PDF** (Ctrl/Cmd+F for a word you typed). If it isn't found, re-export with all fonts embedded, or submit the `.docx`.
+2. **One business, one currency.** State the unit price and unit cost somewhere; hold them constant unless you say why you changed them — never let the same business carry two different unit economies in two assignments.
+3. **Point at every self-check tick** — no template text left (`"____________"`).
 
 ---
 
-## Important Notes
+## Important notes
 
-1. **Build on Assignments 1A, 1.3, and 1.4-1.5.** Your competitive strategy (cost leadership, differentiation, or niche) from Assignment 1A should drive every supply chain decision here. Your core competencies from Assignment 1.4-1.5 inform your production approach.
+1. **Build on 1A, 1.3, and 1.4-1.5.** Your competitive strategy from 1A should drive every supply chain decision here; your core competencies from 1.4-1.5 inform your production approach.
 
-2. **After this assignment**, complete Task 8 in the **Unit 1 Final Canvas** — commit to your business idea and revise your market analysis with everything you've learned.
+2. **Concept application, not metaphor.** Stretching a CED distinction onto something it does not cover is graded as a **misconception**, not creativity. Declaring it inapplicable **with a reason** is an A-band move — e.g. *"the warehouse/DC distinction does not apply to a pure digital service — N/A."*
 
-3. **The Business Canvas Project is not submitted to College Board.** But on exam day, FRQ 1 (15% of your score) will ask you to write about your own canvas project. The work you do here directly prepares you for that question.
+3. **Your 1.3 PESTEL is an input, not a separate assignment.** The force you ranked first in 1.3 has to show up here: if regulation, licensing or a platform's rules decide your fate, they belong in Section 3's risk row and Section 4's scaling gate.
 
-4. **Team size:** Same team as Assignments 1A, 1.3, and 1.4-1.5. All members must contribute. Each team submits one document, **with every member's name and contribution stated in the file** — the exam-day FRQ is written individually.
+4. **After this assignment**, complete Task 8 in the **Unit 1 Final Canvas** — commit to your business idea and revise your market analysis with everything you've learned.
 
-5. **Your 1.3 PESTEL is an input, not a separate assignment.** The force you ranked first in 1.3 has to show up here: if regulation, licensing or a platform's rules decide your fate, they belong in Section 3's risk row and Section 4's scaling gate. Leaving them out is the most common way this task loses marks.
+5. **The Business Canvas Project is not submitted to College Board.** But on exam day, FRQ 1 (15% of your score) will ask you to write about your own canvas project. The work you do here directly prepares you for that question.
+
+6. **Team size:** same team as 1A, 1.3, and 1.4-1.5. Each team submits one document, **with every member's name and contribution stated in the file** — the exam-day FRQ is written individually.
