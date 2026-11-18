@@ -4,7 +4,7 @@ topic: 3.6
 pairs_with: "Apple 10-K FY2026 - Consolidated Statements of Operations.pdf"
 last_updated: 2026-11-18
 ---
-
+Apple separates R&D from SG&A. Which of the two is a “planned expense” in 3.6.D.4, and which is closer to a production input?
 # Apple Inc. — Reading the income statement (with answers)
 
 **Pairs with:** `Apple 10-K FY2026 - Consolidated Statements of Operations.pdf`
