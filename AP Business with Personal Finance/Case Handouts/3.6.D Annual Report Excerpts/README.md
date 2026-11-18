@@ -26,6 +26,18 @@ last_updated: 2026-11-18
 
 > 三份 10-K 的 **PDF = 英文原文单页 + 出处页眉**（accession、section、SEC 链接）；同名 `.md` 是同一段原文 + 中文讲解 + 课堂问法。
 
+## 利润表原件（3.6 全节的“会看表”素材）
+
+三份都是 **10-K 的原报表数字**（不是改写的例子），各自教一件不同的事：
+
+| 文件 | 公司 / 期间 | 教什么 | 关键数字 |
+|---|---|---|---|
+| `Nike 10-K FY2026 - 利润表 Consolidated Statements of Income.pdf` | NKE · FY2026（三年并列） | **标准阶梯**：Revenue → COGS → Gross profit → 两个 opex 子桶（demand creation＝营销 / operating overhead）→ interest → pretax → tax → net | 收入 46,398；毛利 19,911（42.9%）；净利 3,108（6.7%）；收入几乎持平但净利 −3.4%（税率 17.1%→20.3%） |
+| `Apple 10-K FY2026 - 利润表 Consolidated Statements of Operations.pdf` | AAPL · FY2026（三年并列） | **同一张表按业务切**：Products / Services 各有收入与成本；R&D 与 SG&A 分列 → 服务业毛利率远高于硬件 | 毛利 233,602（48.8%）、operating 158,063（33.0%）、净利 132,175（27.6%） |
+| `Chipotle 10-K FY2025 - 利润表 Consolidated Statements of Income.pdf` | CMG · FY2025（三年并列） | **没有 gross profit 行**：餐厅成本四分（食材/人工/租金/其他）＋ G&A、折旧、pre-opening、减值 → 让学生自己划 COGS 边界 | 收入 11,925,601；净利 1,535,761（12.9%）；「Impairment, closure costs…」27,503（非经常性） |
+
+每页都带 **4 个课堂任务**（英文）＋一条 presentation 说明，可直接投影或印成一次课的量。三份并排时，学生看到的是**同一条阶梯的三种排版**——这正是 3.6.A.2「三类别＋三个named items」的用处。
+
 ## 三种“估收入”的路子（可板书）
 
 | 类型 | 依据 | 例子 |
