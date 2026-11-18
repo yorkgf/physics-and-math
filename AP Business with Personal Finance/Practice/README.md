@@ -27,6 +27,18 @@ last_updated: 2026-11-18
 | **D 查错** | 看别人的错表 | 反向练习，比正向做三遍有效 |
 | **E 综合** | AP 式情境题（带分值） | 直接当小测用 |
 
+## 学生版（纯英文，无答案）
+
+`Practice/Student/` 下三份是**可打印的学生版**：全英文、无答案区、无中文提示、每题带分值、留了填写空间。
+
+| 学生版 | 总分 | 教师版 |
+|---|---|---|
+| `Student/3.6 Income Statement - Practice (Student).md` | 56 分 | [[3.6 Income Statement - Practice]] |
+| `Student/3.7 Balance Sheet - Practice (Student).md` | 63 分 | [[3.7 Balance Sheet - Practice]] |
+| `Student/3.8 Cash Flow - Practice (Student).md` | 61 分 | [[3.8 Cash Flow - Practice]] |
+
+> 学生版与教师版**题目一一对应、数字完全相同**，所以可以直接用教师版的答案去改学生版；改一处数字时，两份要一起改。
+
 ## 答案怎么用
 
 - 每份文件最后是 **「📝 答案与判分」**，含参考答案 + 判分点 + **常见错误清单**（可以直接抄黑板）。
