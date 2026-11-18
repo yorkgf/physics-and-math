@@ -48,6 +48,18 @@ last_updated: 2026-11-18
 
 > 三份答案都写了**判分点 + 常见错误清单**，可直接抄黑板。学生版：打印到「📝 ANSWERS」之前。
 
+### 学生版（纯英文 · 无答案 · 可打印）
+
+`Student/` 下三份，题目与教师版**一一对应、数字完全相同**，去掉全部答案、判分要点、中文提示与“常见错误”清单，扩了作答空间，页脚带 `Total: ___ / 35`：
+
+| 学生版 | 对应教师版 |
+|---|---|
+| `Student/Nike 10-K FY2026 - Income Statement Question Sheet.md` | `Nike 10-K FY2026 - 利润表 问题单.md` |
+| `Student/Apple 10-K FY2026 - Income Statement Question Sheet.md` | `Apple 10-K FY2026 - 利润表 问题单.md` |
+| `Student/Chipotle 10-K FY2025 - Income Statement Question Sheet.md` | `Chipotle 10-K FY2025 - 利润表 问题单.md` |
+
+> 改数字时**两份一起改**（教师版的答案区依赖同一组数字）。学生版可直接发，配合同一文件夹里的利润表 PDF 投屏。
+
 ## 三种“估收入”的路子（可板书）
 
 | 类型 | 依据 | 例子 |
