@@ -117,17 +117,18 @@ Upon completion of this course, students will be able to:
 
 > 📌 **Sequencing note (2026–2027):** Unit 3 is taught **Part 2 first** — the business finance strand (3.3–3.9) runs Nov 23 – Dec 31, so the finance/accounting block closes before winter break and Unit 4 opens in January. The personal saving/borrowing strand (**3.1–3.2**) is deferred to **March, immediately before Unit 5**, where it feeds the Financial Advisor Project directly. The CED explicitly permits teaching topics out of the printed unit sequence provided all topics are covered.
 
+> 📌 **Within Part 2 the statements run as one block (set 2026-11-18):** **3.3 → 3.6 → 3.7 → 3.8 → 3.4 → 3.5 → 3.9**. The three statements (income → balance sheet → cash flow) are taught back-to-back right after the accounting foundations, so that block is complete before the December monthly exam; **3.4 Business Expenses** and **3.5 Financial Capital** then answer the follow-up question "where do the numbers on those statements come from", and **3.9** closes the unit on ethics. Cases follow their topic, not the calendar.
+
 #### Part 2 (taught first): Business Finance and Accounting
 
-| Week | Dates | Topics | Business Case | Activities & Deliverables |
+| Week | Dates | Topics (26 periods) | Business Case | Activities & Deliverables |
 |------|-------|--------|---------------|---------------------------|
-| 11 | Nov 23–27 | 3.3 Accounting and Financial Management; 3.4 Business Expenses | DK Coffee Lab, Part 1 | Financial record keeping, startup cost identification |
-| 12 | Nov 30 – Dec 4 | 3.5 Financial Capital; 3.6 The Income Statement (begins) | DK Coffee Lab, Part 2; Hershey | Funding sources, income statement preparation |
-| 13 | Dec 7–11 | 3.6 The Income Statement (completed); 3.7 The Balance Sheet and Net Worth (begins) | Hershey; DCH | Income statement, balance sheet |
-| | Dec 14–18 | **📝 Monthly Exam Week** | | |
-| 14 | Dec 14–18 | 3.7 The Balance Sheet and Net Worth (completed) | DK Coffee Lab, Part 3 | Balance sheet and net worth |
-| 15 | Dec 21–25 | 3.8 The Cash Flow Statement; 3.9 Ethics and Financial Reporting (begins) | AANE; Yardley | Cash flow statement, GAAP disclosure |
-| 16 | Dec 28–31 | 3.9 Ethics and Financial Reporting (completed) | Yardley | Financial fraud case analysis, **Unit 3 Assessment — 3.3–3.9 complete** |
+| 11 | Nov 23–27 | **3.3** Accounting and Financial Management (2); **3.6** The Income Statement (begins, 3 of 5) | — | The four financial statements, why records matter; revenue and expenses defined |
+| 12 | Nov 30 – Dec 4 | **3.6** (completed, 2); **3.7** The Balance Sheet and Net Worth (begins, 3 of 5) | Hershey | Income statement preparation, gross/net profit |
+| 13 | Dec 7–11 | **3.7** (completed, 2); **3.8** The Cash Flow Statement (3) | DCH; DK Coffee Lab, Part 3; AANE | Balance sheet, net worth; operating/investing/financing cash flow |
+| 14 | Dec 14–18 | **📝 Monthly Exam Week** + **3.4** Business Expenses (begins, 2 of 4) | — | Exam; expense classification and startup costs |
+| 15 | Dec 21–25 | **3.4** (completed, 2); **3.5** Financial Capital (3 of 4) | DK Coffee Lab, Part 1; DK Coffee Lab, Part 2 | Expense analysis; debt vs. equity funding sources |
+| 16 | Dec 28–31 | **3.5** (completed, 1); **3.9** Ethics and Financial Reporting (3) | Yardley | GAAP disclosure, financial fraud case, **Unit 3 Assessment — 3.3–3.9 complete** |
 | | Jan 1 | **🎄 New Year Holiday** | | |
 
 #### Part 1 (deferred to March, before Unit 5): Personal Saving and Borrowing
