@@ -5,115 +5,89 @@ topic: 3.6.D.3 / 3.6.D.4
 last_updated: 2026-11-18
 ---
 
-# 3.6.D 年报摘录 — 真实公司怎么估「未来收入」和「未来成本」
+# 3.6.D — How real companies estimate next year's revenue and cost
 
-> **用途：** 3.6.D.3（future revenue）与 3.6.D.4（future COGS & operating expenses）的现实素材。全部为**已核对原文**的年报／10-K 页面摘录，A 股部分存为**单页 PDF**（只含引用页），美股部分存为 **Markdown 摘录**（10-K 是网页格式，无法单页截取）。
-> 配套课件：[[3.6 The Income Statement - Slides]]　·　练习：[[3.6 Income Statement - Practice]]
+**Purpose:** source material for 3.6.D.3 (future revenue) and 3.6.D.4 (future COGS and operating expenses), plus a full set of question sheets for 3.6 practice. Every page here is a **verified excerpt** from a real filing (Chinese A-share annual reports as single-page PDFs; US 10-Ks as one-page text-reproduced PDFs plus a Markdown note).
 
-## 一览
+## 1. What is in this folder
 
-| 文件 | 公司 / 期间 | 页码 | 对应 | 讲什么 |
+### A-share annual reports (single-page PDFs, Chinese source pages)
+
+| File | Company / period | Page | Topic | Why it is here |
 |---|---|---|---|---|
-| `伊利 2025年报 经营计划与投资计划 p31-32.pdf` | 伊利股份 600887 · 2025 年报 | p.31–32 | **D.3 + D.4** | 2026 年目标：营业总收入 **1,215 亿**、利润总额 **136 亿**，依据是“**行业发展情况**”；计划投资 **64.04 亿** |
-| `伊利 2024年报 经营计划（2025年目标）p29.pdf` | 伊利股份 · 2024 年报 | p.29 | **D.3** | 同句式上一年：2025 年目标 **1,190 亿**／**126 亿**、投资 **47.20 亿** → 可与实际对比 |
-| `伊利 2025年报 分产品收入与产销量 p18.pdf` | 伊利股份 · 2025 年报 | p.18 | **D.3** | 分产品 **收入 / 成本 / 毛利率** + **生产量·销售量** → 收入＝量×价的现实表 |
-| `双汇 2025年报 收入与成本 p26.pdf` | 双汇发展 000895 · 2025 年报 | p.26 | **D.3** | 「总外销量 **+7.81%**，受猪价、肉价下降影响，营业总收入 **−0.43%**」→ 量涨价跌，收入反降 |
-| `双汇 2025年报 风险因素与投资计划 p42.pdf` | 双汇发展 · 2025 年报 | p.42 | **D.4** | COGS 驱动＝**生猪价格**（生长周期/存栏量）；opex 驱动＝**人工 + 食安 + 环保合规**；2026 投资 **13 亿** |
-| `海天 2025年报 原材料与采购计划风险 p45.pdf` | 海天味业 603288 · 2025 年报 | p.45 | **D.4** | 「**根据销售预测和预期价格波动提前制定采购计划**」→ 先预测销量，再定采购，最后才形成成本 |
-| `Pure Storage 10-K FY2025 - RPO 收入估计（英文原文）.pdf` | PSTG · FY2025 10-K | MD&A | **D.3** | 「未来 12 个月确认 **48%** 的 RPO，余下之后」→ 合同储备 + 订阅增长趋势估收入 |
-| `Colgate 10-K FY2024 - Outlook 成本与提价（英文原文）.pdf` | CL · FY2024 10-K | MD&A Outlook | **D.3 + D.4** | 原材料涨价 → 提价 → 需求下降 → 结构下移（一条链串完三格）|
-| `Delta 10-K FY2024 - 燃油占运营费用（英文原文）.pdf` | DAL · FY2024 10-K | MD&A | **D.4** | 燃油占 operating expense **19% / 21% / 24%**；每加仑 **$2.29–$4.25** |
+| `Yili 2025 - Business plan, capex and risks p31-32.pdf` | Yili 600887, FY2025 | 31–32 | **D.3 + D.4** | 2026 target: revenue **121.5bn**, pretax profit **13.6bn**, "based on industry development conditions"; capex plan **6.4bn** |
+| `Yili 2024 - Business plan (2025 targets) p29.pdf` | Yili, FY2024 | 29 | **D.3** | The same sentence one year earlier: 2025 target **119.0bn / 12.6bn** — you can check what was delivered |
+| `Yili 2025 - Revenue, cost and volume by product p18.pdf` | Yili, FY2025 | 18 | **D.3** | Revenue, cost and gross margin by product line, plus production and sales volume |
+| `Shuanghui 2025 - Revenue, cost and volume p26.pdf` | Shuanghui 000895, FY2025 | 26 | **D.3** | "Volume +7.81%, revenue −0.43% because hog and meat prices fell" |
+| `Shuanghui 2025 - Business plan, capex and risks p42.pdf` | Shuanghui, FY2025 | 42 | **D.4** | COGS driver = live-hog prices; opex driver = labour, food safety, environmental rules; 2026 capex 1.3bn |
+| `Haitian 2025 - Raw material and procurement risk p45.pdf` | Haitian 603288, FY2025 | 45 | **D.4** | "Procurement plans are set from the **sales forecast** and **expected price movements**" |
 
-> 三份 10-K 的 **PDF = 英文原文单页 + 出处页眉**（accession、section、SEC 链接）；同名 `.md` 是同一段原文 + 中文讲解 + 课堂问法。
+### US 10-Ks (one-page PDFs + Markdown notes)
 
-## 利润表原件（3.6 全节的“会看表”素材）
-
-三份都是 **10-K 的原报表数字**（不是改写的例子），各自教一件不同的事：
-
-| 文件 | 公司 / 期间 | 教什么 | 关键数字 |
+| File | Company | Topic | Why it is here |
 |---|---|---|---|
-| `Nike 10-K FY2026 - 利润表 Consolidated Statements of Income.pdf` | NKE · FY2026（三年并列） | **标准阶梯**：Revenue → COGS → Gross profit → 两个 opex 子桶（demand creation＝营销 / operating overhead）→ interest → pretax → tax → net | 收入 46,398；毛利 19,911（42.9%）；净利 3,108（6.7%）；收入几乎持平但净利 −3.4%（税率 17.1%→20.3%） |
-| `Apple 10-K FY2026 - 利润表 Consolidated Statements of Operations.pdf` | AAPL · FY2026（三年并列） | **同一张表按业务切**：Products / Services 各有收入与成本；R&D 与 SG&A 分列 → 服务业毛利率远高于硬件 | 毛利 233,602（48.8%）、operating 158,063（33.0%）、净利 132,175（27.6%） |
-| `Chipotle 10-K FY2025 - 利润表 Consolidated Statements of Income.pdf` | CMG · FY2025（三年并列） | **没有 gross profit 行**：餐厅成本四分（食材/人工/租金/其他）＋ G&A、折旧、pre-opening、减值 → 让学生自己划 COGS 边界 | 收入 11,925,601；净利 1,535,761（12.9%）；「Impairment, closure costs…」27,503（非经常性） |
+| `Pure Storage 10-K FY2025 - RPO revenue estimate.pdf` | PSTG, FY2025 | **D.3** | 48% of RPO expected to be recognised within 12 months |
+| `Colgate 10-K FY2024 - Outlook.pdf` | CL, FY2024 | **D.3 + D.4** | Raw material cost → pricing → demand, one chain across three lines |
+| `Delta 10-K FY2024 - Fuel share of opex.pdf` | DAL, FY2024 | **D.4** | Fuel = 19–24% of operating expense; $2.29–$4.25 per gallon |
+| `Nike 10-K FY2026 - Consolidated Statements of Income.pdf` | NKE, FY2026 | **whole 3.6** | Textbook ladder; marketing and overhead split |
+| `Apple 10-K FY2026 - Consolidated Statements of Operations.pdf` | AAPL, FY2026 | **whole 3.6** | Same table cut by business line (products / services) |
+| `Chipotle 10-K FY2025 - Consolidated Statements of Income.pdf` | CMG, FY2025 | **whole 3.6** | No gross profit line at all |
 
-每页都带 **4 个课堂任务**（英文）＋一条 presentation 说明，可直接投影或印成一次课的量。三份并排时，学生看到的是**同一条阶梯的三种排版**——这正是 3.6.A.2「三类别＋三个named items」的用处。
+### Question sheets (teacher version, with answers)
 
-### 配套问题单（每张表一份，英文 · 附答案）
-
-| 问题单 | 配哪张表 | 结构（35 分 / 25 分钟） |
-|---|---|---|
-| `Nike 10-K FY2026 - 利润表 问题单.md` | Nike 利润表 | A 认项 6 · B 编表与算 margin 10 · C 诊断「收入持平、净利 −3.4% 谁干的」5 · D 预测 FY2027 5 · E 查错 4 · F 简答 5 |
-| `Apple 10-K FY2026 - 利润表 问题单.md` | Apple 利润表 | A 一表两业务 6 · B 分部毛利/整体 margin/变化率 10 · C 三个增速不一致的诊断 5 · D 预测 5 · E 查错 4 · F 简答 5（含"和超市比该用哪个 margin"）|
-| `Chipotle 10-K FY2025 - 利润表 问题单.md` | Chipotle 利润表 | A 自己划 COGS 边界并辩护 6 · B narrow/wide 两种毛利 10 · C 哪两条成本跑赢收入 5 · D 用「成本占收入比不变」预测 5 · E 查错 4 · F 简答 5 |
-
-> 三份答案都写了**判分点 + 常见错误清单**，可直接抄黑板。学生版：打印到「📝 ANSWERS」之前。
-
-### A 股三家 + 三家对比（问题单）
-
-| 问题单（教师版，含答案） | 配哪些页 | 时间 / 总分 | 主打什么 |
+| Sheet | Pairs with | Time / marks | Focus |
 |---|---|---|---|
-| `伊利 2025年报 问题单.md` | 伊利 p.18 / p.31-32 / 2024 年报 p.29 | 30 min · 40 | 两个收入口径、「归母」vs「净利润」、**净利 +36.8% 其实来自减值少计提 39.45 亿**、2026 目标 1,215 亿 的依据与完成率 |
-| `双汇 2025年报 问题单.md` | 双汇 p.26 / p.42 | 30 min · 40 | **量 +7.81% 而收入 −0.43%**（价跌 7.6%）、屠宰 4.94% vs 肉制品 37.05%、内部抵减 55.65 亿、生猪价格传导 |
-| `海天 2025年报 问题单.md` | 海天 p.45 | 30 min · 40 | 毛利率 37.0%→**40.2%** 的拆解、销售费用率 6.1%→6.7% 该不该担心、**经营计划只有定性**、采购计划三步顺序 |
-| `三家对比 问题单.md` | 三家的页 | 35 min · 40 | 同一张表比三家：毛利 34.6/18.1/40.2、净利 10.0/8.6/24.4、**收入估计可检验性排序**、5% 成本冲击各吃掉多少利润（32.7% / 47.6% / 12.3%）|
+| `Nike 10-K FY2026 - Income Statement Question Sheet (with answers).md` | Nike statement | 25 min · 35 | Flat revenue, profit −3.4% — all of it the tax line |
+| `Apple 10-K FY2026 - Income Statement Question Sheet (with answers).md` | Apple statement | 25 min · 35 | Two businesses, one table; three growth rates that disagree |
+| `Chipotle 10-K FY2025 - Income Statement Question Sheet (with answers).md` | Chipotle statement | 25 min · 35 | Draw the COGS boundary yourself; which costs outgrew revenue |
+| `Yili 2025 Annual Report - Question Sheet (with answers).md` | Yili pages | 30 min · 40 | Two revenue measures; profit +36.8% is mostly a smaller impairment |
+| `Shuanghui 2025 Annual Report - Question Sheet (with answers).md` | Shuanghui pages | 30 min · 40 | Volume +7.8% with revenue −0.4%; slaughtering vs processed meat |
+| `Haitian 2025 Annual Report - Question Sheet (with answers).md` | Haitian page | 30 min · 40 | Gross margin 37.0% → 40.2%; a plan with no numbers |
+| `Three-Company Comparison - Question Sheet (with answers).md` | all three | 35 min · 40 | Which revenue estimate is verifiable; a 5% input shock in each |
 
-学生版（纯英文指令、无答案、可打印，中文仅保留报表本身的科目名）：
+### Student versions (`Student/`)
 
-| 学生版 | 文件 |
-|---|---|
-| 伊利 | `Student/Yili 2025 Annual Report - Question Sheet.md` |
-| 双汇 | `Student/Shuanghui 2025 Annual Report - Question Sheet.md` |
-| 海天 | `Student/Haitian 2025 Annual Report - Question Sheet.md` |
-| 三家对比 | `Student/Three-Company Comparison - Question Sheet.md` |
+Seven English worksheets with the answers removed, name/class/date lines and a total at the foot:
 
-### 学生版（纯英文 · 无答案 · 可打印）
+`Yili 2025 Annual Report - Question Sheet.md` · `Shuanghui 2025 Annual Report - Question Sheet.md` · `Haitian 2025 Annual Report - Question Sheet.md` · `Three-Company Comparison - Question Sheet.md` · `Nike 10-K FY2026 - Income Statement Question Sheet.md` · `Apple 10-K FY2026 - Income Statement Question Sheet.md` · `Chipotle 10-K FY2025 - Income Statement Question Sheet.md`
 
-`Student/` 下三份，题目与教师版**一一对应、数字完全相同**，去掉全部答案、判分要点、中文提示与“常见错误”清单，扩了作答空间，页脚带 `Total: ___ / 35`：
+> The student sheets use the same numbers as the teacher sheets, so the teacher answers grade them directly. **Change a number and you must change both.**
 
-| 学生版 | 对应教师版 |
-|---|---|
-| `Student/Nike 10-K FY2026 - Income Statement Question Sheet.md` | `Nike 10-K FY2026 - 利润表 问题单.md` |
-| `Student/Apple 10-K FY2026 - Income Statement Question Sheet.md` | `Apple 10-K FY2026 - 利润表 问题单.md` |
-| `Student/Chipotle 10-K FY2025 - Income Statement Question Sheet.md` | `Chipotle 10-K FY2025 - 利润表 问题单.md` |
+## 2. Three ways to estimate revenue (board-ready)
 
-> 改数字时**两份一起改**（教师版的答案区依赖同一组数字）。学生版可直接发，配合同一文件夹里的利润表 PDF 投屏。
-
-## 三种“估收入”的路子（可板书）
-
-| 类型 | 依据 | 例子 |
+| Route | Basis | Example |
 |---|---|---|
-| **行业趋势 → 总收入目标** | 行业供需 + 政策 + 人均消费 | 伊利：「根据**行业发展情况**，2026 年计划营业总收入 1,215 亿元」 |
-| **量 × 价** | 销量预测 × 价格假设 | 双汇：销量 +7.81%，收入 −0.43% |
-| **合同储备 × 历史转化** | RPO / backlog | Pure Storage：48% 的 RPO 在未来 12 个月确认 |
+| **Industry trend → total target** | supply, demand, policy, per-capita consumption | Yili: "based on industry development conditions, target revenue 121.5bn" |
+| **Volume × price** | units forecast × price assumption | Shuanghui: volume +7.81%, revenue −0.43% |
+| **Contract backlog × conversion** | RPO / order book | Pure Storage: 48% of RPO within 12 months |
 
-## 三种“估成本”的路子（可板书）
+## 3. Three ways to estimate cost (board-ready)
 
-| 类型 | 依据 | 例子 |
+| Route | Basis | Example |
 |---|---|---|
-| **单一投入品价格** | 生猪、原油、原奶 | 双汇（生猪）、Delta（航空燃油 19–24%） |
-| **采购计划 + 预期价格波动** | 先销售预测，再采购计划 | 海天：「根据销售预测和预期价格波动**提前制定采购计划**」 |
-| **计划投入（capital + 人工 + 合规）** | 投资方案、人工、监管 | 伊利（计划投资 64.04 亿）、双汇（社会成本上升） |
+| **One dominant input** | live hog, crude, raw milk | Shuanghui (hogs), Delta (fuel, 19–24% of opex) |
+| **Forecast → procurement plan** | sales forecast, then purchase plan | Haitian: "procurement plans from the sales forecast and expected price movements" |
+| **Planned spend** | capex, labour, compliance | Yili (6.4bn capex), Shuanghui (rising social costs) |
 
-## 课堂 5 分钟（按顺序投屏）
+## 4. Five-minute classroom sequence
 
-1. **伊利 p.31** → 问：「行业**发展情况**」属于 D.3 三个来源里的哪一个？（trends）为什么末尾要加“不构成业绩承诺”？
-2. **双汇 p.26** → 问：如果这是明年的预算，你必须先假设哪两个数？（销量、价格）
-3. **双汇 p.42 + Delta MD&A** → 问：这两句分别落在 IS 的 **COGS** 行还是 **operating expenses** 行？
-4. **海天 p.45** → 问：为什么“采购计划”要等“销售预测”？（因为 COGS 是产量的函数，产量是销量的函数）
-5. 收口：**收入从「趋势 × 价 × 量」估，成本从「投入品价格 × 用量 + 计划投入」估——年报里它叫“经营计划”。**
+1. **Yili p.31** — which of the three D.3 sources is "industry development conditions"? Why does the paragraph end with a disclaimer?
+2. **Shuanghui p.26** — if this were next year's budget, which two numbers must you assume first? (volume, price)
+3. **Shuanghui p.42 + Delta MD&A** — which line of the income statement does each hit: COGS or operating expense?
+4. **Haitian p.45** — why must the procurement plan follow the sales forecast? (Because COGS is a function of output, and output follows sales.)
+5. Close: **revenue ≈ volume × price × trend; cost ≈ input price × quantity + planned spend. In an annual report this is called the business plan.**
 
-## 出处与获取方式（2026-11-18 下载）
+## 5. Sources (downloaded 2026-11-18)
 
-| 文件 | 来源链接 |
+| File | Link |
 |---|---|
-| 伊利 2025 年报 | `http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF` |
-| 伊利 2024 年报 | `http://static.cninfo.com.cn/finalpage/2025-04-30/1223421123.PDF` |
-| 双汇发展 2025 年报 | `http://static.cninfo.com.cn/finalpage/2026-03-25/1225028113.PDF` |
-| 海天味业 2025 年报 | `http://static.cninfo.com.cn/finalpage/2026-03-27/1225038237.PDF` |
+| Yili FY2025 | `http://static.cninfo.com.cn/finalpage/2026-04-30/1225259562.PDF` |
+| Yili FY2024 | `http://static.cninfo.com.cn/finalpage/2025-04-30/1223421123.PDF` |
+| Shuanghui FY2025 | `http://static.cninfo.com.cn/finalpage/2026-03-25/1225028113.PDF` |
+| Haitian FY2025 | `http://static.cninfo.com.cn/finalpage/2026-03-27/1225038237.PDF` |
 | Pure Storage FY2025 10-K | `https://www.sec.gov/Archives/edgar/data/1474432/000162828025015044/pstg-20250202.htm` |
 | Colgate FY2024 10-K | `https://www.sec.gov/Archives/edgar/data/21665/000002166525000008/cl-20241231.htm` |
 | Delta FY2024 10-K | `https://www.sec.gov/Archives/edgar/data/27904/000002790425000004/dal-20241231.htm` |
 
-> **美股为何是「文字还原 PDF」而不是网页截图：** 本机没有可用的 Chrome/Chromium（Playwright 缓存里的 `chrome` 是指向 `/usr/bin/google-chrome` 的坏软链），无法对 SEC 的 HTML 原件截图；因此把**逐字原文**排成单页 PDF，保留了公司名、表格期、报送日期、accession 与链接。已用 pypdf 回读校验：三份 PDF 的正文与 SEC 原件**逐字一致**（仅空白折叠）。若需要真正的网页截图，用上面链接在本机浏览器截图即可；PDF 里已给出检索词。
-> A 股 PDF 只截取了引用所在页（原件 215–272 页，未整份入库）。页码为**年报印刷页码**：伊利那份的印刷页码比 PDF 页序小 4（PDF 35 = p.31），双汇与海天两者一致。
-> ⚠️ 课堂使用属教学引用，投屏时保留公司名与页码，不要裁剪出处。
+> The A-share PDFs contain only the cited pages (the originals run 215–272 pages). Page numbers are the **printed** page numbers: for Yili the printed number is 4 lower than the PDF page (PDF 35 = p.31); for Shuanghui and Haitian they match.
+> Classroom use: keep the company name, the accession number and the page reference visible on screen.
